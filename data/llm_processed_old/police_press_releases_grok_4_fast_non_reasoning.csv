@@ -1,0 +1,112 @@
+id,date_of_accident,num_people_involved,num_drivers,driver_ages,driver_genders,injury_severities,num_vehicles_involved,vehicle_types,road_conditions,human_factors,infrastructure,road_name,locality
+1,2025-10-09 09:30:00+00:00,2,2,"[67, 61]","['female', 'male']","['none', 'grievous']",2,"['car', 'motorcycle']",[],[],[],Triq il-Belt Valletta,Zurrieq
+2,2025-06-19 18:30:00+00:00,2,2,"[64, 23]","['male', 'male']","['none', 'grievous']",2,"['car', 'motorcycle']",[],[],[],Triq Dawret il-Gudja,Gudja
+3,2025-05-12 08:00:00+00:00,2,2,"[34, 29]","['male', 'male']","['none', 'grievous']",2,"['van', 'motorcycle']",[],[],[],Valley Road,Qormi
+4,2025-07-29 18:00:00+00:00,2,2,"[42, 29]","['male', 'male']","['none', 'grievous']",2,"['car', 'motorcycle']",[],[],[],Triq Dawret Hal Ghaxaq,Ghaxaq
+5,2025-04-06 20:45:00+00:00,2,2,"[25, 41]","['male', 'male']","['none', 'grievous']",2,"['car', 'motorcycle']",[],[],[],Triq il-Buqana,Rabat
+6,2025-04-15 08:50:00+00:00,3,3,"[36, 52, 53]","['male', 'male', 'male']","['grievous', 'none', 'none']",3,"['motorcycle', 'van', 'car']",[],[],[],Triq Aldo Moro,Marsa
+7,2025-07-23 10:30:00+00:00,3,2,"[24, 81]","['male', 'male']","['slight', 'serious', 'dead']",2,"['van', 'car']",[],[],[],Mosta Road,Lija
+8,2025-08-03 08:15:00+00:00,2,2,"[66, 30]","['male', 'female']","['serious', 'grievous']",2,"['car', 'motorcycle']",[],[],[],Triq tal-Barrani,Zejtun
+9,2025-06-11 15:45:00+00:00,2,2,"[35, 59]","['male', 'male']","['grievous', 'none']",2,"['motorcycle', 'car']",[],[],[],John Adye Street,Naxxar
+10,2024-12-28 09:15:00+00:00,10,1,[79],['male'],"['none', 'slight', 'slight', 'slight', 'slight', 'grievous', 'slight', 'slight', 'slight']",1,['car'],[],[],[],St James Square,Zabbar
+11,2025-03-16 08:00:00+00:00,1,1,[40],['male'],['serious'],1,['motorcycle'],[],[],[],Coast Road,Naxxar
+12,2025-04-22 13:00:00+00:00,2,1,[48],['male'],"['grievous', 'none']",2,"['car', 'pedestrian']",[],[],[],Cospicua Seafront,Cospicua
+13,2025-05-08 10:15:00+00:00,2,1,[78],['male'],"['grievous', 'none']",2,"['car', 'pedestrian']",[],[],[],Zabbar Road,Fgura
+14,2025-06-13 22:00:00+00:00,1,1,[64],['male'],['grievous'],1,['motorcycle'],[],[],[],Triq Sant 'Elizabetta,Xewkija
+15,2025-09-21 08:30:00+00:00,2,1,[75],['male'],"['grievous', 'none']",2,"['car', 'pedestrian']",[],[],[],Sa Maison Street,Tal-Pietà
+16,2025-04-17 00:00:00+00:00,2,1,[22],['male'],"['grievous', 'none']",2,"['van', 'pedestrian']",[],[],[],Luqa Road,Luqa
+17,2025-02-21 07:30:00+00:00,2,1,[80],['male'],"['grievous', 'grievous']",1,['car'],[],[],[],Triq il-Bacir,Paola
+18,2024-12-22 10:15:00+00:00,2,1,[25],['male'],"['grievous', 'none']",2,"['car', 'bicycle']",[],[],[],Triq Sir Philip Pullicino,Mtarfa
+19,2025-02-21 13:30:00+00:00,2,2,"[61, 31]","['male', 'male']","['grievous', 'none']",2,"['other', 'car']",[],[],[],Triq Nazzjonali,Floriana
+20,2025-09-13 21:00:00+00:00,1,1,[54],['male'],['serious'],1,['car'],[],[],[],Triq il-Perit Dom Mintoff,Paola
+21,2025-08-29 15:15:00+00:00,3,2,"[55, 33]","['male', 'female']","['grievous', 'none', 'none']",2,"['motorcycle', 'car']",[],[],[],Triq Emmanuele Luigi Galizia,Marsa
+22,2024-12-13 19:45:00+00:00,3,2,"[50, 0]","['male', 'na']","['serious', 'none', 'none']",2,"['car', 'car']",[],[],[],Dawret il-Gudja,Gudja
+23,2025-05-07 10:00:00+00:00,2,1,[24],['male'],"['grievous', 'none']",2,"['van', 'pedestrian']",[],[],[],Triq L. Zamenhof,Msida
+24,2025-05-07 13:15:00+00:00,2,2,"[23, 34]","['male', 'male']","['none', 'grievous']",2,"['van', 'motorcycle']",[],[],[],Triq Ghar Dalam,Birzebbuga
+25,2024-12-27 07:45:00+00:00,1,1,[36],['male'],['grievous'],1,['car'],[],[],[],Triq Dicembru Tlettax,Marsa
+26,2025-05-04 14:30:00+00:00,1,1,[43],['male'],['serious'],1,['motorcycle'],[],[],[],December 13 Road,Marsa
+27,2025-01-06 21:20:00+00:00,1,1,[25],['male'],['dead'],1,['car'],[],[],[],Triq L-Imdina,Attard
+28,2025-10-04 23:00:00+00:00,6,3,"[49, 19, 50]","['male', 'na', 'male']","['slight', 'slight', 'grievous', 'slight', 'slight', 'slight']",3,"['car', 'car', 'car']",[],[],[],Triq Dawret il-Gudja,Gudja
+29,2025-06-04 07:30:00+00:00,2,2,"[39, 35]","['male', 'female']","['none', 'grievous']",2,"['car', 'motorcycle']",[],[],[],Xatt l-Ghassara tal-Gheneb,il-Marsa
+30,2025-09-17 23:30:00+00:00,2,1,[26],['male'],"['serious', 'none']",2,"['car', 'pedestrian']",[],[],[],Triq il-Mina ta' Hompesch,Haz-Zabbar
+31,2025-04-18 13:30:00+00:00,2,2,"[31, 72]","['female', 'male']","['none', 'grievous']",2,"['car', 'motorcycle']",[],[],[],Triq Burmarrad,St Paul's Bay
+32,2025-07-06 18:00:00+00:00,2,2,"[34, 30]","['female', 'male']","['none', 'serious']",2,"['car', 'motorcycle']",[],[],[],Triq iz-Zejfa,Mosta
+33,2025-04-17 09:30:00+00:00,2,2,"[46, 79]","['male', 'male']","['none', 'grievous']",2,"['car', 'motorcycle']",[],[],[],Tal-Barrani Road,Zejtun
+34,2025-05-15 17:45:00+00:00,2,2,"[19, 22]","['female', 'male']","['grievous', 'none']",2,"['car', 'motorcycle']",[],[],[],Regional Road,Santa Venera
+35,2025-06-19 22:00:00+00:00,3,2,"[57, 32]","['male', 'male']","['grievous', 'dead', 'grievous']",2,"['car', 'car']",[],[],[],Triq L-Imdina,Haz-Zebbug
+36,2025-09-16 19:30:00+00:00,2,1,[44],['male'],"['grievous', 'none']",1,['motorcycle'],[],[],[],Triq San Pawl,St Paul's Bay
+37,2025-04-01 09:00:00+00:00,2,1,[30],['male'],"['grievous', 'none']",2,"['car', 'pedestrian']",[],[],[],Triq San Pawl,Naxxar
+38,2025-08-18 16:00:00+00:00,2,1,[29],['male'],"['grievous', 'none']",2,"['car', 'pedestrian']",[],[],[],Luqa Road,Paola
+39,2025-09-24 08:00:00+00:00,2,1,[82],['male'],"['none', 'grievous']",1,['car'],[],[],[],Triq Marsalforn,"Zebbug, Gozo"
+40,2025-01-23 20:15:00+00:00,1,1,[36],['male'],['dead'],1,['motorcycle'],[],[],[],Mikiel Anton Vassalli Street,Msida
+41,2025-02-15 00:00:00+00:00,2,2,"[42, 39]","['female', 'male']","['none', 'grievous']",2,"['car', 'motorcycle']",[],[],[],Valley Road,Iklin
+42,2025-02-19 18:00:00+00:00,2,2,"[32, 45]","['male', 'male']","['none', 'grievous']",2,"['car', 'motorcycle']",[],[],[],Triq Hompesch,Fgura
+43,2025-02-09 09:45:00+00:00,2,1,[54],['female'],"['grievous', 'none']",2,"['car', 'pedestrian']",[],[],[],Triq Sant'Antnin,Marsascala
+44,2025-07-26 01:00:00+00:00,2,2,"[22, 27]","['male', 'male']","['none', 'dead']",2,"['car', 'motorcycle']",[],[],[],Triq Sant'Andrija,Pembroke
+45,2025-07-01 21:15:00+00:00,1,1,[22],['male'],['grievous'],1,['car'],[],[],[],Triq Borg Gharib,Ghajnsielem
+46,2024-12-23 10:30:00+00:00,2,2,"[37, 39]","['male', 'female']","['serious', 'none']",2,"['bus', 'van']",[],[],[],Triq Mikiel Anton Vassalli,St Julian's
+47,,0,0,[],[],[],0,[],[],[],[],,
+48,2025-02-17 12:45:00+00:00,1,1,[21],['male'],['serious'],1,['car'],[],[],[],Giorgio Borg Olivier Street,"Victoria, Gozo"
+49,2025-04-13 15:15:00+00:00,6,2,"[81, 39]","['male', 'male']","['grievous', 'slight', 'grievous', 'slight', 'slight', 'slight']",2,"['car', 'bus']",[],[],[],Coast Road,Naxxar
+50,2025-01-16 10:15:00+00:00,2,2,"[45, 34]","['female', 'male']","['none', 'grievous']",2,"['car', 'motorcycle']",[],[],[],Triq il-Fortizza tal-Mosta,Naxxar
+51,2025-06-04 21:15:00+00:00,1,2,"[21, None]","['male', 'na']",['grievous'],2,"['motorcycle', 'car']",[],[],[],Kennedy Drive,St Paul's Bay
+52,2025-10-06 09:30:00+00:00,1,2,"[None, 84]","['female', 'male']",['grievous'],1,['car'],[],[],[],Triq il-Kappella Ta' Xaghra,Naxxar
+53,2025-08-10 19:00:00+00:00,1,1,[33],['male'],['grievous'],1,['motorcycle'],[],['fatigue'],[],Mosta Road,Mgarr
+54,2025-01-25 14:30:00+00:00,1,2,"[46, 30]","['male', 'male']",['grievous'],2,"['motorcycle', 'car']",[],['fatigue'],[],Coast Road,Naxxar
+55,2025-08-06 11:30:00+00:00,3,2,"[48, 60]","['male', 'male']","['grievous', 'grievous', 'grievous']",2,"['motorcycle', 'car']",[],[],[],Salina Street,Naxxar
+56,2024-12-27 12:00:00+00:00,1,2,"[62, 25]","['female', 'male']",['grievous'],2,"['motorcycle', 'truck']",[],[],[],Triq il-Hotba,Zejtun
+57,2025-08-17 16:00:00+00:00,1,2,"[None, 44]","['male', 'female']",['critical'],2,"['motorcycle', 'car']",[],[],[],Coast Road,Naxxar
+58,2025-09-16 12:15:00+00:00,1,2,"[None, 64]","['female', 'female']",['grievous'],1,['car'],[],[],[],Republic Street,"Victoria, Gozo"
+59,2024-12-25 15:30:00+00:00,2,1,[28],['male'],"['grievous', 'none']",1,['car'],[],['speeding'],[],Mikiel Anton Vassalli Street,St Julian's
+60,2025-05-27 12:30:00+00:00,1,1,[35],['male'],['dead'],1,['motorcycle'],[],['speeding'],['highway'],St Paul's Bay Bypass,St Paul's Bay
+61,2025-04-18 02:00:00+00:00,1,2,"[46, None]","['male', 'male']",['critical'],2,"['motorcycle', 'car']",[],[],[],Triq iz-Zejfa,Mosta
+62,2025-05-24 07:15:00+00:00,1,2,"[None, 65]","['male', 'male']",['grievous'],2,"['motorcycle', 'car']",[],[],[],Aldo Moro Street,Marsa
+63,2024-12-19 08:15:00+00:00,1,2,"[None, 23]","['female', 'female']",['grievous'],1,['car'],[],[],[],Triq il-Kannizzata,Balzan
+64,2025-03-28 10:45:00+00:00,1,2,"[None, 32]","['male', 'male']",['grievous'],2,"['bicycle', 'truck']",[],[],[],Tal-Balal Road,San Gwann
+65,2025-07-09 18:30:00+00:00,1,2,"[None, 40]","['male', 'male']",['grievous'],2,"['motorcycle', 'car']",[],[],[],Mikiel Anton Vassalli Street,Msida
+66,2025-09-25 14:15:00+00:00,1,2,"[None, 58]","['male', 'male']",['grievous'],1,['motorcycle'],[],[],[],Republic Street,"Victoria, Gozo"
+67,2025-08-04 07:45:00+00:00,1,2,"[28, None]","['male', 'male']",['grievous'],1,['car'],[],[],[],Triq ix-Xatt Ta' Xbiex,Ta' Xbiex
+68,2024-12-22 09:30:00+00:00,3,4,"[31, 40, 29, None]","['male', 'male', 'male', 'female']","['slight', 'critical', 'slight']",4,"['motorcycle', 'motorcycle', 'motorcycle', 'car']",[],[],[],Salini Street,Naxxar
+69,2025-07-23 09:30:00+00:00,1,2,"[None, 76]","['female', 'male']",['grievous'],1,['car'],[],[],[],Triq Tas-Sliema,Gzira
+70,2025-07-24 04:30:00+00:00,2,1,[40],['male'],"['grievous', 'critical']",1,['motorcycle'],[],['speeding'],[],Triq San Anard,Tarxien
+71,2025-05-02 15:30:00+00:00,1,2,"[None, 54]","['male', 'male']",['critical'],2,"['motorcycle', 'car']",[],[],[],Triq L-Imgarr,Mgarr
+72,2025-02-16 11:00:00+00:00,1,2,"[None, 55]","['male', 'male']",['grievous'],2,"['bicycle', 'car']",[],[],[],Triq il-Kilpa,Siggiewi
+73,2025-02-04 11:30:00+00:00,2,2,"[None, 58]","['male', 'female']","['grievous', 'grievous']",2,"['motorcycle', 'car']",[],[],[],Triq Alfredo Cachia Zammit,Zejtun
+74,2025-07-10 06:30:00+00:00,1,2,"[78, None]","['male', 'male']",['grievous'],1,['car'],[],[],[],Triq Dun Manwel Zammit,Siggiewi
+75,2025-09-04 18:15:00+00:00,2,2,"[24, 35]","['male', 'male']","['slight', 'grievous']",2,"['motorcycle', 'motorcycle']",[],[],[],Triq Ix-Xatt,Gzira
+76,2025-04-13 17:45:00+00:00,1,2,"[41, 36]","['male', 'female']",['grievous'],2,"['car', 'car']",[],[],[],Birzebbuga Road,Birzebbuga
+77,2025-07-24 10:15:00+00:00,1,1,[65],['male'],['grievous'],1,['motorcycle'],[],['speeding'],[],Salina Road,Naxxar
+78,2025-05-12 09:45:00+00:00,1,2,"[None, 54]","['male', 'female']",['grievous'],2,"['motorcycle', 'car']",[],[],[],St Joseph High Road,Hamrun
+79,2025-02-03 19:00:00+00:00,1,2,"[68, None]","['male', 'male']",['grievous'],1,['car'],[],[],[],Triq il-Palma,Paola
+80,2025-01-15 07:45:00+00:00,2,2,"[21, None]","['male', 'na']","['grievous', 'grievous']",2,"['motorcycle', 'car']",[],[],[],Triq Anton Cassar,Marsa
+81,2025-06-12 10:00:00+00:00,3,3,"[38, 43, None]","['male', 'male', 'male']","['dead', 'none', 'unknown']",3,"['van', 'car', 'bicycle']",[],[],[],Triq Villabate,Marsascala
+82,2025-09-20 13:30:00+00:00,2,2,"[30, 34]","['male', 'male']","['grievous', 'unknown']",2,"['motorcycle', 'motorcycle']",[],[],[],Triq L-Gharb,Gharb
+83,2024-12-11 11:15:00+00:00,1,2,"[None, 48]","['female', 'female']",['grievous'],1,['car'],[],[],['intersection'],Triq E. Bradford,Naxxar
+84,2025-01-06 20:00:00+00:00,2,2,"[None, 20]","['female', 'female']","['grievous', 'dead']",1,['truck'],[],[],[],Triq Hompesh,Fgura
+85,2025-07-27 15:30:00+00:00,7,2,"[23, 77]","['female', 'male']","['dead', 'grievous', 'grievous', 'grievous', 'unknown', 'unknown', 'unknown']",2,"['car', 'car']",[],[],[],Hompesch Street,Fgura
+86,2025-05-26 13:15:00+00:00,1,2,"[None, 22]","['male', 'male']",['critical'],1,['car'],[],[],[],Triq ic-Cern,Bugibba
+87,2025-10-02 05:30:00+00:00,1,2,"[None, 53]","['male', 'female']",['grievous'],2,"['motorcycle', 'car']",[],[],[],Triq L-Imgarr,"Qala, Gozo"
+88,2025-01-15 19:30:00+00:00,1,2,"[63, None]","['male', 'male']",['grievous'],1,['car'],[],[],[],Blue Grotto Avenue,Zurrieq
+89,2025-02-24 14:15:00+00:00,3,1,[50],['female'],"['grievous', 'slight', 'grievous']",2,"['car', 'motorcycle']",[],[],[],Triq il-Marfa,Mellieha
+90,2025-04-26 22:00:00+00:00,1,1,[26],['male'],['grievous'],1,['motorcycle'],[],['speeding'],[],Triq Kordin,Paola
+91,2024-12-13 17:30:00+00:00,1,2,"[None, 52]","['female', 'male']",['critical'],2,"['car', 'car']",[],[],[],Triq il-Marfa,Mellieha
+92,2025-09-28 10:00:00+00:00,1,2,"[36, None]","['male', 'male']",['grievous'],2,"['van', 'car']",[],[],[],Triq Ghar Dalam,Birzebbugia
+93,2025-10-04 14:30:00+00:00,1,2,"[34, 38]","['female', 'male']",['grievous'],2,"['car', 'car']",[],[],[],Triq Ta' Lawrenti,Siggiewi
+94,2025-10-04 08:45:00+00:00,1,2,"[36, None]","['female', 'male']",['grievous'],2,"['motorcycle', 'car']",[],['speeding'],[],Triq Sant' Andrija,St Julian's
+95,2025-08-22 05:30:00+00:00,1,2,"[57, None]","['male', 'na']",['critical'],2,"['motorcycle', 'car']",[],[],[],Triq Sir Anthony Mamo,Birkirkara
+96,2025-04-06 08:30:00+00:00,1,2,"[None, 19]","['male', 'female']",['critical'],2,"['motorcycle', 'car']",[],[],[],Triq Zaghfran,H'Attard
+97,2025-05-02 17:00:00+00:00,3,2,"[74, 33]","['male', 'male']","['slight', 'grievous', 'slight']",2,"['car', 'car']",[],[],[],Triq ix-Xaghra,"Xaghra, Gozo"
+98,2025-07-14 11:00:00+00:00,1,2,"[None, 30]","['male', 'male']",['grievous'],2,"['motorcycle', 'van']",[],[],[],Triq Melqart,Marsaxlokk
+99,2025-08-31 07:30:00+00:00,1,2,"[None, 68]","['female', 'male']",['grievous'],1,['truck'],[],[],[],Cottoner Avenue,Fgura
+100,2025-02-08 21:00:00+00:00,2,1,[25],['male'],"['grievous', 'grievous']",1,['van'],[],['speeding'],[],Triq ir-Rabat,"Zebbug, Gozo"
+101,2024-12-11 17:00:00+00:00,1,1,[54],['male'],['dead'],1,['motorcycle'],[],[],[],Dawret San Pawl,St Paul's Bay
+102,2025-02-09 01:30:00+00:00,3,3,"[0, 0, 25]","['male', 'male', 'female']","['grievous', 'grievous', 'slight']",3,"['car', 'car', 'car']",[],[],[],Triq is-Sorijiet,Tarxien
+103,2025-04-13 08:00:00+00:00,2,1,[35],['male'],"['grievous', '']",1,['car'],[],[],[],Triq Marsaxlokk,Marsaxlokk
+104,2025-08-26 18:30:00+00:00,2,2,"[32, 28]","['', '']","['', 'grievous']",2,"['car', 'motorcycle']",[],[],[],Attard Road,Zebbug
+105,2025-01-22 18:00:00+00:00,2,2,"[47, 51]","['male', 'male']","['', 'grievous']",2,"['car', 'motorcycle']",[],[],[],Triq Rodolfu,Sliema
+106,2025-06-19 13:15:00+00:00,2,1,[52],['male'],"['grievous', '']",2,"['car', 'pedestrian']",[],[],[],,"Pinto Wharf, Floriana"
+107,2025-02-05 09:00:00+00:00,1,1,[52],['male'],['grievous'],1,['motorcycle'],[],[],[],Vjal L-Istadium Nazzjonali,"Ta' Qali, Attard"
+108,2024-12-19 10:45:00+00:00,1,1,[78],['female'],['grievous'],2,"['car', 'truck']",[],[],[],Triq il-Germanja,Naxxar
+109,2025-03-16 08:00:00+00:00,3,1,[59],['male'],"['slight', 'grievous', '']",1,['car'],[],[],[],Vjal il-Helsien,Zebbug
+110,2025-07-17 22:15:00+00:00,2,2,"[41, 17]","['male', 'male']","['', 'grievous']",2,"['car', 'motorcycle']",[],[],[],Triq il-Wied ta' Birkirkara,Birkirkara
+111,2025-08-12 07:00:00+00:00,3,2,"[62, 0]","['male', '']","['grievous', 'grievous', '']",3,"['van', 'car', '']",[],[],[],,"St Luke's Square, Gwardamanga"

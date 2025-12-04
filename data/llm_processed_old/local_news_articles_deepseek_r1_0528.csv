@@ -1,0 +1,203 @@
+id,date_of_accident,num_people_involved,num_drivers,driver_ages,driver_genders,injury_severities,num_vehicles_involved,vehicle_types,road_conditions,human_factors,infrastructure,road_name,locality
+4208,2024-12-04 17:00:00,2,2,"[78, None]","['male', 'na']","['none', 'none']",2,"['car', 'car']",[],['speeding'],[],Regional Road,St Julian's
+4093,2024-12-11 17:00:00,1,1,[54],['male'],['critical'],1,['motorcycle'],[],[],['highway'],St Paul's Bay bypass,St Paul's Bay
+4110,2024-12-11 18:00:00,1,1,[54],['male'],['grievous'],1,['motorcycle'],[],[],['highway'],St Paul's Bay bypass,St Paul's Bay
+4087,2024-12-11 18:00:00,1,1,[54],['male'],['dead'],1,['motorcycle'],[],[],['highway'],St Paul's Bay bypass,St Paul's Bay
+4049,2024-12-15 20:30:00,2,2,"[86, 45]","['female', 'male']","['none', 'grievous']",2,"['car', 'motorcycle']",[],[],[],Triq l-Imgarr,Xewkija
+4034,2024-12-13 19:45:00,2,1,[50],['na'],"['none', 'grievous']",1,['car'],[],[],[],Dawret il-Gudja,Gudja
+4007,2024-12-11 18:00:00,1,1,[54],['male'],['dead'],1,['motorcycle'],[],[],['highway'],St Paul's Bay bypass,St Paul's Bay
+4024,2024-12-11 18:00:00,1,1,[54],['male'],['dead'],1,['motorcycle'],[],[],['highway'],St Paul's Bay bypass,St Paul's Bay
+3989,2024-12-19 18:00:00,2,2,"[None, None]","['na', 'na']","['none', 'none']",2,"['bus', 'car']",[],[],[],Triq Dicembru Tlettax,Blata l-Bajda
+3991,2024-12-20 12:00:00,1,1,[30],['female'],['grievous'],1,['motorcycle'],[],[],[],Tul il-Kosta,Naxxar
+3964,2024-12-22 09:30:00,4,4,"[31, 40, 29, 27]","['na', 'na', 'na', 'female']","['slight', 'grievous', 'none', 'none']",4,"['motorcycle', 'motorcycle', 'motorcycle', 'car']",[],[],[],Triq is-Salina,
+3966,2024-12-22 10:15:00,2,2,"[25, 13]","['na', 'female']","['none', 'grievous']",2,"['car', 'bicycle']",[],[],[],Triq Sir Philip Pullicino,Mtarfa
+3938,2024-12-23 10:30:00,2,2,"[37, 39]","['na', 'female']","['critical', 'none']",2,"['bus', 'van']",[],[],['highway'],Regional Road,
+3910,2024-12-23 10:30:00,2,2,"[37, 39]","['male', 'female']","['dead', 'none']",2,"['bus', 'van']",[],[],['highway'],Regional Road,
+3885,2024-12-27 07:45:00,1,1,[36],['male'],['grievous'],1,['car'],[],[],[],Triq Dicembru Tlettax,Marsa
+3900,2024-12-27 11:45:00,2,2,"[62, 25]","['female', 'na']","['grievous', 'none']",2,"['motorcycle', 'truck']",[],[],[],Triq il-Hotba,Zejtun
+3834,,0,0,[],[],[],0,[],[],[],[],,
+3827,,0,0,[],[],[],0,[],[],[],[],,
+3823,,0,0,[],[],[],0,[],[],[],[],,
+3809,,0,0,[],[],[],0,[],[],[],[],,
+3766,2025-01-05 07:00:00,3,2,"[72, 28]","['male', 'male']","['grievous', 'grievous', 'slight']",2,"['car', 'car']",[],[],['highway'],Birkirkara bypass,Birkirkara
+3743,,0,0,[],[],[],0,[],[],[],[],,
+3747,2025-01-06 21:00:00,1,1,[25],['male'],['dead'],1,['car'],[],['speeding'],[],Mdina Road,Attard
+3749,2025-01-06 20:00:00,3,1,[20],['female'],"['critical', 'grievous', 'none']",1,['truck'],[],[],[],Triq Hompesh,Fgura
+3740,2025-01-06 21:00:00,1,1,[25],['male'],['dead'],1,['car'],[],['speeding'],[],Mdina Road,Attard
+3704,2025-01-06 21:00:00,1,1,[25],['male'],['dead'],1,['car'],[],['speeding'],[],Mdina Road,Attard
+3699,,0,0,[],[],[],0,[],[],[],[],,
+3671,2025-01-09 11:00:00,2,1,[56],['female'],"['grievous', 'slight']",1,['car'],[],[],[],Triq Gheriexem,Rabat
+3653,,0,0,[],[],[],0,[],[],[],[],,
+3604,,0,0,[],[],[],0,[],[],[],[],,
+3601,,0,0,[],[],[],0,[],[],[],[],,
+3586,2025-01-15 16:45:00,2,1,[36],['na'],"['grievous', 'none']",1,['car'],[],[],[],Triq Guze' Howard,Sliema
+3551,2025-01-16 10:15:00,2,2,"[45, 34]","['female', 'male']","['grievous', 'none']",2,"['car', 'motorcycle']",[],[],[],Triq il-Fortizza tal-Mosta,Naxxar
+3558,,0,0,[],[],[],0,[],[],[],[],,
+3588,,0,0,[],[],[],0,[],[],[],[],,
+3563,,0,0,[],[],[],0,[],[],[],[],,
+3497,,0,0,[],[],[],0,[],[],[],[],,
+3456,,2,2,"[47, 51]","['', '']","['grievous', '']",2,"['motorcycle', 'car']",[],[],[],Rudolph Street,Sliema
+3442,2025-01-23 20:15:00,1,1,[36],[''],['dead'],1,['motorcycle'],[],[],['tunnel'],Triq Mikiel Anton Vassalli,Tal-Qroqq
+3423,,0,0,[],[],[],0,[],[],[],[],,
+3408,,2,2,"[46, 0]","['', '']","['', 'none']",2,"['motorcycle', 'car']",[],[],[],Coast Road,Salini
+3255,,0,0,[],[],[],0,[],[],[],[],,
+3220,,0,0,[],[],[],0,[],[],[],[],,
+3197,,3,2,"[58, 66]","['female', 'male']","['', 'grievous', 'grievous']",2,"['car', 'motorcycle']",[],[],[],Triq Alfredo Cachia Zammit,Zejtun
+3206,,2,2,"[52, 32]","['', 'female']","['grievous', '']",2,"['motorcycle', 'car']",[],[],[],Vjal l-Istadium Nazzjonali,Ta' Qali
+3204,,0,0,[],[],[],0,[],[],[],[],,
+3169,,2,2,"[35, 26]","['male', 'female']","['', '']",2,"['motorcycle', 'car']",[],[],[],Labour Avenue,Naxxar
+3100,,2,1,[25],[''],"['grievous', 'grievous']",1,['van'],[],[],[],Triq-ir-Rabat,Marsalforn
+3095,2025-02-09 21:00:00,2,1,[24],[''],"['dead', '']",1,['car'],[],[],['tunnel'],Kirkop tunnels,Kirkop
+3090,,0,0,[],[],[],0,[],[],[],[],,
+3001,2025-02-15 00:00:00,2,2,"[39, 42]","['male', 'female']","['grievous', '']",2,"['motorcycle', 'car']",[],[],[],Triq il-Wied,Iklin
+2974,,2,2,"[50, 55]","['', '']","['grievous', '']",2,"['bicycle', 'car']",[],[],[],Triq il-Kilpa,Siggiewi
+2940,,4,2,"[0, 44]","['', '']","['', '', '', '']",2,"['car', 'truck']",[],[],[],Hal Far road,Hal Far
+2959,,0,0,[],[],[],0,[],[],[],[],,
+2872,2025-02-19 18:00:00,2,2,"[45, 32]","['', 'female']","['grievous', '']",2,"['motorcycle', 'car']",[],[],[],Triq Hompesch,Fgura
+2873,,0,0,[],[],[],0,[],[],[],[],,
+2853,,2,1,[80],['male'],"['grievous', 'grievous']",1,['car'],[],[],[],Triq il-Bacir,Paola
+2849,,2,2,"[61, 31]","['male', 'male']","['grievous', '']",2,"['karozzin', 'car']",[],[],[],Triq Nazzjonali,Floriana
+2745,,2,2,"[23, None]","['male', 'na']","['grievous', '']",2,"['motorcycle', 'van']",[],[],[],Triq il-Kappillan Mifsud,Hamrun
+2666,,1,1,[None],['na'],['grievous'],1,['motorcycle'],[],[],[],Triq Aldo Moro,Marsa
+2658,,1,1,[75],['male'],['grievous'],1,['car'],[],[],[],Triq l-Imgarr,Xewkija
+2557,,1,1,[56],['female'],['none'],3,"['car', 'car', 'motorcycle']",[],[],[],Triq San Pawl,St Paul's Bay
+2492,,6,2,"[45, 35]","['male', 'na']","['none', 'grievous', 'slight', 'slight', 'slight', 'slight']",2,"['bus', 'car']",[],[],[],Triq ir-Rabat,"Zebbug, Gozo"
+2452,,1,1,[35],['male'],['grievous'],1,['truck'],[],[],[],Triq Buqana,Rabat
+2461,,3,2,"[34, 39]","['male', 'male']","['slight', 'none', 'slight']",2,"['car', 'car']",[],[],[],Triq Ghajn Dwieli,Paola
+2419,,3,1,[59],['male'],"['grievous', 'slight', '']",1,['car'],[],[],[],Vjal il-Helsien,Zebbug
+2409,,1,1,[40],['na'],['grievous'],1,['motorcycle'],[],[],[],Triq Tul il-Kosta,Naxxar
+2301,,2,2,"[32, 31]","['male', 'male']","['grievous', '']",2,"['motorcycle', 'bus']",[],[],[],Triq l-Imgarr,Ghajnsielem
+2259,,2,2,"[43, 26]","['female', 'male']","['grievous', '']",2,"['car', 'truck']",[],[],[],Triq ir-Rabat,Nadur
+2201,,3,2,"[None, None]","['na', 'na']","['none', 'none', '']",2,"['motorcycle', 'car']",[],[],[],Triq Mons Mikel Azzopardi,Siggiewi
+2157,,2,2,"[33, 32]","['na', 'male']","['grievous', '']",2,"['bicycle', 'truck']",[],[],[],Triq tal-Balal,San Gwann
+2080,,2,1,[30],['male'],"['grievous', 'none']",1,['car'],[],[],[],St Paul Street,Naxxar
+2101,2017-08-20 00:00:00,3,2,"[None, None]","['male', 'male']","['critical', 'dead', '']",2,"['car', 'car']",[],[],[],Triq Sir Temi Zammit,Mgarr
+1989,,2,2,"[31, 19]","['na', 'female']","['grievous', 'none']",2,"['motorcycle', 'car']",[],[],[],Triq Zafran,Attard
+1967,,2,2,"[41, 25]","['male', 'male']","['grievous', '']",2,"['motorcycle', 'car']",[],[],[],Triq Buqana,Rabat
+1882,,0,0,[],[],[],0,[],[],[],[],,
+1856,,6,2,"[39, 81]","['male', 'male']","['slight', 'slight', 'slight', 'slight', 'slight', 'grievous']",2,"['bus', 'car']",[],[],[],Coast Road,
+1860,,2,2,"[41, 36]","['male', 'female']","['grievous', '']",2,"['car', 'car']",[],[],[],Triq Birzebbuga,Birzebbuga
+1822,,0,0,[],[],[],0,[],[],[],[],,
+1808,,3,3,"[36, 53, 52]","['male', 'male', 'male']","['grievous', 'none', 'none']",3,"['motorcycle', 'car', 'van']",[],[],[],Triq Aldo Moro,Marsa
+1776,,2,2,"[79, 46]","['male', 'male']","['grievous', '']",2,"['motorcycle', 'car']",[],[],[],Triq Tal-Barrani,Zejtun
+1769,,2,1,[22],['male'],"['grievous', 'none']",1,['car'],[],[],[],Triq Hal Luqa,Luqa
+1718,,2,2,"[31, 72]","['female', 'male']","['grievous', '']",2,"['car', 'motorcycle']",[],[],[],Burmarrad Street,St Paul's Bay
+1490,,2,2,"[54, 63]","['male', 'male']","['grievous', '']",2,"['car', 'motorcycle']",[],[],[],Triq l-Imgarr,Mgarr
+1489,,3,2,"[74, 33]","['male', 'male']","['slight', 'slight', 'grievous']",2,"['car', 'car']",[],[],[],Triq ix-Xaghra,Xaghra
+1467,,1,1,[43],['male'],[''],1,['motorcycle'],[],[],[],December 13 Road,Marsa
+1387,,0,0,[],[],[],0,[],[],[],[],,
+1380,,2,2,"[23, 34]","['', '']","['grievous', '']",2,"['van', 'motorcycle']",[],[],[],Triq Ghar Dalam,Birzebbuga
+1352,,1,1,[39],['male'],['grievous'],1,['motorcycle'],['pothole'],[],[],Triq Ghar Lapsi,Siggiewi
+1286,,2,2,"[34, 29]","['', '']","['grievous', '']",2,"['van', 'motorcycle']",[],[],[],Triq il-Wied,Qormi
+1275,,2,2,"[62, 54]","['', 'female']","['', '']",2,"['motorcycle', 'car']",[],[],[],St Joseph High Road,Hamrun
+1274,,0,0,[],[],[],0,[],[],[],[],,
+1227,,2,2,"[22, 19]","['female', 'female']","['grievous', '']",2,"['motorcycle', 'car']",[],[],[],Regional Road,Santa Venera
+1165,,2,2,"[None, None]","['female', '']","['slight', 'grievous']",2,"['car', 'car']",[],[],[],Triq Dawret il-Mellieha,Mellieha
+1034,,1,1,[29],['male'],['grievous'],1,['car'],[],[],[],,Mgarr
+1015,,2,2,"[37, 65]","['male', 'male']","['grievous', '']",2,"['motorcycle', 'car']",[],[],[],Triq Aldo Moro,Marsa
+974,,2,1,[22],['male'],"['grievous', '']",1,['car'],[],[],[],Triq c-Cern,Bugibba
+964,,1,1,[35],['male'],['dead'],1,['motorcycle'],[],[],[],Xemxija bypass,Xemxija
+760,,1,1,[62],['male'],['grievous'],1,['van'],[],[],[],Marfa Road,Mellieha
+751,,1,1,[21],['male'],['grievous'],2,"['motorcycle', '']",[],[],[],Kennedy Drive,St Paul's Bay
+685,,5,2,"[22, None]","['female', 'male']","['grievous', 'slight', 'slight', '', 'grievous']",2,"['car', 'car']",[],[],[],Triq Paredes and Triq il-Parrocca,St Paul's Bay
+679,,2,2,"[39, 36]","['male', 'female']","['grievous', '']",2,"['motorcycle', 'car']",[],[],[],Triq l-Imgarr,Xewkija
+640,,1,1,[43],['male'],['dead'],1,['motorcycle'],[],[],[],Triq ix-Xatt Juan B Azopardo,Senglea
+607,,3,3,"[67, None, None]","['', '', '']","['dead', '', '']",3,"['van', 'car', 'bicycle']",[],[],[],Triq Villabate,Marsascala
+522,,1,1,[64],['male'],['grievous'],1,['motorcycle'],[],[],[],Triq Sant' Elizabetta,Xewkija
+404,,2,2,"[53, 39]","['male', 'male']","['grievous', '']",2,"['motorcycle', 'car']",[],[],[],Triq Hal Farrug,Luqa
+407,,1,1,[53],[''],[''],1,['bus'],[],[],[],Triq President Anton Buttigieg,Zejtun
+408,,3,2,"[57, 32]","['male', 'male']","['grievous', 'dead', 'grievous']",2,"['car', 'car']",[],[],[],Mdina Road,Zebbug
+416,2025-06-19 13:15:00,2,1,[52],['male'],"['critical', '']",1,['car'],[],[],[],Pinto Wharf,Floriana
+381,2025-06-19 18:30:00,2,2,"[64, 23]","['male', 'male']","['', '']",2,"['car', 'motorcycle']",[],[],[],Triq Dawret il-Gudja,Gudja
+361,2025-06-19 13:15:00,2,1,[52],['male'],"['dead', '']",1,['car'],[],[],[],Pinto Wharf,Floriana
+313,2025-06-23 08:45:00,3,3,"[23, None, None]","['female', 'na', 'na']","['slight', '', '']",3,"['van', 'car', 'car']",[],[],[],Regional Road,
+287,2025-06-25 07:00:00,3,2,"[None, 34]","['na', 'female']","['', '', 'none']",2,"['motorcycle', 'car']",[],[],[],Regional Road,
+113265,2025-07-05 11:00:00,2,2,"[23, 46]","['male', 'male']","['', 'grievous']",2,"['car', 'motorcycle']",[],[],[],Triq il-Kbira,Mellieha
+190828,,2,2,"[30, 34]","['male', 'female']","['', '']",2,"['motorcycle', 'car']",[],[],[],Triq iz-Zejfa,Mosta
+139548,2025-07-09 18:30:00,2,2,"[40, 45]","['female', 'male']","['', 'grievous']",2,"['car', 'motorcycle']",[],[],[],Triq Mikiel Anton Vassalli,Msida
+102356,,2,2,"[None, None]","['male', 'na']","['', '']",2,"['truck', 'car']",[],[],[],Triq it-Turisti,St Paul's Bay
+220724,2025-07-14 11:00:00,2,2,"[35, 30]","['na', 'na']","['', '']",2,"['motorcycle', '']",[],[],[],Melqart Street,Marsaxlokk
+167578,,3,2,"[None, None]","['male', 'na']","['grievous', '', '']",2,"['', 'car']",[],[],['crosswalk'],December 13 Road,Marsa
+141175,2025-07-17 13:15:00,2,2,"[45, 24]","['female', 'female']","['grievous', '']",2,"['motorcycle', 'car']",[],[],[],Rue d'Argens,Gzira
+130030,2025-07-16 17:00:00,1,1,[70],['female'],[''],1,['car'],[],[],[],Triq L-Imqabba,Mqabba
+226588,2025-07-17 22:15:00,2,2,"[17, 41]","['male', 'na']","['', '']",2,"['', 'car']",[],[],[],Birkirkara Valley Road,Birkirkara
+450477,2025-07-19 12:30:00,1,1,[16],['male'],['critical'],1,['bicycle'],[],[],[],Triq il-Buqana,Rabat
+297729,2025-07-02 12:30:00,2,2,"[22, None]","['male', 'male']","['', '']",2,"['motorcycle', 'van']",[],[],['tunnel'],Regional Road,
+353524,2018-05-13 00:00:00,2,1,[83],['male'],"['none', 'dead']",1,['car'],[],[],['crosswalk'],Triq Wied Bladun,Paola
+353518,2025-07-23 10:30:00,3,2,"[24, 81]","['male', 'male']","['', 'critical', 'dead']",2,"['van', 'car']",[],[],[],Triq il-Mosta,Lija
+353565,2025-07-24 10:15:00,1,1,[65],['male'],['grievous'],1,['motorcycle'],[],[],[],Triq is-Salina,Naxxar
+353525,2025-07-24 04:30:00,2,1,[40],['male'],"['serious', 'serious']",1,['motorcycle'],[],[],[],Triq San Anard,Tarxien
+386207,2025-07-26 01:00:00,2,2,"[22, 27]","['male', 'male']","['', 'dead']",2,"['car', 'motorcycle']",[],[],[],Triq Sant'Andrija,Pembroke
+386270,2025-07-27 15:30:00,7,2,"[23, None]","['female', '']","['dead', 'critical', 'grievous', 'grievous', '', '', '']",2,"['car', 'car']",[],[],[],Triq Hompesh,Fgura
+450529,2025-07-27 11:45:00,2,2,"[71, 34]","['male', 'male']","['none', '']",2,"['car', 'motorcycle']",[],[],[],,Sliema
+386315,2025-07-28 22:00:00,3,1,[23],['male'],"['', 'dead', '']",2,"['car', 'car']",[],[],[],Ta' Liesse,Valletta
+451726,2025-07-29 13:45:00,2,1,[None],[''],"['dead', '']",1,['bus'],[],[],[],,Floriana
+467110,2025-07-30 18:00:00,2,2,"[29, 42]","['male', 'male']","['serious', '']",2,"['motorcycle', 'car']",[],[],[],Triq Dawret Hal Ghaxaq,Hal Ghaxaq
+489475,2025-07-27 15:30:00,7,2,"[23, None]","['female', '']","['dead', 'critical', 'serious', 'serious', '', '', '']",2,"['car', 'car']",[],[],[],Triq Hompesh,Fgura
+489720,2025-08-06 11:30:00,2,2,"[48, 60]","['na', 'na']","['grievous', 'none']",2,"['motorcycle', 'car']",[],[],[],Triq is-Salina,Naxxar
+489728,2025-08-06 11:30:00,2,2,"[48, 60]","['na', 'na']","['grievous', 'none']",2,"['motorcycle', 'car']",[],[],[],Triq is-Salina,Naxxar
+489733,2025-08-07 08:00:00,1,1,[None],['na'],['slight'],1,['car'],[],[],[],Cannon Road,Santa Venera
+490010,2025-08-09 07:30:00,1,1,[25],['female'],['grievous'],1,['car'],[],[],[],Triq il-Pellikan,San Gwann
+489878,2025-08-10 05:20:00,1,2,"[42, None]","['male', 'na']","['dead', 'none']",2,"['motorcycle', 'car']",[],[],[],,Birkirkara
+489889,2025-08-10 05:20:00,4,2,"[42, 17]","['male', 'male']","['dead', 'none', 'grievous', 'none']",2,"['motorcycle', 'car']",[],[],[],Triq Salvu Psaila,Birkirkara
+489884,2025-08-10 09:00:00,2,1,[78],['male'],"['grievous', 'none']",1,['van'],[],[],[],National Road,Floriana
+490008,2025-08-07 08:00:00,1,1,[None],['na'],['slight'],1,['car'],[],['drunk'],[],Cannon Road,Santa Venera
+489993,2025-08-10 19:00:00,1,1,[33],['na'],['grievous'],1,['motorcycle'],[],[],[],Mosta Road,Mgarr
+490183,2025-07-27 00:00:00,3,1,[23],['male'],"['dead', 'grievous', 'none']",2,"['car', 'car']",[],['drunk'],[],Xatt il-Barrieri,Valletta
+490165,2025-08-12 07:00:00,2,1,[None],['na'],"['slight', 'slight']",2,"['car', 'car']",[],[],[],St Luke's Square,Guardamangia
+490371,2025-08-14 05:30:00,1,1,[21],['male'],['grievous'],1,['motorcycle'],[],[],[],Triq Sant'Andrija,Pembroke
+490568,2025-08-14 05:30:00,1,1,[21],['male'],['dead'],1,['motorcycle'],[],[],[],Triq Sant' Andrija,Pembroke
+490684,2025-08-17 16:00:00,2,2,"[53, None]","['male', '']","['', '']",2,"['motorcycle', 'car']",[],[],[],coast road,Naxxar
+490653,2025-08-14 06:00:00,1,1,[21],[''],['dead'],1,['motorcycle'],[],[],[],Triq Sant' Andrija,Pembroke
+490746,2025-08-07 00:00:00,1,1,[42],[''],['none'],1,['car'],[],['drunk'],[],Cannon Road,Santa Venera
+490815,2025-08-18 16:00:00,2,1,[29],[''],"['grievous', '']",1,['car'],[],[],[],Triq Hal Luqa,Rahal il-Gdid
+491011,2025-08-21 05:30:00,2,2,"[None, None]","['', '']","['', '']",2,"['bus', 'car']",[],[],[],Tower Road,Sliema
+491226,2025-08-22 05:30:00,3,2,"[57, None]","['', '']","['grievous', 'none', '']",2,"['motorcycle', 'car']",[],[],[],Sir Anthony Mamo street,Birkirkara
+491557,2025-08-26 05:10:00,1,1,[None],[''],['none'],7,"['car', 'car', 'car', 'car', 'car', 'car', 'car']",[],[],[],Tower Road,Sliema
+491651,,0,0,[],[],[],0,[],[],[],[],,
+491787,,0,0,[],[],[],0,[],[],[],[],,
+491707,2025-08-26 18:30:00,2,2,"[28, 32]","['male', 'male']","['grievous', 'none']",2,"['motorcycle', 'car']",[],[],[],Attard Road,Zebbug
+491720,2025-08-17 15:37:00,2,2,"[44, None]","['female', 'na']","['critical', 'none']",2,"['car', 'motorcycle']",[],['drunk'],['roundabout'],,Bahar ic-Caghaq
+492026,2025-08-17 00:00:00,2,2,"[44, 53]","['female', 'na']","['grievous', 'none']",2,"['car', 'motorcycle']",[],['drunk'],[],,Bahar ic-Caghaq
+492029,2025-08-27 21:00:00,1,1,[None],['na'],['none'],1,['truck'],[],[],[],,Rabat
+492115,2025-08-29 15:15:00,3,2,"[55, 33]","['male', 'female']","['grievous', 'none', 'none']",2,"['motorcycle', 'car']",[],[],[],Triq Emmanuele Luigi Galizia,Marsa
+492291,2025-08-31 07:30:00,2,1,[68],['male'],"['grievous', 'none']",1,['car'],[],[],[],Triq l-Imdina,Qormi
+492646,2025-09-03 15:00:00,2,2,"[None, None]","['na', 'na']","['dead', 'dead']",2,"['car', 'truck']",[],[],['highway'],Catania - Ragusa state road,Lentini
+492654,2025-09-03 15:00:00,2,2,"[None, None]","['na', 'na']","['dead', 'dead']",2,"['car', 'truck']",[],[],['highway'],Catania - Ragusa state road,Lentini
+492806,2025-09-04 18:15:00,2,2,"[24, 35]","['na', 'na']","['slight', 'grievous']",2,"['motorcycle', 'motorcycle']",[],[],[],Triq ix-Xatt,Gzira
+492962,,0,0,[],[],[],0,[],[],[],[],,
+493044,2025-09-07 13:30:00,2,2,"[62, 35]","['male', 'male']","['grievous', 'none']",2,"['motorcycle', 'car']",[],[],[],Triq l-Ewwel Titjira,Luqa
+493121,,0,0,[],[],[],0,[],[],[],[],,
+493212,,0,0,[],[],[],0,[],[],[],[],,
+493372,2025-09-11 07:30:00,1,1,[33],['male'],['grievous'],1,['motorcycle'],[],[],[],Dun Karm Street,Msida
+493542,2025-09-12 14:00:00,4,1,[None],['na'],"['none', 'none', 'none', 'none']",2,"['car', 'car']",[],[],[],Triq Isouard,Marsa
+493598,2025-09-12 14:00:00,4,1,[None],['na'],"['none', 'none', 'none', 'none']",2,"['car', 'car']",[],[],[],Triq Isouard,Marsa
+493702,2025-09-14 13:30:00,2,2,"[52, 14]","['male', 'male']","['grievous', 'grievous']",2,"['motorcycle', 'bicycle']",[],[],[],Triq Bajada,Zabbar
+493664,2025-09-13 00:00:00,1,1,[54],['male'],['grievous'],1,['car'],[],[],[],Triq il-Perit Dom Mintoff,Paola
+493670,,1,1,[69],['male'],['serious'],1,['car'],[],[],['roundabout'],St Paul's Roundabout,
+493898,,2,1,[69],['female'],"['serious', '']",1,['car'],[],[],[],Republic Street,Victoria
+493983,,2,1,[26],['male'],"['serious', '']",1,['car'],[],[],['parking area'],Triq il-Mina ta'Hompesch,Zabbar
+494102,,2,2,"[46, None]","['male', '']","['', 'slight']",2,"['truck', 'car']",[],['road rage'],[],Triq it-Turisti,St Paul's Bay
+494209,,2,2,"[54, 34]","['', 'male']","['serious', '']",2,"['motorcycle', 'car']",[],[],[],Triq San Gwann t'Ghuxa,Bormla
+494363,,2,2,"[30, 34]","['male', 'male']","['', 'grievous']",2,"['motorcycle', 'motorcycle']",[],[],[],Triq l-Gharb,Gharb
+494368,,2,2,"[30, 34]","['male', 'male']","['', 'grievous']",2,"['motorcycle', 'motorcycle']",[],[],[],Triq l-Gharb,Gharb
+494438,,2,1,[75],['male'],"['serious', '']",1,['car'],[],[],[],Sa Maison,Pieta'
+494571,,2,2,"[42, None]","['', '']","['serious', '']",2,"['motorcycle', 'car']",[],[],[],Bella Vista Street,San Gwann
+494727,,2,1,[82],['male'],"['', 'serious']",1,['car'],[],[],[],Triq Marsalforn,Marsalforn
+494856,,2,1,[58],['male'],"['grievous', '']",1,['motorcycle'],[],[],[],Triq ir-Repubblika,Rabat
+494910,,2,2,"[28, 33]","['female', 'male']","['', 'grievous']",2,"['car', 'motorcycle']",[],[],[],Triq Sant Antnin,Marsascala
+495320,2022-03-19 00:00:00,1,1,[None],[''],[''],7,"['car', '', '', '', '', '', '']",[],[],[],"Naxxar Road, Birkirkara",Birkirkara
+495442,,1,1,[None],[''],['none'],1,['car'],[],[],['bypass'],Mriehel bypass,Mriehel
+495504,,2,2,"[47, 53]","['', 'female']","['grievous', '']",2,"['motorcycle', 'car']",[],[],[],Triq l-Imgarr,Qala
+495595,,4,1,[None],[''],"['dead', 'dead', 'dead', 'dead']",1,['car'],[],['medical episode'],['state road'],D8 state road,"Bunica, Croatia"
+495731,,4,1,[None],[''],"['dead', 'dead', 'dead', 'dead']",1,['car'],[],['medical episode'],['state road'],D8 state road,"Bunica, Croatia"
+495807,,7,3,"[49, 19, 50]","['male', 'male', 'male']","['', '', '', '', 'slight', 'serious', 'slight']",3,"['car', 'car', 'car']",[],[],['bypass'],Gudja Bypass,Gudja
+495802,2025-07-16 00:00:00,1,1,[],[''],['critical'],1,['car'],[],[],[],,Attard
+495896,2025-10-02 00:00:00,4,1,[],[''],"['dead', 'dead', 'dead', 'dead']",1,['car'],[],[],[],D8 state road,Bunica
+495942,2024-09-23 00:00:00,2,2,[],"['', '']","['none', 'none']",2,"['car', 'motorcycle']",[],[],[],Triq Censu Tabone,St Paul's Bay
+496006,2025-10-05 00:00:00,2,2,[],"['', '']","['slight', 'none']",2,"['car', 'motorcycle']",[],['drunk'],['roundabout'],Saqqajja Hill,Rabat
+495969,2025-07-16 00:00:00,1,1,[],[''],['critical'],1,['car'],[],[],[],,Attard
+496158,2025-10-02 00:00:00,4,1,[],[''],"['dead', 'dead', 'dead', 'dead']",1,['car'],[],[],[],D8 state road,Bunica
+496202,2025-10-09 09:30:00,2,2,"[61, 67]","['', '']","['grievous', 'none']",2,"['motorcycle', 'car']",[],[],[],Triq il-Belt Valletta,Zurrieq
+496274,2025-10-09 12:00:00,1,1,[],[''],['none'],1,['car'],[],[],[],Triq Sant Anna,Floriana
+496362,2025-10-10 09:00:00,5,4,"[35, 43, 67, 55]","['', '', '', '']","['grievous', 'slight', 'none', 'none', 'none']",4,"['truck', 'motorcycle', 'car', 'car']",[],[],[],Triq l-Imgarr,Ghajnsielem
