@@ -2,11 +2,9 @@ article_id,name,age,gender,severity,is_driver,vehicle_type
 4208,,78,male,,True,motorcycle
 4093,,54,male,serious,True,motorcycle
 4110,,54,male,serious,True,motorcycle
-4110,,,male,serious,True,motorcycle
 4066,,17,female,serious,False,
 4066,,52,male,,True,car
 4066,,29,male,serious,False,
-4066,,29,male,,False,
 4066,,50,,,True,car
 4067,,,male,,False,
 4067,,,male,,True,motorcycle
@@ -52,7 +50,6 @@ article_id,name,age,gender,severity,is_driver,vehicle_type
 3861,,,,,False,
 3861,,,,,True,
 3834,,,male,,True,
-3834,,,male,,True,
 3834,,,female,grievous,False,
 3766,,66,male,,False,
 3766,,,female,,False,
@@ -70,7 +67,6 @@ article_id,name,age,gender,severity,is_driver,vehicle_type
 3704,,25,,,True,car
 3699,,25,male,,False,
 3671,,83,female,,False,
-3671,,56,female,,False,
 3671,,56,female,light,False,
 3671,,,,,False,
 3653,,21,male,,False,
@@ -229,9 +225,8 @@ article_id,name,age,gender,severity,is_driver,vehicle_type
 751,,,,,False,
 685,,22,female,grievous,True,car
 685,,,male,grievous,False,
-685,,2,,,False,
-685,,21,male,,False,
 685,,2,,slight,False,
+685,,21,male,,False,
 685,,,male,,True,car
 679,,39,male,grievous,True,motorcycle
 679,,36,female,,True,car
@@ -252,9 +247,8 @@ article_id,name,age,gender,severity,is_driver,vehicle_type
 408,,32,male,,False,
 408,,,,,False,
 416,,,female,serious,True,car
-381,,,male,serious,True,motorcycle
+381,,23,male,serious,True,motorcycle
 381,,64,male,,True,car
-381,,23,male,,True,motorcycle
 381,,53,,grievous,True,motorcycle
 381,,57,female,,False,
 370,,32,male,,False,
@@ -281,7 +275,6 @@ article_id,name,age,gender,severity,is_driver,vehicle_type
 220724,,35,,,True,motorcycle
 167578,,,male,,True,motorcycle
 167578,,,,,False,
-167578,,,male,,True,motorcycle
 167578,,,female,,False,
 167578,,,male,,False,
 167578,,,,grievous,False,
@@ -358,7 +351,6 @@ article_id,name,age,gender,severity,is_driver,vehicle_type
 489370,,79,female,,False,
 489370,,36,,,False,
 489720,,8,,serious,False,
-489720,,8,,,False,
 489720,,48,,,True,motorcycle
 489720,,60,,,True,car
 489720,,23,male,,True,van
@@ -375,10 +367,8 @@ article_id,name,age,gender,severity,is_driver,vehicle_type
 489878,,42,male,,True,motorcycle
 489878,,17,,,True,
 489878,,,,,False,
-489889,,42,,,True,motorcycle
 489889,,42,male,,True,motorcycle
 489889,,17,,grievous,True,
-489889,,18,,,False,
 489889,,18,female,,False,
 489889,,,,,False,
 489884,,72,male,serious,False,
@@ -386,9 +376,8 @@ article_id,name,age,gender,severity,is_driver,vehicle_type
 490008,,42,male,slight,True,
 490101,,42,male,,False,
 490101,,17,male,,True,motorcycle
-490101,,18,,,False,
-490101,,,,,False,
 490101,,18,female,,False,
+490101,,,,,False,
 490073,,,male,,True,motorcycle
 490073,,42,,,True,motorcycle
 490073,,18,female,,False,
@@ -468,9 +457,8 @@ article_id,name,age,gender,severity,is_driver,vehicle_type
 492806,,24,male,slight,True,
 492962,,62,female,,False,
 492962,,22,female,,False,
-493044,,,male,serious,True,motorcycle
+493044,,62,male,serious,True,motorcycle
 493044,,35,male,,True,car
-493044,,62,male,,True,motorcycle
 493372,,33,male,serious,True,motorcycle
 493542,,,male,,True,
 493542,,,female,,False,
@@ -491,7 +479,6 @@ article_id,name,age,gender,severity,is_driver,vehicle_type
 494102,,46,male,slight,True,
 494102,,,male,,False,
 494102,,,male,,False,
-494102,,,,slight,True,
 494102,,,,,False,
 494209,,54,male,serious,True,motorcycle
 494209,,34,male,,True,car
@@ -519,7 +506,6 @@ article_id,name,age,gender,severity,is_driver,vehicle_type
 495731,,68,male,,False,
 495731,,67,male,,False,
 495731,,66,,,False,
-495731,,67,,,False,
 495731,,,,,False,
 495807,,43,female,,False,
 495807,,19,male,,True,car
