@@ -1,0 +1,326 @@
+article_id,accident_date,accident_time,locality,location,accident_type
+news_0,,5pm,,,collision
+news_2,,5pm,,,collision
+news_3,,1pm,Wednesday,Wednesday,collision
+news_4,,30pm,Mellieha at,Mellieha at,collision
+news_5,,,Malta since,Malta since,collision
+news_6,,12pm,Mellieha,Mellieha,collision
+news_7,,30pm,,,collision
+news_8,,45pm,,,collision
+news_9,,,,,collision
+news_10,,,Xemxija,Xemxija,collision
+news_11,,6 pm,,,collision
+news_13,,50pm,Blata l,Blata l,collision
+news_14,,,Naxxar,Naxxar,unknown
+news_15,,11:30am,Sliema,Sliema,collision
+news_16,,25pm,,,collision
+news_17,,15am,Mtarfa,Mtarfa,collision
+news_18,,30am,,,collision
+news_19,,30am,Shah by,Shah by,collision
+news_22,,45am,Marsa,Marsa,collision
+news_23,,,Zejtun shortly,Zejtun shortly,collision
+news_24,"September 24, 2022",,Swieqi,Swieqi,collision
+news_25,"December 17, 2006",,Triq il,Triq il,collision
+news_29,,30pm,,,collision
+news_31,,9pm,Attard on,Attard on,collision
+news_32,,8pm,Fgura on,Fgura on,collision
+news_33,,40am,Attard and,Attard and,collision
+news_34,,9pm,Mtarfa just,Mtarfa just,collision
+news_35,,,Malta,Malta,collision
+news_36,,11am,Rabat,Rabat,collision
+news_37,,,Swieqi,Swieqi,collision
+news_42,,45am,Anton Cassar,Anton Cassar,unknown
+news_43,,45pm,Sliema when,Sliema when,collision
+news_44,,15am,Naxxar on,Naxxar on,collision
+news_45,,,Malta in,Malta in,collision
+news_46,"October 22, 2023",,St Julian,St Julian,collision
+news_52,,6pm,Sliema on,Sliema on,unknown
+news_53,,15pm,Triq Mikiel,Triq Mikiel,collision
+news_55,,,Malta and,Malta and,collision
+news_56,,5pm,,,collision
+news_58,,5am,Rue D,Rue D,collision
+news_60,"October 28, 2023",,St Julian,St Julian,collision
+news_61,,30am,Zejtun on,Zejtun on,collision
+news_62,,9am,Ta,Ta,unknown
+news_64,,8am,Naxxar,Naxxar,collision
+news_66,,9pm,Gozo on,Gozo on,collision
+news_67,,9pm,,,collision
+news_69,,9pm,Attard,Attard,collision
+news_71,,,Iklin on,Iklin on,collision
+news_72,,,Malta,Malta,collision
+news_73,,11am,,,collision
+news_74,,1pm,,Mater Dei,collision
+news_77,,6pm,,,collision
+news_79,,,St Paul,St Paul,collision
+news_80,,30am,Paola early,Paola early,collision
+news_81,,30pm,Floriana on,Floriana on,collision
+news_82,,15pm,Triq il,Triq il,collision
+news_83,,11pm,,Mater Dei,collision
+news_84,,7am,Marsa on,Marsa on,unknown
+news_85,,7am,,,collision
+news_86,,30pm,Triq San,Triq San,collision
+news_87,,45pm,Zebbug,Zebbug,collision
+news_88,,30pm,Rabat at,Rabat at,collision
+news_89,,30pm,Paola was,Paola was,collision
+news_90,,8am,,,collision
+news_91,,8am,Naxxar,Naxxar,unknown
+news_93,,45am,Ghajnsielem early,Ghajnsielem early,collision
+news_94,,30pm,Nadur on,Nadur on,collision
+news_97,,,Siggiewi,Siggiewi,unknown
+news_98,,45am,San Gwann,San Gwann,collision
+news_100,,9am,Naxxar on,Naxxar on,collision
+news_101,2 April 2025,,August ,August ,collision
+news_107,,30am,Attard on,Attard on,collision
+news_108,,45pm,Triq Buqana,Triq Buqana,collision
+news_110,,55am,,,collision
+news_111,,45pm,Birzebbuga,Birzebbuga,collision
+news_114,,50pm,Marsa on,Marsa on,collision
+news_115,,30am,Zejtun,Zejtun,collision
+news_116,,1pm,Luqa on,Luqa on,collision
+news_117,,45am,Mosta,Mosta,collision
+news_118,,30pm,St Paul,St Paul,collision
+news_120,,30pm,Mgarr on,Mgarr on,collision
+news_121,,5pm,Xaghra,Xaghra,collision
+news_122,,30pm,,,collision
+news_125,,15pm,,,collision
+news_126,"May 2, 2020",,Siggiewi which,Siggiewi which,collision
+news_127,,8am,Qormi,Qormi,collision
+news_128,,45am,Hamrun on,Hamrun on,unknown
+news_131,,45pm,Santa Venera,Santa Venera,collision
+news_132,,30pm,Mellieha on,Mellieha on,collision
+news_134,,,Mgarr on,Mgarr on,collision
+news_135,,15am,St Paul,St Paul,collision
+news_136,,15pm,Triq c,Triq c,collision
+news_138,,20pm,,,collision
+news_139,,30 pm,,,unknown
+news_141,,30am,,Marfa Road,collision
+news_142,,,St Paul,St Paul,collision
+news_145,,30pm,St Paul,St Paul,collision
+news_146,,30pm,Xewkija on,Xewkija on,collision
+news_147,,5pm,,,collision
+news_149,,,Hal Far,Hal Far,collision
+news_150,,10pm,Marsascala,Marsascala,collision
+news_151,,10pm,,,collision
+news_152,,13pm,Luqa,Luqa,collision
+news_154,,30am,Zejtun,Zejtun,collision
+news_155,,13pm,Zebbug on,Zebbug on,collision
+news_156,,15pm,Floriana on,Floriana on,unknown
+news_157,,30 pm,Gudja,Gudja,collision
+news_158,,,Malta,Malta,unknown
+news_159,,15pm,Floriana on,Floriana on,unknown
+news_160,,45am,Gzira and,Gzira and,collision
+news_162,,7am,,,collision
+news_169,,11am,Mellieha on,Mellieha on,collision
+news_170,,,Mosta,Mosta,collision
+news_172,,6:30 ,Msida on,Msida on,collision
+news_175,,,St Paul,St Paul,collision
+news_176,,11am,Marsaxlokk,Marsaxlokk,collision
+news_177,,,October ,October ,collision
+news_178,,15pm,Gzira,Gzira,collision
+news_179,,5pm,Mqabba,Mqabba,collision
+news_180,,15pm,,Birkirkara Valley Road,collision
+news_181,,30pm,Baluta Bay,Baluta Bay,collision
+news_182,,,Balluta Bay,Balluta Bay,collision
+news_183,,12:30 ,,,unknown
+news_184,2nd of July 2025,30pm,,Saint James,collision
+news_186,"May 13, 2018",,Paola in,Paola in,collision
+news_187,,30am,Lija on,Lija on,collision
+news_188,,15am,Naxxar on,Naxxar on,collision
+news_189,,30am,Tarxien the,Tarxien the,unknown
+news_190,,1am,Pembroke in,Pembroke in,unknown
+news_191,,35 pm,Fgura on,Fgura on,collision
+news_192,,11:45am,Sliema,Sliema,collision
+news_193,,30pm,Pieta,Pieta,collision
+news_194,,10pm,Valletta,Valletta,collision
+news_195,,45 pm,Pembroke in,Pembroke in,collision
+news_197,,15am,Azzopardi paid,Azzopardi paid,collision
+news_200,,6pm,Hal Ghaxaq,Hal Ghaxaq,unknown
+news_203,,1am,Malta on,Malta on,collision
+news_204,,40pm,Mosta Road,Mosta Road,collision
+news_205,,30 pm,,,collision
+news_207,,30pm,Marsa,Marsa,collision
+news_208,,30 am,Naxxar and,Naxxar and,collision
+news_209,,30 am,Naxxar and,Naxxar and,collision
+news_210,,56am,Santa Venera,Santa Venera,collision
+news_211,,30am,Swieqi,Swieqi,unknown
+news_212,,,St Paul,St Paul,unknown
+news_213,,42pm,Birkirkara early,Birkirkara early,collision
+news_214,,30pm,Birkirkara early,Birkirkara early,collision
+news_215,,9am,,National Road,collision
+news_216,,8am,,Cannon Road,collision
+news_217,,25am,Nepal,Nepal,collision
+news_218,,20am,Psaila Street,Psaila Street,collision
+news_219,,7pm,San Gwann,San Gwann,collision
+news_222,,,Chetcuti,Chetcuti,collision
+news_223,,7am,Guardamangia on,Guardamangia on,collision
+news_224,,25am,Birkirkara at,Birkirkara at,collision
+news_225,,,Malta for,Malta for,collision
+news_226,,30 am,Triq Sant,Triq Sant,collision
+news_227,,30am,Pembroke at,Pembroke at,collision
+news_228,,,Malta,Malta,spill
+news_229,,4pm,Naxxar,Naxxar,collision
+news_231,,,Pembroke have,Pembroke have,collision
+news_233,,,Chetcuti was,Chetcuti was,collision
+news_234,,,St Paul,St Paul,collision
+news_235,,4pm,Triq Hal,Triq Hal,collision
+news_238,,30am,,Tower Road,collision
+news_240,,6am,Malta as,Malta as,collision
+news_241,,30am,Birkirkara,Birkirkara,collision
+news_243,,30am,Birkirkara,Birkirkara,collision
+news_245,,,,,collision
+news_246,,,Sliema was,Sliema was,collision
+news_249,,30am,Birkirkara,Birkirkara,collision
+news_250,,10am,,Independence Gardens,collision
+news_256,,30pm,Zebbug on,Zebbug on,collision
+news_257,,3:37pm,St Paul,St Paul,collision
+news_261,,,St Paul,St Paul,collision
+news_262,,9pm,St Julian,St Julian,collision
+news_263,,15pm,Marsa,Marsa,collision
+news_264,,7:30am,Qormi this,Qormi this,collision
+news_265,,3pm,Siracusa,Siracusa,collision
+news_266,,,Sicily on,Sicily on,collision
+news_267,,15pm,Triq ix,Triq ix,collision
+news_268,,10pm,Maltese,Maltese,collision
+news_269,,30pm,Luqa,Luqa,collision
+news_273,,30am,,,unknown
+news_275,,,Marsa causing,Marsa causing,collision
+news_276,,,,,collision
+news_278,,1:30 ,Zabbar The,Zabbar The,unknown
+news_279,,,Paola,Paola,collision
+news_280,,11pm,Msida,Msida,collision
+news_282,,15pm,Republic Street,Republic Street,collision
+news_283,,30 pm,Zabbar on,Zabbar on,collision
+news_284,,30am,St Paul,St Paul,collision
+news_285,,45pm,Bormla on,Bormla on,collision
+news_286,,30pm,Gozo on,Gozo on,collision
+news_287,,1:30pm,Gozo after,Gozo after,collision
+news_288,,30am,Pieta,Pieta,collision
+news_290,,7pm,San Gwann,San Gwann,collision
+news_291,,8am,Triq Marsalforn,Triq Marsalforn,collision
+news_293,,15pm,Rabat,Rabat,collision
+news_294,,6pm,Marsascala,Marsascala,collision
+news_296,"March 19, 2022",,Naxxar Road,Naxxar Road,collision
+news_297,,,,,collision
+news_298,,30am,Qala,Qala,collision
+news_299,,20pm,Croatia when,Croatia when,collision
+news_300,,20pm,Croatia will,Croatia will,collision
+news_301,,11pm,,,collision
+news_302,,8am,Mater Dei,Mater Dei,collision
+news_303,,,Croatia last,Croatia last,collision
+news_304,23 September 2024,,Triq Censu,Triq Censu,collision
+news_306,,,,Qormi police,collision
+news_307,,8am,Kerala,Kerala,collision
+news_309,,30am,Croatia are,Croatia are,collision
+news_313,,30am,Zurrieq on,Zurrieq on,collision
+news_315,,9am,Cauchi to,Cauchi to,collision
+press_0,,,,,collision
+press_1,,,Triq Dawret,Triq Dawret,collision
+press_2,,,Valley Road,Valley Road,collision
+press_3,,,Triq Dawret,Triq Dawret,collision
+press_4,,,Triq il,Triq il,collision
+press_5,,,Triq Aldo,Triq Aldo,collision
+press_6,,,Mosta Road,Mosta Road,collision
+press_7,,,Triq tal,Triq tal,collision
+press_8,,,John Adye,John Adye,collision
+press_9,,,St James,St James,collision
+press_10,,,Naxxar,Naxxar,collision
+press_11,,,Cospicua Seafront,Cospicua Seafront,collision
+press_12,,,Ghajnsielem,Ghajnsielem,collision
+press_13,,,Triq Sant,Triq Sant,collision
+press_14,,,Valletta,Valletta,collision
+press_15,,,Luqa Road,Luqa Road,collision
+press_16,,,Triq il,Triq il,collision
+press_17,,,Triq Sir,Triq Sir,collision
+press_18,,,Triq Nazzjonali,Triq Nazzjonali,collision
+press_19,,9pm,Triq il,Triq il,collision
+press_20,,,Triq Emmanuele,Triq Emmanuele,collision
+press_21,,,Dawret il,Dawret il,collision
+press_22,,,Msida,Msida,collision
+press_23,,,Triq Ghar,Triq Ghar,collision
+press_24,,,Triq Dicembru,Triq Dicembru,collision
+press_25,,,Msida,Msida,collision
+press_26,,,Attard,Attard,collision
+press_27,,11:00 ,Triq Dawret,Triq Dawret,collision
+press_28,,,Xatt l,Xatt l,collision
+press_29,,,Kalkara,Kalkara,collision
+press_30,,,Triq Burmarrad,Triq Burmarrad,collision
+press_31,,,Triq iz,Triq iz,collision
+press_32,,,Tal,Tal,collision
+press_33,,,Rabat,Rabat,collision
+press_34,,,Triq L,Triq L,collision
+press_35,,,Birkirkara,Birkirkara,unknown
+press_36,,,Naxxar,Naxxar,collision
+press_37,,,Zabbar,Zabbar,collision
+press_38,,,Triq Marsalforn,Triq Marsalforn,collision
+press_39,,,Birkirkara,Birkirkara,collision
+press_40,,,Valley Road,Valley Road,collision
+press_41,,,Triq Hompesch,Triq Hompesch,collision
+press_42,,,Marsascala,Marsascala,collision
+press_43,,,Paola,Paola,collision
+press_44,,,Triq Borg,Triq Borg,collision
+press_45,,,Triq Mikiel,Triq Mikiel,collision
+press_46,,,Hal Farrug,Hal Farrug,collision
+press_47,,,Giorgio Borg,Giorgio Borg,collision
+press_48,,,Naxxar,Naxxar,collision
+press_49,,,Triq il,Triq il,collision
+press_50,,,Kennedy Drive,Kennedy Drive,collision
+press_51,,,Triq il,Triq il,collision
+press_52,,,San Gwann,San Gwann,unknown
+press_53,,,Naxxar,Naxxar,collision
+press_54,,,Salina Street,Salina Street,collision
+press_55,,,Triq il,Triq il,collision
+press_56,,,Gzira,Gzira,collision
+press_57,,,Republic Street,Republic Street,collision
+press_58,,,Mikiel Anton,Mikiel Anton,unknown
+press_59,,,Qormi,Qormi,collision
+press_60,,,Rabat,Rabat,collision
+press_61,,,Aldo Moro,Aldo Moro,collision
+press_62,,,Balzan,Balzan,collision
+press_63,,,Tal,Tal,unknown
+press_64,,,Mikiel Anton,Mikiel Anton,collision
+press_65,,,St Julian,St Julian,collision
+press_66,,,Gharghur,Gharghur,collision
+press_67,,,Salini Street,Salini Street,unknown
+press_68,,,Gzira,Gzira,collision
+press_69,,,Triq San,Triq San,unknown
+press_70,,,Triq L,Triq L,collision
+press_71,,,Triq il,Triq il,collision
+press_72,,,Triq Alfredo,Triq Alfredo,collision
+press_73,,,Siggiewi,Siggiewi,collision
+press_74,,,Triq Ix,Triq Ix,collision
+press_75,,,Birzebbuga Road,Birzebbuga Road,collision
+press_76,,,Salina Road,Salina Road,collision
+press_77,,,Sliema,Sliema,collision
+press_78,,,Triq il,Triq il,collision
+press_79,,,Triq Anton,Triq Anton,collision
+press_80,,,Triq Villabate,Triq Villabate,collision
+press_81,,,Gozo and,Gozo and,collision
+press_82,,,Swieqi,Swieqi,collision
+press_83,,,Triq Hompesh,Triq Hompesh,collision
+press_84,,,Hompesch Street,Hompesch Street,collision
+press_85,,,Triq ic,Triq ic,collision
+press_86,,,Triq L,Triq L,collision
+press_87,,,Zurrieq,Zurrieq,collision
+press_88,,,Triq il,Triq il,collision
+press_89,,,Floriana,Floriana,unknown
+press_90,,,Qormi,Qormi,collision
+press_91,,,Triq Ghar,Triq Ghar,collision
+press_92,,2:30 ,Triq Ta,Triq Ta,collision
+press_93,,8:45 ,St Paul,St Paul,unknown
+press_94,,,Triq Sir,Triq Sir,collision
+press_95,,,Triq Zaghfran,Triq Zaghfran,collision
+press_96,,,Triq ix,Triq ix,collision
+press_97,,,Triq Melqart,Triq Melqart,collision
+press_98,,,Qormi,Qormi,collision
+press_99,,,Triq ir,Triq ir,unknown
+press_100,,,Mellieha,Mellieha,collision
+press_101,,,Zurrieq,Zurrieq,collision
+press_102,,,Triq Marsaxlokk,Triq Marsaxlokk,collision
+press_103,,,Attard Road,Attard Road,collision
+press_104,,,Triq Rodolfu,Triq Rodolfu,collision
+press_105,,,,Pinto Wharf,collision
+press_106,,,Haz,Haz,unknown
+press_107,,,Triq il,Triq il,collision
+press_108,,,Vjal il,Vjal il,collision
+press_109,,,Triq il,Triq il,collision
+press_110,,,St Luke,St Luke,collision
