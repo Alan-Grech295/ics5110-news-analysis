@@ -1,0 +1,357 @@
+Removed person 14 in article 4007
+Added person 679 in article 3989
+Added person 680 in article 3989
+Modified (24 -> 24) in article 3964: vehicle_type (EMPTY -> motorcycle);
+Modified (25 -> 25) in article 3964: vehicle_type (EMPTY -> motorcycle);
+Modified (26 -> 26) in article 3964: vehicle_type (unknown -> car);
+Modified (27 -> 28) in article 3964: age (EMPTY -> 29); gender (EMPTY -> male);
+Removed person 28 in article 3964
+Modified (31 -> 31) in article 3938: gender (female -> male); gender span ((73, 74) -> (85, 86)); vehicle_type (EMPTY -> bus);
+Modified (33 -> 33) in article 3910: vehicle_type (EMPTY -> bus);
+Modified (34 -> 34) in article 3910: severity (none -> minor);
+Modified (39 -> 39) in article 3861: severity (fatal -> EMPTY);
+Modified (40 -> 40) in article 3861: is_driver span ((199, 203) -> EMPTY); vehicle_type (old girlfriend initially claimed she was driving. She later admitted -> EMPTY);
+Removed person 41 in article 3861
+Modified (44 -> 44) in article 3766: severity (none -> serious); severity span (EMPTY -> (101, 102)); vehicle_type (unknown -> car); vehicle_type span ((59, 62) -> (62, 63));
+Modified (45 -> 45) in article 3766: severity (none -> serious); severity span (EMPTY -> (101, 102));
+Modified (46 -> 46) in article 3766: severity (serious -> minor); severity span ((101, 102) -> (127, 128));
+Modified (51 -> 51) in article 3749: is_driver span (EMPTY -> (140, 144)); vehicle_type (EMPTY -> unknown);
+Modified (53 -> 53) in article 3740: gender (female -> EMPTY); vehicle_type (EMPTY -> truck);
+Added person 681 in article 3740
+Added person 682 in article 3740
+Modified (54 -> 54) in article 3704: vehicle_type (unknown -> car);
+Removed person 55 in article 3704
+Modified (59 -> 59) in article 3671: severity (none -> serious); severity span (EMPTY -> (147, 148)); vehicle_type (EMPTY -> car);
+Modified (62 -> 62) in article 3653: age (EMPTY -> 22); is_driver span ((332, 335) -> (44, 45)); vehicle_type (him. He tried to ridicule me, tried to -> car); vehicle_type span ((332, 335) -> (44, 45));
+Removed person 63 in article 3653
+Removed person 64 in article 3653
+Removed person 65 in article 3653
+Modified (66 -> 66) in article 3601: is_driver span (EMPTY -> (91, 92)); vehicle_type (EMPTY -> motorcycle);
+Added person 683 in article 3601
+Added person 684 in article 3586
+Modified (71 -> 71) in article 3558: severity (fatal -> none); severity span ((101, 102) -> EMPTY);
+Modified (75 -> 73) in article 3588: age (EMPTY -> 25); gender span ((90, 91) -> (72, 73)); severity (none -> fatal); severity span (EMPTY -> (7, 8)); is_driver span ((187, 188) -> EMPTY);
+Removed person 73 in article 3588
+Modified (79 -> 79) in article 3423: age (EMPTY -> 36);
+Removed person 80 in article 3423
+Added person 685 in article 3408
+Modified (85 -> 85) in article 3220: is_driver span ((1, 2) -> EMPTY);
+Modified (87 -> 87) in article 3197: is_driver span ((50, 60) -> EMPTY); vehicle_type (motorcycle -> EMPTY);
+Modified (89 -> 89) in article 3197: is_driver span (EMPTY -> (50, 60)); vehicle_type (EMPTY -> motorcycle);
+Modified (93 -> 93) in article 3100: vehicle_type (unknown -> van); vehicle_type span ((76, 87) -> (34, 35));
+Modified (96 -> 96) in article 3095: severity (none -> minor); severity span (EMPTY -> (77, 78));
+Modified (98 -> 100) in article 3090: is_driver span ((157, 158) -> (185, 186)); vehicle_type (motorcycle -> pedestrian); vehicle_type span ((157, 158) -> (185, 186));
+Modified (99 -> 686) in article 3090: age (25 -> EMPTY); is_driver span (EMPTY -> (202, 203)); vehicle_type (EMPTY -> truck);
+Modified (100 -> 98) in article 3090: gender (EMPTY -> male); severity span ((145, 146) -> (162, 163)); is_driver span (EMPTY -> (157, 158)); vehicle_type (EMPTY -> motorcycle);
+Added person 99 in article 3090
+Removed person 103 in article 2975
+Modified (106 -> 106) in article 2940: gender (male -> female); gender span ((53, 54) -> (6, 7)); vehicle_type (EMPTY -> car);
+Modified (107 -> 107) in article 2940: vehicle_type (EMPTY -> trailer);
+Added person 687 in article 2940
+Added person 688 in article 2940
+Modified (111 -> 111) in article 2853: age (EMPTY -> 80); severity (none -> serious); severity span (EMPTY -> (97, 98));
+Modified (112 -> 112) in article 2853: age (EMPTY -> 80);
+Modified (113 -> 113) in article 2849: vehicle_type (EMPTY -> carriiage);
+Modified (114 -> 114) in article 2849: vehicle_type (car -> unknown);
+Modified (115 -> 115) in article 2792: severity (none -> EMPTY);
+Modified (116 -> 116) in article 2792: severity (none -> serious); severity span (EMPTY -> (139, 140));
+Modified (117 -> 117) in article 2792: severity (none -> serious); severity span (EMPTY -> (139, 140));
+Modified (118 -> 118) in article 2745: severity (none -> serious); severity span (EMPTY -> (35, 48)); vehicle_type (EMPTY -> motorcycle);
+Removed person 119 in article 2745
+Modified (124 -> 124) in article 2492: vehicle_type (EMPTY -> car);
+Modified (125 -> 125) in article 2452: vehicle_type (EMPTY -> truck);
+Modified (131 -> 131) in article 2419: age (EMPTY -> 64);
+Added person 689 in article 2201
+Added person 690 in article 2201
+Modified (138 -> 138) in article 2157: vehicle_type (truck -> bicycle); vehicle_type span ((40, 50) -> (7, 8));
+Modified (139 -> 139) in article 2157: is_driver span (EMPTY -> (40, 50)); vehicle_type (EMPTY -> truck);
+Modified (142 -> 142) in article 2080: is_driver span (EMPTY -> (35, 36)); vehicle_type (EMPTY -> car);
+Removed person 141 in article 2080
+Removed person 145 in article 2101
+Modified (150 -> 150) in article 1856: severity (none -> minor); severity span (EMPTY -> (99, 100));
+Modified (152 -> 152) in article 1856: vehicle_type (EMPTY -> car);
+Added person 691 in article 1856
+Added person 692 in article 1856
+Added person 693 in article 1856
+Modified (153 -> 153) in article 1860: vehicle_type (car -> cars - a Smart driven by the man and);
+Modified (157 -> 157) in article 1808: is_driver span (EMPTY -> (68, 71)); vehicle_type (EMPTY -> car);
+Modified (173 -> 173) in article 1352: vehicle_type (the road level went down by a few metres before he drove into a pothole. -> motorcycle); vehicle_type span ((273, 282) -> (61, 62));
+Modified (174 -> 174) in article 1286: age (EMPTY -> 29); vehicle_type (van -> EMPTY);
+Modified (175 -> 175) in article 1286: is_driver span (EMPTY -> (37, 48)); vehicle_type (EMPTY -> van);
+Removed person 176 in article 1286
+Modified (181 -> 694) in article 1165: gender (female -> EMPTY); is_driver span (EMPTY -> (14, 16)); vehicle_type (EMPTY -> car);
+Added person 181 in article 1165
+Modified (182 -> 182) in article 1034: vehicle_type (EMPTY -> car);
+Modified (188 -> 188) in article 933: gender (female -> male);
+Modified (190 -> 190) in article 751: age (EMPTY -> 21);
+Modified (191 -> 191) in article 751: age (21 -> EMPTY);
+Modified (192 -> 192) in article 685: severity (minor -> serious); severity span ((107, 108) -> (137, 138));
+Modified (193 -> 696) in article 685: age (21 -> EMPTY); is_driver span ((119, 124) -> EMPTY);
+Modified (194 -> 194) in article 685: severity (none -> minor); severity span (EMPTY -> (107, 108)); vehicle_type (EMPTY -> car);
+Added person 193 in article 685
+Added person 695 in article 685
+Modified (197 -> 197) in article 640: gender (EMPTY -> male);
+Modified (198 -> 198) in article 654: is_driver span (EMPTY -> (75, 76)); vehicle_type (EMPTY -> motorcycle);
+Modified (199 -> 199) in article 607: vehicle_type (van -> bicycle); vehicle_type span ((34, 46) -> (7, 8));
+Added person 697 in article 607
+Added person 698 in article 607
+Modified (200 -> 200) in article 522: is_driver span (EMPTY -> (18, 19)); vehicle_type (EMPTY -> motorcycle);
+Modified (206 -> 206) in article 407: vehicle_type (EMPTY -> bus);
+Modified (207 -> 207) in article 408: is_driver span ((62, 67) -> (84, 89));
+Modified (209 -> 209) in article 408: is_driver span (EMPTY -> (62, 67)); vehicle_type (EMPTY -> car);
+Modified (210 -> 210) in article 416: vehicle_type (EMPTY -> pedestrian);
+Modified (212 -> 212) in article 381: gender (male -> EMPTY); severity span ((5, 6) -> (134, 135)); vehicle_type span ((76, 77) -> (132, 133));
+Added person 699 in article 381
+Modified (218 -> 218) in article 313: severity (none -> minor); severity span (EMPTY -> (101, 102)); vehicle_type (EMPTY -> car);
+Modified (219 -> 219) in article 287: severity (none -> EMPTY);
+Modified (220 -> 220) in article 287: age (EMPTY -> 34);
+Added person 700 in article 287
+Modified (228 -> 228) in article 102356: is_driver span (EMPTY -> (44, 49)); vehicle_type (EMPTY -> truck);
+Removed person 227 in article 102356
+Removed person 229 in article 102356
+Modified (232 -> 232) in article 167578: severity (serious -> none); vehicle_type (from holding a driving licence for three months -> car); vehicle_type span ((343, 344) -> (1, 2));
+Modified (233 -> 233) in article 167578: gender (EMPTY -> female); is_driver span (EMPTY -> (34, 37)); vehicle_type (EMPTY -> pedestrian);
+Removed person 234 in article 167578
+Removed person 240 in article 297731
+Removed person 241 in article 297731
+Removed person 242 in article 455412
+Modified (243 -> 243) in article 450477: severity (fatal -> serious); is_driver span (EMPTY -> (15, 16)); vehicle_type (EMPTY -> bicycle);
+Modified (246 -> 246) in article 353524: is_driver span ((255, 256) -> EMPTY); vehicle_type (EMPTY -> pedestrian);
+Modified (247 -> 247) in article 353524: age (EMPTY -> 83); is_driver span ((467, 475) -> (82, 84)); vehicle_type (court said that it was convinced that the accused was driving responsibly. The evidence -> car); vehicle_type span ((467, 475) -> (82, 84));
+Removed person 248 in article 353524
+Modified (249 -> 249) in article 353518: severity (none -> serious); severity span (EMPTY -> (161, 162));
+Modified (254 -> 254) in article 353525: severity (none -> serious); severity span (EMPTY -> (104, 105));
+Modified (256 -> 256) in article 386207: is_driver span (EMPTY -> (28, 31)); vehicle_type (EMPTY -> car);
+Modified (257 -> 257) in article 386270: is_driver span (EMPTY -> (51, 53)); vehicle_type (EMPTY -> car);
+Modified (258 -> 258) in article 386270: severity (none -> serious); severity span (EMPTY -> (136, 137)); vehicle_type (unknown -> car); vehicle_type span ((127, 132) -> (51, 53));
+Modified (259 -> 259) in article 450529: severity (none -> EMPTY); is_driver span ((32, 39) -> (8, 9)); vehicle_type (car -> motorcycle); vehicle_type span ((32, 39) -> (8, 9));
+Modified (260 -> 260) in article 450529: is_driver span ((82, 83) -> (32, 39)); vehicle_type (EMPTY -> car);
+Modified (261 -> 261) in article 386182: age (EMPTY -> 62); is_driver span ((62, 63) -> EMPTY); vehicle_type (motorcycle -> EMPTY);
+Modified (264 -> 264) in article 386182: severity (none -> minor); severity span (EMPTY -> (217, 218)); is_driver span (EMPTY -> (214, 215)); vehicle_type (EMPTY -> car);
+Modified (267 -> 267) in article 386315: severity (none -> serious); severity span (EMPTY -> (331, 332));
+Modified (270 -> 270) in article 451726: age (23 -> EMPTY);
+Modified (271 -> 271) in article 467167: severity (fatal -> none); severity span ((43, 44) -> EMPTY); vehicle_type (EMPTY -> car); person_state (EMPTY -> drunk);
+Modified (272 -> 272) in article 467167: severity (none -> fatal); severity span (EMPTY -> (43, 44));
+Modified (273 -> 273) in article 467167: vehicle_type (EMPTY -> car);
+Removed person 276 in article 489424
+Removed person 277 in article 489424
+Removed person 278 in article 489424
+Removed person 279 in article 489424
+Removed person 280 in article 489424
+Removed person 281 in article 489424
+Modified (285 -> 285) in article 489475: is_driver span (EMPTY -> (78, 84)); vehicle_type (EMPTY -> car);
+Modified (286 -> 286) in article 489475: gender (EMPTY -> female); severity (none -> critical); severity span (EMPTY -> (134, 135)); vehicle_type (EMPTY -> car);
+Modified (287 -> 287) in article 489475: is_driver span (EMPTY -> (153, 154)); vehicle_type (EMPTY -> car);
+Added person 701 in article 489475
+Added person 702 in article 489475
+Modified (289 -> 289) in article 489370: severity (none -> serious); severity span (EMPTY -> (155, 156)); vehicle_type (unknown -> car);
+Modified (292 -> 292) in article 489720: vehicle_type (year-old boy riding as passenger, collided -> motorcycle);
+Modified (293 -> 293) in article 489720: severity (none -> serious); severity span (EMPTY -> (163, 164));
+Modified (296 -> 296) in article 489720: severity (none -> serious); severity span (EMPTY -> (163, 164));
+Modified (297 -> 297) in article 489728: vehicle_type (year-old boy riding as passenger, collided -> motorcycle);
+Modified (298 -> 298) in article 489728: severity (none -> serious); severity span (EMPTY -> (17, 18));
+Modified (301 -> 301) in article 489728: severity (none -> serious); severity span (EMPTY -> (17, 18));
+Modified (302 -> 302) in article 489733: severity (none -> EMPTY); vehicle_type (EMPTY -> car);
+Modified (303 -> 303) in article 490010: severity (none -> minor); severity span (EMPTY -> (96, 98));
+Modified (304 -> 304) in article 489990: age (EMPTY -> 42); gender (EMPTY -> male); vehicle_type (EMPTY -> car);
+Removed person 305 in article 489990
+Modified (307 -> 307) in article 489878: vehicle_type (EMPTY -> car);
+Removed person 308 in article 489878
+Modified (310 -> 310) in article 489889: vehicle_type (EMPTY -> car);
+Modified (314 -> 314) in article 490008: vehicle_type (EMPTY -> car);
+Modified (315 -> 315) in article 490101: severity (none -> fatal); severity span (EMPTY -> (6, 7)); is_driver span (EMPTY -> (44, 45)); vehicle_type (EMPTY -> motorcycle);
+Modified (322 -> 322) in article 490183: is_driver span ((82, 93) -> EMPTY); vehicle_type (month. He stands accused of the involuntary homicide of Mildred Azzopardi, driving under the influence and -> EMPTY);
+Modified (324 -> 324) in article 490165: vehicle_type (EMPTY -> car);
+Modified (327 -> 327) in article 490160: severity (none -> fatal); severity span (EMPTY -> (147, 148)); is_driver span (EMPTY -> (111, 112)); vehicle_type (EMPTY -> motorcycle);
+Modified (328 -> 328) in article 490160: severity (fatal -> none); severity span ((147, 148) -> EMPTY); vehicle_type (his death and to driving under the influence. -> car); vehicle_type span ((149, 151) -> (116, 118));
+Removed person 325 in article 490160
+Removed person 326 in article 490160
+Modified (329 -> 329) in article 490329: severity (fatal -> none); severity span ((156, 157) -> EMPTY);
+Modified (331 -> 331) in article 490329: severity (none -> fatal); severity span (EMPTY -> (222, 223));
+Removed person 334 in article 490568
+Removed person 335 in article 490568
+Modified (340 -> 340) in article 490697: person_state (EMPTY -> substance intoxicated);
+Modified (341 -> 341) in article 490697: person_state (drunk -> EMPTY);
+Modified (342 -> 342) in article 490697: severity (none -> fatal); severity span (EMPTY -> (515, 516)); is_driver span (EMPTY -> (518, 519)); vehicle_type (EMPTY -> motorcycle);
+Modified (343 -> 343) in article 490697: person_state (EMPTY -> drunk);
+Modified (344 -> 344) in article 490697: person_state (EMPTY -> drunk);
+Added person 703 in article 490697
+Modified (345 -> 345) in article 490746: vehicle_type (reckless manner, causing damage to third property, and driving under influence. He -> car); vehicle_type span ((151, 159) -> (1, 3)); person_state (EMPTY -> drunk);
+Modified (346 -> 346) in article 490815: vehicle_type (EMPTY -> pedestrian);
+Added person 704 in article 491011
+Added person 705 in article 491011
+Added person 706 in article 491118
+Modified (350 -> 350) in article 491226: gender (male -> female); gender span ((154, 155) -> (98, 99)); is_driver (True -> EMPTY); vehicle_type (EMPTY -> car);
+Modified (351 -> 351) in article 491226: gender (EMPTY -> male); is_driver (True -> EMPTY); vehicle_type (EMPTY -> car);
+Modified (353 -> 353) in article 491307: vehicle_type (EMPTY -> car);
+Modified (354 -> 354) in article 491307: vehicle_type (EMPTY -> car);
+Removed person 356 in article 491334
+Modified (358 -> 359) in article 491371: age (EMPTY -> 17); gender span ((176, 177) -> (123, 124)); is_driver span ((179, 181) -> (121, 122)); vehicle_type (man pleaded guilty to driving recklessly while under the -> car); vehicle_type span ((179, 181) -> EMPTY);
+Modified (359 -> 358) in article 491371: age (17 -> EMPTY); gender span ((123, 124) -> (176, 177)); vehicle_type (EMPTY -> motorcycle);
+Modified (366 -> 366) in article 491720: severity (serious -> none); severity span ((14, 15) -> EMPTY); vehicle_type (motorcycle -> car);
+Modified (367 -> 367) in article 491720: severity (fatal -> serious); severity span ((163, 164) -> (14, 15)); person_state (drunk -> EMPTY);
+Modified (368 -> 368) in article 492026: severity (serious -> none); severity span ((14, 15) -> EMPTY); is_driver span ((13, 14) -> (132, 135)); vehicle_type (motorcycle -> car); vehicle_type span ((13, 14) -> (132, 135));
+Modified (369 -> 369) in article 492026: severity (none -> serious); severity span (EMPTY -> (14, 15)); is_driver span ((105, 106) -> (13, 14)); vehicle_type (EMPTY -> motorcycle);
+Modified (372 -> 372) in article 492029: is_driver span ((297, 298) -> (26, 27)); vehicle_type (EMPTY -> truck);
+Removed person 370 in article 492029
+Removed person 371 in article 492029
+Modified (375 -> 375) in article 492115: is_driver span (EMPTY -> (81, 82)); vehicle_type (EMPTY -> car);
+Modified (378 -> 378) in article 492646: gender (male -> female); gender span ((21, 22) -> (32, 33)); severity (none -> fatal); severity span (EMPTY -> (5, 6));
+Added person 707 in article 492646
+Modified (379 -> 379) in article 492654: is_driver span (EMPTY -> (49, 51)); vehicle_type (EMPTY -> car);
+Added person 708 in article 492654
+Modified (382 -> 382) in article 492962: severity (none -> fatal); severity span (EMPTY -> (7, 8));
+Removed person 383 in article 492962
+Modified (387 -> 387) in article 493542: vehicle_type (EMPTY -> car);
+Removed person 388 in article 493542
+Modified (391 -> 391) in article 493598: vehicle_type (EMPTY -> car);
+Removed person 389 in article 493598
+Removed person 390 in article 493598
+Modified (392 -> 392) in article 493702: severity (serious -> EMPTY);
+Modified (393 -> 393) in article 493702: severity (none -> serious); severity span (EMPTY -> (9, 10)); is_driver span (EMPTY -> (6, 7)); vehicle_type (EMPTY -> bicycle);
+Modified (395 -> 395) in article 493670: severity (none -> serious); severity span (EMPTY -> (3, 4));
+Modified (396 -> 396) in article 493670: age (EMPTY -> 34); is_driver span ((140, 141) -> (92, 93)); vehicle_type span ((140, 141) -> (92, 93));
+Modified (398 -> 398) in article 493898: vehicle_type (EMPTY -> pedestrian);
+Modified (400 -> 400) in article 493983: vehicle_type (EMPTY -> pedestrian);
+Removed person 402 in article 494102
+Removed person 403 in article 494102
+Modified (408 -> 408) in article 494363: severity (none -> serious); severity span (EMPTY -> (83, 84));
+Removed person 407 in article 494363
+Modified (409 -> 409) in article 494368: severity (none -> EMPTY); is_driver span (EMPTY -> (13, 14)); vehicle_type (EMPTY -> motorcycle);
+Modified (410 -> 410) in article 494368: is_driver span (EMPTY -> (79, 80)); vehicle_type (EMPTY -> motorcycle);
+Modified (413 -> 413) in article 494571: is_driver span ((8, 12) -> (54, 55)); vehicle_type (lookout for a motorist who allegedly drove on after hitting a -> motorcycle); vehicle_type span ((8, 12) -> (54, 55));
+Modified (415 -> 415) in article 494727: age (EMPTY -> 81); vehicle_type (EMPTY -> car);
+Modified (421 -> 421) in article 495320: person_state (drunk -> EMPTY);
+Removed person 422 in article 495320
+Added person 709 in article 495442
+Modified (425 -> 425) in article 495595: gender (EMPTY -> male); severity (none -> fatal); severity span (EMPTY -> (11, 12)); vehicle_type (possibility the driver suffered a medical episode while driving," the news -> car); vehicle_type span ((114, 120) -> (21, 22));
+Added person 710 in article 495595
+Added person 711 in article 495595
+Added person 712 in article 495595
+Modified (426 -> 426) in article 495731: is_driver span (EMPTY -> (156, 160)); vehicle_type (EMPTY -> car);
+Modified (427 -> 427) in article 495731: severity (none -> fatal); severity span (EMPTY -> (71, 72));
+Modified (428 -> 428) in article 495731: severity (none -> fatal); severity span (EMPTY -> (71, 72));
+Modified (429 -> 429) in article 495731: age (EMPTY -> 67); gender (EMPTY -> female); severity (none -> fatal); severity span (EMPTY -> (71, 72)); is_driver span ((156, 160) -> EMPTY); vehicle_type (unknown -> EMPTY);
+Modified (430 -> 430) in article 495807: severity (none -> minor); severity span (EMPTY -> (158, 159)); vehicle_type (EMPTY -> car);
+Modified (431 -> 431) in article 495807: severity (none -> minor); severity span (EMPTY -> (158, 159));
+Modified (432 -> 432) in article 495807: severity (none -> minor); severity span (EMPTY -> (158, 159)); is_driver span (EMPTY -> (49, 51)); vehicle_type (EMPTY -> car);
+Modified (433 -> 433) in article 495807: severity (none -> minor); severity span (EMPTY -> (158, 159)); vehicle_type (unknown -> car);
+Modified (434 -> 434) in article 495807: age (EMPTY -> 14); gender (EMPTY -> male); vehicle_type (EMPTY -> car);
+Added person 713 in article 495807
+Added person 714 in article 495807
+Modified (435 -> 435) in article 495802: severity (none -> serious); severity span (EMPTY -> (11, 12));
+Modified (436 -> 436) in article 495896: gender (EMPTY -> male); severity (none -> fatal); severity span (EMPTY -> (4, 5)); vehicle_type (EMPTY -> car);
+Modified (437 -> 437) in article 495942: vehicle_type (unknown -> car); vehicle_type span ((85, 92) -> (129, 130));
+Modified (438 -> 438) in article 495942: is_driver span ((117, 126) -> (108, 109)); vehicle_type (car -> motorcycle); vehicle_type span ((117, 126) -> (108, 109));
+Modified (439 -> 439) in article 496006: vehicle_type (and suspended his driving licence for six months -> car);
+Modified (440 -> 440) in article 496006: severity (none -> EMPTY); person_state (drunk -> EMPTY);
+Modified (441 -> 441) in article 495969: severity (none -> serious); severity span (EMPTY -> (9, 10)); vehicle_type (EMPTY -> pedestrian);
+Removed person 442 in article 495969
+Modified (447 -> 447) in article 496362: severity (none -> serious); severity span (EMPTY -> (38, 39)); vehicle_type (car -> motorcycle);
+Modified (448 -> 448) in article 496362: severity (none -> minor); severity span (EMPTY -> (43, 44)); vehicle_type (EMPTY -> motorcycle);
+Modified (450 -> 450) in article 496362: is_driver span (EMPTY -> (89, 91)); vehicle_type (EMPTY -> truck);
+Modified (451 -> 451) in article 496362: vehicle_type (car -> unknown);
+Removed person 449 in article 496362
+Modified (454 -> 454) in article 496773: is_driver span (EMPTY -> (44, 46)); vehicle_type (EMPTY -> car);
+Modified (456 -> 456) in article 496774: is_driver span (EMPTY -> (32, 34)); vehicle_type (EMPTY -> car);
+Modified (458 -> 458) in article 496775: is_driver span (EMPTY -> (29, 31)); vehicle_type (EMPTY -> van);
+Modified (460 -> 460) in article 496776: is_driver span (EMPTY -> (35, 37)); vehicle_type (EMPTY -> car);
+Modified (462 -> 462) in article 496777: is_driver span (EMPTY -> (39, 41)); vehicle_type (EMPTY -> car);
+Modified (467 -> 467) in article 496779: vehicle_type (EMPTY -> car);
+Modified (468 -> 468) in article 496779: is_driver span (EMPTY -> (43, 44)); vehicle_type (EMPTY -> van);
+Modified (472 -> 472) in article 496781: vehicle_type (Gharghur and an Isuzu Rodeo driven by a 59- -> truck);
+Modified (474 -> 474) in article 496782: severity (minor -> serious); severity span ((162, 163) -> (152, 153)); vehicle_type (EMPTY -> unknown);
+Added person 715 in article 496782
+Added person 716 in article 496782
+Added person 717 in article 496782
+Added person 718 in article 496782
+Added person 719 in article 496782
+Modified (484 -> 484) in article 496789: vehicle_type (EMPTY -> car);
+Added person 720 in article 496789
+Modified (493 -> 493) in article 496793: vehicle_type (EMPTY -> car);
+Modified (499 -> 499) in article 496796: is_driver span (EMPTY -> (31, 33)); vehicle_type (EMPTY -> van);
+Modified (502 -> 502) in article 496799: vehicle_type (unknown -> car); vehicle_type span ((40, 47) -> (47, 48));
+Modified (504 -> 504) in article 496800: gender (EMPTY -> male); vehicle_type (EMPTY -> car);
+Modified (505 -> 505) in article 496800: gender span ((116, 117) -> (131, 132)); vehicle_type (EMPTY -> car);
+Modified (506 -> 506) in article 496800: severity (none -> minor); severity span (EMPTY -> (205, 206)); vehicle_type (EMPTY -> car);
+Modified (507 -> 507) in article 496800: is_driver span (EMPTY -> (49, 51)); vehicle_type (EMPTY -> car);
+Modified (508 -> 508) in article 496800: vehicle_type (unknown -> car);
+Added person 721 in article 496800
+Modified (510 -> 510) in article 496801: is_driver span (EMPTY -> (36, 38)); vehicle_type (EMPTY -> car);
+Modified (514 -> 514) in article 496803: is_driver span (EMPTY -> (32, 34)); vehicle_type (EMPTY -> car);
+Modified (516 -> 516) in article 496804: is_driver span (EMPTY -> (31, 33)); vehicle_type (EMPTY -> car);
+Modified (518 -> 518) in article 496805: is_driver span (EMPTY -> (39, 41)); vehicle_type (EMPTY -> car);
+Modified (520 -> 520) in article 496806: is_driver span (EMPTY -> (46, 48)); vehicle_type (EMPTY -> car);
+Modified (522 -> 522) in article 496807: is_driver span (EMPTY -> (43, 45)); vehicle_type (EMPTY -> car);
+Modified (523 -> 523) in article 496807: severity (none -> serious); severity span (EMPTY -> (139, 140)); vehicle_type (EMPTY -> car);
+Modified (524 -> 524) in article 496808: vehicle_type (EMPTY -> motorcycle);
+Modified (526 -> 526) in article 496809: is_driver span ((47, 59) -> EMPTY); vehicle_type (car -> EMPTY);
+Added person 722 in article 496809
+Modified (530 -> 530) in article 496811: vehicle_type (EMPTY -> car);
+Modified (533 -> 533) in article 496813: is_driver span (EMPTY -> (35, 37)); vehicle_type (EMPTY -> car);
+Modified (535 -> 535) in article 496814: is_driver span (EMPTY -> (29, 31)); vehicle_type (EMPTY -> car);
+Modified (539 -> 539) in article 496816: is_driver span (EMPTY -> (45, 48)); vehicle_type (EMPTY -> car);
+Modified (540 -> 540) in article 496817: vehicle_type (EMPTY -> car);
+Modified (544 -> 544) in article 496819: severity (none -> serious); severity span (EMPTY -> (153, 154));
+Modified (545 -> 545) in article 496819: severity (none -> serious); severity span (EMPTY -> (153, 154));
+Modified (547 -> 547) in article 496821: is_driver span ((69, 80) -> EMPTY);
+Modified (548 -> 548) in article 496821: severity (none -> EMPTY); is_driver span (EMPTY -> (69, 80)); vehicle_type (EMPTY -> car);
+Modified (549 -> 549) in article 496821: vehicle_type (. The double decker was being driven by a 39- -> bus);
+Modified (551 -> 551) in article 496822: is_driver span (EMPTY -> (34, 35)); vehicle_type (EMPTY -> car);
+Modified (552 -> 552) in article 496823: vehicle_type (unknown -> motorcycle); vehicle_type span ((67, 71) -> (58, 59));
+Modified (559 -> 559) in article 496827: severity (none -> serious); severity span (EMPTY -> (180, 181));
+Modified (560 -> 560) in article 496827: severity (none -> serious); severity span (EMPTY -> (180, 181));
+Modified (562 -> 562) in article 496827: is_driver span (EMPTY -> (99, 101)); vehicle_type (EMPTY -> van);
+Modified (566 -> 566) in article 496829: is_driver span (EMPTY -> (37, 39)); vehicle_type (EMPTY -> car);
+Modified (571 -> 571) in article 496831: vehicle_type (EMPTY -> car);
+Modified (576 -> 576) in article 496834: is_driver span (EMPTY -> (30, 32)); vehicle_type (EMPTY -> car);
+Modified (579 -> 579) in article 496836: is_driver span (EMPTY -> (43, 44)); vehicle_type (EMPTY -> motorcycle);
+Modified (586 -> 586) in article 496839: vehicle_type (unknown -> car);
+Modified (587 -> 587) in article 496840: severity (minor -> serious); severity span ((149, 150) -> (143, 144)); vehicle_type (unknown -> motorcycle);
+Modified (588 -> 588) in article 496840: severity (none -> minor); severity span (EMPTY -> (149, 150)); is_driver span (EMPTY -> (35, 36)); vehicle_type (EMPTY -> motorcycle);
+Modified (590 -> 590) in article 496840: vehicle_type (unknown -> car);
+Modified (593 -> 593) in article 496842: is_driver span (EMPTY -> (41, 43)); vehicle_type (EMPTY -> motorcycle);
+Modified (594 -> 594) in article 496842: is_driver span (EMPTY -> (62, 63)); vehicle_type (EMPTY -> motorcycle);
+Modified (596 -> 596) in article 496843: is_driver span (EMPTY -> (45, 47)); vehicle_type (EMPTY -> car);
+Modified (597 -> 597) in article 496844: is_driver span (EMPTY -> (39, 40)); vehicle_type (EMPTY -> motorcycle);
+Modified (599 -> 599) in article 496845: severity (none -> serious); severity span (EMPTY -> (111, 112));
+Modified (600 -> 600) in article 496845: severity (none -> serious); severity span (EMPTY -> (111, 112)); is_driver span ((84, 85) -> EMPTY); vehicle_type (EMPTY -> motorcycle);
+Modified (602 -> 602) in article 496845: is_driver span (EMPTY -> (32, 34)); vehicle_type (EMPTY -> car);
+Removed person 601 in article 496845
+Modified (611 -> 611) in article 496850: is_driver span (EMPTY -> (47, 49)); vehicle_type (EMPTY -> car);
+Modified (613 -> 613) in article 496851: vehicle_type (unknown -> car);
+Modified (614 -> 614) in article 496852: severity (none -> serious); severity span (EMPTY -> (147, 148));
+Modified (616 -> 616) in article 496852: severity (none -> serious); severity span (EMPTY -> (147, 148));
+Modified (618 -> 618) in article 496853: is_driver span (EMPTY -> (73, 74)); vehicle_type (EMPTY -> bicycle);
+Modified (619 -> 619) in article 496853: age span ((84, 89) -> (36, 41)); is_driver span (EMPTY -> (28, 30)); vehicle_type (EMPTY -> van);
+Added person 723 in article 496853
+Modified (620 -> 620) in article 496854: vehicle_type (EMPTY -> motorcycle);
+Modified (624 -> 624) in article 496856: severity (serious -> fatal); severity span ((136, 137) -> (12, 15)); is_driver span ((79, 92) -> EMPTY); vehicle_type (truck -> EMPTY);
+Added person 724 in article 496856
+Added person 725 in article 496856
+Modified (627 -> 627) in article 496857: vehicle_type (EMPTY -> car);
+Modified (628 -> 628) in article 496857: severity (none -> serious); severity span (EMPTY -> (180, 181)); vehicle_type (EMPTY -> car);
+Modified (632 -> 632) in article 496859: is_driver span (EMPTY -> (45, 47)); vehicle_type (EMPTY -> car);
+Modified (636 -> 636) in article 496861: severity (minor -> serious); severity span ((183, 184) -> (171, 172));
+Modified (637 -> 637) in article 496861: severity (none -> minor); severity span (EMPTY -> (183, 184)); vehicle_type (EMPTY -> car);
+Modified (641 -> 641) in article 496864: severity (serious -> none);
+Added person 726 in article 496864
+Modified (647 -> 647) in article 496867: vehicle_type (EMPTY -> car);
+Modified (648 -> 648) in article 496867: is_driver span (EMPTY -> (42, 44)); vehicle_type (EMPTY -> car);
+Modified (650 -> 650) in article 496868: is_driver span (EMPTY -> (29, 31)); vehicle_type (EMPTY -> car);
+Modified (651 -> 651) in article 496869: severity (none -> minor); severity span (EMPTY -> (120, 121));
+Modified (652 -> 652) in article 496869: vehicle_type (EMPTY -> car);
+Added person 727 in article 496869
+Modified (654 -> 654) in article 496870: is_driver span (EMPTY -> (29, 31)); vehicle_type (EMPTY -> van);
+Modified (658 -> 658) in article 496872: vehicle_type (EMPTY -> van);
+Modified (659 -> 659) in article 496873: severity (serious -> fatal); severity span ((113, 114) -> (12, 15));
+Modified (661 -> 661) in article 496874: is_driver span ((28, 29) -> (97, 99)); vehicle_type (EMPTY -> car);
+Added person 728 in article 496874
+Modified (663 -> 663) in article 496875: vehicle_type (EMPTY -> car);
+Modified (665 -> 665) in article 496876: is_driver span (EMPTY -> (29, 31)); vehicle_type (EMPTY -> car);
+Modified (667 -> 667) in article 496877: is_driver span (EMPTY -> (30, 32)); vehicle_type (EMPTY -> car);
+Modified (672 -> 673) in article 496881: age (64 -> 68); age span ((39, 44) -> (31, 36)); gender span ((36, 37) -> (102, 103));
+Modified (673 -> 672) in article 496881: age (EMPTY -> 64); gender span ((102, 103) -> (36, 37));
+Modified (676 -> 676) in article 496882: is_driver span (EMPTY -> (35, 37)); vehicle_type (EMPTY -> car);
+Modified (677 -> 677) in article 496883: severity (none -> serious); severity span (EMPTY -> (123, 124));
+Modified (678 -> 678) in article 496883: severity (none -> serious); severity span (EMPTY -> (123, 124));
