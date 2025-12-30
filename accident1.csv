@@ -108,7 +108,7 @@ id,accident_type,publish_date,publish_time,location,car_type,text_start_char,tex
 3095,collision,,,,,0,124,"A motorist, 24, was killed and a passenger was injured in a crash at the mouth of the Kirkop tunnels late on Monday evening."
 3095,collision,,,,,383,441,Sources said no other cars were involved in the 9pm crash.
 3095,collision,,,,,442,547,The police said the car went out of control and crashed into a pillar on the opposite side of the road.  
-3090,collision,,,,,105,301,"Christ Gatt, 24, of Mtarfa, died on the spot after his BMW crashed into a concrete pillar at the mouth of the Kirkop tunnels, having apparently clipped a centre strip and careened across the road."
+3090,collision,,,,bmw,105,301,"Christ Gatt, 24, of Mtarfa, died on the spot after his BMW crashed into a concrete pillar at the mouth of the Kirkop tunnels, having apparently clipped a centre strip and careened across the road."
 3090,unknown,,,,,454,532,A passenger in the car was injured and hospitalised after the 9pm accident.   
 3090,collision,,,,motorcyclist,727,849,Italian motorcyclist Danilo De Dominicis was killed on January 23 after crashing into the wall of the Tal-Qroqq tunnels.  
 3090,collision,,,Malta,,960,1134,"Malta's first crash victim of the year was Alejandro Brincat, 25, from Mtarfa, who was killed when his car smashed into a tree on the Mdina road in Attard, also on January 6."
@@ -185,7 +185,7 @@ id,accident_type,publish_date,publish_time,location,car_type,text_start_char,tex
 1490,unknown,,,,,483,562,Magistrate Ian Farrugia was informed of the accident and has opened an inquiry.
 1489,collision,,,Xaghra,,0,100,"Three people were rushed to hospital on Friday following a crash between two cars in Xaghra, Gozo.  "
 1489,unknown,,,,,100,174,The police said the accident was reported at around 5pm on Triq ix-Xaghra.
-1489,collision,,,,nissan,175,307,The collision occured between a Hyundai driven by a 74-year-old man from Xaghra and a Nissan driven by a 33-year-old Albanian man.  
+1489,collision,,,,,175,307,The collision occured between a Hyundai driven by a 74-year-old man from Xaghra and a Nissan driven by a 33-year-old Albanian man.  
 1467,unknown,,,,motorcycle,0,112,"A 43-year-old motorcyclist was injured in a motorcycle accident on December 13 Road, Marsa, on Sunday afternoon."
 1467,collision,,,,motorcycle,113,251,The police said the accident happened at 2.30pm when the Nepalese man lost control of his motorcycle and crashed into an electricity pole.
 1380,collision,,,Birzebbuga,motorcyclist,0,104,"A motorcyclist was grievously injured in a crash on Triq Ghar Dalam, Birzebbuga, on Wednesday afternoon."
@@ -418,11 +418,11 @@ id,accident_type,publish_date,publish_time,location,car_type,text_start_char,tex
 491118,unknown,,,Sliema,,412,589,"Michael Spiteri, who was attending to the first call out of the day at just before 6am on Thursday in the wake of the Sliema accident, warned this could ""have ended in tragedy""."
 491118,unknown,,,,,915,1306,"In a number of proposals to address the issue, the Opposition insisted on ""zero tolerance"" for accidents caused by drivers who are found to be under the influence of alcohol or drugs, stronger law enforcement, harsher penalties and the introduction of a ""new specific criminal offence"" for causing death or grievous bodily harm due to gross negligence, recklessness and/or dangerous driving."
 491226,collision,,,,motorcyclist,0,187,A motorcyclist was seriously injured in an early morning collision on Friday as police continue to search for a man who was allegedly involved in the accident but ran away from the scene.
-491226,collision,,,Msida,nissan,188,349,A 57-year old man from Msida who was riding a Honda motorbike was involved in a collision with a Nissan March at 5.30am on Sir Anthony Mamo street in Birkirkara.
-491226,unknown,,,,nissan,636,762,The police are looking for a man who allegedly was also in the Nissan at the time of the accident but ran away from the scene.
+491226,collision,,,Msida,,188,349,A 57-year old man from Msida who was riding a Honda motorbike was involved in a collision with a Nissan March at 5.30am on Sir Anthony Mamo street in Birkirkara.
+491226,unknown,,,,,636,762,The police are looking for a man who allegedly was also in the Nissan at the time of the accident but ran away from the scene.
 491307,collision,,,,motorcycle,0,178,"Over 24 hours after a collision between a motorcycle and a car left a biker with serious injuries, police are still looking for the car driver who fled the scene of the accident."
-491307,collision,,,Msida,nissan,179,352,"A 57-year-old man from Msida, who was riding a Honda motorbike, was involved in a collision with a Nissan March at 5.30am on Friday on Sir Anthony Mamo Street in Birkirkara."
-491307,unknown,,,,nissan,531,611,"However, the male driver of the Nissan allegedly fled the scene of the accident."
+491307,collision,,,Msida,,179,352,"A 57-year-old man from Msida, who was riding a Honda motorbike, was involved in a collision with a Nissan March at 5.30am on Friday on Sir Anthony Mamo Street in Birkirkara."
+491307,unknown,,,,,531,611,"However, the male driver of the Nissan allegedly fled the scene of the accident."
 491307,unknown,,,,,612,732,"On Saturday afternoon, police confirmed they are still looking for the man as investigations into the accident continue."
 491334,collision,,,,motorcyclist,0,158,"The mother of a 27-year-old motorcyclist killed in a Pembroke crash has voiced frustration that, one month later, police have not charged the driver involved."
 491334,unknown,,,,,591,630,All other accidents they charge someone
@@ -431,7 +431,7 @@ id,accident_type,publish_date,publish_time,location,car_type,text_start_char,tex
 491371,unknown,,,,,1034,1223,"The Nationalist Party has said it will be proposing a private member's bill for ""zero tolerance"" for accidents caused by drivers who are found to be under the influence of alcohol or drugs."
 491371,collision,,,,motorcycle,1371,1541,"Magistrate Joe Mifsud called for random roadside alcohol and drug testing of drivers, after a fatal Senglea motorcycle crash revealed the rider had cocaine in his system."
 491489,unknown,,,,motorcyclist,0,138,Police are still searching for a man who allegedly fled the scene of an accident that left a motorcyclist seriously injured four days ago.
-491489,collision,,,Birkirkara,nissan,139,302,"On Friday, a 57-year-old man who was riding a Honda motorbike was involved in a collision with a Nissan March at 5.30am on Sir Anthony Mamo Street in Birkirkara.  "
+491489,collision,,,Birkirkara,,139,302,"On Friday, a 57-year-old man who was riding a Honda motorbike was involved in a collision with a Nissan March at 5.30am on Sir Anthony Mamo Street in Birkirkara.  "
 491489,unknown,,,,,402,616,"At the time, police said a 25-year-old woman was taken to the hospital in a state of shock, but officers were still searching for a man who was allegedly in the car at the time of the accident and fled the scene.  "
 491489,unknown,,,,,794,942,"After further questioning, a police spokesperson said the male person who was allegedly in the vehicle during the accident has not yet been found.  "
 491557,unknown,,,,,104,305,"The accident happened at 5.10am when a Renault Megane smashed into a Citroen C4, a Peugeot 308, a Honda Jazz, a Land Rover Evoke, a Kia Picanto and a Smart x 2 on Tower Road, near Independence Gardens."
@@ -446,7 +446,7 @@ id,accident_type,publish_date,publish_time,location,car_type,text_start_char,tex
 492029,collision,,,,,1546,1711,"""If the person who crashed into our place was in any way a responsible person, they would have stopped to assess the damage and take accountability, but they didn't."
 492115,collision,,,Marsa,motorcyclist,0,115,A motorcyclist was grievously injured on Friday afternoon after he was involved in a collision with a car in Marsa.
 492115,unknown,,,,,116,187,The accident happened at around 3.15pm in Triq Emmanuele Luigi Galizia.
-492115,collision,,,Birzebbuga,,188,354,The 55-year old man who is from Birzebbuga was riding his Daelim motorbike when he was involved in a collision with a BMW 318 driven by a 33-year old woman from Luqa.
+492115,collision,,,Birzebbuga,bmw,188,354,The 55-year old man who is from Birzebbuga was riding his Daelim motorbike when he was involved in a collision with a BMW 318 driven by a 33-year old woman from Luqa.
 492291,unknown,,,,,536,619,A previous version of this article incorrectly stated the location of the accident.
 492646,unknown,,,,,0,92,An elderly Maltese couple were killed in a car accident on a Sicily motorway on Wednesday.  
 492646,collision,,,,truck,92,343,"Sources confirmed the husband, aged 73, and his 69-year old wife were driving a Toyota Yaris with a Maltese registration number plate on the Catania - Ragusa motorway close to Lentini when they were involved in a head-on collision with a truck at 3pm."
@@ -704,7 +704,7 @@ Moreover, the court found that ""on the day of the collision the right to silenc
 496852,collision,,,Fgura,motorcycle,185,385,Preliminary investigations showed that a collision occurred between a Suzuki motorcycle driven by a 21-year-old man residing in Fgura and a Toyota Vitz driven by a 21-year-old woman residing in Qormi.
 496852,unknown,,,,motorcyclist,603,792,"A medical team assisted in both accidents and the two motorcyclists were taken to hospital by ambulance for medical treatment, where they were certified to have sustained grievous injuries."
 496853,unknown,,,Triq Villabate,,0,102,"Today at around 1000hrs, the Police were informed of a traffic accident in Triq Villabate, Marsascala."
-496853,collision,,,Ivory Coast,nissan,102,373,"Preliminary investigations showed that a collision occurred between a Peugeot partner that was being driven by a 38-year-old man from Ivory Coast and a resident of Marsa, a Nissan March that was being driven by a 43-year-old Italian and a 67-year-old cyclist from Zejtun."
+496853,collision,,,Ivory Coast,,102,373,"Preliminary investigations showed that a collision occurred between a Peugeot partner that was being driven by a 38-year-old man from Ivory Coast and a resident of Marsa, a Nissan March that was being driven by a 43-year-old Italian and a 67-year-old cyclist from Zejtun."
 496854,collision,,,Gozo,motorcycle,0,165,A 30-year-old Englishman is being detained after he allegedly stole a motorcycle in Gozo and shortly afterwards was involved in a collision with the same motorcycle.
 496854,unknown,,,Gharb,,165,255,"At around 1330 hrs, the Police were informed of a traffic accident in Triq L-Gharb, Gharb."
 496854,unknown,,,,motorcycle,256,460,"Police went immediately on site where they found that an accident had occurred between two motorcycles, a Honda and a Kymco, and the Honda driver, a 34-year-old man from Xaghra, needed medical assistance."
@@ -729,11 +729,11 @@ Moreover, the court found that ""on the day of the collision the right to silenc
 496866,unknown,,,Bay,,0,191,"A 36-year-old Italian woman, resident in St Paul's Bay, was taken to Mater Dei Hospital at around 8:45 a.m. due to injuries sustained in a traffic accident in Triq Sant' Andrija, St Julian's."
 496867,unknown,,,Birkirkara,,0,156,"Early this morning, at around half past five (0530 hrs), the Police were informed that a traffic accident had occurred in Triq Sir Anthony Mamo, Birkirkara."
 496867,collision,,,Msida,motorcycle,156,311,"Preliminary investigations showed that a collision took place between a Nissan March and a Honda motorcycle driven by a 57-year-old man, resident in Msida."
-496867,unknown,,,Bay,nissan,458,719,"In the Nissan there was a 25-year-old woman from St Paul's Bay who was not injured but was taken to hospital due to shock, while the Police are looking for a man who allegedly was also in the Nissan at the time of the accident, but who allegedly left the scene."
+496867,unknown,,,Bay,,458,719,"In the Nissan there was a 25-year-old woman from St Paul's Bay who was not injured but was taken to hospital due to shock, while the Police are looking for a man who allegedly was also in the Nissan at the time of the accident, but who allegedly left the scene."
 496868,unknown,,,0830hrs,,0,100,"Today, at around 0830hrs, the Police were informed of a traffic accident in Triq Zaghfran, H'Attard."
 496868,collision,,,Birkirkara,motorcycle,100,316,Preliminary investigations showed that a collision occurred between a Toyota Passo driven by a 19-year-old woman residing in Birkirkara and a Kawazaki motorcycle driven by a 31-year-old man also living in Birkirkara.
 496869,unknown,,,,,0,122,"Yesterday, at around 1700 hrs, the Police were informed about a traffic accident occurred in Triq ix-Xaghra, Xaghra, Gozo."
-496869,collision,,,,nissan,122,381,"The Police went immediately on site and from preliminary investigations, it resulted that a collision had occurred between a Hyundai that was being driven by a 74-year-old man from Xaghra and a Nissan that was being driven by a 33 years old Albanian national."
+496869,collision,,,,,122,381,"The Police went immediately on site and from preliminary investigations, it resulted that a collision had occurred between a Hyundai that was being driven by a 74-year-old man from Xaghra and a Nissan that was being driven by a 33 years old Albanian national."
 496869,unknown,,,,,673,725,Police investigations into the accident are ongoing.
 496870,unknown,,,,,0,101,"Today, at around 1100hrs, the Police were informed of a traffic accident in Triq Melqart, Marsaxlokk."
 496870,collision,,,,motorcycle,101,286,Preliminary investigations showed that a collision occurred between a Ford Transit driven by a 30-year-old man from Haz-Zabbar and a Kymco motorcycle driven by a 35-year-old French man.
@@ -742,7 +742,7 @@ Moreover, the court found that ""on the day of the collision the right to silenc
 496873,unknown,,,Mellieha,,156,342,"Earlier: A 54-year-old Englishman resident in Mellieha, at around 1700hrs, was taken to Mater Dei Hospital because he was injured in a traffic accident in Dawret San Pawl, St Paul's Bay."
 496873,collision,,,,motorcycle,342,490,"Preliminary investigations showed that the man was riding a Honda motorcycle, lost control and crashed into a skip which was stationary on the road."
 496874,unknown,,,,,0,212,Two police officers were grievously injured last night when they were involved in an accident while following a vehicle which left the scene at excessive speed after the driver noticed the presence of the police.
-496874,collision,,,,,290,632,"Upon arriving in the vicinity, they noticed a person who was involved in the case fleeing the scene with a BMW.The police therefore followed this vehicle and as soon as they arrived in Triq is-Sorijiet, Tarxien, the Corps vehicle, Hyundai Tucson, was involved in a collision with a Fiat 500, driven by a 25-year-old woman residing in Tarxien."
+496874,collision,,,,bmw,290,632,"Upon arriving in the vicinity, they noticed a person who was involved in the case fleeing the scene with a BMW.The police therefore followed this vehicle and as soon as they arrived in Triq is-Sorijiet, Tarxien, the Corps vehicle, Hyundai Tucson, was involved in a collision with a Fiat 500, driven by a 25-year-old woman residing in Tarxien."
 496875,unknown,,,,,0,104,"Today, at around 0800hrs, the Police were informed of a traffic accident in Triq Marsaxlokk, Marsaxlokk."
 496875,collision,,,Msida,toyota,104,262,Preliminary investigations showed that a 35-year-old Libyan man from Msida lost control of the Toyota Yaris he was driving and crashed into a pole and a wall.
 496876,unknown,,,,,0,100,"Yesterday, at around 1830hrs, the police were informed of a traffic accident in Attard Road, Zebbug."
