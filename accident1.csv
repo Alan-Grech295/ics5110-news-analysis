@@ -1,326 +1,356 @@
-id,date_time,accident_type,car_type,location
-4208,2024-12-04 17:00:00,collision,truck,the Regional Road
-4093,2024-12-11 15:00:00,collision,motorcyclist,
-4110,2024-12-11 13:00:00,collision,motorcyclist,Bay
-4066,2024-12-13 17:30:00,collision,bus,Mellieha
-4067,2024-12-11 18:00:00,collision,bus,Malta
-4087,2024-12-14 18:00:00,collision,bus,Mellieha
-4049,2024-12-15 21:00:00,collision,motorcyclist,Xewkija
-4034,2024-12-13 19:45:00,collision,,Zabbar
-4007,2024-12-11 18:00:00,collision,motorcycle,Bay
-4024,2024-12-13 00:00:00,collision,truck,Malta
-4014,2024-12-17 15:00:00,collision,van,Siggiewi
-3989,,collision,bus,
-3991,2024-12-20 00:00:00,unknown,motorcycle,Birkirkara
-3976,2024-12-20 11:30:00,collision,,Naxxar
-3964,,collision,motorcyclist,Aprilia
-3966,2024-12-22 10:15:00,collision,,Mtarfa
-3938,2024-12-23 08:00:00,collision,bus,Naxxar
-3910,2024-12-23 00:00:00,collision,bus,the United Arab Emirates
-3885,2024-12-27 08:00:00,collision,toyota,Marsa
-3900,2024-12-27 00:00:00,collision,truck,Hamrun
-3861,2024-12-29 00:00:00,collision,,Swieqi
-3834,2024-12-30 00:00:00,collision,,
-3766,2025-01-05 12:30:00,collision,,Zebbug
-3747,2025-01-06 21:00:00,collision,,Tributes
-3749,2025-01-06 20:00:00,collision,truck,Fgura
-3740,2025-01-07 21:00:00,collision,truck,Attard
-3704,2025-01-08 21:00:00,collision,,Malta
-3699,2025-01-08 00:00:00,collision,,Malta
-3671,2025-01-09 11:00:00,collision,,Rabat
-3653,2025-01-11 00:00:00,collision,,
-3601,2025-01-15 08:00:00,unknown,motorcycle,
-3586,2025-01-15 16:45:00,collision,toyota,Sliema
-3551,2025-01-16 10:15:00,collision,motorcyclist,Naxxar
-3558,2025-01-16 00:00:00,collision,,Malta
-3588,,collision,,St Julian's
-3456,2025-01-22 21:00:00,unknown,motorcyclist,Sliema
-3442,2025-01-23 20:15:00,collision,motorcycle,Birkirkara
-3423,2025-01-25 00:00:00,collision,motorcycle,Msida
-3408,2025-01-25 15:00:00,collision,motorcycle,the Coast Road
-3255,2025-02-01 12:45:00,collision,motorcyclist,Birkirkara
-3220,2025-01-31 00:00:00,collision,,St Julian's
-3197,2025-02-04 08:00:00,collision,motorcyclist,Zejtun
-3206,2025-02-05 09:00:00,unknown,,Zebbug
-3169,2025-02-06 08:00:00,collision,motorcyclist,Naxxar
-3100,2025-02-08 18:00:00,collision,van,Gozo
-3095,2025-02-10 18:00:00,collision,bmw,
-3090,2025-02-11 21:00:00,collision,truck,Malta
-3001,2025-02-14 00:00:00,collision,motorcyclist,Iklin
-2975,2025-02-16 00:00:00,collision,motorcyclist,Malta
-2974,2025-02-16 11:00:00,collision,toyota,Siggiewi
-2940,2025-02-17 15:00:00,collision,truck,Marsascala
-2872,2025-02-19 18:00:00,collision,motorcyclist,Marsascala
-2873,2025-02-20 00:00:00,collision,,Bay
-2853,2025-02-21 08:00:00,collision,toyota,Paola
-2849,2025-02-21 15:00:00,collision,,Floriana
-2792,2025-02-24 14:15:00,collision,motorcycle,Hamrun
-2745,2025-02-24 23:00:00,collision,van,
-2666,2025-03-03 08:00:00,unknown,,Marsa
-2658,2025-03-03 08:00:00,collision,,Xewkija
-2557,2025-03-08 18:00:00,collision,motorcycle,Bay
-2492,2025-03-13 14:45:00,collision,bus,Zebbug
-2452,2025-03-14 08:00:00,collision,truck,Mdina
-2461,2025-03-14 21:00:00,collision,bmw,Paola
-2419,2025-03-16 08:00:00,collision,,Zebbug
-2409,2025-03-16 08:00:00,unknown,motorcyclist,the Coast Road
-2301,2025-03-22 08:00:00,collision,bus,Ghajnsielem
-2259,2025-03-22 15:00:00,collision,truck,Nadur
-2201,2025-03-26 00:00:00,unknown,motorcycle,Siggiewi
-2157,2025-03-28 08:00:00,collision,truck,San Gwann
-2080,2025-04-01 08:00:00,collision,,Naxxar
-2101,2025-04-01 00:00:00,collision,,Mgarr
-1989,2025-04-06 08:30:00,collision,motorcyclist,Kawasaki
-1967,2025-04-06 20:45:00,collision,motorcycle,Santa Lucija
-1856,2025-04-07 08:55:00,collision,bus,the Coast Road
-1860,2025-04-13 15:00:00,collision,toyota,Birzebbuga
-1808,2025-04-15 12:50:00,collision,van,Marsa
-1776,2025-04-17 08:00:00,collision,motorcyclist,Zejtun
-1769,2025-04-17 15:00:00,collision,,Santa Lucija
-1745,2025-04-18 09:45:00,collision,,Mosta
-1718,2025-04-18 13:30:00,collision,motorcycle,Bay
-1490,2025-05-02 15:00:00,collision,motorcyclist,Gharb
-1489,2025-05-02 17:00:00,collision,,Xaghra
-1467,2025-05-04 15:00:00,collision,motorcycle,
-1380,2025-05-07 15:00:00,collision,motorcycle,Birzebbuga
-1352,2025-05-09 00:00:00,collision,bus,Siggiewi
-1286,,collision,motorcyclist,Zebbug
-1275,2025-05-12 08:00:00,unknown,motorcyclist,Hamrun
-1227,2025-05-14 15:00:00,collision,motorcycle,Santa Venera
-1165,2025-05-17 18:30:00,collision,,Mellieha
-1034,2025-05-22 08:00:00,collision,toyota,
-1015,2025-05-24 08:00:00,collision,motorcycle,Bay
-974,2025-05-25 13:15:00,collision,,Bugibba
-964,2025-05-27 17:20:00,collision,motorcycle,
-933,2025-05-27 12:30:00,unknown,motorcycle,Malta
-760,2025-06-03 04:30:00,collision,van,
-751,2025-06-04 21:00:00,collision,motorcycle,Bay
-685,2025-06-06 21:00:00,collision,,Bay
-679,2025-06-06 15:00:00,collision,motorcyclist,Xewkija
-640,2025-06-07 17:00:00,collision,truck,
-654,2025-06-07 08:00:00,collision,truck,Tributes
-607,2025-06-12 15:10:00,collision,van,Marsascala
-522,2025-06-13 18:00:00,collision,motorcycle,Xewkija
-404,2025-06-19 10:15:00,collision,motorcyclist,Luqa.
-407,2025-06-19 08:00:00,collision,bus,Zejtun
-408,2025-06-18 20:13:00,collision,,Zebbug
-416,2025-06-19 13:15:00,unknown,toyota,Floriana
-381,2025-06-19 18:30:00,collision,motorcyclist,Gudja
-370,2025-06-18 21:00:00,unknown,,Malta
-361,2025-06-21 13:15:00,unknown,toyota,Floriana
-313,2025-06-23 08:00:00,collision,van,Gzira
-287,2025-06-25 07:00:00,collision,bus,the Regional Road
-113265,2025-07-05 08:00:00,collision,motorcyclist,Mellieha
-190828,2025-07-06 00:00:00,collision,,Mosta
-139548,2025-07-09 18:00:00,collision,motorcycle,Msida
-102356,2025-07-14 00:00:00,collision,truck,Bay
-220724,2025-07-14 11:00:00,collision,motorcyclist,Marsaxlokk
-167578,2025-07-15 00:00:00,collision,,
-141175,2025-07-17 13:15:00,collision,motorcyclist,Gzira
-130030,2025-07-16 17:00:00,collision,,Mqabba
-226588,2025-07-17 21:00:00,collision,,Birkirkara Valley Road
-297731,2025-07-19 16:30:00,collision,,Baluta Bay
-455412,2025-07-18 15:00:00,collision,truck,Balluta Bay
-450477,2025-07-19 00:00:00,unknown,,
-297729,,collision,van,the Regional Road
-353524,2025-07-23 00:00:00,collision,motorcycle,Paola
-353518,2025-07-23 08:00:00,collision,van,Mosta
-353565,2025-07-24 08:00:00,collision,motorcyclist,Naxxar
-353525,2025-07-24 08:00:00,rollover,motorcycle,Kawasaki
-386207,2025-07-26 08:00:00,unknown,motorcycle,Pembroke
-386270,2025-07-27 18:35:00,collision,bus,Fgura
-450529,,collision,motorcycle,Sliema
-386182,2025-07-27 18:00:00,collision,motorcycle,Valletta
-386315,2025-07-27 19:30:00,collision,bus,Hamrun
-451726,2025-07-26 08:00:00,collision,bus,Naxxar
-467167,2025-07-30 09:15:00,collision,,Malta
-467110,2025-07-29 18:00:00,unknown,motorcycle,Zurrieq
-489424,2025-08-03 01:00:00,collision,bus,Malta
-489339,2025-08-04 18:40:00,collision,bus,Mosta Road
-489475,,collision,bus,Zabbar
-489370,2025-08-04 15:30:00,collision,motorcycle,Marsa
-489720,2025-08-06 00:00:00,collision,motorcycle,Naxxar
-489728,2025-08-06 00:00:00,collision,motorcycle,Naxxar
-489733,2025-08-07 09:56:00,collision,bus,Santa Venera
-490010,2025-08-09 08:00:00,rollover,,San Gwann
-489990,2025-08-08 08:00:00,unknown,bus,Santa Venera
-489878,2025-08-10 08:00:00,collision,van,Birkirkara
-489889,2025-08-10 12:30:00,collision,van,Birkirkara
-489884,2025-08-10 09:00:00,collision,van,Floriana
-490008,2025-08-10 08:00:00,collision,bus,
-490101,2025-08-11 05:20:00,collision,van,Nepal
-490073,2025-08-11 12:00:00,collision,van,Nepal
-489993,2025-08-10 19:00:00,collision,motorcycle,San Gwann
-490183,2025-08-12 08:00:00,collision,,Hamrun
-490165,2025-08-12 08:00:00,collision,,Guardamangia
-490160,2025-08-10 05:25:00,collision,motorcycle,Nepal
-490329,2025-08-13 00:00:00,collision,truck,Nepal
-490371,2025-08-14 08:00:00,collision,motorcyclist,Pembroke
-490568,2025-08-14 05:30:00,collision,motorcyclist,Pembroke
-490632,2025-08-17 00:00:00,rollover,truck,Nepali
-490684,2025-08-17 15:00:00,collision,motorcycle,Naxxar
-490653,2025-08-14 08:00:00,collision,motorcycle,Primavalle
-490697,2025-08-18 00:00:00,collision,truck,UK
-490746,2025-08-18 00:00:00,collision,,Santa Venera
-490815,2025-08-18 08:00:00,pedestrian,truck,Zabbar
-491011,2025-08-21 08:00:00,collision,bus,
-491118,2025-08-21 06:00:00,collision,bus,Malta
-491226,2025-08-22 08:00:00,collision,motorcyclist,Msida
-491307,2025-08-23 15:00:00,collision,motorcycle,Msida
-491334,2025-08-24 00:00:00,collision,motorcyclist,Paola
-491371,2025-08-21 00:00:00,collision,bus,
-491489,2025-08-22 05:30:00,collision,motorcyclist,Birkirkara
-491557,2025-08-26 05:10:00,collision,,
-491707,2025-08-26 18:00:00,collision,motorcyclist,Zebbug
-491720,2025-08-27 08:00:00,collision,motorcycle,Bay
-492026,2025-08-29 08:00:00,collision,motorcycle,Bay
-492029,2025-08-27 21:00:00,collision,truck,St Julian's
-492115,2025-08-29 15:00:00,collision,motorcyclist,Marsa
-492291,2025-08-31 08:00:00,collision,,
-492646,2025-09-03 15:00:00,collision,truck,Augusta
-492654,2025-09-03 18:00:00,collision,truck,Tributes
-492806,2025-09-04 15:00:00,collision,,Zurrieq
-492962,,collision,truck,Janice
-493044,2025-09-07 15:00:00,collision,motorcyclist,Luqa.
-493372,2025-09-11 08:00:00,unknown,motorcycle,Msida
-493542,2025-09-12 15:00:00,collision,bus,Marsa
-493598,2025-09-12 15:00:00,collision,,
-493702,2025-09-14 00:00:00,unknown,motorcyclist,Zabbar
-493664,2025-09-13 21:00:00,collision,,Paola
-493670,2025-09-13 21:00:00,collision,motorcycle,Msida
-493898,2025-09-16 15:00:00,collision,,Republic Street
-493983,2025-09-16 18:00:00,collision,toyota,Zabbar
-494102,2025-09-17 00:00:00,collision,truck,Bay
-494209,2025-09-18 18:00:00,collision,motorcyclist,Zabbar
-494363,2025-09-20 13:30:00,collision,,Gozo
-494368,2025-09-20 13:30:00,collision,motorcycle,Gozo
-494438,2025-09-21 08:30:00,collision,,
-494571,2025-09-22 18:00:00,collision,motorcycle,San Gwann
-494727,2025-09-24 08:00:00,collision,toyota,Sta Venera
-494856,2025-09-25 15:00:00,collision,motorcycle,Rabat
-494910,2025-09-25 18:00:00,collision,motorcyclist,Marsascala
-495320,2025-09-30 00:00:00,collision,,
-495442,2025-10-02 15:00:00,collision,bus,
-495504,2025-10-02 08:00:00,collision,motorcyclist,Qala
-495595,2025-10-02 16:20:00,unknown,truck,Croatia
-495731,2025-10-04 16:20:00,collision,truck,Croatia
-495807,2025-10-04 23:00:00,collision,,San Gwann
-495802,,collision,truck,Malta
-495896,2025-10-02 00:00:00,collision,truck,Croatia
-495942,2025-10-06 00:00:00,collision,motorcycle,Bay
-496006,2025-10-07 15:00:00,collision,motorcycle,
-495969,,collision,truck,Kerala
-496158,2025-10-04 09:30:00,collision,,Croatia
-496202,2025-10-09 08:00:00,collision,motorcyclist,Zurrieq
-496362,2025-10-10 09:00:00,collision,toyota,Ghajnsielem
-496773,2025-10-09 00:00:00,collision,toyota,Zurrieq
-496774,2025-06-19 00:00:00,collision,motorcycle,Gudja
-496775,2025-05-12 00:00:00,collision,motorcycle,Valley Road
-496776,2025-07-29 00:00:00,collision,motorcycle,Zurrieq
-496777,2025-04-06 18:00:00,collision,motorcycle,Santa Lucija
-496778,2025-04-15 08:00:00,collision,van,Marsa
-496779,2025-07-23 00:00:00,collision,van,Mosta Road
-496780,,collision,motorcycle,Zabbar
-496781,2025-06-11 15:00:00,collision,motorcycle,Naxxar
-496782,2024-12-28 08:00:00,collision,,Zabbar
-496783,,collision,motorcycle,the Coast Road
-496784,2025-04-22 00:00:00,collision,,Cospicua Seafront
-496785,2025-05-08 00:00:00,collision,,Ghajnsielem
-496786,2025-06-13 18:00:00,collision,motorcycle,Xewkija
-496787,2025-09-21 00:00:00,collision,,Valletta
-496788,2025-04-17 00:00:00,collision,,Santa Lucija
-496789,,collision,toyota,Triq il-Bacir
-496790,2024-12-22 00:00:00,collision,,
-496791,2025-02-21 00:00:00,collision,,Floriana
-496792,2025-09-13 21:00:00,collision,,Marsa
-496793,2025-08-29 15:00:00,collision,motorcycle,Marsa
-496794,2024-12-13 00:00:00,collision,,Gudja
-496795,2025-05-07 00:00:00,collision,,Msida
-496796,2025-05-07 00:00:00,collision,motorcycle,Birzebbuga
-496797,2024-12-27 00:00:00,collision,toyota,Zabbar
-496798,2025-05-04 00:00:00,collision,motorcycle,Msida
-496799,,collision,,Attard
-496800,2025-10-04 18:00:00,collision,,Gudja
-496801,2025-06-04 00:00:00,collision,motorcycle,Xatt l-Ghassara
-496802,2025-09-17 00:00:00,collision,toyota,Zurrieq
-496803,2025-04-18 00:00:00,collision,motorcycle,Bay
-496804,2025-07-06 00:00:00,collision,motorcycle,Birkirkara
-496805,2025-04-17 00:00:00,collision,motorcycle,Zejtun
-496806,2025-05-15 00:00:00,collision,motorcycle,Rabat
-496807,2025-06-19 18:00:00,collision,,Dingli
-496808,2025-09-16 00:00:00,unknown,motorcycle,Birkirkara
-496809,2025-04-01 00:00:00,collision,,Naxxar
-496810,2025-08-18 15:00:00,collision,,Zabbar
-496811,2025-09-24 00:00:00,collision,toyota,Santa Venera
-496812,,collision,motorcycle,Birkirkara
-496813,2025-02-15 00:00:00,collision,motorcycle,Valley Road
-496814,2025-02-19 00:00:00,collision,motorcycle,Marsascala
-496815,2025-02-09 00:00:00,collision,,Marsascala
-496816,,collision,motorcycle,Paola
-496817,2025-07-01 00:00:00,collision,,Ghajnsielem
-496818,,collision,bus,Marsaskala
-496819,2025-02-01 00:00:00,collision,motorcycle,Fgura
-496820,2025-02-17 00:00:00,collision,,Victoria
-496821,2025-04-13 00:00:00,collision,,the Coast Road
-496822,2025-01-16 00:00:00,collision,motorcycle,Naxxar
-496823,2025-06-04 00:00:00,collision,motorcycle,Kennedy Drive
-496824,2025-10-06 00:00:00,collision,,Naxxar
-496825,2025-08-10 18:00:00,unknown,motorcycle,San Gwann
-496826,2025-01-25 15:00:00,collision,motorcycle,the Coast Road
-496827,2025-08-06 00:00:00,collision,motorcycle,Naxxar
-496828,2024-12-27 12:00:00,collision,truck,Hamrun
-496829,2025-08-17 15:00:00,collision,motorcycle,the Coast Road
-496830,2025-09-16 00:00:00,collision,,Republic Street
-496831,2024-12-25 00:00:00,rollover,bmw,
-496832,2025-05-27 15:00:00,collision,motorcycle,Bay
-496833,,collision,motorcycle,Rabat
-496834,2025-05-24 00:00:00,collision,motorcycle,Marsa
-496835,2024-12-19 00:00:00,collision,,Attard
-496836,2025-03-28 00:00:00,unknown,truck,San Gwann
-496837,2025-07-09 00:00:00,collision,motorcycle,Msida
-496838,2025-09-25 00:00:00,collision,motorcycle,St Julian's
-496839,2025-08-04 00:00:00,collision,toyota,Gharghur
-496840,2024-12-22 00:00:00,unknown,motorcycle,Salini Street
-496841,2025-07-23 00:00:00,collision,toyota,Gzira
-496842,,rollover,motorcycle,Kawasaki
-496843,2025-05-02 15:00:00,collision,motorcycle,Gharb
-496844,2025-02-16 00:00:00,collision,toyota,Siggiewi
-496845,2025-02-04 00:00:00,collision,motorcycle,Zabbar
-496846,2025-07-10 00:00:00,collision,toyota,Siggiewi
-496847,2025-09-04 00:00:00,collision,motorcycle,Zurrieq
-496848,2025-04-13 00:00:00,collision,toyota,Birzebbuga Road
-496849,2025-07-24 00:00:00,collision,motorcycle,Mellieha
-496850,2025-05-12 00:00:00,collision,motorcycle,Sliema
-496851,2025-02-03 00:00:00,collision,,Paola
-496852,2025-01-15 00:00:00,collision,motorcycle,0745hrs
-496853,2025-06-12 00:00:00,collision,,Triq Villabate
-496854,2025-09-20 00:00:00,collision,motorcycle,Gozo
-496855,2024-12-11 00:00:00,collision,,Swieqi
-496856,2025-01-06 00:00:00,collision,toyota,Nepal
-496857,2025-07-27 00:00:00,collision,toyota,Hompesch Street
-496858,2025-05-26 15:00:00,collision,,Msida
-496859,,collision,motorcycle,Qala
-496860,2025-01-15 00:00:00,collision,,Zurrieq
-496861,2025-02-24 00:00:00,collision,motorcycle,Rabat
-496862,2025-04-26 00:00:00,unknown,motorcycle,Floriana
-496863,2024-12-13 00:00:00,collision,,Qormi
-496864,2025-09-28 00:00:00,collision,van,Marsascala
-496865,2025-10-04 00:00:00,collision,,Siggiewi
-496866,2025-10-04 00:00:00,unknown,motorcycle,Bay
-496867,,collision,motorcycle,Birkirkara
-496868,2025-04-06 00:00:00,collision,motorcycle,0830hrs
-496869,2025-05-02 00:00:00,collision,,
-496870,2025-07-14 00:00:00,collision,motorcycle,
-496871,2025-08-31 00:00:00,collision,,Cottoner Avenue
-496872,2025-02-08 00:00:00,unknown,van,
-496873,2024-12-11 00:00:00,collision,motorcycle,Mellieha
-496874,,collision,bmw,Zurrieq
-496875,2025-04-13 00:00:00,collision,toyota,Msida
-496876,2025-08-26 00:00:00,collision,motorcycle,Siggiewi
-496877,2025-01-22 00:00:00,collision,motorcycle,Santa Venera
-496878,2025-06-19 15:00:00,collision,toyota,Floriana
-496879,2025-02-05 00:00:00,unknown,motorcycle,Haz-Zebbug
-496880,2024-12-19 00:00:00,collision,truck,Naxxar
-496881,2025-03-16 00:00:00,collision,,Zebbug
-496882,2025-07-17 00:00:00,collision,,Birkirkara
-496883,2025-08-12 00:00:00,collision,,Mellieha
+article_id,accident_id,date_time,accident_type,car_type,location
+4208,0,2024-12-04 17:00:00,collision,truck,St Clare's
+4093,0,2024-12-11 15:00:00,collision,motorcyclist,Mellieha
+4110,0,2024-12-11 13:00:00,collision,motorcyclist,Mellieha
+4066,0,2024-12-13 17:30:00,collision,bus,Mellieha
+4066,1,2024-12-13 17:30:00,collision,bus,Mellieha
+4067,0,2024-12-11 18:00:00,collision,bus,Yorkshire
+4087,0,2024-12-14 18:00:00,collision,bus,Mellieha
+4049,0,2024-12-15 21:00:00,collision,motorcyclist,
+4034,0,2024-12-13 19:45:00,collision,,Bonello
+4007,0,2024-12-11 18:00:00,collision,motorcycle,Malta
+4024,0,2024-12-13 00:00:00,collision,truck,Malta
+4014,0,2024-12-17 15:00:00,collision,van,Transport Malta
+3989,0,,collision,bus,Blata l-Bajda
+3991,0,2024-12-20 00:00:00,unknown,motorcycle,Naxxar
+3976,0,2024-12-20 11:30:00,collision,,Naxxar
+3976,1,2024-12-20 11:30:00,collision,,Naxxar
+3964,0,,collision,motorcyclist,
+3966,0,2024-12-22 10:15:00,collision,,Mtarfa
+3938,0,2024-12-23 08:00:00,collision,bus,
+3910,0,2024-12-23 00:00:00,collision,bus,the United Arab Emirates
+3885,0,2024-12-27 08:00:00,collision,toyota,Marsa
+3900,0,2024-12-27 12:00:00,collision,truck,
+3861,0,2024-12-29 00:00:00,collision,,
+3834,0,2024-12-30 00:00:00,collision,,Triq il-Mithna
+3766,0,2025-01-05 12:30:00,collision,,
+3747,0,2025-01-06 21:00:00,collision,,Attard
+3749,0,2025-01-06 20:00:00,collision,truck,Fgura
+3749,1,2025-01-06 20:00:00,collision,truck,Fgura
+3740,0,2025-01-07 21:00:00,collision,truck,Attard
+3740,1,2025-01-07 21:00:00,collision,truck,Attard
+3704,0,2025-01-08 21:00:00,collision,,Malta
+3699,0,2025-01-08 00:00:00,collision,,Malta
+3671,0,2025-01-09 11:00:00,collision,,Rabat
+3653,0,2025-01-11 00:00:00,collision,,
+3601,0,2025-01-15 08:00:00,unknown,motorcycle,Marsa
+3601,1,2025-01-15 08:00:00,unknown,motorcycle,Marsa
+3586,0,2025-01-15 16:45:00,collision,toyota,Sliema
+3551,0,2025-01-16 10:15:00,collision,motorcyclist,Naxxar
+3558,0,2025-01-16 00:00:00,collision,,Malta
+3588,0,,collision,,St Julian's
+3456,0,2025-01-22 21:00:00,unknown,motorcyclist,Sliema
+3442,0,2025-01-23 20:15:00,collision,motorcycle,
+3423,0,2025-01-25 00:00:00,collision,motorcycle,Msida
+3408,0,2025-01-25 15:00:00,collision,motorcycle,the Coast Road
+3255,0,2025-02-01 12:45:00,collision,motorcyclist,Rue D'Argens
+3255,1,2025-02-01 12:45:00,collision,motorcyclist,Rue D'Argens
+3220,0,2025-01-31 00:00:00,collision,,St Julian's
+3197,0,2025-02-04 08:00:00,collision,motorcyclist,
+3206,0,2025-02-05 09:00:00,unknown,,"Ta' Qali, Attard"
+3169,0,2025-02-06 08:00:00,collision,motorcyclist,Naxxar
+3100,0,2025-02-08 18:00:00,collision,van,Gozo
+3095,0,2025-02-10 18:00:00,collision,bmw,
+3090,0,2025-02-11 21:00:00,collision,truck,Malta
+3001,0,2025-02-14 00:00:00,collision,motorcyclist,Keeway
+2975,0,2025-02-16 00:00:00,collision,motorcyclist,Malta
+2974,0,2025-02-16 11:00:00,collision,toyota,
+2940,0,2025-02-17 15:00:00,collision,truck,Hal Far
+2872,0,2025-02-19 18:00:00,collision,motorcyclist,Marsascala
+2873,0,2025-02-20 00:00:00,collision,,St Paul's
+2853,0,2025-02-21 08:00:00,collision,toyota,Paola
+2849,0,2025-02-21 15:00:00,collision,,Floriana
+2792,0,2025-02-24 14:15:00,collision,motorcycle,Triq il-Kappillan Mifsud
+2745,0,2025-02-24 23:00:00,collision,van,Hamrun
+2666,0,2025-03-03 08:00:00,unknown,,Marsa
+2658,0,2025-03-03 08:00:00,collision,,
+2557,0,2025-03-08 18:00:00,collision,motorcycle,Triq San Pawl
+2492,0,2025-03-13 14:45:00,collision,bus,Zebbug
+2452,0,2025-03-14 08:00:00,collision,truck,Mdina
+2461,0,2025-03-14 21:00:00,collision,bmw,
+2419,0,2025-03-16 08:00:00,collision,,Zebbug
+2409,0,2025-03-16 08:00:00,unknown,motorcyclist,the Coast Road
+2301,0,2025-03-22 08:00:00,collision,bus,Ghajnsielem
+2259,0,2025-03-22 15:00:00,collision,truck,Nadur
+2201,0,2025-03-26 00:00:00,unknown,motorcycle,Malta
+2157,0,2025-03-28 08:00:00,collision,truck,San Gwann
+2080,0,2025-04-01 08:00:00,collision,,Naxxar
+2101,0,2025-04-01 00:00:00,collision,,Mgarr
+1989,0,2025-04-06 08:30:00,collision,motorcyclist,Attard
+1967,0,2025-04-06 20:45:00,collision,motorcycle,Triq Buqana
+1856,0,2025-04-07 08:55:00,collision,bus,the Coast Road
+1860,0,2025-04-13 15:00:00,collision,toyota,Birzebbuga
+1808,0,2025-04-15 12:50:00,collision,van,Marsa
+1776,0,2025-04-17 08:00:00,collision,motorcyclist,Zejtun
+1769,0,2025-04-17 15:00:00,collision,,Luqa
+1745,0,2025-04-18 09:45:00,collision,,Transport Malta
+1718,0,2025-04-18 13:30:00,collision,motorcycle,St Paul's
+1490,0,2025-05-02 15:00:00,collision,motorcyclist,Gharb
+1489,0,2025-05-02 17:00:00,collision,,Xaghra
+1467,0,2025-05-04 15:00:00,collision,motorcycle,Marsa
+1380,0,2025-05-07 15:00:00,collision,motorcycle,Birzebbuga
+1352,0,2025-05-09 00:00:00,collision,bus,Turkey
+1286,0,,collision,motorcyclist,
+1275,0,2025-05-12 08:00:00,unknown,motorcyclist,Sliema
+1227,0,2025-05-14 15:00:00,collision,motorcycle,Rabat
+1165,0,2025-05-17 18:30:00,collision,,Mellieha
+1034,0,2025-05-22 08:00:00,collision,toyota,Mgarr
+1015,0,2025-05-24 08:00:00,collision,motorcycle,Marsa
+974,0,2025-05-25 13:15:00,collision,,Triq c-Cern
+964,0,2025-05-27 17:20:00,collision,motorcycle,
+933,0,2025-05-27 12:30:00,unknown,motorcycle,Malta
+760,0,2025-06-03 04:30:00,collision,van,Rabat
+751,0,2025-06-04 21:00:00,collision,motorcycle,St Paul's
+685,0,2025-06-06 21:00:00,collision,,St Paul's
+679,0,2025-06-06 15:00:00,collision,motorcyclist,
+640,0,2025-06-07 17:00:00,collision,truck,Senglea
+640,1,2025-06-07 17:00:00,collision,truck,Senglea
+654,0,2025-06-07 08:00:00,collision,truck,Zebbug
+654,1,2025-06-07 08:00:00,collision,truck,Zebbug
+607,0,2025-06-12 15:10:00,collision,van,Marsascala
+522,0,2025-06-13 18:00:00,collision,motorcycle,
+404,0,2025-06-19 10:15:00,collision,motorcyclist,Luqa.
+407,0,2025-06-19 08:00:00,collision,bus,Zejtun
+408,0,2025-06-18 20:13:00,collision,,Mdina Road
+416,0,2025-06-19 13:15:00,unknown,toyota,Floriana
+381,0,2025-06-19 18:30:00,collision,motorcyclist,Floriana
+381,1,2025-06-19 18:30:00,collision,motorcyclist,Floriana
+370,0,2025-06-18 21:00:00,unknown,,Malta
+361,0,2025-06-21 13:15:00,unknown,toyota,Floriana
+313,0,2025-06-23 08:00:00,collision,van,Gzira
+287,0,2025-06-25 07:00:00,collision,bus,Sliema
+113265,0,2025-07-05 08:00:00,collision,motorcyclist,Mellieha
+190828,0,2025-07-06 00:00:00,collision,,Rabat
+139548,0,2025-07-09 18:00:00,collision,motorcycle,Msida
+102356,0,2025-07-14 00:00:00,collision,truck,Bidnija
+220724,0,2025-07-14 11:00:00,collision,motorcyclist,Marsaxlokk
+167578,0,2025-07-15 00:00:00,collision,,
+141175,0,2025-07-17 13:15:00,collision,motorcyclist,Gzira
+130030,0,2025-07-16 17:00:00,collision,,
+226588,0,2025-07-17 21:00:00,collision,,Birkirkara Valley Road
+297731,0,2025-07-19 16:30:00,collision,,Baluta Bay
+297731,1,2025-07-19 16:30:00,collision,,Baluta Bay
+455412,0,2025-07-18 15:00:00,collision,truck,Balluta Bay
+450477,0,2025-07-19 00:00:00,unknown,,Triq il-Buqana
+297729,0,,collision,van,the Regional Road
+353524,0,2025-07-23 00:00:00,collision,motorcycle,Paola
+353518,0,2025-07-23 08:00:00,collision,van,Lija
+353565,0,2025-07-24 08:00:00,collision,motorcyclist,Naxxar
+353525,0,2025-07-24 08:00:00,rollover,motorcycle,Tarxien
+386207,0,2025-07-26 08:00:00,unknown,motorcycle,Pembroke
+386270,0,2025-07-27 18:35:00,collision,bus,Fgura
+450529,0,,collision,motorcycle,Malti
+386182,0,2025-07-27 18:00:00,collision,motorcycle,Valletta
+386182,1,2025-07-27 18:00:00,collision,motorcycle,Valletta
+386182,2,2025-07-27 18:00:00,collision,motorcycle,Valletta
+386315,0,2025-07-27 19:30:00,collision,bus,Valletta
+386315,1,2025-07-27 19:30:00,collision,bus,Valletta
+386315,2,2025-07-27 19:30:00,collision,bus,Valletta
+451726,0,2025-07-26 08:00:00,collision,bus,Malta
+451726,1,2025-07-26 08:00:00,collision,bus,Malta
+467167,0,2025-07-30 09:15:00,collision,,Malta
+467110,0,2025-07-29 18:00:00,unknown,motorcycle,Madison
+489424,0,2025-08-03 01:00:00,collision,bus,Malta
+489339,0,2025-08-04 18:40:00,collision,bus,Marsa
+489475,0,,collision,bus,Triq Hompesh
+489370,0,2025-08-04 15:30:00,collision,motorcycle,Marsa
+489370,1,2025-08-04 15:30:00,collision,motorcycle,Marsa
+489720,0,2025-08-06 00:00:00,collision,motorcycle,Naxxar
+489720,1,2025-08-06 00:00:00,collision,motorcycle,Naxxar
+489728,0,2025-08-06 00:00:00,collision,motorcycle,Naxxar
+489728,1,2025-08-06 00:00:00,collision,motorcycle,Naxxar
+489733,0,2025-08-07 09:56:00,collision,bus,Santa Venera
+490010,0,2025-08-09 08:00:00,rollover,,San Gwann
+489990,0,2025-08-08 08:00:00,unknown,bus,Santa Venera
+489878,0,2025-08-10 08:00:00,collision,van,Nepal
+489889,0,2025-08-10 12:30:00,collision,van,
+489884,0,2025-08-10 09:00:00,collision,van,Birzebbuga
+490008,0,2025-08-10 08:00:00,collision,bus,
+490101,0,2025-08-11 05:20:00,collision,van,Nepal
+490073,0,2025-08-11 12:00:00,collision,van,Nepal
+489993,0,2025-08-10 19:00:00,collision,motorcycle,Mgarr
+489993,1,2025-08-10 19:00:00,collision,motorcycle,Mgarr
+490183,0,2025-08-12 08:00:00,collision,,Valletta
+490165,0,2025-08-12 08:00:00,collision,,
+490160,0,2025-08-10 05:25:00,collision,motorcycle,Nepal
+490329,0,2025-08-13 00:00:00,collision,truck,Nepal
+490371,0,2025-08-14 08:00:00,collision,motorcyclist,Pembroke
+490568,0,2025-08-14 05:30:00,collision,motorcyclist,Pembroke
+490568,1,2025-08-14 05:30:00,collision,motorcyclist,Pembroke
+490632,0,2025-08-17 00:00:00,rollover,truck,Marsa
+490684,0,2025-08-17 15:00:00,collision,motorcycle,Naxxar
+490653,0,2025-08-14 08:00:00,collision,motorcycle,Pembroke
+490697,0,2025-08-18 00:00:00,collision,truck,UK
+490746,0,2025-08-18 00:00:00,collision,,Santa Venera
+490815,0,2025-08-18 08:00:00,pedestrian,truck,Triq Hal Luqa
+491011,0,2025-08-21 08:00:00,collision,bus,Sliema
+491118,0,2025-08-21 06:00:00,collision,bus,Malta
+491118,1,2025-08-21 06:00:00,collision,bus,Malta
+491226,0,2025-08-22 08:00:00,collision,motorcyclist,Msida
+491307,0,2025-08-23 15:00:00,collision,motorcycle,Msida
+491334,0,2025-08-24 00:00:00,collision,motorcyclist,Pembroke
+491371,0,2025-08-21 00:00:00,collision,bus,Sliema
+491489,0,2025-08-22 05:30:00,collision,motorcyclist,Birkirkara
+491557,0,2025-08-26 05:10:00,collision,,Sliema
+491707,0,2025-08-26 18:00:00,collision,motorcyclist,Zebbug
+491720,0,2025-08-27 08:00:00,collision,motorcycle,St Paul's
+492026,0,2025-08-29 08:00:00,collision,motorcycle,St Paul's
+492029,0,2025-08-27 21:00:00,collision,truck,Rabat
+492115,0,2025-08-29 15:00:00,collision,motorcyclist,Marsa
+492291,0,2025-08-31 08:00:00,collision,,Malti
+492646,0,2025-09-03 15:00:00,collision,truck,Sicily
+492654,0,2025-09-03 18:00:00,collision,truck,Sicily
+492806,0,2025-09-04 15:00:00,collision,,Gzira
+492962,0,,collision,truck,
+493044,0,2025-09-07 15:00:00,collision,motorcyclist,Luqa.
+493372,0,2025-09-11 08:00:00,unknown,motorcycle,Msida
+493542,0,2025-09-12 15:00:00,collision,bus,Marsa
+493598,0,2025-09-12 15:00:00,collision,,Marsa
+493702,0,2025-09-14 00:00:00,unknown,motorcyclist,Zabbar
+493664,0,2025-09-13 21:00:00,collision,,Paola
+493670,0,2025-09-13 21:00:00,collision,motorcycle,Msida
+493670,1,2025-09-13 21:00:00,collision,motorcycle,Msida
+493670,2,2025-09-13 21:00:00,collision,motorcycle,Msida
+493898,0,2025-09-16 15:00:00,collision,,Republic Street
+493983,0,2025-09-16 18:00:00,collision,toyota,Zabbar
+494102,0,2025-09-17 00:00:00,collision,truck,St Paul's
+494209,0,2025-09-18 18:00:00,collision,motorcyclist,Triq San Gwann
+494363,0,2025-09-20 13:30:00,collision,,Gozo
+494368,0,2025-09-20 13:30:00,collision,motorcycle,Gozo
+494438,0,2025-09-21 08:30:00,collision,,Sliema
+494571,0,2025-09-22 18:00:00,collision,motorcycle,San Gwann
+494727,0,2025-09-24 08:00:00,collision,toyota,Gozo
+494856,0,2025-09-25 15:00:00,collision,motorcycle,Rabat
+494910,0,2025-09-25 18:00:00,collision,motorcyclist,Marsascala
+495320,0,2025-09-30 00:00:00,collision,,Naxxar Road
+495442,0,2025-10-02 15:00:00,collision,bus,
+495442,1,2025-10-02 15:00:00,collision,bus,
+495504,0,2025-10-02 08:00:00,collision,motorcyclist,Qala
+495595,0,2025-10-02 16:20:00,unknown,truck,Croatia
+495731,0,2025-10-04 16:20:00,collision,truck,Croatia
+495807,0,2025-10-04 23:00:00,collision,,the Gudja Bypass
+495802,0,,collision,truck,Malta
+495896,0,2025-10-02 00:00:00,collision,truck,Croatia
+495942,0,2025-10-06 00:00:00,collision,motorcycle,Santa Venera
+496006,0,2025-10-07 15:00:00,collision,motorcycle,Saqqajja Hill
+495969,0,,collision,truck,Kerala
+496158,0,2025-10-04 09:30:00,collision,,Croatia
+496202,0,2025-10-09 08:00:00,collision,motorcyclist,Zurrieq
+496362,0,2025-10-10 09:00:00,collision,toyota,Qala
+496362,1,2025-10-10 09:00:00,collision,toyota,Qala
+496773,0,2025-10-09 00:00:00,collision,toyota,Zurrieq
+496774,0,2025-06-19 00:00:00,collision,motorcycle,Triq Dawret
+496775,0,2025-05-12 00:00:00,collision,motorcycle,Valley Road
+496776,0,2025-07-29 00:00:00,collision,motorcycle,Malaguti Madison
+496777,0,2025-04-06 18:00:00,collision,motorcycle,Triq il-Buqana
+496778,0,2025-04-15 08:00:00,collision,van,Triq Aldo Moro
+496779,0,2025-07-23 00:00:00,collision,van,
+496780,0,,collision,motorcycle,Kawazaki
+496781,0,2025-06-11 15:00:00,collision,motorcycle,Bosnia and Herzegovina
+496782,0,2024-12-28 08:00:00,collision,,Zabbar
+496783,0,,collision,motorcycle,the Coast Road
+496784,0,2025-04-22 00:00:00,collision,,Cospicua
+496785,0,2025-05-08 00:00:00,collision,,Ghajnsielem
+496786,0,2025-06-13 18:00:00,collision,motorcycle,
+496787,0,2025-09-21 00:00:00,collision,,Valletta
+496788,0,2025-04-17 00:00:00,collision,,Luqa Road
+496789,0,,collision,toyota,Triq il-Bacir
+496790,0,2024-12-22 00:00:00,collision,,Triq
+496791,0,2025-02-21 00:00:00,collision,,
+496792,0,2025-09-13 21:00:00,collision,,Marsa
+496793,0,2025-08-29 15:00:00,collision,motorcycle,Triq Emmanuele
+496794,0,2024-12-13 00:00:00,collision,,Dawret il-Gudja
+496795,0,2025-05-07 00:00:00,collision,,Msida
+496796,0,2025-05-07 00:00:00,collision,motorcycle,Birzebbuga
+496797,0,2024-12-27 00:00:00,collision,toyota,Triq Dicembru Tlettax
+496798,0,2025-05-04 00:00:00,collision,motorcycle,Msida
+496799,0,,collision,,Attard
+496800,0,2025-10-04 18:00:00,collision,,Triq Dawret
+496801,0,2025-06-04 00:00:00,collision,motorcycle,Xatt l-Ghassara tal-Gheneb
+496802,0,2025-09-17 00:00:00,collision,toyota,Zurrieq
+496803,0,2025-04-18 00:00:00,collision,motorcycle,Triq Burmarrad
+496804,0,2025-07-06 00:00:00,collision,motorcycle,Triq iz-Zejfa
+496805,0,2025-04-17 00:00:00,collision,motorcycle,
+496806,0,2025-05-15 00:00:00,collision,motorcycle,Rabat
+496807,0,2025-06-19 18:00:00,collision,,Triq L-Imdina
+496808,0,2025-09-16 00:00:00,unknown,motorcycle,Triq San Pawl
+496809,0,2025-04-01 00:00:00,collision,,Naxxar
+496810,0,2025-08-18 15:00:00,collision,,Zabbar
+496811,0,2025-09-24 00:00:00,collision,toyota,Triq Marsalforn
+496812,0,,collision,motorcycle,Msida
+496813,0,2025-02-15 00:00:00,collision,motorcycle,Valley Road
+496814,0,2025-02-19 00:00:00,collision,motorcycle,Marsascala
+496815,0,2025-02-09 00:00:00,collision,,Marsascala
+496816,0,,collision,motorcycle,Pembroke
+496817,0,2025-07-01 00:00:00,collision,,Zebbug
+496818,0,,collision,bus,
+496819,0,2025-02-01 00:00:00,collision,motorcycle,Gzira
+496819,1,2025-02-01 00:00:00,collision,motorcycle,Gzira
+496820,0,2025-02-17 00:00:00,collision,,Victoria
+496821,0,2025-04-13 00:00:00,collision,,the Coast Road
+496822,0,2025-01-16 00:00:00,collision,motorcycle,Triq il-
+496823,0,2025-06-04 00:00:00,collision,motorcycle,St Paul's
+496824,0,2025-10-06 00:00:00,collision,,Triq il-Kappella Ta'
+496825,0,2025-08-10 18:00:00,unknown,motorcycle,San Gwann
+496826,0,2025-01-25 15:00:00,collision,motorcycle,the Coast Road
+496827,0,2025-08-06 00:00:00,collision,motorcycle,
+496827,1,2025-08-06 00:00:00,collision,motorcycle,
+496827,2,2025-08-06 00:00:00,collision,motorcycle,
+496828,0,2024-12-27 12:00:00,collision,truck,Triq il-Hotba
+496829,0,2025-08-17 15:00:00,collision,motorcycle,the Coast Road
+496830,0,2025-09-16 00:00:00,collision,,Republic Street
+496831,0,2024-12-25 00:00:00,rollover,bmw,St
+496832,0,2025-05-27 15:00:00,collision,motorcycle,St Paul's
+496833,0,,collision,motorcycle,Rabat
+496834,0,2025-05-24 00:00:00,collision,motorcycle,Marsa
+496835,0,2024-12-19 00:00:00,collision,,Balzan
+496836,0,2025-03-28 00:00:00,unknown,truck,Tal-Balal Road
+496837,0,2025-07-09 00:00:00,collision,motorcycle,Msida
+496838,0,2025-09-25 00:00:00,collision,motorcycle,St Julian's
+496839,0,2025-08-04 00:00:00,collision,toyota,Gharghur
+496840,0,2024-12-22 00:00:00,unknown,motorcycle,
+496841,0,2025-07-23 00:00:00,collision,toyota,Gzira
+496842,0,,rollover,motorcycle,Triq San Anard
+496843,0,2025-05-02 15:00:00,collision,motorcycle,Triq L-Imgarr
+496844,0,2025-02-16 00:00:00,collision,toyota,Triq il-Kilpa
+496845,0,2025-02-04 00:00:00,collision,motorcycle,
+496846,0,2025-07-10 00:00:00,collision,toyota,Siggiewi
+496847,0,2025-09-04 00:00:00,collision,motorcycle,Triq Ix-Xatt
+496848,0,2025-04-13 00:00:00,collision,toyota,Birzebbuga Road
+496849,0,2025-07-24 00:00:00,collision,motorcycle,Mellieha
+496850,0,2025-05-12 00:00:00,collision,motorcycle,Sliema
+496851,0,2025-02-03 00:00:00,collision,,Triq il-Palma
+496852,0,2025-01-15 00:00:00,collision,motorcycle,Marsa
+496852,1,2025-01-15 00:00:00,collision,motorcycle,Marsa
+496853,0,2025-06-12 00:00:00,collision,,Marsascala
+496854,0,2025-09-20 00:00:00,collision,motorcycle,Gozo
+496855,0,2024-12-11 00:00:00,collision,,Triq il-Kappella
+496856,0,2025-01-06 00:00:00,collision,toyota,Nepal
+496857,0,2025-07-27 00:00:00,collision,toyota,Marsascala
+496858,0,2025-05-26 15:00:00,collision,,Triq ic-Cern
+496859,0,,collision,motorcycle,Triq L-Imgarr
+496860,0,2025-01-15 00:00:00,collision,,Zurrieq
+496861,0,2025-02-24 00:00:00,collision,motorcycle,Triq il-Marfa
+496861,1,2025-02-24 00:00:00,collision,motorcycle,Triq il-Marfa
+496862,0,2025-04-26 00:00:00,unknown,motorcycle,Floriana
+496863,0,2024-12-13 00:00:00,collision,,Triq il-Marfa
+496864,0,2025-09-28 00:00:00,collision,van,Marsascala
+496865,0,2025-10-04 00:00:00,collision,,Mellieha
+496866,0,2025-10-04 00:00:00,unknown,motorcycle,St Paul's
+496867,0,,collision,motorcycle,Msida
+496868,0,2025-04-06 00:00:00,collision,motorcycle,Triq Zaghfran
+496869,0,2025-05-02 00:00:00,collision,,Triq ix-Xaghra
+496870,0,2025-07-14 00:00:00,collision,motorcycle,
+496871,0,2025-08-31 00:00:00,collision,,
+496872,0,2025-02-08 00:00:00,unknown,van,Triq ir-Rabat
+496873,0,2024-12-11 00:00:00,collision,motorcycle,Mellieha
+496874,0,,collision,bmw,Zurrieq
+496875,0,2025-04-13 00:00:00,collision,toyota,Msida
+496876,0,2025-08-26 00:00:00,collision,motorcycle,Zebbug
+496877,0,2025-01-22 00:00:00,collision,motorcycle,Triq Rodolfu
+496878,0,2025-06-19 15:00:00,collision,toyota,
+496879,0,2025-02-05 00:00:00,unknown,motorcycle,Vjal L-Istadium
+496880,0,2024-12-19 00:00:00,collision,truck,Triq il-Germanja
+496881,0,2025-03-16 00:00:00,collision,,Zebbug
+496882,0,2025-07-17 00:00:00,collision,,Triq il-Wied ta'
+496883,0,2025-08-12 00:00:00,collision,,St Luke's
