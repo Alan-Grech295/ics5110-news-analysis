@@ -1,0 +1,356 @@
+article_id,accident_id,date_time,accident_type,location,road_name,text_start_char,text_end_char
+4208,0,2024-12-04 17:00:00,collision,St Julian's,the Regional Road,0,1908
+4093,0,2024-12-11 15:00:00,collision,St Paul's Bay,stationary garbage skip on the St,0,469
+4110,0,2024-12-11 13:00:00,collision,St Paul's Bay,skip on St,0,2095
+4066,0,2024-12-13 17:30:00,collision,Mellieha,,0,514
+4066,1,2024-12-14 19:45:00,collision,,,515,1158
+4067,0,2024-12-13 21:00:00,collision,Xemxija,Xemxija Pitstop,0,3192
+4087,0,2024-12-11 12:00:00,collision,St Paul's Bay,skip on the St,0,1163
+4049,0,2024-12-15 21:00:00,collision,Imgarr,,0,462
+4034,0,2024-12-13 19:45:00,collision,Gudja,blood drive,0,1841
+4007,0,2024-12-16 18:00:00,collision,St Paul's Bay,the St Paul's Bay,0,2323
+4024,0,2024-12-13 00:00:00,collision,St Paul's Bay,skip positioned on the final curve of the St,0,1787
+4014,0,2024-12-17 18:00:00,collision,Siggiewi,The road,0,1137
+3989,0,2024-12-19 18:50:00,collision,Blata,traffic tailback on the busy street,0,590
+3991,0,2024-12-20 00:00:00,motorcycle_fall,Birkirkara,,0,347
+3976,0,2024-12-20 11:30:00,collision,Naxxar,,0,309
+3976,1,2024-12-20 00:00:00,collision,,,310,618
+3964,0,2024-12-22 14:25:00,collision,Kennedy Grove,close to Kennedy Grove on the southbound lane,0,869
+3966,0,2024-12-22 10:15:00,collision,,,0,376
+3938,0,2024-12-23 08:00:00,collision,Naxxar,van on the Regional Road,0,515
+3910,0,2024-12-23 00:00:00,collision,Naxxar,Regional Road,0,1081
+3885,0,2024-12-27 08:00:00,collision,Marsa,,0,697
+3900,0,2024-12-27 12:00:00,collision,Hamrun,,0,521
+3861,0,2024-12-29 00:00:00,collision,Madliena,Is the road,0,2879
+3834,0,2024-12-30 00:00:00,collision,Mithna,,0,2993
+3766,0,2025-01-05 12:30:00,collision,Birkirkara,,0,735
+3747,0,2025-01-06 21:00:00,collision,Attard,The crash happened on the Mdina road,0,1392
+3749,0,2025-01-06 18:00:00,collision,Fgura,,0,602
+3749,1,2025-01-07 00:00:00,collision,,,603,696
+3740,0,2025-01-06 09:40:00,collision,Attard,Mdina Road,0,1066
+3740,1,2025-01-06 21:00:00,collision,,,1066,1315
+3704,0,2025-01-08 21:00:00,collision,,,0,1690
+3699,0,2025-01-08 00:00:00,collision,Attard,,0,918
+3671,0,2025-01-09 11:00:00,collision,Rabat,,0,756
+3653,0,2025-01-11 00:00:00,collision,Swieqi,particularly as road,0,3073
+3601,0,2025-01-15 08:00:00,collision,Marsa,Anton Cassar Street,0,323
+3601,1,2025-01-15 08:00:00,motorcycle_fall,,Tal-Barrani Road,324,494
+3586,0,2025-01-15 16:45:00,collision,Sliema,,0,508
+3551,0,2025-01-16 10:15:00,collision,Naxxar,,0,381
+3558,0,2025-01-16 00:00:00,collision,Valletta,old man in the Regional Road,0,2475
+3588,0,2025-01-16 21:00:00,collision,St Julian's,car in St,0,4816
+3456,0,2025-01-22 21:00:00,unknown,Sliema,Rudolph Street,0,473
+3442,0,2025-01-23 18:00:00,collision,Tal-Qroqq,,0,767
+3423,0,2025-01-25 00:00:00,collision,,,0,850
+3408,0,2025-01-25 17:00:00,collision,Fgura,the Coast Road,0,542
+3255,0,2025-02-01 05:00:00,collision,Hal Farrug,Hal Farrug Street,0,414
+3255,1,2025-02-01 12:45:00,collision,,,415,782
+3220,0,2025-01-31 00:00:00,collision,St Julian's,the Regional Road,0,2414
+3197,0,2025-02-04 08:00:00,collision,Zejtun,,0,484
+3206,0,2025-02-05 09:00:00,motorcycle_fall,Ta' Qali,Vjal l-Istadium Nazzjonali,0,282
+3169,0,2025-02-06 08:00:00,collision,Naxxar,Labour Avenue,0,496
+3100,0,2025-02-08 18:00:00,collision,Rabat,the road,0,588
+3095,0,2025-02-10 18:00:00,collision,Kirkop,pillar on the opposite side of the road,0,621
+3090,0,2025-02-11 21:00:00,collision,Kirkop,centre strip and careened across the road,0,1134
+3001,0,2025-02-14 00:00:00,collision,Iklin,Keeway,0,520
+2975,0,2025-02-16 00:00:00,collision,,UK street,0,2635
+2974,0,2025-02-16 11:00:00,collision,Siggiewi,,0,333
+2940,0,2025-02-17 15:00:00,collision,Hal Far,car on Hal Far road,0,488
+2872,0,2025-02-19 18:00:00,collision,Fgura,,0,409
+2873,0,2025-02-20 00:00:00,collision,St Paul's Bay,new garden has been inaugurated in St,0,1518
+2853,0,2025-02-21 08:00:00,collision,,,0,519
+2849,0,2025-02-21 15:00:00,collision,Qormi,,0,506
+2792,0,2025-02-24 00:00:00,collision,Hamrun,,0,691
+2745,0,2025-02-24 23:00:00,collision,Hamrun,Hamrun road,0,1833
+2666,0,2025-03-03 08:00:00,motorcycle_fall,Marsa,,0,459
+2658,0,2025-03-03 08:00:00,collision,Imgarr,,0,329
+2557,0,2025-03-08 18:00:00,collision,St Paul's Bay,,0,347
+2492,0,2025-03-13 14:45:00,collision,Zebbug,,0,630
+2452,0,2025-03-14 15:30:00,collision,Buqana,spilling an entire load of construction sand across the road,0,2142
+2461,0,2025-03-14 21:00:00,collision,Ghajn,The road,0,841
+2419,0,2025-03-16 08:00:00,collision,Zebbug,,0,449
+2409,0,2025-03-16 08:00:00,motorcycle_fall,Naxxar,the Coast Road,0,308
+2301,0,2025-03-22 08:00:00,collision,Ghajnsielem,old man from St,0,624
+2259,0,2025-03-22 15:00:00,collision,Nadur,,0,507
+2201,0,2025-03-26 00:00:00,unknown,Siggiewi,,0,468
+2157,0,2025-03-28 08:00:00,collision,San Gwann,Police investigations are under way,0,467
+2080,0,2025-04-01 08:00:00,collision,Naxxar,St Paul Street,0,247
+2101,0,2025-04-01 00:00:00,collision,St Paul's Bay,Mosta Police Station,0,1634
+1989,0,2025-04-06 08:30:00,collision,Attard,,0,399
+1967,0,2025-04-06 20:45:00,collision,Buqana,the road,0,548
+1856,0,2025-04-07 08:55:00,collision,Zurrieq,the Coast Road,0,830
+1860,0,2025-04-13 15:00:00,collision,Gudja,,0,323
+1808,0,2025-04-15 12:50:00,collision,Marsa,Traffic in the area was slow moving immediately after the accident but the road,0,746
+1776,0,2025-04-17 08:00:00,collision,Zejtun,,0,490
+1769,0,2025-04-17 15:00:00,collision,Luqa,Police investigations are under way,0,483
+1745,0,2025-04-18 09:45:00,collision,Mosta,,0,336
+1718,0,2025-04-18 13:30:00,collision,St Paul's Bay,Burmarrad Street,0,494
+1490,0,2025-05-02 15:00:00,collision,Gharb,,0,604
+1489,0,2025-05-02 17:00:00,collision,Xaghra,,0,665
+1467,0,2025-05-04 15:00:00,collision,Marsa,,0,360
+1380,0,2025-05-07 15:00:00,collision,Ghar,,0,366
+1352,0,2025-05-09 00:00:00,collision,Siggiewi,with the road agency arguing that the council was responsible for maintaining the road,0,4454
+1286,0,2025-05-12 08:00:00,collision,Wied,,0,375
+1275,0,2025-05-12 08:00:00,unknown,Sliema,in St Joseph High Road,0,327
+1227,0,2025-05-14 15:00:00,collision,Santa Venera,Regional Road,0,454
+1165,0,2025-05-17 18:30:00,collision,Mellieha,close to the DB Seabank Hotel where one lane,0,625
+1034,0,2025-05-22 08:00:00,collision,Ghajn,roadside building in Mgarr on the road,0,605
+1015,0,2025-05-24 08:00:00,collision,Marsa,old Albanian national who lives in St,0,597
+974,0,2025-05-25 13:15:00,collision,Bugibba,,0,355
+964,0,2025-05-27 17:20:00,collision,Xemxija,The road,0,487
+933,0,2025-05-27 15:00:00,motorcycle_fall,Xemxija,,0,1232
+760,0,2025-06-03 04:30:00,collision,Rabat,Marfa Road,0,409
+751,0,2025-06-04 21:00:00,collision,St Paul's Bay,Kennedy Drive,0,508
+685,0,2025-06-06 21:00:00,collision,St Paul's Bay,collision in St,0,901
+679,0,2025-06-06 15:00:00,collision,Xewkija,,0,542
+640,0,2025-06-07 15:00:00,collision,,bollard that separates the road,0,505
+640,1,2025-06-07 08:00:00,unknown,,,506,657
+654,0,2025-06-07 08:00:00,unknown,Zebbug,,0,257
+654,1,2025-06-08 00:00:00,collision,,,258,1880
+607,0,2025-06-12 15:10:00,collision,Zejtun,It is the ninth road,0,812
+522,0,2025-06-13 18:00:00,collision,Xaghra,police investigation into the incident is under way,0,406
+404,0,2025-06-19 18:13:00,collision,Luqa,Mdina Road,0,878
+407,0,2025-06-19 08:00:00,collision,Zejtun,,0,472
+408,0,2025-06-18 20:13:00,collision,Zebbug,Mdina Road,0,1033
+416,0,2025-06-19 13:15:00,unknown,Floriana,,0,505
+381,0,2025-06-19 15:00:00,collision,Gudja,Thursday saw several road,0,539
+381,1,2025-06-20 08:00:00,collision,,,539,794
+370,0,2025-06-18 21:00:00,unknown,Zebbug,,0,880
+361,0,2025-06-21 13:15:00,unknown,Floriana,,0,443
+313,0,2025-06-23 08:00:00,collision,Tal-Qroqq,the Regional Road,0,752
+287,0,2025-06-25 07:00:00,collision,Sliema,the Regional Road,0,505
+113265,0,2025-07-05 08:00:00,collision,Mellieha,,0,442
+190828,0,2025-07-06 00:00:00,collision,Mosta,,0,496
+139548,0,2025-07-09 18:00:00,collision,Mosta,,0,473
+102356,0,2025-07-14 00:00:00,collision,Bidnija,The alleged road rage incident shows the large vehicle driving straight into the car on the road,0,1446
+220724,0,2025-07-14 11:00:00,collision,Marsaxlokk,Melqart Street,0,443
+167578,0,2025-07-15 00:00:00,collision,St Paul's Bay,woman crossing the road,0,1823
+141175,0,2025-07-17 13:15:00,collision,Gzira,Police investigations are under way,0,517
+130030,0,2025-07-16 17:00:00,collision,L-Imqabba,,0,418
+226588,0,2025-07-17 21:00:00,collision,Birkirkara,Birkirkara Valley Road,0,541
+297731,0,2025-07-18 15:00:00,collision,,,0,288
+297731,1,2025-07-19 16:30:00,collision,,,289,608
+455412,0,2025-07-18 15:00:00,collision,Balluta,when the craft struck each other in the popular St,0,594
+450477,0,2025-07-19 00:00:00,collision,Buqana,Magistrate Dr,0,616
+297729,0,2025-07-20 12:30:00,collision,Swieqi,the Regional Road,0,2992
+353524,0,2025-07-23 00:00:00,collision,Wied,clear road,0,3247
+353518,0,2025-07-23 08:00:00,collision,Mosta,,0,900
+353565,0,2025-07-24 08:00:00,collision,Naxxar,Police investigations are under way,0,485
+353525,0,2025-07-24 08:00:00,rollover,Tarxien,,0,591
+386207,0,2025-07-26 08:00:00,collision,Pembroke,old man from St,0,476
+386270,0,2025-07-27 18:35:00,collision,Fgura,the busy Fgura road,0,1042
+450529,0,2025-07-27 11:45:00,collision,Sliema,,0,522
+386182,0,2025-07-28 00:00:00,unknown,,,0,8
+386182,1,2025-07-27 18:00:00,collision,and,Marina Street,9,611
+386182,2,2025-07-28 22:00:00,collision,,Ford Fiesta which was stopped by the side of the road,612,1104
+386315,0,2025-07-27 22:00:00,collision,Hamrun,Ford Fiesta which was stopped by the side of the road,0,947
+386315,1,2025-07-28 18:00:00,collision,,Marina Street,948,1137
+386315,2,2025-07-28 15:00:00,collision,,the busy Fgura road,1138,1611
+451726,0,2025-07-29 13:45:00,collision,Naxxar,,0,297
+451726,1,2025-07-26 08:00:00,collision,two,,298,903
+467167,0,2025-07-30 09:15:00,collision,Floriana,,0,1989
+467110,0,2025-07-29 18:00:00,unknown,Hal Ghaxaq,,0,463
+489424,0,2025-08-03 01:00:00,collision,Mosta,result of chronic failure to prioritise safety in road,0,2678
+489339,0,2025-08-04 18:40:00,collision,Marsa,Mosta Road,0,1411
+489475,0,2025-08-04 15:30:00,collision,Fgura,the busy Fgura road,0,1189
+489370,0,2025-08-04 15:30:00,collision,Marsa,Aldo Moro Street,0,382
+489370,1,2025-08-05 17:00:00,collision,,,383,785
+489720,0,2025-08-06 00:00:00,collision,Naxxar,old Bulgarian resident of St,0,368
+489720,1,2025-08-07 00:00:00,collision,,,369,823
+489728,0,2025-08-06 00:00:00,collision,Naxxar,old Bulgarian resident of St,0,404
+489728,1,2025-08-07 00:00:00,collision,serious,,405,879
+489733,0,2025-08-07 09:56:00,collision,Santa Venera,Salon on Cannon Road,0,696
+490010,0,2025-08-09 08:00:00,rollover,San Gwann,The road,0,595
+489990,0,2025-08-07 08:00:00,collision,Santa Venera,Canon Road,0,1756
+489878,0,2025-08-10 17:42:00,collision,Birkirkara,call road,0,1213
+489889,0,2025-08-10 12:30:00,collision,Birkirkara,,0,1162
+489884,0,2025-08-10 09:00:00,collision,Floriana,car on National Road,0,327
+490008,0,2025-08-07 08:00:00,collision,,Cannon Road,0,1053
+490101,0,2025-08-10 05:25:00,collision,Birkirkara,in Psaila Street,0,1507
+490073,0,2025-08-11 12:00:00,collision,,in Psaila Street,0,743
+489993,0,2025-08-10 19:00:00,collision,Mosta,Mosta Road,0,323
+489993,1,2025-08-10 00:00:00,collision,,,323,520
+490183,0,2025-08-12 08:00:00,collision,Valletta,Fort St Elmo,0,2971
+490165,0,2025-08-12 08:00:00,collision,,in St,0,436
+490160,0,2025-08-10 05:25:00,collision,Birkirkara,,0,3375
+490329,0,2025-08-13 00:00:00,collision,Marsa,Aldo Moro Road,0,1231
+490371,0,2025-08-14 08:00:00,collision,Pembroke,the Coast Road,0,635
+490568,0,2025-08-14 05:30:00,collision,Pembroke,,0,491
+490568,1,2025-08-10 08:00:00,unknown,,,492,690
+490632,0,2025-08-17 00:00:00,rollover,Marsa,Aldo Moro Road,0,1265
+490684,0,2025-08-17 15:00:00,collision,Naxxar,The northbound lane of the coast road,0,492
+490653,0,2025-08-14 08:00:00,collision,Pembroke,,0,1077
+490697,0,2025-08-18 00:00:00,collision,Valletta,written by NGO Doctors For Road,0,3270
+490746,0,2025-08-18 00:00:00,collision,Santa Venera,Cannon Road,0,3673
+490815,0,2025-08-18 08:00:00,pedestrian,Zabbar,,0,343
+491011,0,2025-08-21 08:00:00,collision,Sliema,Tower Road,0,361
+491118,0,2025-08-21 00:00:00,unknown,,to address road,0,158
+491118,1,2025-08-21 06:00:00,collision,just,Tower Road,159,2144
+491226,0,2025-08-22 08:00:00,collision,Birkirkara,on Sir Anthony Mamo street,0,910
+491307,0,2025-08-22 05:30:00,collision,Birkirkara,on Friday on Sir Anthony Mamo Street,0,786
+491334,0,2025-08-24 00:00:00,collision,Pembroke,,0,868
+491371,0,2025-08-24 00:00:00,collision,Sliema,Tower Road,0,1869
+491489,0,2025-08-22 05:30:00,collision,Birkirkara,on Sir Anthony Mamo Street,0,1151
+491557,0,2025-08-26 05:10:00,collision,Sliema,Tower Road,0,397
+491707,0,2025-08-26 18:00:00,collision,Zebbug,Attard Road,0,493
+491720,0,2025-08-27 08:00:00,collision,Bahar,old Bulgarian national living in St,0,1290
+492026,0,2025-08-29 08:00:00,collision,Bahar,old Bulgarian national living in St,0,1366
+492029,0,2025-08-27 21:00:00,collision,Rabat,The couple live in St,0,1898
+492115,0,2025-08-29 15:00:00,collision,Marsa,Police investigations are under way,0,600
+492291,0,2025-08-31 08:00:00,collision,Qormi,,0,765
+492646,0,2025-09-03 15:00:00,collision,,Sicily motorway,0,888
+492654,0,2025-09-03 18:00:00,collision,Zebbug,Ragusa state road,0,891
+492806,0,2025-09-04 15:00:00,collision,Gzira,,0,590
+492962,0,2025-09-07 21:10:00,collision,,,0,1104
+493044,0,2025-09-07 15:00:00,collision,Luqa,,0,539
+493372,0,2025-09-11 08:00:00,motorcycle_fall,,Wottan Storm,0,407
+493542,0,2025-09-12 15:00:00,collision,Marsa,corner at the top of the street,0,1352
+493598,0,2025-09-12 15:00:00,collision,Marsa,,0,555
+493702,0,2025-09-14 00:00:00,unknown,Zabbar,,0,723
+493664,0,2025-09-13 21:00:00,collision,Marsa,,0,501
+493670,0,2025-09-13 21:00:00,unknown,,,0,86
+493670,1,2025-09-14 23:00:00,collision,,the St Paul's,86,345
+493670,2,2025-09-14 01:30:00,collision,,,346,796
+493898,0,2025-09-16 15:00:00,collision,,Republic Street,0,316
+493983,0,2025-09-16 18:00:00,collision,Zabbar,,0,536
+494102,0,2025-09-17 00:00:00,collision,St Paul's Bay,minor road,0,3568
+494209,0,2025-09-18 18:00:00,collision,Bormla,,0,766
+494363,0,2025-09-20 13:30:00,collision,Gharb,,0,826
+494368,0,2025-09-20 13:30:00,collision,Gharb,,0,1157
+494438,0,2025-09-21 08:30:00,collision,Pieta,,0,242
+494571,0,2025-09-22 18:00:00,collision,San Gwann,Bella Vista Street,0,356
+494727,0,2025-09-24 08:00:00,collision,Marsalforn,,0,292
+494856,0,2025-09-25 15:00:00,collision,St Julian's,old man from St,0,505
+494910,0,2025-09-25 18:00:00,collision,Tarxien,,0,516
+495320,0,2025-09-30 00:00:00,collision,Naxxar,Naxxar Road,0,1384
+495442,0,2025-10-02 15:00:00,rollover,Mriehel,,0,64
+495442,1,2025-10-02 00:00:00,collision,,Police said that the road,64,543
+495504,0,2025-10-02 08:00:00,collision,Qala,Police investigations are under way,0,498
+495595,0,2025-10-02 16:20:00,run-off-road,,tragic road accident in Croatia when their car veered off the road,0,1044
+495731,0,2025-10-02 15:00:00,collision,Swieqi,Adriatic Coast,0,2589
+495807,0,2025-10-04 23:00:00,collision,Gudja,crash in the opposite lane,0,776
+495802,0,2025-10-05 08:00:00,collision,Bugibba,St Vincent de Paul Residence,0,3641
+495896,0,2025-10-02 00:00:00,collision,,state road,0,2123
+495942,0,2025-10-06 00:00:00,collision,St Paul's Bay,narrow street,0,2462
+496006,0,2025-10-07 15:00:00,collision,Saqqajja,The accident happened on the roundabout,0,1260
+495969,0,2025-10-07 08:00:00,collision,Bugibba,car while crossing the road,0,2118
+496158,0,2025-10-04 09:30:00,collision,Balluta,Adriatic,0,3583
+496202,0,2025-10-09 08:00:00,collision,Zurrieq,,0,696
+496362,0,2025-10-10 09:00:00,collision,Ghajnsielem,along that stretch of road,0,1231
+496362,1,2025-10-10 08:00:00,unknown,,,1232,1582
+496773,0,2025-10-09 00:00:00,collision,Valletta,Magistrate Dr,0,644
+496774,0,2025-06-19 00:00:00,collision,Gudja,,0,524
+496775,0,2025-05-12 00:00:00,collision,Qormi,Valley Road,0,484
+496776,0,2025-07-29 00:00:00,collision,Hal Ghaxaq,,0,569
+496777,0,2025-04-06 18:00:00,collision,Buqana,,0,526
+496778,0,2025-04-15 08:00:00,collision,Marsa,,0,654
+496779,0,2025-07-23 00:00:00,collision,Mosta,Mosta Road,0,903
+496780,0,2025-08-03 08:00:00,collision,Barrani,,0,582
+496781,0,2025-06-11 15:00:00,collision,Naxxar,John Adye Street,0,563
+496782,0,2024-12-28 08:00:00,collision,Zabbar,St James Square,0,939
+496783,0,2025-03-16 08:00:00,collision,Haz-Zabbar,the Coast Road,0,525
+496784,0,2025-04-22 00:00:00,collision,Kalkara,,0,451
+496785,0,2025-05-08 00:00:00,collision,Ghajnsielem,Zabbar Road,0,471
+496786,0,2025-06-13 18:00:00,collision,Xewkija,,0,456
+496787,0,2025-09-21 00:00:00,collision,Valletta,Sa Maison Street,0,466
+496788,0,2025-04-17 00:00:00,collision,Santa Lucija,Luqa Road,0,454
+496789,0,2025-02-21 08:00:00,collision,,,0,568
+496790,0,2024-12-22 00:00:00,collision,,,0,468
+496791,0,2025-02-21 00:00:00,collision,Floriana,,0,484
+496792,0,2025-09-13 21:00:00,collision,Marsa,Magistrate Dr,0,561
+496793,0,2025-08-29 15:00:00,collision,Marsa,,0,588
+496794,0,2024-12-13 00:00:00,collision,Gudja,who at the time was on the side of the road,0,734
+496795,0,2025-05-07 00:00:00,collision,,,0,481
+496796,0,2025-05-07 00:00:00,collision,Ghar,,0,537
+496797,0,2024-12-27 00:00:00,collision,Marsa,,0,563
+496798,0,2025-05-04 00:00:00,collision,Marsa,Magistrate Dr,0,525
+496799,0,2025-01-07 21:00:00,collision,Attard,Magistrate Dr,0,624
+496800,0,2025-10-04 18:00:00,collision,Gudja,the Hyundai veered into the opposite lane,0,996
+496801,0,2025-06-04 00:00:00,collision,Marsa,,0,506
+496802,0,2025-09-17 00:00:00,collision,Zurrieq,Magistrate Dr,0,592
+496803,0,2025-04-18 00:00:00,collision,Burmarrad,,0,517
+496804,0,2025-07-06 00:00:00,collision,Mosta,Magistrate Dr,0,569
+496805,0,2025-04-17 00:00:00,collision,Tal-Barrani,Tal-Barrani Road,0,536
+496806,0,2025-05-15 00:00:00,collision,Rabat,Regional Road,0,496
+496807,0,2025-06-19 18:00:00,collision,L-Imdina,Magistrate Dr,0,774
+496808,0,2025-09-16 00:00:00,motorcycle_fall,Birkirkara,old German man who lives in St,0,566
+496809,0,2025-04-01 00:00:00,collision,Naxxar,,0,452
+496810,0,2025-08-18 15:00:00,collision,Zabbar,Luqa Road,0,484
+496811,0,2025-09-24 00:00:00,collision,Marsalforn,,0,528
+496812,0,2025-01-24 21:00:00,collision,Birkirkara,in Mikiel Anton Vassalli Street,0,634
+496813,0,2025-02-15 00:00:00,collision,Iklin,Valley Road,0,502
+496814,0,2025-02-19 00:00:00,collision,Fgura,,0,555
+496815,0,2025-02-09 00:00:00,collision,,,0,483
+496816,0,2025-07-26 08:00:00,collision,Pembroke,old man residing in St,0,645
+496817,0,2025-07-01 00:00:00,collision,Borg Gharib,,0,445
+496818,0,2024-12-23 08:00:00,collision,Marsaskala,Magistrate Dr,0,732
+496819,0,2025-02-01 00:00:00,collision,Hal Farrug,Hal Farrug Road,0,328
+496819,1,2025-02-01 00:00:00,collision,hospital,Argens Street,328,851
+496820,0,2025-02-17 00:00:00,collision,Qala,Giorgio Borg Olivier Street,0,627
+496821,0,2025-04-13 00:00:00,collision,Naxxar,the Coast Road,0,1124
+496822,0,2025-01-16 00:00:00,collision,Mosta,,0,503
+496823,0,2025-06-04 00:00:00,collision,St Paul's Bay,Kennedy Drive,0,552
+496824,0,2025-10-06 00:00:00,collision,Naxxar,,0,466
+496825,0,2025-08-10 18:00:00,motorcycle_fall,San Gwann,Mosta Road,0,445
+496826,0,2025-01-25 15:00:00,collision,Naxxar,the Coast Road,0,546
+496827,0,2025-08-06 00:00:00,unknown,,,0,117
+496827,1,2025-08-07 00:00:00,collision,-,Salina Street,117,392
+496827,2,2025-08-07 00:00:00,collision,by,Cospicua Road,392,936
+496828,0,2024-12-27 12:00:00,collision,Hotba,,0,489
+496829,0,2025-08-17 15:00:00,collision,Naxxar,the Coast Road,0,656
+496830,0,2025-09-16 00:00:00,collision,Rabat,Republic Street,0,463
+496831,0,2024-12-25 00:00:00,rollover,Zejtun,traffic accident in Mikiel Anton Vassalli Street,0,554
+496832,0,2025-05-27 15:00:00,collision,Qormi,traffic accident in St,0,554
+496833,0,2025-04-18 08:00:00,collision,Rabat,Magistrate Dr,0,615
+496834,0,2025-05-24 00:00:00,collision,Marsa,Aldo Moro Street,0,518
+496835,0,2024-12-19 00:00:00,collision,Balzan,,0,466
+496836,0,2025-03-28 00:00:00,unknown,Tal-Balal,Tal-Balal Road,0,512
+496837,0,2025-07-09 00:00:00,collision,Mosta,traffic accident in Mikiel Anton Vassalli Street,0,538
+496838,0,2025-09-25 00:00:00,collision,St Julian's,Republic Street,0,525
+496839,0,2025-08-04 00:00:00,collision,Gharghur,,0,470
+496840,0,2024-12-22 00:00:00,unknown,Naxxar,Salini Street,0,823
+496841,0,2025-07-23 00:00:00,collision,Gzira,,0,464
+496842,0,2025-07-24 08:00:00,rollover,San Anard,Magistrate Dr,0,670
+496843,0,2025-05-02 15:00:00,collision,L-Imgarr,Magistrate Dr,0,633
+496844,0,2025-02-16 00:00:00,collision,Siggiewi,,0,470
+496845,0,2025-02-04 00:00:00,collision,Zejtun,,0,603
+496846,0,2025-07-10 00:00:00,collision,Siggiewi,,0,460
+496847,0,2025-09-04 00:00:00,collision,Gzira,,0,632
+496848,0,2025-04-13 00:00:00,collision,Birzebbuga,traffic accident in Birzebbuga Road,0,462
+496849,0,2025-07-24 00:00:00,collision,Mellieha,Salina Road,0,428
+496850,0,2025-05-12 00:00:00,collision,Sliema,traffic accident in St Joseph High Road,0,507
+496851,0,2025-02-03 00:00:00,collision,Palma,,0,463
+496852,0,2025-01-15 00:00:00,collision,Marsa,,0,385
+496852,1,2025-01-15 00:00:00,motorcycle_fall,,,385,826
+496853,0,2025-06-12 00:00:00,collision,Marsa,Magistrate Dr,0,728
+496854,0,2025-09-20 00:00:00,collision,L-Gharb,,0,1280
+496855,0,2024-12-11 00:00:00,collision,Swieqi,,0,490
+496856,0,2025-01-06 00:00:00,collision,Fgura,,0,835
+496857,0,2025-07-27 00:00:00,collision,Fgura,Hompesch Street,0,1054
+496858,0,2025-05-26 15:00:00,collision,,Magistrate Dr,0,578
+496859,0,2025-10-02 08:00:00,collision,L-Imgarr,,0,584
+496860,0,2025-01-15 00:00:00,collision,Zurrieq,Blue Grotto Avenue,0,457
+496861,0,2025-02-24 00:00:00,collision,Mellieha,,0,429
+496861,1,2025-02-25 00:00:00,collision,investigations,,429,1022
+496862,0,2025-04-26 00:00:00,motorcycle_fall,Floriana,,0,428
+496863,0,2024-12-13 00:00:00,collision,Qormi,Magistrate Dr,0,595
+496864,0,2025-09-28 00:00:00,collision,Ghar,,0,474
+496865,0,2025-10-04 00:00:00,collision,Ta' Lawrenti,,0,562
+496866,0,2025-10-04 00:00:00,collision,St Paul's Bay,resident in St,0,606
+496867,0,2025-08-22 08:00:00,collision,Birkirkara,old woman from St,0,844
+496868,0,2025-04-06 00:00:00,collision,Birkirkara,Magistrate Dr,0,583
+496869,0,2025-05-02 00:00:00,collision,Xaghra,,0,725
+496870,0,2025-07-14 00:00:00,collision,Marsaxlokk,,0,469
+496871,0,2025-08-31 00:00:00,collision,Qormi,Cottoner Avenue,0,470
+496872,0,2025-02-08 00:00:00,motorcycle_fall,Rabat,,0,709
+496873,0,2024-12-11 00:00:00,collision,Mellieha,skip which was stationary on the road,0,710
+496874,0,2025-02-09 21:00:00,collision,Zurrieq,,0,971
+496875,0,2025-04-13 00:00:00,collision,Marsaxlokk,,0,538
+496876,0,2025-08-26 00:00:00,collision,Attard,Attard Road,0,475
+496877,0,2025-01-22 00:00:00,collision,Sliema,,0,557
+496878,0,2025-06-19 15:00:00,collision,Floriana,,0,554
+496879,0,2025-02-05 00:00:00,motorcycle_fall,Haz-Zebbug,,0,442
+496880,0,2024-12-19 00:00:00,collision,Naxxar,Magistrate Dr,0,626
+496881,0,2025-03-16 00:00:00,collision,Zebbug,,0,589
+496882,0,2025-07-17 00:00:00,collision,Wied,,0,542
+496883,0,2025-08-12 00:00:00,collision,Gwardamanga,traffic accident in St,0,723
