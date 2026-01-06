@@ -65,7 +65,7 @@ person_id,article_id,age,age_span,gender,gender_span,severity,severity_span,is_d
 66,3601,30,"(81, 86)",male,"(87, 88)",none,,TRUE,"(91,92)",motorcycle,"(91,92)",,
 683,3601,21,"(39,44)",male,"(39,44)",,"(50,51)",TRUE,"(29,30)",motorcycle,"(29,30)",,
 67,3601,21,"(58, 63)",female,"(63, 64)",none,,TRUE,"(53, 63)",car,"(53, 63)",,
-684,3586,36,"(75,80)",,,none,,TRUE,"((59,62)",car,"(64,66)",,
+684,3586,36,"(75,80)",,,none,,TRUE,"(59,62)",car,"(64,66)",,
 68,3586,63,"(1, 6)",male,"(69, 70)",none,,FALSE,,,,,
 69,3551,34,"(1, 6)",male,"(62, 63)",serious,"(8, 9)",TRUE,"(50, 55)",motorcycle,"(50, 55)",,
 70,3551,45,"(40, 45)",female,"(45, 46)",none,,FALSE,,,,,

@@ -52,7 +52,7 @@ article_id,accident_id,date_time,accident_type,location,road_name,text_start_cha
 3100,0,2025-02-08 18:00:00,collision,Rabat,the road,0,588
 3095,0,2025-02-10 18:00:00,collision,Kirkop,pillar on the opposite side of the road,0,621
 3090,0,2025-02-11 21:00:00,collision,Kirkop,centre strip and careened across the road,0,1134
-3001,0,2025-02-14 00:00:00,collision,Iklin,Keeway,0,520
+3001,0,2025-02-14 00:01:00,collision,Iklin,Keeway,0,520
 2975,0,2025-02-16 00:00:00,collision,,UK street,0,2635
 2974,0,2025-02-16 11:00:00,collision,Siggiewi,,0,333
 2940,0,2025-02-17 15:00:00,collision,Hal Far,car on Hal Far road,0,488
@@ -60,7 +60,7 @@ article_id,accident_id,date_time,accident_type,location,road_name,text_start_cha
 2873,0,2025-02-20 00:00:00,collision,St Paul's Bay,new garden has been inaugurated in St,0,1518
 2853,0,2025-02-21 08:00:00,collision,,,0,519
 2849,0,2025-02-21 15:00:00,collision,Qormi,,0,506
-2792,0,2025-02-24 00:00:00,collision,Hamrun,,0,691
+2792,0,2025-02-24 00:01:00,collision,Hamrun,,0,691
 2745,0,2025-02-24 23:00:00,collision,Hamrun,Hamrun road,0,1833
 2666,0,2025-03-03 08:00:00,motorcycle_fall,Marsa,,0,459
 2658,0,2025-03-03 08:00:00,collision,Imgarr,,0,329
@@ -278,7 +278,7 @@ article_id,accident_id,date_time,accident_type,location,road_name,text_start_cha
 496810,0,2025-08-18 15:00:00,collision,Zabbar,Luqa Road,0,484
 496811,0,2025-09-24 00:00:00,collision,Marsalforn,,0,528
 496812,0,2025-01-24 21:00:00,collision,Birkirkara,in Mikiel Anton Vassalli Street,0,634
-496813,0,2025-02-15 00:00:00,collision,Iklin,Valley Road,0,502
+496813,0,2025-02-15 00:01:00,collision,Iklin,Valley Road,0,502
 496814,0,2025-02-19 00:00:00,collision,Fgura,,0,555
 496815,0,2025-02-09 00:00:00,collision,,,0,483
 496816,0,2025-07-26 08:00:00,collision,Pembroke,old man residing in St,0,645

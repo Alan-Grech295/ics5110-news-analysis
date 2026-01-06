@@ -1,0 +1,683 @@
+person_id,article_id,age,gender,severity,is_driver,vehicle_type,person_state,accident_id,date_time,accident_type,location,road_name,is_weekday,is_public_holiday,time_of_day
+0,4208,78.0,male,none,True,car,,0.0,2024-12-04 17:00:00,collision,St Julian's,the Regional Road,True,False,evening
+1,4093,54.0,male,serious,True,motorcycle,,1.0,2024-12-11 15:00:00,collision,St Paul's Bay,stationary garbage skip on the St,True,False,afternoon
+2,4110,54.0,male,serious,True,motorcycle,,2.0,2024-12-11 13:00:00,collision,St Paul's Bay,skip on St,True,False,afternoon
+3,4066,17.0,female,serious,False,,,3.0,2024-12-13 17:30:00,collision,Mellieha,,True,False,evening
+4,4066,52.0,male,none,True,car,,3.0,2024-12-13 17:30:00,collision,Mellieha,,True,False,evening
+5,4066,29.0,male,serious,False,,,4.0,2024-12-14 19:45:00,collision,,,False,False,evening
+6,4066,50.0,,none,True,car,,4.0,2024-12-14 19:45:00,collision,,,False,False,evening
+7,4067,54.0,male,fatal,True,motorcycle,,5.0,2024-12-13 21:00:00,collision,Xemxija,Xemxija Pitstop,True,False,night
+8,4087,54.0,male,fatal,True,motorcycle,,6.0,2024-12-11 12:00:00,collision,St Paul's Bay,skip on the St,True,False,afternoon
+9,4049,45.0,male,serious,True,motorcycle,,7.0,2024-12-15 21:00:00,collision,Imgarr,,False,False,night
+10,4049,86.0,female,none,True,car,,7.0,2024-12-15 21:00:00,collision,Imgarr,,False,False,night
+11,4034,,male,serious,False,,,8.0,2024-12-13 19:45:00,collision,Gudja,blood drive,True,False,evening
+12,4034,29.0,,none,False,,,8.0,2024-12-13 19:45:00,collision,Gudja,blood drive,True,False,evening
+13,4007,54.0,male,fatal,True,motorcycle,,9.0,2024-12-16 18:00:00,collision,St Paul's Bay,the St Paul's Bay,True,False,evening
+15,4024,54.0,male,fatal,True,motorcycle,,10.0,2024-12-13 00:00:00,collision,St Paul's Bay,skip positioned on the final curve of the St,True,False,
+16,4014,52.0,male,none,True,van,,11.0,2024-12-17 18:00:00,collision,Siggiewi,The road,True,False,evening
+17,4014,43.0,female,none,False,,,11.0,2024-12-17 18:00:00,collision,Siggiewi,The road,True,False,evening
+18,4014,46.0,male,none,True,van,,11.0,2024-12-17 18:00:00,collision,Siggiewi,The road,True,False,evening
+679,3989,,,none,True,unknown,,12.0,2024-12-19 18:50:00,collision,Blata,traffic tailback on the busy street,True,False,evening
+680,3989,,,none,True,bus,,12.0,2024-12-19 18:50:00,collision,Blata,traffic tailback on the busy street,True,False,evening
+19,3991,30.0,female,serious,True,motorcycle,,13.0,2024-12-20 00:00:00,motorcycle_fall,Birkirkara,,True,False,
+20,3976,72.0,female,none,False,,,14.0,2024-12-20 11:30:00,collision,Naxxar,,True,False,morning
+21,3976,2.0,,serious,False,,,14.0,2024-12-20 11:30:00,collision,Naxxar,,True,False,morning
+22,3976,43.0,male,none,True,car,,14.0,2024-12-20 11:30:00,collision,Naxxar,,True,False,morning
+23,3976,44.0,male,none,True,car,,15.0,2024-12-20 00:00:00,collision,,,True,False,
+24,3964,31.0,male,minor,True,motorcycle,,16.0,2024-12-22 14:25:00,collision,Kennedy Grove,close to Kennedy Grove on the southbound lane,False,False,afternoon
+25,3964,40.0,male,serious,True,motorcycle,,16.0,2024-12-22 14:25:00,collision,Kennedy Grove,close to Kennedy Grove on the southbound lane,False,False,afternoon
+26,3964,27.0,female,none,True,car,,16.0,2024-12-22 14:25:00,collision,Kennedy Grove,close to Kennedy Grove on the southbound lane,False,False,afternoon
+28,3964,29.0,male,none,True,motorcycle,,16.0,2024-12-22 14:25:00,collision,Kennedy Grove,close to Kennedy Grove on the southbound lane,False,False,afternoon
+29,3966,13.0,female,serious,False,,,17.0,2024-12-22 10:15:00,collision,,,False,False,morning
+30,3966,25.0,,none,True,car,,17.0,2024-12-22 10:15:00,collision,,,False,False,morning
+31,3938,37.0,male,serious,True,bus,,18.0,2024-12-23 08:00:00,collision,Naxxar,van on the Regional Road,True,False,morning
+32,3938,39.0,female,none,True,van,,18.0,2024-12-23 08:00:00,collision,Naxxar,van on the Regional Road,True,False,morning
+33,3910,37.0,male,fatal,True,bus,,19.0,2024-12-23 00:00:00,collision,Naxxar,Regional Road,True,False,
+34,3910,39.0,female,minor,True,van,,19.0,2024-12-23 00:00:00,collision,Naxxar,Regional Road,True,False,
+35,3885,36.0,male,serious,True,car,,20.0,2024-12-27 08:00:00,collision,Marsa,,True,False,morning
+36,3900,62.0,female,serious,True,motorcycle,,21.0,2024-12-27 12:00:00,collision,Hamrun,,True,False,afternoon
+37,3900,25.0,,none,True,truck,,21.0,2024-12-27 12:00:00,collision,Hamrun,,True,False,afternoon
+38,3861,21.0,female,fatal,False,,drunk,22.0,2024-12-29 00:00:00,collision,Madliena,Is the road,False,False,
+39,3861,,male,,True,car,,22.0,2024-12-29 00:00:00,collision,Madliena,Is the road,False,False,
+40,3861,17.0,female,none,False,,,22.0,2024-12-29 00:00:00,collision,Madliena,Is the road,False,False,
+42,3834,,male,none,True,,drunk,23.0,2024-12-30 00:00:00,collision,Mithna,,True,False,
+43,3834,,female,serious,True,car,,23.0,2024-12-30 00:00:00,collision,Mithna,,True,False,
+44,3766,72.0,male,serious,True,car,,24.0,2025-01-05 12:30:00,collision,Birkirkara,,False,False,afternoon
+45,3766,66.0,female,serious,False,,,24.0,2025-01-05 12:30:00,collision,Birkirkara,,False,False,afternoon
+46,3766,28.0,male,minor,True,car,,24.0,2025-01-05 12:30:00,collision,Birkirkara,,False,False,afternoon
+47,3747,25.0,male,fatal,True,car,,25.0,2025-01-06 21:00:00,collision,Attard,The crash happened on the Mdina road,True,False,night
+48,3749,20.0,female,serious,True,truck,,26.0,2025-01-06 18:00:00,collision,Fgura,,True,False,evening
+49,3749,24.0,female,serious,False,,,26.0,2025-01-06 18:00:00,collision,Fgura,,True,False,evening
+50,3749,34.0,,serious,False,,,26.0,2025-01-06 18:00:00,collision,Fgura,,True,False,evening
+51,3749,25.0,,fatal,True,unknown,,27.0,2025-01-07 00:00:00,collision,,,True,False,
+52,3740,25.0,male,fatal,True,car,,28.0,2025-01-06 09:40:00,collision,Attard,Mdina Road,True,False,morning
+681,3740,,female,serious,False,,,29.0,2025-01-06 21:00:00,collision,,,True,False,night
+682,3740,,female,minor,False,,,29.0,2025-01-06 21:00:00,collision,,,True,False,night
+53,3740,20.0,,none,True,truck,,29.0,2025-01-06 21:00:00,collision,,,True,False,night
+54,3704,25.0,male,fatal,True,car,,30.0,2025-01-08 21:00:00,collision,,,True,False,night
+56,3704,13.0,female,serious,False,,,30.0,2025-01-08 21:00:00,collision,,,True,False,night
+57,3704,25.0,,none,True,car,,30.0,2025-01-08 21:00:00,collision,,,True,False,night
+58,3699,25.0,male,fatal,True,car,,31.0,2025-01-08 00:00:00,collision,Attard,,True,False,
+59,3671,83.0,female,serious,False,car,,32.0,2025-01-09 11:00:00,collision,Rabat,,True,False,morning
+60,3671,56.0,female,minor,True,car,,32.0,2025-01-09 11:00:00,collision,Rabat,,True,False,morning
+61,3653,21.0,male,fatal,False,car,,33.0,2025-01-11 00:00:00,collision,Swieqi,particularly as road,False,False,
+62,3653,22.0,male,none,True,car,,33.0,2025-01-11 00:00:00,collision,Swieqi,particularly as road,False,False,
+66,3601,30.0,male,none,True,motorcycle,,35.0,2025-01-15 08:00:00,motorcycle_fall,,Tal-Barrani Road,True,False,morning
+683,3601,21.0,male,,True,motorcycle,,34.0,2025-01-15 08:00:00,collision,Marsa,Anton Cassar Street,True,False,morning
+67,3601,21.0,female,none,True,car,,34.0,2025-01-15 08:00:00,collision,Marsa,Anton Cassar Street,True,False,morning
+684,3586,36.0,,none,True,car,,36.0,2025-01-15 16:45:00,collision,Sliema,,True,False,afternoon
+68,3586,63.0,male,none,False,,,36.0,2025-01-15 16:45:00,collision,Sliema,,True,False,afternoon
+69,3551,34.0,male,serious,True,motorcycle,,37.0,2025-01-16 10:15:00,collision,Naxxar,,True,False,morning
+70,3551,45.0,female,none,False,,,37.0,2025-01-16 10:15:00,collision,Naxxar,,True,False,morning
+71,3558,44.0,male,none,True,car,,38.0,2025-01-16 00:00:00,collision,Valletta,old man in the Regional Road,True,False,
+72,3558,25.0,male,fatal,False,,,38.0,2025-01-16 00:00:00,collision,Valletta,old man in the Regional Road,True,False,
+73,3588,25.0,male,fatal,False,,,39.0,2025-01-16 21:00:00,collision,St Julian's,car in St,True,False,night
+74,3588,44.0,male,none,True,car,,39.0,2025-01-16 21:00:00,collision,St Julian's,car in St,True,False,night
+76,3456,51.0,male,serious,True,motorcycle,,40.0,2025-01-22 21:00:00,unknown,Sliema,Rudolph Street,True,False,night
+77,3456,47.0,,none,True,car,,40.0,2025-01-22 21:00:00,unknown,Sliema,Rudolph Street,True,False,night
+78,3442,36.0,male,fatal,True,motorcycle,,41.0,2025-01-23 18:00:00,collision,Tal-Qroqq,,True,False,evening
+79,3423,36.0,male,fatal,False,,,42.0,2025-01-25 00:00:00,collision,,,False,False,
+81,3408,46.0,male,fatal,True,motorcycle,,43.0,2025-01-25 17:00:00,collision,Fgura,the Coast Road,False,False,evening
+685,3408,,,none,True,car,,43.0,2025-01-25 17:00:00,collision,Fgura,the Coast Road,False,False,evening
+82,3255,34.0,male,serious,True,car,,44.0,2025-02-01 05:00:00,collision,Hal Farrug,Hal Farrug Street,False,False,morning
+83,3255,30.0,male,none,True,car,,45.0,2025-02-01 12:45:00,collision,,,False,False,afternoon
+84,3255,59.0,male,serious,True,motorcycle,,45.0,2025-02-01 12:45:00,collision,,,False,False,afternoon
+85,3220,25.0,male,fatal,False,,,46.0,2025-01-31 00:00:00,collision,St Julian's,the Regional Road,True,False,
+86,3220,44.0,male,none,True,car,,46.0,2025-01-31 00:00:00,collision,St Julian's,the Regional Road,True,False,
+87,3197,56.0,female,serious,False,,,47.0,2025-02-04 08:00:00,collision,Zejtun,,True,False,morning
+88,3197,58.0,female,none,False,,,47.0,2025-02-04 08:00:00,collision,Zejtun,,True,False,morning
+89,3197,66.0,male,none,True,motorcycle,,47.0,2025-02-04 08:00:00,collision,Zejtun,,True,False,morning
+90,3206,52.0,male,serious,True,motorcycle,,48.0,2025-02-05 09:00:00,motorcycle_fall,Ta' Qali,Vjal l-Istadium Nazzjonali,True,False,morning
+91,3169,35.0,male,none,True,motorcycle,,49.0,2025-02-06 08:00:00,collision,Naxxar,Labour Avenue,True,False,morning
+92,3169,26.0,female,none,True,car,,49.0,2025-02-06 08:00:00,collision,Naxxar,Labour Avenue,True,False,morning
+93,3100,25.0,male,none,True,van,,50.0,2025-02-08 18:00:00,collision,Rabat,the road,False,False,evening
+94,3100,36.0,,none,False,,,50.0,2025-02-08 18:00:00,collision,Rabat,the road,False,False,evening
+95,3095,24.0,male,fatal,True,,,51.0,2025-02-10 18:00:00,collision,Kirkop,pillar on the opposite side of the road,True,True,evening
+96,3095,25.0,,minor,False,,,51.0,2025-02-10 18:00:00,collision,Kirkop,pillar on the opposite side of the road,True,True,evening
+97,3090,24.0,male,fatal,True,car,,52.0,2025-02-11 21:00:00,collision,Kirkop,centre strip and careened across the road,True,False,night
+98,3090,,male,fatal,True,motorcycle,,52.0,2025-02-11 21:00:00,collision,Kirkop,centre strip and careened across the road,True,False,night
+99,3090,25.0,male,fatal,True,car,,52.0,2025-02-11 21:00:00,collision,Kirkop,centre strip and careened across the road,True,False,night
+100,3090,24.0,female,fatal,False,pedestrian,,52.0,2025-02-11 21:00:00,collision,Kirkop,centre strip and careened across the road,True,False,night
+686,3090,,,none,True,truck,,52.0,2025-02-11 21:00:00,collision,Kirkop,centre strip and careened across the road,True,False,night
+101,3001,39.0,male,serious,True,motorcycle,,53.0,2025-02-14 00:01:00,collision,Iklin,Keeway,True,False,night
+102,3001,42.0,female,none,True,car,,53.0,2025-02-14 00:01:00,collision,Iklin,Keeway,True,False,night
+104,2974,50.0,male,serious,False,,,55.0,2025-02-16 11:00:00,collision,Siggiewi,,False,False,morning
+105,2974,55.0,,none,True,car,,55.0,2025-02-16 11:00:00,collision,Siggiewi,,False,False,morning
+106,2940,3.0,female,none,False,car,,56.0,2025-02-17 15:00:00,collision,Hal Far,car on Hal Far road,True,False,afternoon
+107,2940,44.0,,none,True,trailer,,56.0,2025-02-17 15:00:00,collision,Hal Far,car on Hal Far road,True,False,afternoon
+687,2940,30.0,male,,,car,,56.0,2025-02-17 15:00:00,collision,Hal Far,car on Hal Far road,True,False,afternoon
+688,2940,27.0,female,,,car,,56.0,2025-02-17 15:00:00,collision,Hal Far,car on Hal Far road,True,False,afternoon
+108,2872,45.0,male,serious,True,motorcycle,,57.0,2025-02-19 18:00:00,collision,Fgura,,True,False,evening
+109,2872,32.0,female,none,True,car,,57.0,2025-02-19 18:00:00,collision,Fgura,,True,False,evening
+110,2873,17.0,female,fatal,False,car,,58.0,2025-02-20 00:00:00,collision,St Paul's Bay,new garden has been inaugurated in St,True,False,
+111,2853,80.0,male,serious,True,car,,59.0,2025-02-21 08:00:00,collision,,,True,False,morning
+112,2853,80.0,male,serious,False,,,59.0,2025-02-21 08:00:00,collision,,,True,False,morning
+113,2849,61.0,male,serious,True,carriage,,60.0,2025-02-21 15:00:00,collision,Qormi,,True,False,afternoon
+114,2849,31.0,male,none,True,unknown,,60.0,2025-02-21 15:00:00,collision,Qormi,,True,False,afternoon
+115,2792,23.0,,,True,motorcycle,,61.0,2025-02-24 00:01:00,collision,Hamrun,,True,False,night
+116,2792,29.0,male,serious,False,,,61.0,2025-02-24 00:01:00,collision,Hamrun,,True,False,night
+117,2792,50.0,female,serious,True,car,,61.0,2025-02-24 00:01:00,collision,Hamrun,,True,False,night
+118,2745,23.0,male,serious,True,motorcycle,,62.0,2025-02-24 23:00:00,collision,Hamrun,Hamrun road,True,False,night
+120,2666,,male,serious,True,motorcycle,,63.0,2025-03-03 08:00:00,motorcycle_fall,Marsa,,True,False,morning
+121,2658,75.0,male,serious,True,car,,64.0,2025-03-03 08:00:00,collision,Imgarr,,True,False,morning
+122,2557,56.0,female,none,True,car,,65.0,2025-03-08 18:00:00,collision,St Paul's Bay,,False,False,evening
+123,2492,45.0,male,none,True,bus,,66.0,2025-03-13 14:45:00,collision,Zebbug,,True,False,afternoon
+124,2492,35.0,male,serious,True,car,,66.0,2025-03-13 14:45:00,collision,Zebbug,,True,False,afternoon
+125,2452,35.0,male,serious,True,truck,,67.0,2025-03-14 15:30:00,collision,Buqana,spilling an entire load of construction sand across the road,True,False,afternoon
+126,2461,34.0,male,none,True,car,,68.0,2025-03-14 21:00:00,collision,Ghajn,The road,True,False,night
+127,2461,39.0,male,minor,True,car,,68.0,2025-03-14 21:00:00,collision,Ghajn,The road,True,False,night
+128,2461,24.0,female,none,False,car,,68.0,2025-03-14 21:00:00,collision,Ghajn,The road,True,False,night
+129,2419,68.0,male,minor,False,,,69.0,2025-03-16 08:00:00,collision,Zebbug,,False,False,morning
+130,2419,59.0,male,none,True,car,,69.0,2025-03-16 08:00:00,collision,Zebbug,,False,False,morning
+131,2419,64.0,female,serious,False,,,69.0,2025-03-16 08:00:00,collision,Zebbug,,False,False,morning
+132,2409,40.0,male,serious,True,motorcycle,,70.0,2025-03-16 08:00:00,motorcycle_fall,Naxxar,the Coast Road,False,False,morning
+133,2301,32.0,male,serious,True,motorcycle,,71.0,2025-03-22 08:00:00,collision,Ghajnsielem,old man from St,False,False,morning
+134,2301,31.0,male,none,True,bus,,71.0,2025-03-22 08:00:00,collision,Ghajnsielem,old man from St,False,False,morning
+135,2259,43.0,female,serious,True,car,,72.0,2025-03-22 15:00:00,collision,Nadur,,False,False,afternoon
+136,2259,26.0,male,none,True,truck,,72.0,2025-03-22 15:00:00,collision,Nadur,,False,False,afternoon
+689,2201,,,none,True,motorcycle,,73.0,2025-03-26 00:00:00,unknown,Siggiewi,,True,False,
+690,2201,,,none,False,,,73.0,2025-03-26 00:00:00,unknown,Siggiewi,,True,False,
+137,2201,,,none,True,unknown,,73.0,2025-03-26 00:00:00,unknown,Siggiewi,,True,False,
+138,2157,33.0,male,serious,True,bicycle,,74.0,2025-03-28 08:00:00,collision,San Gwann,Police investigations are under way,True,False,morning
+139,2157,32.0,male,none,True,truck,,74.0,2025-03-28 08:00:00,collision,San Gwann,Police investigations are under way,True,False,morning
+140,2080,87.0,female,serious,False,,,75.0,2025-04-01 08:00:00,collision,Naxxar,St Paul Street,True,False,morning
+142,2080,30.0,male,none,True,car,,75.0,2025-04-01 08:00:00,collision,Naxxar,St Paul Street,True,False,morning
+143,2101,48.0,male,none,True,"11,600 and his driving licence was suspended for",,76.0,2025-04-01 00:00:00,collision,St Paul's Bay,Mosta Police Station,True,False,
+144,2101,45.0,female,fatal,False,,,76.0,2025-04-01 00:00:00,collision,St Paul's Bay,Mosta Police Station,True,False,
+146,1989,31.0,,serious,True,motorcycle,,77.0,2025-04-06 08:30:00,collision,Attard,,False,False,morning
+147,1989,19.0,female,none,True,car,,77.0,2025-04-06 08:30:00,collision,Attard,,False,False,morning
+148,1967,41.0,male,serious,True,motorcycle,,78.0,2025-04-06 20:45:00,collision,Buqana,the road,False,False,evening
+149,1967,25.0,male,none,True,car,,78.0,2025-04-06 20:45:00,collision,Buqana,the road,False,False,evening
+150,1856,39.0,male,minor,True,bus,,79.0,2025-04-07 08:55:00,collision,Zurrieq,the Coast Road,True,False,morning
+691,1856,79.0,,minor,False,bus,,79.0,2025-04-07 08:55:00,collision,Zurrieq,the Coast Road,True,False,morning
+692,1856,79.0,,minor,False,bus,,79.0,2025-04-07 08:55:00,collision,Zurrieq,the Coast Road,True,False,morning
+693,1856,79.0,,minor,False,bus,,79.0,2025-04-07 08:55:00,collision,Zurrieq,the Coast Road,True,False,morning
+151,1856,81.0,male,minor,True,car,,79.0,2025-04-07 08:55:00,collision,Zurrieq,the Coast Road,True,False,morning
+152,1856,80.0,female,serious,False,car,,79.0,2025-04-07 08:55:00,collision,Zurrieq,the Coast Road,True,False,morning
+153,1860,41.0,male,serious,True,cars - a Smart driven by the man and,,80.0,2025-04-13 15:00:00,collision,Gudja,,False,False,afternoon
+154,1860,36.0,female,none,True,car,,80.0,2025-04-13 15:00:00,collision,Gudja,,False,False,afternoon
+155,1808,36.0,male,serious,True,motorcycle,,81.0,2025-04-15 12:50:00,collision,Marsa,Traffic in the area was slow moving immediately after the accident but the road,True,False,afternoon
+156,1808,52.0,male,none,True,van,,81.0,2025-04-15 12:50:00,collision,Marsa,Traffic in the area was slow moving immediately after the accident but the road,True,False,afternoon
+157,1808,53.0,male,none,True,car,,81.0,2025-04-15 12:50:00,collision,Marsa,Traffic in the area was slow moving immediately after the accident but the road,True,False,afternoon
+158,1776,79.0,male,serious,True,motorcycle,,82.0,2025-04-17 08:00:00,collision,Zejtun,,True,False,morning
+159,1776,46.0,male,none,True,car,,82.0,2025-04-17 08:00:00,collision,Zejtun,,True,False,morning
+160,1769,80.0,male,serious,False,,,83.0,2025-04-17 15:00:00,collision,Luqa,Police investigations are under way,True,False,afternoon
+161,1769,22.0,male,none,True,car,,83.0,2025-04-17 15:00:00,collision,Luqa,Police investigations are under way,True,False,afternoon
+162,1745,46.0,,serious,False,,,84.0,2025-04-18 09:45:00,collision,Mosta,,True,False,morning
+163,1718,31.0,female,none,True,car,,85.0,2025-04-18 13:30:00,collision,St Paul's Bay,Burmarrad Street,True,False,afternoon
+164,1718,72.0,male,serious,True,motorcycle,,85.0,2025-04-18 13:30:00,collision,St Paul's Bay,Burmarrad Street,True,False,afternoon
+165,1490,63.0,male,serious,True,motorcycle,,86.0,2025-05-02 15:00:00,collision,Gharb,,True,False,afternoon
+166,1490,54.0,male,none,True,unknown,,86.0,2025-05-02 15:00:00,collision,Gharb,,True,False,afternoon
+167,1489,74.0,male,none,True,car,,87.0,2025-05-02 17:00:00,collision,Xaghra,,True,False,evening
+168,1489,73.0,female,serious,False,,,87.0,2025-05-02 17:00:00,collision,Xaghra,,True,False,evening
+169,1489,33.0,male,none,True,car,,87.0,2025-05-02 17:00:00,collision,Xaghra,,True,False,evening
+170,1467,43.0,male,none,True,motorcycle,,88.0,2025-05-04 15:00:00,collision,Marsa,,False,False,afternoon
+171,1380,34.0,,serious,True,motorcycle,,89.0,2025-05-07 15:00:00,collision,Ghar,,True,False,afternoon
+172,1380,23.0,,none,True,van,,89.0,2025-05-07 15:00:00,collision,Ghar,,True,False,afternoon
+173,1352,39.0,male,serious,True,motorcycle,,90.0,2025-05-09 00:00:00,collision,Siggiewi,with the road agency arguing that the council was responsible for maintaining the road,True,False,
+174,1286,29.0,,serious,True,,,91.0,2025-05-12 08:00:00,collision,Wied,,True,False,morning
+175,1286,34.0,male,none,True,van,,91.0,2025-05-12 08:00:00,collision,Wied,,True,False,morning
+177,1275,54.0,female,none,True,car,,92.0,2025-05-12 08:00:00,unknown,Sliema,in St Joseph High Road,True,False,morning
+178,1275,62.0,,none,True,motorcycle,,92.0,2025-05-12 08:00:00,unknown,Sliema,in St Joseph High Road,True,False,morning
+179,1227,22.0,female,serious,True,motorcycle,,93.0,2025-05-14 15:00:00,collision,Santa Venera,Regional Road,True,False,afternoon
+180,1227,19.0,female,none,True,car,,93.0,2025-05-14 15:00:00,collision,Santa Venera,Regional Road,True,False,afternoon
+694,1165,,,serious,True,car,,94.0,2025-05-17 18:30:00,collision,Mellieha,close to the DB Seabank Hotel where one lane,False,False,evening
+181,1165,,female,minor,True,car,,94.0,2025-05-17 18:30:00,collision,Mellieha,close to the DB Seabank Hotel where one lane,False,False,evening
+182,1034,29.0,male,serious,True,car,,95.0,2025-05-22 08:00:00,collision,Ghajn,roadside building in Mgarr on the road,True,False,morning
+183,1015,37.0,male,serious,True,motorcycle,,96.0,2025-05-24 08:00:00,collision,Marsa,old Albanian national who lives in St,False,False,morning
+184,1015,65.0,male,none,True,car,,96.0,2025-05-24 08:00:00,collision,Marsa,old Albanian national who lives in St,False,False,morning
+185,974,5.0,male,serious,False,,,97.0,2025-05-25 13:15:00,collision,Bugibba,,False,False,afternoon
+186,974,22.0,male,none,True,car,,97.0,2025-05-25 13:15:00,collision,Bugibba,,False,False,afternoon
+187,964,35.0,male,fatal,True,car,,98.0,2025-05-27 17:20:00,collision,Xemxija,The road,True,False,evening
+188,933,35.0,male,fatal,True,motorcycle,,99.0,2025-05-27 15:00:00,motorcycle_fall,Xemxija,,True,False,afternoon
+189,760,62.0,,serious,True,car,,100.0,2025-06-03 04:30:00,collision,Rabat,Marfa Road,True,False,night
+190,751,21.0,male,serious,True,motorcycle,,101.0,2025-06-04 21:00:00,collision,St Paul's Bay,Kennedy Drive,True,False,night
+191,751,,,none,True,unknown,,101.0,2025-06-04 21:00:00,collision,St Paul's Bay,Kennedy Drive,True,False,night
+192,685,22.0,female,serious,True,car,,102.0,2025-06-06 21:00:00,collision,St Paul's Bay,collision in St,True,False,night
+193,685,21.0,male,minor,False,car,,102.0,2025-06-06 21:00:00,collision,St Paul's Bay,collision in St,True,False,night
+194,685,2.0,,minor,False,car,,102.0,2025-06-06 21:00:00,collision,St Paul's Bay,collision in St,True,False,night
+695,685,,male,none,True,car,,102.0,2025-06-06 21:00:00,collision,St Paul's Bay,collision in St,True,False,night
+696,685,,male,serious,False,car,,102.0,2025-06-06 21:00:00,collision,St Paul's Bay,collision in St,True,False,night
+195,679,39.0,male,serious,True,motorcycle,,103.0,2025-06-06 15:00:00,collision,Xewkija,,True,False,afternoon
+196,679,36.0,female,none,True,car,,103.0,2025-06-06 15:00:00,collision,Xewkija,,True,False,afternoon
+197,640,43.0,male,fatal,True,motorcycle,,104.0,2025-06-07 15:00:00,collision,,bollard that separates the road,False,True,afternoon
+198,654,67.0,male,fatal,True,motorcycle,,107.0,2025-06-08 00:00:00,collision,,,False,False,
+199,607,67.0,,fatal,True,bicycle,,108.0,2025-06-12 15:10:00,collision,Zejtun,It is the ninth road,True,False,afternoon
+697,607,,,none,True,van,,108.0,2025-06-12 15:10:00,collision,Zejtun,It is the ninth road,True,False,afternoon
+698,607,,,none,True,car,,108.0,2025-06-12 15:10:00,collision,Zejtun,It is the ninth road,True,False,afternoon
+200,522,64.0,male,serious,True,motorcycle,,109.0,2025-06-13 18:00:00,collision,Xaghra,police investigation into the incident is under way,True,False,evening
+201,404,39.0,male,none,True,car,,110.0,2025-06-19 18:13:00,collision,Luqa,Mdina Road,True,False,evening
+202,404,53.0,male,serious,True,motorcycle,,110.0,2025-06-19 18:13:00,collision,Luqa,Mdina Road,True,False,evening
+203,404,32.0,,fatal,True,,,110.0,2025-06-19 18:13:00,collision,Luqa,Mdina Road,True,False,evening
+204,404,53.0,,none,True,,,110.0,2025-06-19 18:13:00,collision,Luqa,Mdina Road,True,False,evening
+205,404,,female,serious,False,,,110.0,2025-06-19 18:13:00,collision,Luqa,Mdina Road,True,False,evening
+206,407,53.0,male,none,True,bus,,111.0,2025-06-19 08:00:00,collision,Zejtun,,True,False,morning
+207,408,28.0,female,serious,False,car,,112.0,2025-06-18 20:13:00,collision,Zebbug,Mdina Road,True,False,evening
+208,408,57.0,male,serious,True,car,,112.0,2025-06-18 20:13:00,collision,Zebbug,Mdina Road,True,False,evening
+209,408,32.0,male,fatal,True,car,,112.0,2025-06-18 20:13:00,collision,Zebbug,Mdina Road,True,False,evening
+210,416,57.0,female,serious,False,pedestrian,,113.0,2025-06-19 13:15:00,unknown,Floriana,,True,False,afternoon
+211,416,52.0,male,none,True,car,,113.0,2025-06-19 13:15:00,unknown,Floriana,,True,False,afternoon
+699,381,23.0,male,serious,True,motorcycle,,114.0,2025-06-19 15:00:00,collision,Gudja,Thursday saw several road,True,False,afternoon
+212,381,53.0,,serious,True,motorcycle,,115.0,2025-06-20 08:00:00,collision,,,True,False,morning
+213,381,64.0,male,none,True,car,,114.0,2025-06-19 15:00:00,collision,Gudja,Thursday saw several road,True,False,afternoon
+214,381,57.0,female,none,False,,,115.0,2025-06-20 08:00:00,collision,,,True,False,morning
+215,370,32.0,male,fatal,False,,,116.0,2025-06-18 21:00:00,unknown,Zebbug,,True,False,night
+216,361,57.0,female,fatal,False,,,117.0,2025-06-21 13:15:00,unknown,Floriana,,False,False,afternoon
+217,361,52.0,male,none,True,car,,117.0,2025-06-21 13:15:00,unknown,Floriana,,False,False,afternoon
+218,313,23.0,female,minor,True,car,,118.0,2025-06-23 08:00:00,collision,Tal-Qroqq,the Regional Road,True,False,morning
+219,287,,male,,True,motorcycle,,119.0,2025-06-25 07:00:00,collision,Sliema,the Regional Road,True,False,morning
+700,287,,female,,False,motorcycle,,119.0,2025-06-25 07:00:00,collision,Sliema,the Regional Road,True,False,morning
+220,287,34.0,female,none,True,car,,119.0,2025-06-25 07:00:00,collision,Sliema,the Regional Road,True,False,morning
+221,113265,46.0,male,serious,True,motorcycle,,120.0,2025-07-05 08:00:00,collision,Mellieha,,False,False,morning
+222,113265,23.0,male,none,True,car,,120.0,2025-07-05 08:00:00,collision,Mellieha,,False,False,morning
+223,190828,30.0,male,serious,True,motorcycle,,121.0,2025-07-06 00:00:00,collision,Mosta,,False,False,
+224,190828,34.0,female,none,True,car,,121.0,2025-07-06 00:00:00,collision,Mosta,,False,False,
+225,139548,45.0,male,serious,True,motorcycle,,122.0,2025-07-09 18:00:00,collision,Mosta,,True,False,evening
+226,139548,40.0,female,none,True,car,,122.0,2025-07-09 18:00:00,collision,Mosta,,True,False,evening
+228,102356,46.0,male,none,True,truck,,123.0,2025-07-14 00:00:00,collision,Bidnija,The alleged road rage incident shows the large vehicle driving straight into the car on the road,True,False,
+230,220724,30.0,,serious,True,motorcycle,,124.0,2025-07-14 11:00:00,collision,Marsaxlokk,Melqart Street,True,False,morning
+231,220724,35.0,,none,False,,,124.0,2025-07-14 11:00:00,collision,Marsaxlokk,Melqart Street,True,False,morning
+232,167578,32.0,male,none,True,car,,125.0,2025-07-15 00:00:00,collision,St Paul's Bay,woman crossing the road,True,False,
+233,167578,,female,serious,False,pedestrian,,125.0,2025-07-15 00:00:00,collision,St Paul's Bay,woman crossing the road,True,False,
+235,141175,45.0,female,serious,True,motorcycle,,126.0,2025-07-17 13:15:00,collision,Gzira,Police investigations are under way,True,False,afternoon
+236,141175,24.0,female,none,True,car,,126.0,2025-07-17 13:15:00,collision,Gzira,Police investigations are under way,True,False,afternoon
+237,130030,70.0,female,serious,True,car,,127.0,2025-07-16 17:00:00,collision,L-Imqabba,,True,False,evening
+238,226588,17.0,male,serious,True,motorcycle,,128.0,2025-07-17 21:00:00,collision,Birkirkara,Birkirkara Valley Road,True,False,night
+239,226588,41.0,,none,True,car,,128.0,2025-07-17 21:00:00,collision,Birkirkara,Birkirkara Valley Road,True,False,night
+243,450477,16.0,male,serious,True,bicycle,,132.0,2025-07-19 00:00:00,collision,Buqana,Magistrate Dr,False,False,
+244,297729,22.0,male,none,True,motorcycle,,133.0,2025-07-20 12:30:00,collision,Swieqi,the Regional Road,False,False,afternoon
+245,297729,,male,none,True,van,,133.0,2025-07-20 12:30:00,collision,Swieqi,the Regional Road,False,False,afternoon
+246,353524,,male,fatal,False,pedestrian,,134.0,2025-07-23 00:00:00,collision,Wied,clear road,True,False,
+247,353524,83.0,male,none,True,car,,134.0,2025-07-23 00:00:00,collision,Wied,clear road,True,False,
+249,353518,81.0,male,serious,True,car,,135.0,2025-07-23 08:00:00,collision,Mosta,,True,False,morning
+250,353518,79.0,female,fatal,False,,,135.0,2025-07-23 08:00:00,collision,Mosta,,True,False,morning
+251,353518,24.0,male,none,True,van,,135.0,2025-07-23 08:00:00,collision,Mosta,,True,False,morning
+252,353565,65.0,male,serious,True,motorcycle,,136.0,2025-07-24 08:00:00,collision,Naxxar,Police investigations are under way,True,False,morning
+253,353525,40.0,male,serious,True,motorcycle,,137.0,2025-07-24 08:00:00,rollover,Tarxien,,True,False,morning
+254,353525,33.0,female,serious,False,,,137.0,2025-07-24 08:00:00,rollover,Tarxien,,True,False,morning
+255,386207,27.0,male,fatal,True,motorcycle,,138.0,2025-07-26 08:00:00,collision,Pembroke,old man from St,False,False,morning
+256,386207,22.0,male,none,True,car,,138.0,2025-07-26 08:00:00,collision,Pembroke,old man from St,False,False,morning
+257,386270,71.0,female,fatal,True,car,,139.0,2025-07-27 18:35:00,collision,Fgura,the busy Fgura road,False,False,evening
+258,386270,23.0,female,serious,True,car,,139.0,2025-07-27 18:35:00,collision,Fgura,the busy Fgura road,False,False,evening
+259,450529,34.0,,,True,motorcycle,,140.0,2025-07-27 11:45:00,collision,Sliema,,False,False,morning
+260,450529,71.0,male,none,True,car,,140.0,2025-07-27 11:45:00,collision,Sliema,,False,False,morning
+261,386182,62.0,female,fatal,False,,,142.0,2025-07-27 18:00:00,collision,and,Marina Street,False,False,evening
+262,386182,58.0,male,fatal,True,motorcycle,,142.0,2025-07-27 18:00:00,collision,and,Marina Street,False,False,evening
+263,386182,23.0,male,none,True,car,,143.0,2025-07-28 22:00:00,collision,,Ford Fiesta which was stopped by the side of the road,True,False,night
+264,386182,69.0,male,minor,True,car,,143.0,2025-07-28 22:00:00,collision,,Ford Fiesta which was stopped by the side of the road,True,False,night
+265,386315,62.0,female,fatal,False,,,144.0,2025-07-27 22:00:00,collision,Hamrun,Ford Fiesta which was stopped by the side of the road,False,False,night
+266,386315,23.0,male,none,True,car,,144.0,2025-07-27 22:00:00,collision,Hamrun,Ford Fiesta which was stopped by the side of the road,False,False,night
+267,386315,23.0,female,serious,True,unknown,,146.0,2025-07-28 15:00:00,collision,,the busy Fgura road,True,False,afternoon
+268,451726,63.0,male,fatal,False,,,147.0,2025-07-29 13:45:00,collision,Naxxar,,True,False,afternoon
+269,451726,27.0,,fatal,True,motorcycle,,148.0,2025-07-26 08:00:00,collision,two,,False,False,morning
+270,451726,,female,fatal,False,,,148.0,2025-07-26 08:00:00,collision,two,,False,False,morning
+271,467167,23.0,male,none,True,car,drunk,149.0,2025-07-30 09:15:00,collision,Floriana,,True,False,morning
+272,467167,62.0,female,fatal,False,,,149.0,2025-07-30 09:15:00,collision,Floriana,,True,False,morning
+273,467167,69.0,male,none,False,car,,149.0,2025-07-30 09:15:00,collision,Floriana,,True,False,morning
+274,467110,29.0,male,serious,True,motorcycle,,150.0,2025-07-29 18:00:00,unknown,Hal Ghaxaq,,True,False,evening
+275,467110,42.0,male,none,True,car,,150.0,2025-07-29 18:00:00,unknown,Hal Ghaxaq,,True,False,evening
+282,489339,67.0,male,none,True,motorcycle,,152.0,2025-08-04 18:40:00,collision,Marsa,Mosta Road,True,False,evening
+283,489339,79.0,female,none,True,car,,152.0,2025-08-04 18:40:00,collision,Marsa,Mosta Road,True,False,evening
+284,489475,77.0,male,serious,False,,,153.0,2025-08-04 15:30:00,collision,Fgura,the busy Fgura road,True,False,afternoon
+285,489475,71.0,female,fatal,True,car,,153.0,2025-08-04 15:30:00,collision,Fgura,the busy Fgura road,True,False,afternoon
+286,489475,23.0,female,critical,False,car,,153.0,2025-08-04 15:30:00,collision,Fgura,the busy Fgura road,True,False,afternoon
+287,489475,42.0,female,none,True,car,,153.0,2025-08-04 15:30:00,collision,Fgura,the busy Fgura road,True,False,afternoon
+701,489475,14.0,male,,False,car,,153.0,2025-08-04 15:30:00,collision,Fgura,the busy Fgura road,True,False,afternoon
+702,489475,11.0,male,,False,car,,153.0,2025-08-04 15:30:00,collision,Fgura,the busy Fgura road,True,False,afternoon
+288,489370,67.0,male,serious,True,motorcycle,,154.0,2025-08-04 15:30:00,collision,Marsa,Aldo Moro Street,True,False,afternoon
+289,489370,28.0,male,serious,True,car,,155.0,2025-08-05 17:00:00,collision,,,True,False,evening
+290,489370,79.0,female,none,True,car,,154.0,2025-08-04 15:30:00,collision,Marsa,Aldo Moro Street,True,False,afternoon
+291,489370,36.0,female,none,True,car,,155.0,2025-08-05 17:00:00,collision,,,True,False,evening
+292,489720,8.0,,serious,False,motorcycle,,157.0,2025-08-07 00:00:00,collision,,,True,False,
+293,489720,48.0,,serious,True,motorcycle,,156.0,2025-08-06 00:00:00,collision,Naxxar,old Bulgarian resident of St,True,False,
+294,489720,60.0,,none,True,car,,156.0,2025-08-06 00:00:00,collision,Naxxar,old Bulgarian resident of St,True,False,
+295,489720,23.0,male,none,True,van,,157.0,2025-08-07 00:00:00,collision,,,True,False,
+296,489720,45.0,male,serious,True,motorcycle,,157.0,2025-08-07 00:00:00,collision,,,True,False,
+297,489728,8.0,,serious,False,motorcycle,,159.0,2025-08-07 00:00:00,collision,serious,,True,False,
+298,489728,48.0,,serious,True,motorcycle,,158.0,2025-08-06 00:00:00,collision,Naxxar,old Bulgarian resident of St,True,False,
+299,489728,60.0,,none,True,car,,158.0,2025-08-06 00:00:00,collision,Naxxar,old Bulgarian resident of St,True,False,
+300,489728,23.0,male,none,True,van,,159.0,2025-08-07 00:00:00,collision,serious,,True,False,
+301,489728,45.0,male,serious,True,motorcycle,,159.0,2025-08-07 00:00:00,collision,serious,,True,False,
+302,489733,,,,True,car,,160.0,2025-08-07 09:56:00,collision,Santa Venera,Salon on Cannon Road,True,False,morning
+303,490010,25.0,female,minor,True,car,,161.0,2025-08-09 08:00:00,rollover,San Gwann,The road,False,False,morning
+304,489990,42.0,male,minor,True,car,,162.0,2025-08-07 08:00:00,collision,Santa Venera,Canon Road,True,False,morning
+306,489878,42.0,male,fatal,True,motorcycle,,163.0,2025-08-10 17:42:00,collision,Birkirkara,call road,False,False,evening
+307,489878,17.0,,none,True,car,,163.0,2025-08-10 17:42:00,collision,Birkirkara,call road,False,False,evening
+309,489889,42.0,male,fatal,True,motorcycle,,164.0,2025-08-10 12:30:00,collision,Birkirkara,,False,False,afternoon
+310,489889,17.0,,none,True,car,,164.0,2025-08-10 12:30:00,collision,Birkirkara,,False,False,afternoon
+311,489889,18.0,female,serious,False,,,164.0,2025-08-10 12:30:00,collision,Birkirkara,,False,False,afternoon
+312,489884,72.0,male,serious,False,,,165.0,2025-08-10 09:00:00,collision,Floriana,car on National Road,False,False,morning
+313,489884,78.0,male,none,True,van,,165.0,2025-08-10 09:00:00,collision,Floriana,car on National Road,False,False,morning
+314,490008,42.0,male,minor,True,car,drunk,166.0,2025-08-07 08:00:00,collision,,Cannon Road,True,False,morning
+315,490101,42.0,male,fatal,True,motorcycle,,167.0,2025-08-10 05:25:00,collision,Birkirkara,in Psaila Street,False,False,morning
+316,490101,17.0,male,none,True,car,,167.0,2025-08-10 05:25:00,collision,Birkirkara,in Psaila Street,False,False,morning
+317,490073,,male,none,True,car,,168.0,2025-08-11 12:00:00,collision,,in Psaila Street,True,False,afternoon
+318,490073,42.0,,fatal,True,motorcycle,,168.0,2025-08-11 12:00:00,collision,,in Psaila Street,True,False,afternoon
+319,490073,18.0,female,none,False,,,168.0,2025-08-11 12:00:00,collision,,in Psaila Street,True,False,afternoon
+320,489993,33.0,male,serious,False,,,169.0,2025-08-10 19:00:00,collision,Mosta,Mosta Road,False,False,evening
+321,490183,23.0,male,none,True,"CCTV cameras, explaining that the accused drove around Fort St Elmo",drunk,171.0,2025-08-12 08:00:00,collision,Valletta,Fort St Elmo,True,False,morning
+322,490183,62.0,female,serious,False,,,171.0,2025-08-12 08:00:00,collision,Valletta,Fort St Elmo,True,False,morning
+323,490165,,male,none,False,,,172.0,2025-08-12 08:00:00,collision,,in St,True,False,morning
+324,490165,,,none,True,car,,172.0,2025-08-12 08:00:00,collision,,in St,True,False,morning
+327,490160,42.0,male,fatal,True,motorcycle,,173.0,2025-08-10 05:25:00,collision,Birkirkara,,False,False,morning
+328,490160,17.0,,none,True,car,drunk,173.0,2025-08-10 05:25:00,collision,Birkirkara,,False,False,morning
+329,490329,17.0,,none,True,car,,174.0,2025-08-13 00:00:00,collision,Marsa,Aldo Moro Road,True,False,
+330,490329,42.0,male,fatal,True,motorcycle,,174.0,2025-08-13 00:00:00,collision,Marsa,Aldo Moro Road,True,False,
+331,490329,28.0,,fatal,True,,,174.0,2025-08-13 00:00:00,collision,Marsa,Aldo Moro Road,True,False,
+332,490371,21.0,male,serious,True,motorcycle,,175.0,2025-08-14 08:00:00,collision,Pembroke,the Coast Road,True,False,morning
+333,490568,21.0,male,fatal,True,motorcycle,,176.0,2025-08-14 05:30:00,collision,Pembroke,,True,False,morning
+336,490632,28.0,male,fatal,True,,,178.0,2025-08-17 00:00:00,rollover,Marsa,Aldo Moro Road,False,False,
+337,490684,53.0,male,none,True,motorcycle,,179.0,2025-08-17 15:00:00,collision,Naxxar,The northbound lane of the coast road,False,False,afternoon
+338,490684,,,none,True,,,179.0,2025-08-17 15:00:00,collision,Naxxar,The northbound lane of the coast road,False,False,afternoon
+339,490653,21.0,male,fatal,False,,,180.0,2025-08-14 08:00:00,collision,Pembroke,,True,False,morning
+340,490697,43.0,,none,True,motorcycle,substance intoxicated,181.0,2025-08-18 00:00:00,collision,Valletta,written by NGO Doctors For Road,True,False,
+703,490697,,male,none,True,car,drunk,181.0,2025-08-18 00:00:00,collision,Valletta,written by NGO Doctors For Road,True,False,
+341,490697,62.0,female,none,False,,,181.0,2025-08-18 00:00:00,collision,Valletta,written by NGO Doctors For Road,True,False,
+342,490697,42.0,,fatal,True,motorcycle,,181.0,2025-08-18 00:00:00,collision,Valletta,written by NGO Doctors For Road,True,False,
+343,490697,17.0,male,none,True,car,drunk,181.0,2025-08-18 00:00:00,collision,Valletta,written by NGO Doctors For Road,True,False,
+344,490697,,,none,True,,drunk,181.0,2025-08-18 00:00:00,collision,Valletta,written by NGO Doctors For Road,True,False,
+345,490746,42.0,male,none,True,car,drunk,182.0,2025-08-18 00:00:00,collision,Santa Venera,Cannon Road,True,False,
+346,490815,75.0,male,serious,False,pedestrian,,183.0,2025-08-18 08:00:00,pedestrian,Zabbar,,True,False,morning
+347,490815,29.0,male,none,True,unknown,,183.0,2025-08-18 08:00:00,pedestrian,Zabbar,,True,False,morning
+704,491011,,,,True,bus,,184.0,2025-08-21 08:00:00,collision,Sliema,Tower Road,True,False,morning
+705,491011,,,,True,car,,184.0,2025-08-21 08:00:00,collision,Sliema,Tower Road,True,False,morning
+348,491118,,male,none,True,car,drunk,186.0,2025-08-21 06:00:00,collision,just,Tower Road,True,False,morning
+706,491118,,,,True,bus,,186.0,2025-08-21 06:00:00,collision,just,Tower Road,True,False,morning
+349,491226,57.0,male,serious,True,motorcycle,,187.0,2025-08-22 08:00:00,collision,Birkirkara,on Sir Anthony Mamo street,True,False,morning
+350,491226,25.0,female,none,,car,,187.0,2025-08-22 08:00:00,collision,Birkirkara,on Sir Anthony Mamo street,True,False,morning
+351,491226,,male,none,,car,,187.0,2025-08-22 08:00:00,collision,Birkirkara,on Sir Anthony Mamo street,True,False,morning
+352,491307,57.0,male,serious,True,motorcycle,,188.0,2025-08-22 05:30:00,collision,Birkirkara,on Friday on Sir Anthony Mamo Street,True,False,morning
+353,491307,25.0,female,none,False,car,,188.0,2025-08-22 05:30:00,collision,Birkirkara,on Friday on Sir Anthony Mamo Street,True,False,morning
+354,491307,,male,none,True,car,,188.0,2025-08-22 05:30:00,collision,Birkirkara,on Friday on Sir Anthony Mamo Street,True,False,morning
+355,491334,27.0,male,none,True,motorcycle,,189.0,2025-08-24 00:00:00,collision,Pembroke,,False,False,
+357,491334,22.0,,none,True,car,,189.0,2025-08-24 00:00:00,collision,Pembroke,,False,False,
+358,491371,,male,fatal,True,motorcycle,,190.0,2025-08-24 00:00:00,collision,Sliema,Tower Road,False,False,
+359,491371,17.0,male,none,True,car,drunk,190.0,2025-08-24 00:00:00,collision,Sliema,Tower Road,False,False,
+360,491489,57.0,male,serious,True,motorcycle,,191.0,2025-08-22 05:30:00,collision,Birkirkara,on Sir Anthony Mamo Street,True,False,morning
+361,491489,25.0,female,none,False,,,191.0,2025-08-22 05:30:00,collision,Birkirkara,on Sir Anthony Mamo Street,True,False,morning
+362,491489,17.0,,none,True,,,191.0,2025-08-22 05:30:00,collision,Birkirkara,on Sir Anthony Mamo Street,True,False,morning
+363,491557,,,none,True,car,,192.0,2025-08-26 05:10:00,collision,Sliema,Tower Road,True,False,morning
+364,491707,28.0,male,serious,True,motorcycle,,193.0,2025-08-26 18:00:00,collision,Zebbug,Attard Road,True,False,evening
+365,491707,32.0,male,none,True,car,,193.0,2025-08-26 18:00:00,collision,Zebbug,Attard Road,True,False,evening
+366,491720,44.0,female,none,True,car,drunk,194.0,2025-08-27 08:00:00,collision,Bahar,old Bulgarian national living in St,True,False,morning
+367,491720,,,serious,True,motorcycle,,194.0,2025-08-27 08:00:00,collision,Bahar,old Bulgarian national living in St,True,False,morning
+368,492026,44.0,female,none,True,car,drunk,195.0,2025-08-29 08:00:00,collision,Bahar,old Bulgarian national living in St,True,False,morning
+369,492026,53.0,,serious,True,motorcycle,,195.0,2025-08-29 08:00:00,collision,Bahar,old Bulgarian national living in St,True,False,morning
+372,492029,,,none,True,truck,,196.0,2025-08-27 21:00:00,collision,Rabat,The couple live in St,True,False,night
+373,492115,55.0,male,serious,True,motorcycle,,197.0,2025-08-29 15:00:00,collision,Marsa,Police investigations are under way,True,False,afternoon
+374,492115,33.0,female,none,True,car,,197.0,2025-08-29 15:00:00,collision,Marsa,Police investigations are under way,True,False,afternoon
+375,492115,74.0,male,none,False,car,,197.0,2025-08-29 15:00:00,collision,Marsa,Police investigations are under way,True,False,afternoon
+376,492291,87.0,female,serious,False,,,198.0,2025-08-31 08:00:00,collision,Qormi,,False,False,morning
+377,492291,68.0,male,none,True,unknown,,198.0,2025-08-31 08:00:00,collision,Qormi,,False,False,morning
+378,492646,69.0,female,fatal,True,car,,199.0,2025-09-03 15:00:00,collision,,Sicily motorway,True,False,afternoon
+707,492646,73.0,male,fatal,False,car,,199.0,2025-09-03 15:00:00,collision,,Sicily motorway,True,False,afternoon
+708,492654,73.0,male,fatal,True,car,,200.0,2025-09-03 18:00:00,collision,Zebbug,Ragusa state road,True,False,evening
+379,492654,69.0,female,fatal,False,car,,200.0,2025-09-03 18:00:00,collision,Zebbug,Ragusa state road,True,False,evening
+380,492806,35.0,male,serious,True,motorcycle,,201.0,2025-09-04 15:00:00,collision,Gzira,,True,False,afternoon
+381,492806,24.0,male,minor,True,motorcycle,,201.0,2025-09-04 15:00:00,collision,Gzira,,True,False,afternoon
+382,492962,62.0,female,fatal,False,,,202.0,2025-09-07 21:10:00,collision,,,False,False,night
+384,493044,62.0,male,serious,True,motorcycle,,203.0,2025-09-07 15:00:00,collision,Luqa,,False,False,afternoon
+385,493044,35.0,male,none,True,car,,203.0,2025-09-07 15:00:00,collision,Luqa,,False,False,afternoon
+386,493372,33.0,male,serious,True,motorcycle,,204.0,2025-09-11 08:00:00,motorcycle_fall,,Wottan Storm,True,False,morning
+387,493542,,male,none,True,car,drunk,205.0,2025-09-12 15:00:00,collision,Marsa,corner at the top of the street,True,False,afternoon
+391,493598,,,none,True,car,,206.0,2025-09-12 15:00:00,collision,Marsa,,True,False,afternoon
+392,493702,52.0,male,,True,motorcycle,,207.0,2025-09-14 00:00:00,unknown,Zabbar,,False,False,
+393,493702,14.0,,serious,True,bicycle,,207.0,2025-09-14 00:00:00,unknown,Zabbar,,False,False,
+394,493664,54.0,male,serious,True,car,,208.0,2025-09-13 21:00:00,collision,Marsa,,False,False,night
+395,493670,69.0,male,serious,True,car,,210.0,2025-09-14 23:00:00,collision,,the St Paul's,False,False,night
+396,493670,34.0,male,serious,True,motorcycle,,211.0,2025-09-14 01:30:00,collision,,,False,False,night
+397,493670,24.0,male,none,True,car,,211.0,2025-09-14 01:30:00,collision,,,False,False,night
+398,493898,29.0,female,serious,False,pedestrian,,212.0,2025-09-16 15:00:00,collision,,Republic Street,True,False,afternoon
+399,493898,69.0,female,none,True,car,,212.0,2025-09-16 15:00:00,collision,,Republic Street,True,False,afternoon
+400,493983,52.0,male,serious,False,pedestrian,,213.0,2025-09-16 18:00:00,collision,Zabbar,,True,False,evening
+401,493983,26.0,male,none,True,car,,213.0,2025-09-16 18:00:00,collision,Zabbar,,True,False,evening
+404,494209,54.0,male,serious,True,motorcycle,,215.0,2025-09-18 18:00:00,collision,Bormla,,True,False,evening
+405,494209,34.0,male,none,True,car,,215.0,2025-09-18 18:00:00,collision,Bormla,,True,False,evening
+406,494363,30.0,male,none,True,motorcycle,,216.0,2025-09-20 13:30:00,collision,Gharb,,False,False,afternoon
+408,494363,34.0,male,serious,True,motorcycle,,216.0,2025-09-20 13:30:00,collision,Gharb,,False,False,afternoon
+409,494368,30.0,male,,True,motorcycle,,217.0,2025-09-20 13:30:00,collision,Gharb,,False,False,afternoon
+410,494368,34.0,,serious,True,motorcycle,,217.0,2025-09-20 13:30:00,collision,Gharb,,False,False,afternoon
+411,494438,77.0,female,serious,False,,,218.0,2025-09-21 08:30:00,collision,Pieta,,False,True,morning
+412,494438,75.0,male,none,True,car,,218.0,2025-09-21 08:30:00,collision,Pieta,,False,True,morning
+413,494571,42.0,,serious,True,motorcycle,,219.0,2025-09-22 18:00:00,collision,San Gwann,Bella Vista Street,True,False,evening
+414,494571,,,none,True,car,,219.0,2025-09-22 18:00:00,collision,San Gwann,Bella Vista Street,True,False,evening
+415,494727,81.0,female,serious,False,car,,220.0,2025-09-24 08:00:00,collision,Marsalforn,,True,False,morning
+416,494727,82.0,male,none,True,car,,220.0,2025-09-24 08:00:00,collision,Marsalforn,,True,False,morning
+417,494856,70.0,male,serious,False,,,221.0,2025-09-25 15:00:00,collision,St Julian's,old man from St,True,False,afternoon
+418,494856,58.0,male,none,True,motorcycle,,221.0,2025-09-25 15:00:00,collision,St Julian's,old man from St,True,False,afternoon
+419,494910,33.0,male,serious,True,motorcycle,,222.0,2025-09-25 18:00:00,collision,Tarxien,,True,False,evening
+420,494910,28.0,female,none,True,car,,222.0,2025-09-25 18:00:00,collision,Tarxien,,True,False,evening
+421,495320,,female,none,True,unknown,,223.0,2025-09-30 00:00:00,collision,Naxxar,Naxxar Road,True,False,
+709,495442,,,,True,car,,225.0,2025-10-02 00:00:00,collision,,Police said that the road,True,False,
+423,495504,47.0,male,serious,True,motorcycle,,226.0,2025-10-02 08:00:00,collision,Qala,Police investigations are under way,True,False,morning
+424,495504,53.0,female,none,True,car,,226.0,2025-10-02 08:00:00,collision,Qala,Police investigations are under way,True,False,morning
+425,495595,,male,fatal,True,car,,227.0,2025-10-02 16:20:00,run-off-road,,tragic road accident in Croatia when their car veered off the road,True,False,afternoon
+710,495595,,male,fatal,False,car,,227.0,2025-10-02 16:20:00,run-off-road,,tragic road accident in Croatia when their car veered off the road,True,False,afternoon
+711,495595,,female,fatal,False,car,,227.0,2025-10-02 16:20:00,run-off-road,,tragic road accident in Croatia when their car veered off the road,True,False,afternoon
+712,495595,,female,fatal,False,car,,227.0,2025-10-02 16:20:00,run-off-road,,tragic road accident in Croatia when their car veered off the road,True,False,afternoon
+426,495731,68.0,male,fatal,True,car,,228.0,2025-10-02 15:00:00,collision,Swieqi,Adriatic Coast,True,False,afternoon
+427,495731,67.0,male,fatal,False,,,228.0,2025-10-02 15:00:00,collision,Swieqi,Adriatic Coast,True,False,afternoon
+428,495731,66.0,female,fatal,False,,,228.0,2025-10-02 15:00:00,collision,Swieqi,Adriatic Coast,True,False,afternoon
+429,495731,67.0,female,fatal,False,,,228.0,2025-10-02 15:00:00,collision,Swieqi,Adriatic Coast,True,False,afternoon
+430,495807,43.0,female,minor,False,car,,229.0,2025-10-04 23:00:00,collision,Gudja,crash in the opposite lane,False,False,night
+431,495807,19.0,male,minor,True,car,,229.0,2025-10-04 23:00:00,collision,Gudja,crash in the opposite lane,False,False,night
+432,495807,49.0,male,minor,True,car,,229.0,2025-10-04 23:00:00,collision,Gudja,crash in the opposite lane,False,False,night
+433,495807,50.0,male,minor,True,car,,229.0,2025-10-04 23:00:00,collision,Gudja,crash in the opposite lane,False,False,night
+713,495807,69.0,female,minor,False,car,,229.0,2025-10-04 23:00:00,collision,Gudja,crash in the opposite lane,False,False,night
+714,495807,14.0,female,minor,False,car,,229.0,2025-10-04 23:00:00,collision,Gudja,crash in the opposite lane,False,False,night
+434,495807,14.0,male,serious,False,car,,229.0,2025-10-04 23:00:00,collision,Gudja,crash in the opposite lane,False,False,night
+435,495802,29.0,female,serious,False,,,230.0,2025-10-05 08:00:00,collision,Bugibba,St Vincent de Paul Residence,False,False,morning
+436,495896,68.0,male,fatal,False,car,,231.0,2025-10-02 00:00:00,collision,,state road,True,False,
+437,495942,49.0,male,none,True,car,,232.0,2025-10-06 00:00:00,collision,St Paul's Bay,narrow street,True,False,
+438,495942,,male,none,True,motorcycle,,232.0,2025-10-06 00:00:00,collision,St Paul's Bay,narrow street,True,False,
+439,496006,34.0,male,none,True,car,drunk,233.0,2025-10-07 15:00:00,collision,Saqqajja,The accident happened on the roundabout,True,False,afternoon
+440,496006,,male,,True,motorcycle,,233.0,2025-10-07 15:00:00,collision,Saqqajja,The accident happened on the roundabout,True,False,afternoon
+441,495969,28.0,female,serious,False,pedestrian,,234.0,2025-10-07 08:00:00,collision,Bugibba,car while crossing the road,True,False,morning
+443,496158,,,none,True,unknown,,235.0,2025-10-04 09:30:00,collision,Balluta,Adriatic,False,False,morning
+444,496158,,,none,True,,,235.0,2025-10-04 09:30:00,collision,Balluta,Adriatic,False,False,morning
+445,496202,61.0,male,serious,True,motorcycle,,236.0,2025-10-09 08:00:00,collision,Zurrieq,,True,False,morning
+446,496202,67.0,female,none,True,car,,236.0,2025-10-09 08:00:00,collision,Zurrieq,,True,False,morning
+447,496362,43.0,male,serious,True,motorcycle,,237.0,2025-10-10 09:00:00,collision,Ghajnsielem,along that stretch of road,True,False,morning
+448,496362,19.0,male,minor,False,motorcycle,,237.0,2025-10-10 09:00:00,collision,Ghajnsielem,along that stretch of road,True,False,morning
+450,496362,35.0,male,none,True,truck,,237.0,2025-10-10 09:00:00,collision,Ghajnsielem,along that stretch of road,True,False,morning
+451,496362,67.0,male,none,True,unknown,,237.0,2025-10-10 09:00:00,collision,Ghajnsielem,along that stretch of road,True,False,morning
+452,496362,55.0,male,none,True,car,,237.0,2025-10-10 09:00:00,collision,Ghajnsielem,along that stretch of road,True,False,morning
+453,496773,61.0,male,serious,True,motorcycle,,239.0,2025-10-09 00:00:00,collision,Valletta,Magistrate Dr,True,False,
+454,496773,67.0,female,none,True,car,,239.0,2025-10-09 00:00:00,collision,Valletta,Magistrate Dr,True,False,
+455,496774,23.0,male,serious,True,motorcycle,,240.0,2025-06-19 00:00:00,collision,Gudja,,True,False,
+456,496774,64.0,male,none,True,car,,240.0,2025-06-19 00:00:00,collision,Gudja,,True,False,
+457,496775,29.0,male,serious,True,motorcycle,,241.0,2025-05-12 00:00:00,collision,Qormi,Valley Road,True,False,
+458,496775,34.0,male,none,True,van,,241.0,2025-05-12 00:00:00,collision,Qormi,Valley Road,True,False,
+459,496776,29.0,male,serious,True,motorcycle,,242.0,2025-07-29 00:00:00,collision,Hal Ghaxaq,,True,False,
+460,496776,42.0,male,none,True,car,,242.0,2025-07-29 00:00:00,collision,Hal Ghaxaq,,True,False,
+461,496777,41.0,male,serious,True,motorcycle,,243.0,2025-04-06 18:00:00,collision,Buqana,,False,False,evening
+462,496777,25.0,male,none,True,car,,243.0,2025-04-06 18:00:00,collision,Buqana,,False,False,evening
+463,496778,36.0,male,serious,True,motorcycle,,244.0,2025-04-15 08:00:00,collision,Marsa,,True,False,morning
+464,496778,52.0,male,none,True,van,,244.0,2025-04-15 08:00:00,collision,Marsa,,True,False,morning
+465,496778,53.0,male,none,True,car,,244.0,2025-04-15 08:00:00,collision,Marsa,,True,False,morning
+466,496779,81.0,male,none,True,car,,245.0,2025-07-23 00:00:00,collision,Mosta,Mosta Road,True,False,
+467,496779,79.0,female,fatal,False,car,,245.0,2025-07-23 00:00:00,collision,Mosta,Mosta Road,True,False,
+468,496779,24.0,male,minor,True,van,,245.0,2025-07-23 00:00:00,collision,Mosta,Mosta Road,True,False,
+469,496780,66.0,male,none,True,motorcycle,,246.0,2025-08-03 08:00:00,collision,Barrani,,False,False,morning
+470,496780,30.0,female,serious,True,motorcycle,,246.0,2025-08-03 08:00:00,collision,Barrani,,False,False,morning
+471,496781,35.0,male,serious,True,motorcycle,,247.0,2025-06-11 15:00:00,collision,Naxxar,John Adye Street,True,False,afternoon
+472,496781,59.0,male,none,True,truck,,247.0,2025-06-11 15:00:00,collision,Naxxar,John Adye Street,True,False,afternoon
+473,496782,79.0,male,none,True,unknown,,248.0,2024-12-28 08:00:00,collision,Zabbar,St James Square,False,False,morning
+474,496782,84.0,female,serious,False,unknown,,248.0,2024-12-28 08:00:00,collision,Zabbar,St James Square,False,False,morning
+715,496782,39.0,female,minor,False,unknown,,248.0,2024-12-28 08:00:00,collision,Zabbar,St James Square,False,False,morning
+716,496782,66.0,female,minor,False,unknown,,248.0,2024-12-28 08:00:00,collision,Zabbar,St James Square,False,False,morning
+717,496782,77.0,female,minor,False,unknown,,248.0,2024-12-28 08:00:00,collision,Zabbar,St James Square,False,False,morning
+718,496782,36.0,male,minor,False,unknown,,248.0,2024-12-28 08:00:00,collision,Zabbar,St James Square,False,False,morning
+719,496782,81.0,male,minor,False,unknown,,248.0,2024-12-28 08:00:00,collision,Zabbar,St James Square,False,False,morning
+475,496783,40.0,male,serious,True,motorcycle,,249.0,2025-03-16 08:00:00,collision,Haz-Zabbar,the Coast Road,False,False,morning
+476,496784,48.0,female,serious,True,car,,250.0,2025-04-22 00:00:00,collision,Kalkara,,True,False,
+477,496785,32.0,female,serious,False,,,251.0,2025-05-08 00:00:00,collision,Ghajnsielem,Zabbar Road,True,False,
+478,496785,78.0,male,none,True,car,,251.0,2025-05-08 00:00:00,collision,Ghajnsielem,Zabbar Road,True,False,
+479,496786,64.0,male,serious,True,motorcycle,,252.0,2025-06-13 18:00:00,collision,Xewkija,,True,False,evening
+480,496787,77.0,female,serious,False,,,253.0,2025-09-21 00:00:00,collision,Valletta,Sa Maison Street,False,True,
+481,496787,75.0,male,none,True,car,,253.0,2025-09-21 00:00:00,collision,Valletta,Sa Maison Street,False,True,
+482,496788,80.0,male,serious,False,,,254.0,2025-04-17 00:00:00,collision,Santa Lucija,Luqa Road,True,False,
+483,496788,22.0,male,none,True,car,,254.0,2025-04-17 00:00:00,collision,Santa Lucija,Luqa Road,True,False,
+484,496789,80.0,male,serious,True,car,,255.0,2025-02-21 08:00:00,collision,,,True,False,morning
+720,496789,80.0,male,serious,False,car,,255.0,2025-02-21 08:00:00,collision,,,True,False,morning
+485,496790,13.0,,serious,True,bicycle,,256.0,2024-12-22 00:00:00,collision,,,False,False,
+486,496790,25.0,male,none,True,car,,256.0,2024-12-22 00:00:00,collision,,,False,False,
+487,496791,61.0,male,serious,False,,,257.0,2025-02-21 00:00:00,collision,Floriana,,True,False,
+488,496791,31.0,male,none,True,car,,257.0,2025-02-21 00:00:00,collision,Floriana,,True,False,
+489,496792,54.0,male,serious,False,,,258.0,2025-09-13 21:00:00,collision,Marsa,Magistrate Dr,False,False,night
+490,496792,,,none,True,car,,258.0,2025-09-13 21:00:00,collision,Marsa,Magistrate Dr,False,False,night
+491,496793,33.0,female,none,True,car,,259.0,2025-08-29 15:00:00,collision,Marsa,,True,False,afternoon
+492,496793,55.0,male,serious,True,motorcycle,,259.0,2025-08-29 15:00:00,collision,Marsa,,True,False,afternoon
+493,496793,74.0,male,none,False,car,,259.0,2025-08-29 15:00:00,collision,Marsa,,True,False,afternoon
+494,496794,29.0,male,serious,False,,,260.0,2024-12-13 00:00:00,collision,Gudja,who at the time was on the side of the road,True,False,
+495,496794,50.0,male,none,True,car,,260.0,2024-12-13 00:00:00,collision,Gudja,who at the time was on the side of the road,True,False,
+496,496795,53.0,male,serious,False,,,261.0,2025-05-07 00:00:00,collision,,,True,False,
+497,496795,24.0,male,none,True,van,,261.0,2025-05-07 00:00:00,collision,,,True,False,
+498,496796,34.0,male,serious,True,motorcycle,,262.0,2025-05-07 00:00:00,collision,Ghar,,True,False,
+499,496796,23.0,,none,True,van,,262.0,2025-05-07 00:00:00,collision,Ghar,,True,False,
+500,496797,36.0,male,serious,True,car,,263.0,2024-12-27 00:00:00,collision,Marsa,,True,False,
+501,496798,43.0,male,serious,True,motorcycle,,264.0,2025-05-04 00:00:00,collision,Marsa,Magistrate Dr,False,False,
+502,496799,25.0,male,fatal,True,car,,265.0,2025-01-07 21:00:00,collision,Attard,Magistrate Dr,True,False,night
+503,496800,19.0,,none,True,car,,266.0,2025-10-04 18:00:00,collision,Gudja,the Hyundai veered into the opposite lane,False,False,evening
+504,496800,14.0,male,serious,False,car,,266.0,2025-10-04 18:00:00,collision,Gudja,the Hyundai veered into the opposite lane,False,False,evening
+505,496800,14.0,female,minor,False,car,,266.0,2025-10-04 18:00:00,collision,Gudja,the Hyundai veered into the opposite lane,False,False,evening
+506,496800,43.0,female,minor,False,car,,266.0,2025-10-04 18:00:00,collision,Gudja,the Hyundai veered into the opposite lane,False,False,evening
+507,496800,49.0,male,none,True,car,,266.0,2025-10-04 18:00:00,collision,Gudja,the Hyundai veered into the opposite lane,False,False,evening
+508,496800,50.0,male,none,True,car,,266.0,2025-10-04 18:00:00,collision,Gudja,the Hyundai veered into the opposite lane,False,False,evening
+721,496800,69.0,female,none,False,car,,266.0,2025-10-04 18:00:00,collision,Gudja,the Hyundai veered into the opposite lane,False,False,evening
+509,496801,35.0,female,serious,True,motorcycle,,267.0,2025-06-04 00:00:00,collision,Marsa,,True,False,
+510,496801,39.0,male,none,True,car,,267.0,2025-06-04 00:00:00,collision,Marsa,,True,False,
+511,496802,52.0,male,serious,False,,,268.0,2025-09-17 00:00:00,collision,Zurrieq,Magistrate Dr,True,False,
+512,496802,26.0,male,none,True,car,,268.0,2025-09-17 00:00:00,collision,Zurrieq,Magistrate Dr,True,False,
+513,496803,72.0,male,serious,True,motorcycle,,269.0,2025-04-18 00:00:00,collision,Burmarrad,,True,False,
+514,496803,31.0,female,none,True,car,,269.0,2025-04-18 00:00:00,collision,Burmarrad,,True,False,
+515,496804,30.0,male,serious,True,motorcycle,,270.0,2025-07-06 00:00:00,collision,Mosta,Magistrate Dr,False,False,
+516,496804,34.0,female,none,True,car,,270.0,2025-07-06 00:00:00,collision,Mosta,Magistrate Dr,False,False,
+517,496805,79.0,male,serious,True,motorcycle,,271.0,2025-04-17 00:00:00,collision,Tal-Barrani,Tal-Barrani Road,True,False,
+518,496805,46.0,male,none,True,car,,271.0,2025-04-17 00:00:00,collision,Tal-Barrani,Tal-Barrani Road,True,False,
+519,496806,22.0,female,serious,True,motorcycle,,272.0,2025-05-15 00:00:00,collision,Rabat,Regional Road,True,False,
+520,496806,19.0,female,none,True,car,,272.0,2025-05-15 00:00:00,collision,Rabat,Regional Road,True,False,
+521,496807,32.0,male,fatal,True,car,,273.0,2025-06-19 18:00:00,collision,L-Imdina,Magistrate Dr,True,False,evening
+522,496807,57.0,male,serious,True,car,,273.0,2025-06-19 18:00:00,collision,L-Imdina,Magistrate Dr,True,False,evening
+523,496807,28.0,female,serious,False,car,,273.0,2025-06-19 18:00:00,collision,L-Imdina,Magistrate Dr,True,False,evening
+524,496808,44.0,female,serious,False,motorcycle,,274.0,2025-09-16 00:00:00,motorcycle_fall,Birkirkara,old German man who lives in St,True,False,
+525,496808,44.0,male,none,True,motorcycle,,274.0,2025-09-16 00:00:00,motorcycle_fall,Birkirkara,old German man who lives in St,True,False,
+526,496809,87.0,female,serious,False,,,275.0,2025-04-01 00:00:00,collision,Naxxar,,True,False,
+722,496809,30.0,male,,True,car,,275.0,2025-04-01 00:00:00,collision,Naxxar,,True,False,
+527,496810,75.0,male,serious,False,,,276.0,2025-08-18 15:00:00,collision,Zabbar,Luqa Road,True,False,afternoon
+528,496810,29.0,male,none,True,car,,276.0,2025-08-18 15:00:00,collision,Zabbar,Luqa Road,True,False,afternoon
+529,496811,82.0,male,none,True,car,,277.0,2025-09-24 00:00:00,collision,Marsalforn,,True,False,
+530,496811,81.0,female,serious,False,car,,277.0,2025-09-24 00:00:00,collision,Marsalforn,,True,False,
+531,496812,36.0,male,fatal,True,motorcycle,,278.0,2025-01-24 21:00:00,collision,Birkirkara,in Mikiel Anton Vassalli Street,True,False,night
+532,496813,39.0,male,serious,True,motorcycle,,279.0,2025-02-15 00:01:00,collision,Iklin,Valley Road,False,False,night
+533,496813,42.0,female,none,True,car,,279.0,2025-02-15 00:01:00,collision,Iklin,Valley Road,False,False,night
+534,496814,45.0,male,serious,True,motorcycle,,280.0,2025-02-19 00:00:00,collision,Fgura,,True,False,
+535,496814,32.0,male,none,True,car,,280.0,2025-02-19 00:00:00,collision,Fgura,,True,False,
+536,496815,75.0,female,serious,False,,,281.0,2025-02-09 00:00:00,collision,,,False,False,
+537,496815,54.0,female,none,True,car,,281.0,2025-02-09 00:00:00,collision,,,False,False,
+538,496816,27.0,male,fatal,True,motorcycle,,282.0,2025-07-26 08:00:00,collision,Pembroke,old man residing in St,False,False,morning
+539,496816,22.0,male,none,True,car,,282.0,2025-07-26 08:00:00,collision,Pembroke,old man residing in St,False,False,morning
+540,496817,22.0,male,serious,True,car,,283.0,2025-07-01 00:00:00,collision,Borg Gharib,,True,False,
+541,496818,37.0,male,serious,True,bus,,284.0,2024-12-23 08:00:00,collision,Marsaskala,Magistrate Dr,True,False,morning
+542,496818,39.0,female,none,True,van,,284.0,2024-12-23 08:00:00,collision,Marsaskala,Magistrate Dr,True,False,morning
+543,496819,34.0,male,none,True,car,,285.0,2025-02-01 00:00:00,collision,Hal Farrug,Hal Farrug Road,False,False,
+544,496819,59.0,male,serious,True,motorcycle,,286.0,2025-02-01 00:00:00,collision,hospital,Argens Street,False,False,
+545,496819,30.0,male,serious,True,car,,286.0,2025-02-01 00:00:00,collision,hospital,Argens Street,False,False,
+546,496820,21.0,male,serious,True,car,,287.0,2025-02-17 00:00:00,collision,Qala,Giorgio Borg Olivier Street,True,False,
+547,496821,80.0,female,serious,False,car,,288.0,2025-04-13 00:00:00,collision,Naxxar,the Coast Road,False,False,
+548,496821,81.0,male,,True,car,,288.0,2025-04-13 00:00:00,collision,Naxxar,the Coast Road,False,False,
+549,496821,39.0,,none,True,bus,,288.0,2025-04-13 00:00:00,collision,Naxxar,the Coast Road,False,False,
+550,496822,34.0,male,serious,True,motorcycle,,289.0,2025-01-16 00:00:00,collision,Mosta,,True,False,
+551,496822,45.0,female,none,True,car,,289.0,2025-01-16 00:00:00,collision,Mosta,,True,False,
+552,496823,21.0,male,serious,True,motorcycle,,290.0,2025-06-04 00:00:00,collision,St Paul's Bay,Kennedy Drive,True,False,
+553,496824,84.0,female,serious,False,,,291.0,2025-10-06 00:00:00,collision,Naxxar,,True,False,
+554,496824,84.0,male,none,True,car,,291.0,2025-10-06 00:00:00,collision,Naxxar,,True,False,
+555,496825,33.0,male,serious,True,motorcycle,,292.0,2025-08-10 18:00:00,motorcycle_fall,San Gwann,Mosta Road,False,False,evening
+556,496826,46.0,male,serious,True,motorcycle,,293.0,2025-01-25 15:00:00,collision,Naxxar,the Coast Road,False,False,afternoon
+557,496826,30.0,male,none,True,car,,293.0,2025-01-25 15:00:00,collision,Naxxar,the Coast Road,False,False,afternoon
+558,496827,8.0,,serious,False,,,296.0,2025-08-07 00:00:00,collision,by,Cospicua Road,True,False,
+559,496827,45.0,male,serious,True,motorcycle,,296.0,2025-08-07 00:00:00,collision,by,Cospicua Road,True,False,
+560,496827,48.0,,serious,True,motorcycle,,295.0,2025-08-07 00:00:00,collision,-,Salina Street,True,False,
+561,496827,60.0,,none,True,car,,295.0,2025-08-07 00:00:00,collision,-,Salina Street,True,False,
+562,496827,23.0,male,none,True,van,,296.0,2025-08-07 00:00:00,collision,by,Cospicua Road,True,False,
+563,496828,62.0,female,serious,True,motorcycle,,297.0,2024-12-27 12:00:00,collision,Hotba,,True,False,afternoon
+564,496828,25.0,male,none,True,truck,,297.0,2024-12-27 12:00:00,collision,Hotba,,True,False,afternoon
+565,496829,53.0,male,serious,True,motorcycle,,298.0,2025-08-17 15:00:00,collision,Naxxar,the Coast Road,False,False,afternoon
+566,496829,44.0,female,none,True,car,,298.0,2025-08-17 15:00:00,collision,Naxxar,the Coast Road,False,False,afternoon
+567,496830,29.0,female,serious,False,,,299.0,2025-09-16 00:00:00,collision,Rabat,Republic Street,True,False,
+568,496830,,female,none,True,car,,299.0,2025-09-16 00:00:00,collision,Rabat,Republic Street,True,False,
+569,496830,64.0,,none,False,,,299.0,2025-09-16 00:00:00,collision,Rabat,Republic Street,True,False,
+570,496831,28.0,male,none,True,car,,300.0,2024-12-25 00:00:00,rollover,Zejtun,traffic accident in Mikiel Anton Vassalli Street,True,False,
+571,496831,25.0,male,serious,False,car,,300.0,2024-12-25 00:00:00,rollover,Zejtun,traffic accident in Mikiel Anton Vassalli Street,True,False,
+572,496832,35.0,male,fatal,True,motorcycle,,301.0,2025-05-27 15:00:00,collision,Qormi,traffic accident in St,True,False,afternoon
+573,496833,46.0,,serious,True,motorcycle,,302.0,2025-04-18 08:00:00,collision,Rabat,Magistrate Dr,True,False,morning
+574,496833,54.0,male,none,True,unknown,,302.0,2025-04-18 08:00:00,collision,Rabat,Magistrate Dr,True,False,morning
+575,496834,37.0,male,serious,True,motorcycle,,303.0,2025-05-24 00:00:00,collision,Marsa,Aldo Moro Street,False,False,
+576,496834,65.0,male,none,True,car,,303.0,2025-05-24 00:00:00,collision,Marsa,Aldo Moro Street,False,False,
+577,496835,44.0,female,serious,False,,,304.0,2024-12-19 00:00:00,collision,Balzan,,True,False,
+578,496835,23.0,female,none,True,car,,304.0,2024-12-19 00:00:00,collision,Balzan,,True,False,
+579,496836,33.0,male,serious,True,motorcycle,,305.0,2025-03-28 00:00:00,unknown,Tal-Balal,Tal-Balal Road,True,False,
+580,496836,32.0,male,none,True,truck,,305.0,2025-03-28 00:00:00,unknown,Tal-Balal,Tal-Balal Road,True,False,
+581,496837,45.0,male,serious,True,motorcycle,,306.0,2025-07-09 00:00:00,collision,Mosta,traffic accident in Mikiel Anton Vassalli Street,True,False,
+582,496837,40.0,,none,False,,,306.0,2025-07-09 00:00:00,collision,Mosta,traffic accident in Mikiel Anton Vassalli Street,True,False,
+583,496838,70.0,male,serious,False,,,307.0,2025-09-25 00:00:00,collision,St Julian's,Republic Street,True,False,
+584,496838,58.0,male,none,True,motorcycle,,307.0,2025-09-25 00:00:00,collision,St Julian's,Republic Street,True,False,
+585,496839,28.0,male,serious,False,,,308.0,2025-08-04 00:00:00,collision,Gharghur,,True,False,
+586,496839,52.0,male,none,True,car,,308.0,2025-08-04 00:00:00,collision,Gharghur,,True,False,
+587,496840,40.0,male,serious,True,motorcycle,,309.0,2024-12-22 00:00:00,unknown,Naxxar,Salini Street,False,False,
+588,496840,31.0,male,minor,True,motorcycle,,309.0,2024-12-22 00:00:00,unknown,Naxxar,Salini Street,False,False,
+589,496840,29.0,male,none,True,motorcycle,,309.0,2024-12-22 00:00:00,unknown,Naxxar,Salini Street,False,False,
+590,496840,27.0,female,none,True,car,,309.0,2024-12-22 00:00:00,unknown,Naxxar,Salini Street,False,False,
+591,496841,74.0,female,serious,False,,,310.0,2025-07-23 00:00:00,collision,Gzira,,True,False,
+592,496841,76.0,male,none,True,car,,310.0,2025-07-23 00:00:00,collision,Gzira,,True,False,
+593,496842,40.0,male,serious,True,motorcycle,,311.0,2025-07-24 08:00:00,rollover,San Anard,Magistrate Dr,True,False,morning
+594,496842,33.0,female,serious,True,motorcycle,,311.0,2025-07-24 08:00:00,rollover,San Anard,Magistrate Dr,True,False,morning
+595,496843,63.0,male,serious,True,motorcycle,,312.0,2025-05-02 15:00:00,collision,L-Imgarr,Magistrate Dr,True,False,afternoon
+596,496843,54.0,male,none,True,car,,312.0,2025-05-02 15:00:00,collision,L-Imgarr,Magistrate Dr,True,False,afternoon
+597,496844,50.0,male,serious,True,motorcycle,,313.0,2025-02-16 00:00:00,collision,Siggiewi,,False,False,
+598,496844,55.0,male,none,True,car,,313.0,2025-02-16 00:00:00,collision,Siggiewi,,False,False,
+599,496845,66.0,male,serious,True,motorcycle,,314.0,2025-02-04 00:00:00,collision,Zejtun,,True,False,
+600,496845,56.0,female,serious,False,motorcycle,,314.0,2025-02-04 00:00:00,collision,Zejtun,,True,False,
+602,496845,58.0,female,none,True,car,,314.0,2025-02-04 00:00:00,collision,Zejtun,,True,False,
+603,496846,78.0,male,serious,False,,,315.0,2025-07-10 00:00:00,collision,Siggiewi,,True,False,
+604,496846,24.0,male,none,True,car,,315.0,2025-07-10 00:00:00,collision,Siggiewi,,True,False,
+605,496847,24.0,male,serious,True,motorcycle,,316.0,2025-09-04 00:00:00,collision,Gzira,,True,False,
+606,496847,35.0,male,minor,True,motorcycle,,316.0,2025-09-04 00:00:00,collision,Gzira,,True,False,
+607,496848,41.0,male,serious,True,car,,317.0,2025-04-13 00:00:00,collision,Birzebbuga,traffic accident in Birzebbuga Road,False,False,
+608,496848,36.0,female,none,True,car,,317.0,2025-04-13 00:00:00,collision,Birzebbuga,traffic accident in Birzebbuga Road,False,False,
+609,496849,65.0,male,serious,True,motorcycle,,318.0,2025-07-24 00:00:00,collision,Mellieha,Salina Road,True,False,
+610,496850,62.0,male,serious,True,motorcycle,,319.0,2025-05-12 00:00:00,collision,Sliema,traffic accident in St Joseph High Road,True,False,
+611,496850,54.0,female,none,True,car,,319.0,2025-05-12 00:00:00,collision,Sliema,traffic accident in St Joseph High Road,True,False,
+612,496851,68.0,male,serious,False,,,320.0,2025-02-03 00:00:00,collision,Palma,,True,False,
+613,496851,44.0,male,none,True,car,,320.0,2025-02-03 00:00:00,collision,Palma,,True,False,
+614,496852,21.0,male,serious,True,motorcycle,,321.0,2025-01-15 00:00:00,collision,Marsa,,True,False,
+615,496852,21.0,female,none,True,car,,321.0,2025-01-15 00:00:00,collision,Marsa,,True,False,
+616,496852,30.0,male,serious,True,motorcycle,,322.0,2025-01-15 00:00:00,motorcycle_fall,,,True,False,
+617,496853,43.0,,none,True,car,,323.0,2025-06-12 00:00:00,collision,Marsa,Magistrate Dr,True,False,
+618,496853,67.0,,fatal,True,bicycle,,323.0,2025-06-12 00:00:00,collision,Marsa,Magistrate Dr,True,False,
+619,496853,38.0,male,none,True,van,,323.0,2025-06-12 00:00:00,collision,Marsa,Magistrate Dr,True,False,
+723,496853,38.0,,,False,car,,323.0,2025-06-12 00:00:00,collision,Marsa,Magistrate Dr,True,False,
+620,496854,30.0,male,none,True,motorcycle,,324.0,2025-09-20 00:00:00,collision,L-Gharb,,False,False,
+621,496854,34.0,male,serious,True,,,324.0,2025-09-20 00:00:00,collision,L-Gharb,,False,False,
+622,496855,60.0,female,serious,False,,,325.0,2024-12-11 00:00:00,collision,Swieqi,,True,False,
+623,496855,48.0,female,none,True,car,,325.0,2024-12-11 00:00:00,collision,Swieqi,,True,False,
+624,496856,24.0,female,fatal,False,,,326.0,2025-01-06 00:00:00,collision,Fgura,,True,False,
+724,496856,20.0,female,none,True,truck,,326.0,2025-01-06 00:00:00,collision,Fgura,,True,False,
+725,496856,34.0,female,serious,False,,,326.0,2025-01-06 00:00:00,collision,Fgura,,True,False,
+625,496857,23.0,female,none,True,car,,327.0,2025-07-27 00:00:00,collision,Fgura,Hompesch Street,False,False,
+626,496857,77.0,male,serious,True,car,,327.0,2025-07-27 00:00:00,collision,Fgura,Hompesch Street,False,False,
+627,496857,71.0,female,fatal,False,car,,327.0,2025-07-27 00:00:00,collision,Fgura,Hompesch Street,False,False,
+628,496857,76.0,female,serious,False,car,,327.0,2025-07-27 00:00:00,collision,Fgura,Hompesch Street,False,False,
+629,496858,5.0,male,serious,False,,,328.0,2025-05-26 15:00:00,collision,,Magistrate Dr,True,False,afternoon
+630,496858,22.0,male,none,True,car,,328.0,2025-05-26 15:00:00,collision,,Magistrate Dr,True,False,afternoon
+631,496859,47.0,male,serious,True,motorcycle,,329.0,2025-10-02 08:00:00,collision,L-Imgarr,,True,False,morning
+632,496859,53.0,female,none,True,car,,329.0,2025-10-02 08:00:00,collision,L-Imgarr,,True,False,morning
+633,496860,63.0,male,serious,False,,,330.0,2025-01-15 00:00:00,collision,Zurrieq,Blue Grotto Avenue,True,False,
+634,496860,19.0,male,none,True,car,,330.0,2025-01-15 00:00:00,collision,Zurrieq,Blue Grotto Avenue,True,False,
+635,496861,50.0,female,serious,True,car,,331.0,2025-02-24 00:00:00,collision,Mellieha,,True,False,
+636,496861,23.0,male,serious,True,motorcycle,,332.0,2025-02-25 00:00:00,collision,investigations,,True,False,
+637,496861,29.0,male,minor,False,car,,331.0,2025-02-24 00:00:00,collision,Mellieha,,True,False,
+638,496862,26.0,male,serious,True,motorcycle,,333.0,2025-04-26 00:00:00,motorcycle_fall,Floriana,,False,False,
+639,496863,17.0,female,serious,False,,,334.0,2024-12-13 00:00:00,collision,Qormi,Magistrate Dr,True,False,
+640,496863,52.0,male,none,True,car,,334.0,2024-12-13 00:00:00,collision,Qormi,Magistrate Dr,True,False,
+641,496864,59.0,male,none,True,van,,335.0,2025-09-28 00:00:00,collision,Ghar,,False,False,
+726,496864,36.0,male,serious,False,,,335.0,2025-09-28 00:00:00,collision,Ghar,,False,False,
+642,496865,34.0,female,none,True,car,,336.0,2025-10-04 00:00:00,collision,Ta' Lawrenti,,False,False,
+643,496865,38.0,male,none,True,car,,336.0,2025-10-04 00:00:00,collision,Ta' Lawrenti,,False,False,
+644,496866,36.0,female,none,True,motorcycle,,337.0,2025-10-04 00:00:00,collision,St Paul's Bay,resident in St,False,False,
+645,496866,71.0,male,none,True,car,,337.0,2025-10-04 00:00:00,collision,St Paul's Bay,resident in St,False,False,
+646,496867,57.0,male,serious,True,motorcycle,,338.0,2025-08-22 08:00:00,collision,Birkirkara,old woman from St,True,False,morning
+647,496867,25.0,female,none,False,car,,338.0,2025-08-22 08:00:00,collision,Birkirkara,old woman from St,True,False,morning
+648,496867,,male,none,True,car,,338.0,2025-08-22 08:00:00,collision,Birkirkara,old woman from St,True,False,morning
+649,496868,31.0,male,serious,True,motorcycle,,339.0,2025-04-06 00:00:00,collision,Birkirkara,Magistrate Dr,False,False,
+650,496868,19.0,female,none,True,car,,339.0,2025-04-06 00:00:00,collision,Birkirkara,Magistrate Dr,False,False,
+651,496869,74.0,male,minor,True,car,,340.0,2025-05-02 00:00:00,collision,Xaghra,,True,False,
+652,496869,73.0,female,serious,False,car,,340.0,2025-05-02 00:00:00,collision,Xaghra,,True,False,
+727,496869,33.0,,minor,True,car,,340.0,2025-05-02 00:00:00,collision,Xaghra,,True,False,
+653,496870,35.0,male,serious,True,motorcycle,,341.0,2025-07-14 00:00:00,collision,Marsaxlokk,,True,False,
+654,496870,30.0,male,none,True,van,,341.0,2025-07-14 00:00:00,collision,Marsaxlokk,,True,False,
+655,496871,87.0,female,serious,False,,,342.0,2025-08-31 00:00:00,collision,Qormi,Cottoner Avenue,False,False,
+656,496871,68.0,male,none,True,truck,,342.0,2025-08-31 00:00:00,collision,Qormi,Cottoner Avenue,False,False,
+657,496872,25.0,male,none,True,van,,343.0,2025-02-08 00:00:00,motorcycle_fall,Rabat,,False,False,
+658,496872,36.0,,none,False,van,,343.0,2025-02-08 00:00:00,motorcycle_fall,Rabat,,False,False,
+659,496873,54.0,male,fatal,True,motorcycle,,344.0,2024-12-11 00:00:00,collision,Mellieha,skip which was stationary on the road,True,False,
+660,496874,25.0,female,minor,True,van,,345.0,2025-02-09 21:00:00,collision,Zurrieq,,False,False,night
+661,496874,,,serious,True,car,,345.0,2025-02-09 21:00:00,collision,Zurrieq,,False,False,night
+728,496874,,,serious,False,car,,345.0,2025-02-09 21:00:00,collision,Zurrieq,,False,False,night
+662,496875,35.0,male,none,True,car,,346.0,2025-04-13 00:00:00,collision,Marsaxlokk,,False,False,
+663,496875,28.0,male,serious,False,car,,346.0,2025-04-13 00:00:00,collision,Marsaxlokk,,False,False,
+664,496876,28.0,male,serious,True,motorcycle,,347.0,2025-08-26 00:00:00,collision,Attard,Attard Road,True,False,
+665,496876,32.0,,none,True,car,,347.0,2025-08-26 00:00:00,collision,Attard,Attard Road,True,False,
+666,496877,51.0,male,serious,True,motorcycle,,348.0,2025-01-22 00:00:00,collision,Sliema,,True,False,
+667,496877,47.0,male,none,True,car,,348.0,2025-01-22 00:00:00,collision,Sliema,,True,False,
+668,496878,57.0,female,serious,False,,,349.0,2025-06-19 15:00:00,collision,Floriana,,True,False,afternoon
+669,496878,52.0,male,none,True,car,,349.0,2025-06-19 15:00:00,collision,Floriana,,True,False,afternoon
+670,496879,52.0,male,serious,True,motorcycle,,350.0,2025-02-05 00:00:00,motorcycle_fall,Haz-Zebbug,,True,False,
+671,496880,78.0,female,serious,True,car,,351.0,2024-12-19 00:00:00,collision,Naxxar,Magistrate Dr,True,False,
+672,496881,64.0,female,serious,False,,,352.0,2025-03-16 00:00:00,collision,Zebbug,,False,False,
+673,496881,68.0,male,minor,False,,,352.0,2025-03-16 00:00:00,collision,Zebbug,,False,False,
+674,496881,59.0,male,none,True,car,,352.0,2025-03-16 00:00:00,collision,Zebbug,,False,False,
+675,496882,17.0,male,serious,True,motorcycle,,353.0,2025-07-17 00:00:00,collision,Wied,,True,False,
+676,496882,41.0,male,none,True,car,,353.0,2025-07-17 00:00:00,collision,Wied,,True,False,
+677,496883,62.0,male,serious,True,car,,354.0,2025-08-12 00:00:00,collision,Gwardamanga,traffic accident in St,True,False,
+678,496883,41.0,female,serious,False,,,354.0,2025-08-12 00:00:00,collision,Gwardamanga,traffic accident in St,True,False,
