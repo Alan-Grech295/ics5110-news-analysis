@@ -51,7 +51,7 @@ Added person 687 in article 2940
 Added person 688 in article 2940
 Modified (111 -> 111) in article 2853: age (EMPTY -> 80); severity (none -> serious); severity span (EMPTY -> (97, 98));
 Modified (112 -> 112) in article 2853: age (EMPTY -> 80);
-Modified (113 -> 113) in article 2849: vehicle_type (EMPTY -> carriiage);
+Modified (113 -> 113) in article 2849: vehicle_type (EMPTY -> carriage);
 Modified (114 -> 114) in article 2849: vehicle_type (car -> unknown);
 Modified (115 -> 115) in article 2792: severity (none -> EMPTY);
 Modified (116 -> 116) in article 2792: severity (none -> serious); severity span (EMPTY -> (139, 140));
