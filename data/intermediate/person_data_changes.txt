@@ -67,13 +67,13 @@ Modified (138 -> 138) in article 2157: vehicle_type (truck -> bicycle); vehicle_
 Modified (139 -> 139) in article 2157: is_driver span (EMPTY -> (40, 50)); vehicle_type (EMPTY -> truck);
 Modified (142 -> 142) in article 2080: is_driver span (EMPTY -> (35, 36)); vehicle_type (EMPTY -> car);
 Removed person 141 in article 2080
+Modified (143 -> 143) in article 2101: vehicle_type (11,600 and his driving licence was suspended for -> car); vehicle_type span ((291, 292) -> (140, 141));
 Removed person 145 in article 2101
 Modified (150 -> 150) in article 1856: severity (none -> minor); severity span (EMPTY -> (99, 100));
 Modified (152 -> 152) in article 1856: vehicle_type (EMPTY -> car);
 Added person 691 in article 1856
 Added person 692 in article 1856
 Added person 693 in article 1856
-Modified (153 -> 153) in article 1860: vehicle_type (car -> cars - a Smart driven by the man and);
 Modified (157 -> 157) in article 1808: is_driver span (EMPTY -> (68, 71)); vehicle_type (EMPTY -> car);
 Modified (173 -> 173) in article 1352: vehicle_type (the road level went down by a few metres before he drove into a pothole. -> motorcycle); vehicle_type span ((273, 282) -> (61, 62));
 Modified (174 -> 174) in article 1286: age (EMPTY -> 29); vehicle_type (van -> EMPTY);
@@ -160,6 +160,7 @@ Removed person 308 in article 489878
 Modified (310 -> 310) in article 489889: vehicle_type (EMPTY -> car);
 Modified (314 -> 314) in article 490008: vehicle_type (EMPTY -> car);
 Modified (315 -> 315) in article 490101: severity (none -> fatal); severity span (EMPTY -> (6, 7)); is_driver span (EMPTY -> (44, 45)); vehicle_type (EMPTY -> motorcycle);
+Modified (321 -> 321) in article 490183: vehicle_type (CCTV cameras, explaining that the accused drove around Fort St Elmo -> car); vehicle_type span ((226, 231) -> (242, 244));
 Modified (322 -> 322) in article 490183: is_driver span ((82, 93) -> EMPTY); vehicle_type (month. He stands accused of the involuntary homicide of Mildred Azzopardi, driving under the influence and -> EMPTY);
 Modified (324 -> 324) in article 490165: vehicle_type (EMPTY -> car);
 Modified (327 -> 327) in article 490160: severity (none -> fatal); severity span (EMPTY -> (147, 148)); is_driver span (EMPTY -> (111, 112)); vehicle_type (EMPTY -> motorcycle);
