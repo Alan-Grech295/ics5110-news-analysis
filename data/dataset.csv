@@ -1,683 +1,683 @@
-person_id,article_id,age,gender,severity,is_driver,vehicle_type,person_state,accident_id,date_time,accident_type,location,temperature_2m,precipitation,windspeed_10m,cloud_cover,weather_code,is_weekday,is_public_holiday,time_of_day,month,hour,day,year
-0,4208,78.0,male,none,True,car,,0.0,2024-12-04 17:00:00,collision,St Julian's,17.6,0.0,9.8,100.0,3.0,True,False,evening,12,17.0,4,2024
-1,4093,54.0,male,serious,True,motorcycle,,1.0,2024-12-11 17:00:00,collision,St Paul's Bay,15.5,0.0,6.5,100.0,3.0,True,False,evening,12,17.0,11,2024
-2,4110,54.0,male,serious,True,motorcycle,,2.0,2024-12-11 13:00:00,collision,St Paul's Bay,18.3,0.0,5.0,97.0,3.0,True,False,afternoon,12,13.0,11,2024
-3,4066,17.0,female,serious,False,,,3.0,2024-12-13 17:30:00,collision,Mellieha,18.6,0.0,24.0,2.0,0.0,True,False,evening,12,17.5,13,2024
-4,4066,52.0,male,none,True,car,,3.0,2024-12-13 17:30:00,collision,Mellieha,18.6,0.0,24.0,2.0,0.0,True,False,evening,12,17.5,13,2024
-5,4066,29.0,male,serious,False,,,4.0,2024-12-14 19:45:00,collision,Gudja,17.1,0.0,22.3,84.0,3.0,False,False,evening,12,19.75,14,2024
-6,4066,50.0,,none,True,car,,4.0,2024-12-14 19:45:00,collision,Gudja,17.1,0.0,22.3,84.0,3.0,False,False,evening,12,19.75,14,2024
-7,4067,54.0,male,fatal,True,motorcycle,,5.0,2024-12-13 21:00:00,collision,Xemxija,18.8,0.0,23.4,0.0,0.0,True,False,night,12,21.0,13,2024
-8,4087,54.0,male,fatal,True,motorcycle,,6.0,2024-12-11 12:00:00,collision,St Paul's Bay,18.1,0.0,4.5,65.0,2.0,True,False,afternoon,12,12.0,11,2024
-9,4049,45.0,male,serious,True,motorcycle,,7.0,2024-12-15 20:30:00,collision,Imgarr,13.6,0.1,22.5,14.0,51.0,False,False,evening,12,20.5,15,2024
-10,4049,86.0,female,none,True,car,,7.0,2024-12-15 20:30:00,collision,Imgarr,13.6,0.1,22.5,14.0,51.0,False,False,evening,12,20.5,15,2024
-11,4034,,male,serious,False,,,8.0,2024-12-13 19:45:00,collision,Gudja,18.5,0.0,24.3,2.0,0.0,True,False,evening,12,19.75,13,2024
-12,4034,29.0,,none,False,,,8.0,2024-12-13 19:45:00,collision,Gudja,18.5,0.0,24.3,2.0,0.0,True,False,evening,12,19.75,13,2024
-13,4007,54.0,male,fatal,True,motorcycle,,9.0,2024-12-16 18:00:00,collision,St Paul's Bay,15.3,0.0,27.1,4.0,0.0,True,False,evening,12,18.0,16,2024
-15,4024,54.0,male,fatal,True,motorcycle,,10.0,2024-12-13 00:00:00,collision,St Paul's Bay,18.3,0.0,19.3,80.0,3.0,True,False,,12,,13,2024
-16,4014,52.0,male,none,True,van,,11.0,2024-12-17 18:00:00,collision,Siggiewi,14.2,0.0,7.5,0.0,0.0,True,False,evening,12,18.0,17,2024
-17,4014,43.0,female,none,False,,,11.0,2024-12-17 18:00:00,collision,Siggiewi,14.2,0.0,7.5,0.0,0.0,True,False,evening,12,18.0,17,2024
-18,4014,46.0,male,none,True,van,,11.0,2024-12-17 18:00:00,collision,Siggiewi,14.2,0.0,7.5,0.0,0.0,True,False,evening,12,18.0,17,2024
-679,3989,,,none,True,unknown,,12.0,2024-12-19 18:50:00,collision,Blata,16.2,0.0,17.4,43.0,1.0,True,False,evening,12,18.833333333333332,19,2024
-680,3989,,,none,True,bus,,12.0,2024-12-19 18:50:00,collision,Blata,16.2,0.0,17.4,43.0,1.0,True,False,evening,12,18.833333333333332,19,2024
-19,3991,30.0,female,serious,True,motorcycle,,13.0,2024-12-20 00:00:00,motorcycle_fall,Birkirkara,15.9,0.0,18.0,6.0,0.0,True,False,,12,,20,2024
-20,3976,72.0,female,none,False,,,14.0,2024-12-20 11:30:00,collision,Naxxar,18.0,0.0,32.8,43.0,1.0,True,False,morning,12,11.5,20,2024
-21,3976,2.0,,serious,False,,,14.0,2024-12-20 11:30:00,collision,Naxxar,18.0,0.0,32.8,43.0,1.0,True,False,morning,12,11.5,20,2024
-22,3976,43.0,male,none,True,car,,14.0,2024-12-20 11:30:00,collision,Naxxar,18.0,0.0,32.8,43.0,1.0,True,False,morning,12,11.5,20,2024
-23,3976,44.0,male,none,True,car,,15.0,2024-12-20 00:00:00,collision,San Gwann,15.6,0.0,15.1,6.0,0.0,True,False,,12,,20,2024
-24,3964,31.0,male,minor,True,motorcycle,,16.0,2024-12-22 14:25:00,collision,Kennedy Grove,15.9,0.0,20.5,98.0,3.0,False,False,afternoon,12,14.416666666666666,22,2024
-25,3964,40.0,male,serious,True,motorcycle,,16.0,2024-12-22 14:25:00,collision,Kennedy Grove,15.9,0.0,20.5,98.0,3.0,False,False,afternoon,12,14.416666666666666,22,2024
-26,3964,27.0,female,none,True,car,,16.0,2024-12-22 14:25:00,collision,Kennedy Grove,15.9,0.0,20.5,98.0,3.0,False,False,afternoon,12,14.416666666666666,22,2024
-28,3964,29.0,male,none,True,motorcycle,,16.0,2024-12-22 14:25:00,collision,Kennedy Grove,15.9,0.0,20.5,98.0,3.0,False,False,afternoon,12,14.416666666666666,22,2024
-29,3966,13.0,female,serious,False,,,17.0,2024-12-22 10:15:00,collision,,15.6,0.0,32.7,100.0,3.0,False,False,morning,12,10.25,22,2024
-30,3966,25.0,,none,True,car,,17.0,2024-12-22 10:15:00,collision,,15.6,0.0,32.7,100.0,3.0,False,False,morning,12,10.25,22,2024
-31,3938,37.0,male,serious,True,bus,,18.0,2024-12-23 10:30:00,collision,Naxxar,13.9,0.3,44.4,100.0,51.0,True,False,morning,12,10.5,23,2024
-32,3938,39.0,female,none,True,van,,18.0,2024-12-23 10:30:00,collision,Naxxar,13.9,0.3,44.4,100.0,51.0,True,False,morning,12,10.5,23,2024
-33,3910,37.0,male,fatal,True,bus,,19.0,2024-12-23 00:00:00,collision,Naxxar,14.6,0.3,28.5,69.0,51.0,True,False,,12,,23,2024
-34,3910,39.0,female,minor,True,van,,19.0,2024-12-23 00:00:00,collision,Naxxar,14.6,0.3,28.5,69.0,51.0,True,False,,12,,23,2024
-35,3885,36.0,male,serious,True,car,,20.0,2024-12-27 07:45:00,collision,Marsa,13.9,0.0,13.9,50.0,2.0,True,False,morning,12,7.75,27,2024
-36,3900,62.0,female,serious,True,motorcycle,,21.0,2024-12-27 12:00:00,collision,Hamrun,14.4,0.2,20.1,76.0,51.0,True,False,afternoon,12,12.0,27,2024
-37,3900,25.0,,none,True,truck,,21.0,2024-12-27 12:00:00,collision,Hamrun,14.4,0.2,20.1,76.0,51.0,True,False,afternoon,12,12.0,27,2024
-38,3861,21.0,female,fatal,False,,drunk,22.0,2024-12-29 00:00:00,collision,Madliena,12.7,0.0,6.9,16.0,0.0,False,False,,12,,29,2024
-39,3861,,male,,True,car,,22.0,2024-12-29 00:00:00,collision,Madliena,12.7,0.0,6.9,16.0,0.0,False,False,,12,,29,2024
-40,3861,17.0,female,none,False,,,22.0,2024-12-29 00:00:00,collision,Madliena,12.7,0.0,6.9,16.0,0.0,False,False,,12,,29,2024
-42,3834,,male,none,True,,drunk,23.0,2024-12-30 00:00:00,collision,Mithna,14.5,0.0,5.1,1.0,0.0,True,False,,12,,30,2024
-43,3834,,female,serious,True,car,,23.0,2024-12-30 00:00:00,collision,Mithna,14.5,0.0,5.1,1.0,0.0,True,False,,12,,30,2024
-44,3766,72.0,male,serious,True,car,,24.0,2025-01-05 12:30:00,collision,Birkirkara,16.8,0.0,13.4,43.0,1.0,False,False,afternoon,1,12.5,5,2025
-45,3766,66.0,female,serious,False,,,24.0,2025-01-05 12:30:00,collision,Birkirkara,16.8,0.0,13.4,43.0,1.0,False,False,afternoon,1,12.5,5,2025
-46,3766,28.0,male,minor,True,car,,24.0,2025-01-05 12:30:00,collision,Birkirkara,16.8,0.0,13.4,43.0,1.0,False,False,afternoon,1,12.5,5,2025
-47,3747,25.0,male,fatal,True,car,,25.0,2025-01-06 21:00:00,collision,Attard,16.2,0.0,15.9,100.0,3.0,True,False,night,1,21.0,6,2025
-48,3749,20.0,female,serious,True,truck,,26.0,2025-01-06 20:00:00,collision,Fgura,16.0,0.0,12.1,100.0,3.0,True,False,evening,1,20.0,6,2025
-49,3749,24.0,female,serious,False,,,26.0,2025-01-06 20:00:00,collision,Fgura,16.0,0.0,12.1,100.0,3.0,True,False,evening,1,20.0,6,2025
-50,3749,34.0,,serious,False,,,26.0,2025-01-06 20:00:00,collision,Fgura,16.0,0.0,12.1,100.0,3.0,True,False,evening,1,20.0,6,2025
-51,3749,25.0,,fatal,True,unknown,,27.0,2025-01-07 00:00:00,collision,Attard,16.4,0.0,17.4,100.0,3.0,True,False,,1,,7,2025
-52,3740,25.0,male,fatal,True,car,,28.0,2025-01-06 09:40:00,collision,Attard,17.5,0.0,21.8,100.0,3.0,True,False,morning,1,9.666666666666666,6,2025
-681,3740,,female,serious,False,,,29.0,2025-01-06 21:00:00,collision,Fgura,16.2,0.0,14.9,100.0,3.0,True,False,night,1,21.0,6,2025
-682,3740,,female,minor,False,,,29.0,2025-01-06 21:00:00,collision,Fgura,16.2,0.0,14.9,100.0,3.0,True,False,night,1,21.0,6,2025
-53,3740,20.0,,none,True,truck,,29.0,2025-01-06 21:00:00,collision,Fgura,16.2,0.0,14.9,100.0,3.0,True,False,night,1,21.0,6,2025
-54,3704,25.0,male,fatal,True,car,,30.0,2025-01-08 21:00:00,collision,,16.3,0.0,26.1,14.0,0.0,True,False,night,1,21.0,8,2025
-56,3704,13.0,female,serious,False,,,30.0,2025-01-08 21:00:00,collision,,16.3,0.0,26.1,14.0,0.0,True,False,night,1,21.0,8,2025
-57,3704,25.0,,none,True,car,,30.0,2025-01-08 21:00:00,collision,,16.3,0.0,26.1,14.0,0.0,True,False,night,1,21.0,8,2025
-58,3699,25.0,male,fatal,True,car,,31.0,2025-01-08 00:00:00,collision,Attard,15.6,0.0,20.3,8.0,0.0,True,False,,1,,8,2025
-59,3671,83.0,female,serious,False,car,,32.0,2025-01-09 11:00:00,collision,Rabat,15.8,0.0,11.8,0.0,0.0,True,False,morning,1,11.0,9,2025
-60,3671,56.0,female,minor,True,car,,32.0,2025-01-09 11:00:00,collision,Rabat,15.8,0.0,11.8,0.0,0.0,True,False,morning,1,11.0,9,2025
-61,3653,21.0,male,fatal,False,car,,33.0,2025-01-11 00:00:00,collision,Swieqi,15.8,0.0,29.5,90.0,3.0,False,False,,1,,11,2025
-62,3653,22.0,male,none,True,car,,33.0,2025-01-11 00:00:00,collision,Swieqi,15.8,0.0,29.5,90.0,3.0,False,False,,1,,11,2025
-66,3601,30.0,male,none,True,motorcycle,,35.0,2025-01-15 08:00:00,motorcycle_fall,Tal-Barrani,12.6,0.0,23.7,22.0,1.0,True,False,morning,1,8.0,15,2025
-683,3601,21.0,male,,True,motorcycle,,34.0,2025-01-15 07:45:00,collision,Marsa,12.6,0.0,23.7,22.0,1.0,True,False,morning,1,7.75,15,2025
-67,3601,21.0,female,none,True,car,,34.0,2025-01-15 07:45:00,collision,Marsa,12.6,0.0,23.7,22.0,1.0,True,False,morning,1,7.75,15,2025
-684,3586,36.0,,none,True,car,,36.0,2025-01-15 16:45:00,collision,Sliema,11.6,0.6,10.1,90.0,53.0,True,False,afternoon,1,16.75,15,2025
-68,3586,63.0,male,none,False,,,36.0,2025-01-15 16:45:00,collision,Sliema,11.6,0.6,10.1,90.0,53.0,True,False,afternoon,1,16.75,15,2025
-69,3551,34.0,male,serious,True,motorcycle,,37.0,2025-01-16 10:15:00,collision,Naxxar,13.9,0.0,5.2,6.0,0.0,True,False,morning,1,10.25,16,2025
-70,3551,45.0,female,none,False,,,37.0,2025-01-16 10:15:00,collision,Naxxar,13.9,0.0,5.2,6.0,0.0,True,False,morning,1,10.25,16,2025
-71,3558,44.0,male,none,True,car,,38.0,2025-01-16 00:00:00,collision,Valletta,9.8,0.0,1.8,20.0,1.0,True,False,,1,,16,2025
-72,3558,25.0,male,fatal,False,,,38.0,2025-01-16 00:00:00,collision,Valletta,9.8,0.0,1.8,20.0,1.0,True,False,,1,,16,2025
-73,3588,25.0,male,fatal,False,,,39.0,2025-01-16 21:00:00,collision,St Julian's,14.1,0.8,19.2,100.0,53.0,True,False,night,1,21.0,16,2025
-74,3588,44.0,male,none,True,car,,39.0,2025-01-16 21:00:00,collision,St Julian's,14.1,0.8,19.2,100.0,53.0,True,False,night,1,21.0,16,2025
-76,3456,51.0,male,serious,True,motorcycle,,40.0,2025-01-22 18:00:00,unknown,Sliema,14.8,0.0,8.0,73.0,2.0,True,False,evening,1,18.0,22,2025
-77,3456,47.0,,none,True,car,,40.0,2025-01-22 18:00:00,unknown,Sliema,14.8,0.0,8.0,73.0,2.0,True,False,evening,1,18.0,22,2025
-78,3442,36.0,male,fatal,True,motorcycle,,41.0,2025-01-23 00:00:00,collision,Tal-Qroqq,15.5,0.0,13.4,100.0,3.0,True,False,,1,,23,2025
-79,3423,36.0,male,fatal,False,,,42.0,2025-01-25 00:00:00,collision,,16.4,0.0,28.8,0.0,0.0,False,False,,1,,25,2025
-81,3408,46.0,male,fatal,True,motorcycle,,43.0,2025-01-25 17:00:00,collision,Fgura,15.6,0.0,5.5,100.0,3.0,False,False,evening,1,17.0,25,2025
-685,3408,,,none,True,car,,43.0,2025-01-25 17:00:00,collision,Fgura,15.6,0.0,5.5,100.0,3.0,False,False,evening,1,17.0,25,2025
-82,3255,34.0,male,serious,True,car,,44.0,2025-02-01 05:00:00,collision,Hal Farrug,14.6,0.0,20.4,25.0,1.0,False,False,morning,2,5.0,1,2025
-83,3255,30.0,male,none,True,car,,45.0,2025-02-01 12:45:00,collision,Fgura,17.1,0.4,28.0,52.0,51.0,False,False,afternoon,2,12.75,1,2025
-84,3255,59.0,male,serious,True,motorcycle,,45.0,2025-02-01 12:45:00,collision,Fgura,17.1,0.4,28.0,52.0,51.0,False,False,afternoon,2,12.75,1,2025
-85,3220,25.0,male,fatal,False,,,46.0,2025-01-31 00:00:00,collision,St Julian's,13.0,0.0,7.1,21.0,1.0,True,False,,1,,31,2025
-86,3220,44.0,male,none,True,car,,46.0,2025-01-31 00:00:00,collision,St Julian's,13.0,0.0,7.1,21.0,1.0,True,False,,1,,31,2025
-87,3197,56.0,female,serious,False,,,47.0,2025-02-04 11:30:00,collision,Zejtun,16.3,0.2,4.4,47.0,51.0,True,False,morning,2,11.5,4,2025
-88,3197,58.0,female,none,False,,,47.0,2025-02-04 11:30:00,collision,Zejtun,16.3,0.2,4.4,47.0,51.0,True,False,morning,2,11.5,4,2025
-89,3197,66.0,male,none,True,motorcycle,,47.0,2025-02-04 11:30:00,collision,Zejtun,16.3,0.2,4.4,47.0,51.0,True,False,morning,2,11.5,4,2025
-90,3206,52.0,male,serious,True,motorcycle,,48.0,2025-02-05 09:00:00,motorcycle_fall,Ta' Qali,14.6,0.0,9.3,80.0,3.0,True,False,morning,2,9.0,5,2025
-91,3169,35.0,male,none,True,motorcycle,,49.0,2025-02-06 08:00:00,collision,Naxxar,13.1,0.0,14.7,69.0,2.0,True,False,morning,2,8.0,6,2025
-92,3169,26.0,female,none,True,car,,49.0,2025-02-06 08:00:00,collision,Naxxar,13.1,0.0,14.7,69.0,2.0,True,False,morning,2,8.0,6,2025
-93,3100,25.0,male,none,True,van,,50.0,2025-02-08 21:00:00,collision,Rabat,12.5,0.0,23.3,61.0,2.0,False,False,night,2,21.0,8,2025
-94,3100,36.0,,none,False,,,50.0,2025-02-08 21:00:00,collision,Rabat,12.5,0.0,23.3,61.0,2.0,False,False,night,2,21.0,8,2025
-95,3095,24.0,male,fatal,True,,,51.0,2025-02-10 21:00:00,collision,Kirkop,13.1,0.0,22.3,82.0,3.0,True,True,night,2,21.0,10,2025
-96,3095,25.0,,minor,False,,,51.0,2025-02-10 21:00:00,collision,Kirkop,13.1,0.0,22.3,82.0,3.0,True,True,night,2,21.0,10,2025
-97,3090,24.0,male,fatal,True,car,,52.0,2025-02-11 21:00:00,collision,Kirkop,12.9,0.0,11.3,17.0,0.0,True,False,night,2,21.0,11,2025
-98,3090,,male,fatal,True,motorcycle,,52.0,2025-02-11 21:00:00,collision,Kirkop,12.9,0.0,11.3,17.0,0.0,True,False,night,2,21.0,11,2025
-99,3090,25.0,male,fatal,True,car,,52.0,2025-02-11 21:00:00,collision,Kirkop,12.9,0.0,11.3,17.0,0.0,True,False,night,2,21.0,11,2025
-100,3090,24.0,female,fatal,False,pedestrian,,52.0,2025-02-11 21:00:00,collision,Kirkop,12.9,0.0,11.3,17.0,0.0,True,False,night,2,21.0,11,2025
-686,3090,,,none,True,truck,,52.0,2025-02-11 21:00:00,collision,Kirkop,12.9,0.0,11.3,17.0,0.0,True,False,night,2,21.0,11,2025
-101,3001,39.0,male,serious,True,motorcycle,,53.0,2025-02-14 00:01:00,collision,Iklin,14.3,0.0,13.3,29.0,1.0,True,False,night,2,0.016666666666666666,14,2025
-102,3001,42.0,female,none,True,car,,53.0,2025-02-14 00:01:00,collision,Iklin,14.3,0.0,13.3,29.0,1.0,True,False,night,2,0.016666666666666666,14,2025
-104,2974,50.0,male,serious,False,,,55.0,2025-02-16 11:00:00,collision,Siggiewi,14.9,0.2,29.5,14.0,51.0,False,False,morning,2,11.0,16,2025
-105,2974,55.0,,none,True,car,,55.0,2025-02-16 11:00:00,collision,Siggiewi,14.9,0.2,29.5,14.0,51.0,False,False,morning,2,11.0,16,2025
-106,2940,3.0,female,none,False,car,,56.0,2025-02-17 13:00:00,collision,Hal Far,16.5,0.0,6.8,17.0,0.0,True,False,afternoon,2,13.0,17,2025
-107,2940,44.0,,none,True,trailer,,56.0,2025-02-17 13:00:00,collision,Hal Far,16.5,0.0,6.8,17.0,0.0,True,False,afternoon,2,13.0,17,2025
-687,2940,30.0,male,,,car,,56.0,2025-02-17 13:00:00,collision,Hal Far,16.5,0.0,6.8,17.0,0.0,True,False,afternoon,2,13.0,17,2025
-688,2940,27.0,female,,,car,,56.0,2025-02-17 13:00:00,collision,Hal Far,16.5,0.0,6.8,17.0,0.0,True,False,afternoon,2,13.0,17,2025
-108,2872,45.0,male,serious,True,motorcycle,,57.0,2025-02-19 18:00:00,collision,Fgura,13.9,0.0,8.8,99.0,3.0,True,False,evening,2,18.0,19,2025
-109,2872,32.0,female,none,True,car,,57.0,2025-02-19 18:00:00,collision,Fgura,13.9,0.0,8.8,99.0,3.0,True,False,evening,2,18.0,19,2025
-110,2873,17.0,female,fatal,False,car,,58.0,2025-02-20 00:00:00,collision,St Paul's Bay,12.9,0.0,10.0,99.0,3.0,True,False,,2,,20,2025
-111,2853,80.0,male,serious,True,car,,59.0,2025-02-21 07:30:00,collision,,14.2,0.0,19.8,50.0,2.0,True,False,morning,2,7.5,21,2025
-112,2853,80.0,male,serious,False,,,59.0,2025-02-21 07:30:00,collision,,14.2,0.0,19.8,50.0,2.0,True,False,morning,2,7.5,21,2025
-113,2849,61.0,male,serious,True,carriage,,60.0,2025-02-21 13:30:00,collision,Qormi,15.0,0.2,14.3,63.0,51.0,True,False,afternoon,2,13.5,21,2025
-114,2849,31.0,male,none,True,unknown,,60.0,2025-02-21 13:30:00,collision,Qormi,15.0,0.2,14.3,63.0,51.0,True,False,afternoon,2,13.5,21,2025
-115,2792,23.0,,,True,motorcycle,,61.0,2025-02-24 14:15:00,collision,Hamrun,16.0,0.2,5.2,59.0,51.0,True,False,afternoon,2,14.25,24,2025
-116,2792,29.0,male,serious,False,,,61.0,2025-02-24 14:15:00,collision,Hamrun,16.0,0.2,5.2,59.0,51.0,True,False,afternoon,2,14.25,24,2025
-117,2792,50.0,female,serious,True,car,,61.0,2025-02-24 14:15:00,collision,Hamrun,16.0,0.2,5.2,59.0,51.0,True,False,afternoon,2,14.25,24,2025
-118,2745,23.0,male,serious,True,motorcycle,,62.0,2025-02-24 23:00:00,collision,Hamrun,11.2,0.0,4.0,0.0,0.0,True,False,night,2,23.0,24,2025
-120,2666,,male,serious,True,motorcycle,,63.0,2025-03-03 07:00:00,motorcycle_fall,Marsa,14.5,0.0,23.8,15.0,0.0,True,False,morning,3,7.0,3,2025
-121,2658,75.0,male,serious,True,car,,64.0,2025-03-03 07:00:00,collision,Imgarr,14.0,0.0,23.8,13.0,0.0,True,False,morning,3,7.0,3,2025
-122,2557,56.0,female,none,True,car,,65.0,2025-03-08 19:30:00,collision,St Paul's Bay,14.8,0.0,11.3,21.0,1.0,False,False,evening,3,19.5,8,2025
-123,2492,45.0,male,none,True,bus,,66.0,2025-03-13 14:45:00,collision,Zebbug,15.5,0.0,16.6,0.0,0.0,True,False,afternoon,3,14.75,13,2025
-124,2492,35.0,male,serious,True,car,,66.0,2025-03-13 14:45:00,collision,Zebbug,15.5,0.0,16.6,0.0,0.0,True,False,afternoon,3,14.75,13,2025
-125,2452,35.0,male,serious,True,truck,,67.0,2025-03-14 15:30:00,collision,Buqana,21.4,0.0,25.3,95.0,3.0,True,False,afternoon,3,15.5,14,2025
-126,2461,34.0,male,none,True,car,,68.0,2025-03-14 22:30:00,collision,Ghajn,19.5,0.0,23.9,0.0,0.0,True,False,night,3,22.5,14,2025
-127,2461,39.0,male,minor,True,car,,68.0,2025-03-14 22:30:00,collision,Ghajn,19.5,0.0,23.9,0.0,0.0,True,False,night,3,22.5,14,2025
-128,2461,24.0,female,none,False,car,,68.0,2025-03-14 22:30:00,collision,Ghajn,19.5,0.0,23.9,0.0,0.0,True,False,night,3,22.5,14,2025
-129,2419,68.0,male,minor,False,,,69.0,2025-03-16 08:00:00,collision,Zebbug,14.8,0.0,34.2,0.0,0.0,False,False,morning,3,8.0,16,2025
-130,2419,59.0,male,none,True,car,,69.0,2025-03-16 08:00:00,collision,Zebbug,14.8,0.0,34.2,0.0,0.0,False,False,morning,3,8.0,16,2025
-131,2419,64.0,female,serious,False,,,69.0,2025-03-16 08:00:00,collision,Zebbug,14.8,0.0,34.2,0.0,0.0,False,False,morning,3,8.0,16,2025
-132,2409,40.0,male,serious,True,motorcycle,,70.0,2025-03-16 08:00:00,motorcycle_fall,Naxxar,15.8,0.0,23.3,0.0,0.0,False,False,morning,3,8.0,16,2025
-133,2301,32.0,male,serious,True,motorcycle,,71.0,2025-03-22 05:45:00,collision,Ghajnsielem,15.1,0.0,27.7,1.0,0.0,False,False,morning,3,5.75,22,2025
-134,2301,31.0,male,none,True,bus,,71.0,2025-03-22 05:45:00,collision,Ghajnsielem,15.1,0.0,27.7,1.0,0.0,False,False,morning,3,5.75,22,2025
-135,2259,43.0,female,serious,True,car,,72.0,2025-03-22 13:30:00,collision,Nadur,17.0,0.0,30.0,0.0,0.0,False,False,afternoon,3,13.5,22,2025
-136,2259,26.0,male,none,True,truck,,72.0,2025-03-22 13:30:00,collision,Nadur,17.0,0.0,30.0,0.0,0.0,False,False,afternoon,3,13.5,22,2025
-689,2201,,,none,True,motorcycle,,73.0,2025-03-26 00:00:00,unknown,Siggiewi,15.4,0.0,1.3,100.0,3.0,True,False,,3,,26,2025
-690,2201,,,none,False,,,73.0,2025-03-26 00:00:00,unknown,Siggiewi,15.4,0.0,1.3,100.0,3.0,True,False,,3,,26,2025
-137,2201,,,none,True,unknown,,73.0,2025-03-26 00:00:00,unknown,Siggiewi,15.4,0.0,1.3,100.0,3.0,True,False,,3,,26,2025
-138,2157,33.0,male,serious,True,bicycle,,74.0,2025-03-28 10:45:00,collision,San Gwann,15.7,0.1,32.1,19.0,51.0,True,False,morning,3,10.75,28,2025
-139,2157,32.0,male,none,True,truck,,74.0,2025-03-28 10:45:00,collision,San Gwann,15.7,0.1,32.1,19.0,51.0,True,False,morning,3,10.75,28,2025
-140,2080,87.0,female,serious,False,,,75.0,2025-04-01 09:00:00,collision,Naxxar,13.3,0.1,14.3,40.0,51.0,True,False,morning,4,9.0,1,2025
-142,2080,30.0,male,none,True,car,,75.0,2025-04-01 09:00:00,collision,Naxxar,13.3,0.1,14.3,40.0,51.0,True,False,morning,4,9.0,1,2025
-143,2101,48.0,male,none,True,car,,76.0,2025-04-01 00:00:00,collision,St Paul's Bay,13.8,0.8,15.9,66.0,53.0,True,False,,4,,1,2025
-144,2101,45.0,female,fatal,False,,,76.0,2025-04-01 00:00:00,collision,St Paul's Bay,13.8,0.8,15.9,66.0,53.0,True,False,,4,,1,2025
-146,1989,31.0,,serious,True,motorcycle,,77.0,2025-04-06 08:30:00,collision,Attard,16.6,0.1,13.9,100.0,51.0,False,False,morning,4,8.5,6,2025
-147,1989,19.0,female,none,True,car,,77.0,2025-04-06 08:30:00,collision,Attard,16.6,0.1,13.9,100.0,51.0,False,False,morning,4,8.5,6,2025
-148,1967,41.0,male,serious,True,motorcycle,,78.0,2025-04-06 20:45:00,collision,Buqana,15.3,0.0,16.0,92.0,3.0,False,False,evening,4,20.75,6,2025
-149,1967,25.0,male,none,True,car,,78.0,2025-04-06 20:45:00,collision,Buqana,15.3,0.0,16.0,92.0,3.0,False,False,evening,4,20.75,6,2025
-150,1856,39.0,male,minor,True,bus,,79.0,2025-04-07 08:55:00,collision,Zurrieq,15.0,0.1,23.7,93.0,51.0,True,False,morning,4,8.916666666666666,7,2025
-691,1856,79.0,,minor,False,bus,,79.0,2025-04-07 08:55:00,collision,Zurrieq,15.0,0.1,23.7,93.0,51.0,True,False,morning,4,8.916666666666666,7,2025
-692,1856,79.0,,minor,False,bus,,79.0,2025-04-07 08:55:00,collision,Zurrieq,15.0,0.1,23.7,93.0,51.0,True,False,morning,4,8.916666666666666,7,2025
-693,1856,79.0,,minor,False,bus,,79.0,2025-04-07 08:55:00,collision,Zurrieq,15.0,0.1,23.7,93.0,51.0,True,False,morning,4,8.916666666666666,7,2025
-151,1856,81.0,male,minor,True,car,,79.0,2025-04-07 08:55:00,collision,Zurrieq,15.0,0.1,23.7,93.0,51.0,True,False,morning,4,8.916666666666666,7,2025
-152,1856,80.0,female,serious,False,car,,79.0,2025-04-07 08:55:00,collision,Zurrieq,15.0,0.1,23.7,93.0,51.0,True,False,morning,4,8.916666666666666,7,2025
-153,1860,41.0,male,serious,True,car,,80.0,2025-04-13 17:45:00,collision,Gudja,16.8,0.0,22.5,100.0,3.0,False,False,evening,4,17.75,13,2025
-154,1860,36.0,female,none,True,car,,80.0,2025-04-13 17:45:00,collision,Gudja,16.8,0.0,22.5,100.0,3.0,False,False,evening,4,17.75,13,2025
-155,1808,36.0,male,serious,True,motorcycle,,81.0,2025-04-15 12:50:00,collision,Marsa,22.5,0.0,23.0,79.0,2.0,True,False,afternoon,4,12.833333333333334,15,2025
-156,1808,52.0,male,none,True,van,,81.0,2025-04-15 12:50:00,collision,Marsa,22.5,0.0,23.0,79.0,2.0,True,False,afternoon,4,12.833333333333334,15,2025
-157,1808,53.0,male,none,True,car,,81.0,2025-04-15 12:50:00,collision,Marsa,22.5,0.0,23.0,79.0,2.0,True,False,afternoon,4,12.833333333333334,15,2025
-158,1776,79.0,male,serious,True,motorcycle,,82.0,2025-04-17 09:30:00,collision,Zejtun,17.2,0.0,21.4,6.0,0.0,True,False,morning,4,9.5,17,2025
-159,1776,46.0,male,none,True,car,,82.0,2025-04-17 09:30:00,collision,Zejtun,17.2,0.0,21.4,6.0,0.0,True,False,morning,4,9.5,17,2025
-160,1769,80.0,male,serious,False,,,83.0,2025-04-17 13:00:00,collision,Luqa,17.5,0.0,21.9,90.0,3.0,True,False,afternoon,4,13.0,17,2025
-161,1769,22.0,male,none,True,car,,83.0,2025-04-17 13:00:00,collision,Luqa,17.5,0.0,21.9,90.0,3.0,True,False,afternoon,4,13.0,17,2025
-162,1745,46.0,,serious,False,,,84.0,2025-04-18 09:45:00,collision,Mosta,18.4,0.0,17.6,93.0,3.0,True,False,morning,4,9.75,18,2025
-163,1718,31.0,female,none,True,car,,85.0,2025-04-18 13:30:00,collision,St Paul's Bay,19.3,0.0,17.3,72.0,2.0,True,False,afternoon,4,13.5,18,2025
-164,1718,72.0,male,serious,True,motorcycle,,85.0,2025-04-18 13:30:00,collision,St Paul's Bay,19.3,0.0,17.3,72.0,2.0,True,False,afternoon,4,13.5,18,2025
-165,1490,63.0,male,serious,True,motorcycle,,86.0,2025-05-02 15:30:00,collision,Gharb,17.5,0.0,10.8,0.0,0.0,True,False,afternoon,5,15.5,2,2025
-166,1490,54.0,male,none,True,unknown,,86.0,2025-05-02 15:30:00,collision,Gharb,17.5,0.0,10.8,0.0,0.0,True,False,afternoon,5,15.5,2,2025
-167,1489,74.0,male,none,True,car,,87.0,2025-05-02 17:00:00,collision,Xaghra,17.6,0.0,12.1,0.0,0.0,True,False,evening,5,17.0,2,2025
-168,1489,73.0,female,serious,False,,,87.0,2025-05-02 17:00:00,collision,Xaghra,17.6,0.0,12.1,0.0,0.0,True,False,evening,5,17.0,2,2025
-169,1489,33.0,male,none,True,car,,87.0,2025-05-02 17:00:00,collision,Xaghra,17.6,0.0,12.1,0.0,0.0,True,False,evening,5,17.0,2,2025
-170,1467,43.0,male,none,True,motorcycle,,88.0,2025-05-04 14:30:00,collision,Marsa,24.5,0.0,14.4,100.0,3.0,False,False,afternoon,5,14.5,4,2025
-171,1380,34.0,,serious,True,motorcycle,,89.0,2025-05-07 13:15:00,collision,Ghar,24.5,0.0,11.2,100.0,3.0,True,False,afternoon,5,13.25,7,2025
-172,1380,23.0,,none,True,van,,89.0,2025-05-07 13:15:00,collision,Ghar,24.5,0.0,11.2,100.0,3.0,True,False,afternoon,5,13.25,7,2025
-173,1352,39.0,male,serious,True,motorcycle,,90.0,2025-05-09 00:00:00,collision,Siggiewi,19.5,0.0,19.6,6.0,0.0,True,False,,5,,9,2025
-174,1286,29.0,,serious,True,,,91.0,2025-05-12 08:00:00,collision,Wied,20.1,0.0,17.4,58.0,2.0,True,False,morning,5,8.0,12,2025
-175,1286,34.0,male,none,True,van,,91.0,2025-05-12 08:00:00,collision,Wied,20.1,0.0,17.4,58.0,2.0,True,False,morning,5,8.0,12,2025
-177,1275,54.0,female,none,True,car,,92.0,2025-05-12 09:45:00,unknown,Sliema,21.8,0.0,19.3,0.0,0.0,True,False,morning,5,9.75,12,2025
-178,1275,62.0,,none,True,motorcycle,,92.0,2025-05-12 09:45:00,unknown,Sliema,21.8,0.0,19.3,0.0,0.0,True,False,morning,5,9.75,12,2025
-179,1227,22.0,female,serious,True,motorcycle,,93.0,2025-05-14 17:45:00,collision,Santa Venera,20.0,0.0,19.6,100.0,3.0,True,False,evening,5,17.75,14,2025
-180,1227,19.0,female,none,True,car,,93.0,2025-05-14 17:45:00,collision,Santa Venera,20.0,0.0,19.6,100.0,3.0,True,False,evening,5,17.75,14,2025
-694,1165,,,serious,True,car,,94.0,2025-05-17 18:30:00,collision,Mellieha,18.3,0.0,16.2,0.0,0.0,False,False,evening,5,18.5,17,2025
-181,1165,,female,minor,True,car,,94.0,2025-05-17 18:30:00,collision,Mellieha,18.3,0.0,16.2,0.0,0.0,False,False,evening,5,18.5,17,2025
-182,1034,29.0,male,serious,True,car,,95.0,2025-05-22 08:00:00,collision,Ghajn,21.1,0.1,13.3,80.0,51.0,True,False,morning,5,8.0,22,2025
-183,1015,37.0,male,serious,True,motorcycle,,96.0,2025-05-24 07:15:00,collision,Marsa,20.3,0.0,8.6,0.0,0.0,False,False,morning,5,7.25,24,2025
-184,1015,65.0,male,none,True,car,,96.0,2025-05-24 07:15:00,collision,Marsa,20.3,0.0,8.6,0.0,0.0,False,False,morning,5,7.25,24,2025
-185,974,5.0,male,serious,False,,,97.0,2025-05-25 13:15:00,collision,Bugibba,22.3,0.0,23.8,4.0,0.0,False,False,afternoon,5,13.25,25,2025
-186,974,22.0,male,none,True,car,,97.0,2025-05-25 13:15:00,collision,Bugibba,22.3,0.0,23.8,4.0,0.0,False,False,afternoon,5,13.25,25,2025
-187,964,35.0,male,fatal,True,car,,98.0,2025-05-27 17:20:00,collision,Xemxija,21.7,0.0,18.6,0.0,0.0,True,False,evening,5,17.333333333333332,27,2025
-188,933,35.0,male,fatal,True,motorcycle,,99.0,2025-05-27 12:30:00,motorcycle_fall,Xemxija,22.8,0.0,19.6,0.0,0.0,True,False,afternoon,5,12.5,27,2025
-189,760,62.0,,serious,True,car,,100.0,2025-06-03 04:30:00,collision,Rabat,17.3,0.0,8.3,3.0,0.0,True,False,night,6,4.5,3,2025
-190,751,21.0,male,serious,True,motorcycle,,101.0,2025-06-04 21:00:00,collision,St Paul's Bay,22.0,0.0,15.5,0.0,0.0,True,False,night,6,21.0,4,2025
-191,751,,,none,True,unknown,,101.0,2025-06-04 21:00:00,collision,St Paul's Bay,22.0,0.0,15.5,0.0,0.0,True,False,night,6,21.0,4,2025
-192,685,22.0,female,serious,True,car,,102.0,2025-06-06 20:30:00,collision,St Paul's Bay,22.1,0.0,2.9,0.0,0.0,True,False,evening,6,20.5,6,2025
-193,685,21.0,male,minor,False,car,,102.0,2025-06-06 20:30:00,collision,St Paul's Bay,22.1,0.0,2.9,0.0,0.0,True,False,evening,6,20.5,6,2025
-194,685,2.0,,minor,False,car,,102.0,2025-06-06 20:30:00,collision,St Paul's Bay,22.1,0.0,2.9,0.0,0.0,True,False,evening,6,20.5,6,2025
-695,685,,male,none,True,car,,102.0,2025-06-06 20:30:00,collision,St Paul's Bay,22.1,0.0,2.9,0.0,0.0,True,False,evening,6,20.5,6,2025
-696,685,,male,serious,False,car,,102.0,2025-06-06 20:30:00,collision,St Paul's Bay,22.1,0.0,2.9,0.0,0.0,True,False,evening,6,20.5,6,2025
-195,679,39.0,male,serious,True,motorcycle,,103.0,2025-06-06 17:30:00,collision,Xewkija,21.4,0.0,13.6,0.0,0.0,True,False,evening,6,17.5,6,2025
-196,679,36.0,female,none,True,car,,103.0,2025-06-06 17:30:00,collision,Xewkija,21.4,0.0,13.6,0.0,0.0,True,False,evening,6,17.5,6,2025
-197,640,43.0,male,fatal,True,motorcycle,,104.0,2025-06-07 17:00:00,collision,,23.1,0.0,6.9,100.0,3.0,False,True,evening,6,17.0,7,2025
-198,654,67.0,male,fatal,True,motorcycle,,107.0,2025-06-08 00:00:00,collision,,23.1,0.0,9.8,100.0,3.0,False,False,,6,,8,2025
-199,607,67.0,,fatal,True,bicycle,,108.0,2025-06-12 15:10:00,collision,Zejtun,30.5,0.0,7.1,0.0,0.0,True,False,afternoon,6,15.166666666666666,12,2025
-697,607,,,none,True,van,,108.0,2025-06-12 15:10:00,collision,Zejtun,30.5,0.0,7.1,0.0,0.0,True,False,afternoon,6,15.166666666666666,12,2025
-698,607,,,none,True,car,,108.0,2025-06-12 15:10:00,collision,Zejtun,30.5,0.0,7.1,0.0,0.0,True,False,afternoon,6,15.166666666666666,12,2025
-200,522,64.0,male,serious,True,motorcycle,,109.0,2025-06-13 22:00:00,collision,Xaghra,23.5,0.0,6.8,0.0,0.0,True,False,night,6,22.0,13,2025
-201,404,39.0,male,none,True,car,,110.0,2025-06-19 18:13:00,collision,Luqa,26.2,0.0,3.2,14.0,0.0,True,False,evening,6,18.216666666666665,19,2025
-202,404,53.0,male,serious,True,motorcycle,,110.0,2025-06-19 18:13:00,collision,Luqa,26.2,0.0,3.2,14.0,0.0,True,False,evening,6,18.216666666666665,19,2025
-203,404,32.0,,fatal,True,,,110.0,2025-06-19 18:13:00,collision,Luqa,26.2,0.0,3.2,14.0,0.0,True,False,evening,6,18.216666666666665,19,2025
-204,404,53.0,,none,True,,,110.0,2025-06-19 18:13:00,collision,Luqa,26.2,0.0,3.2,14.0,0.0,True,False,evening,6,18.216666666666665,19,2025
-205,404,,female,serious,False,,,110.0,2025-06-19 18:13:00,collision,Luqa,26.2,0.0,3.2,14.0,0.0,True,False,evening,6,18.216666666666665,19,2025
-206,407,53.0,male,none,True,bus,,111.0,2025-06-19 06:30:00,collision,Zejtun,24.8,0.0,7.3,0.0,0.0,True,False,morning,6,6.5,19,2025
-207,408,28.0,female,serious,False,car,,112.0,2025-06-18 20:13:00,collision,Zebbug,23.9,0.0,12.4,1.0,0.0,True,False,evening,6,20.216666666666665,18,2025
-208,408,57.0,male,serious,True,car,,112.0,2025-06-18 20:13:00,collision,Zebbug,23.9,0.0,12.4,1.0,0.0,True,False,evening,6,20.216666666666665,18,2025
-209,408,32.0,male,fatal,True,car,,112.0,2025-06-18 20:13:00,collision,Zebbug,23.9,0.0,12.4,1.0,0.0,True,False,evening,6,20.216666666666665,18,2025
-210,416,57.0,female,serious,False,pedestrian,,113.0,2025-06-19 13:15:00,unknown,Floriana,28.5,0.0,6.1,33.0,1.0,True,False,afternoon,6,13.25,19,2025
-211,416,52.0,male,none,True,car,,113.0,2025-06-19 13:15:00,unknown,Floriana,28.5,0.0,6.1,33.0,1.0,True,False,afternoon,6,13.25,19,2025
-699,381,23.0,male,serious,True,motorcycle,,114.0,2025-06-19 18:30:00,collision,Gudja,25.3,0.0,5.0,54.0,2.0,True,False,evening,6,18.5,19,2025
-212,381,53.0,,serious,True,motorcycle,,115.0,2025-06-20 08:00:00,collision,Zejtun,25.1,0.0,4.3,15.0,0.0,True,False,morning,6,8.0,20,2025
-213,381,64.0,male,none,True,car,,114.0,2025-06-19 18:30:00,collision,Gudja,25.3,0.0,5.0,54.0,2.0,True,False,evening,6,18.5,19,2025
-214,381,57.0,female,none,False,,,115.0,2025-06-20 08:00:00,collision,Zejtun,25.1,0.0,4.3,15.0,0.0,True,False,morning,6,8.0,20,2025
-215,370,32.0,male,fatal,False,,,116.0,2025-06-18 21:00:00,unknown,Zebbug,23.9,0.0,9.6,1.0,0.0,True,False,night,6,21.0,18,2025
-216,361,57.0,female,fatal,False,,,117.0,2025-06-21 13:15:00,unknown,Floriana,29.0,0.0,11.8,1.0,0.0,False,False,afternoon,6,13.25,21,2025
-217,361,52.0,male,none,True,car,,117.0,2025-06-21 13:15:00,unknown,Floriana,29.0,0.0,11.8,1.0,0.0,False,False,afternoon,6,13.25,21,2025
-218,313,23.0,female,minor,True,car,,118.0,2025-06-23 08:45:00,collision,Tal-Qroqq,28.3,0.0,9.2,0.0,0.0,True,False,morning,6,8.75,23,2025
-219,287,,male,,True,motorcycle,,119.0,2025-06-25 07:00:00,collision,Sliema,26.5,0.0,13.0,0.0,0.0,True,False,morning,6,7.0,25,2025
-700,287,,female,,False,motorcycle,,119.0,2025-06-25 07:00:00,collision,Sliema,26.5,0.0,13.0,0.0,0.0,True,False,morning,6,7.0,25,2025
-220,287,34.0,female,none,True,car,,119.0,2025-06-25 07:00:00,collision,Sliema,26.5,0.0,13.0,0.0,0.0,True,False,morning,6,7.0,25,2025
-221,113265,46.0,male,serious,True,motorcycle,,120.0,2025-07-05 11:00:00,collision,Mellieha,31.3,0.0,10.1,8.0,0.0,False,False,morning,7,11.0,5,2025
-222,113265,23.0,male,none,True,car,,120.0,2025-07-05 11:00:00,collision,Mellieha,31.3,0.0,10.1,8.0,0.0,False,False,morning,7,11.0,5,2025
-223,190828,30.0,male,serious,True,motorcycle,,121.0,2025-07-06 00:00:00,collision,Mosta,25.1,0.0,0.2,0.0,0.0,False,False,,7,,6,2025
-224,190828,34.0,female,none,True,car,,121.0,2025-07-06 00:00:00,collision,Mosta,25.1,0.0,0.2,0.0,0.0,False,False,,7,,6,2025
-225,139548,45.0,male,serious,True,motorcycle,,122.0,2025-07-09 18:00:00,collision,Mosta,26.8,0.0,25.2,0.0,0.0,True,False,evening,7,18.0,9,2025
-226,139548,40.0,female,none,True,car,,122.0,2025-07-09 18:00:00,collision,Mosta,26.8,0.0,25.2,0.0,0.0,True,False,evening,7,18.0,9,2025
-228,102356,46.0,male,none,True,truck,,123.0,2025-07-14 00:00:00,collision,Bidnija,25.0,0.0,9.7,0.0,0.0,True,False,,7,,14,2025
-230,220724,30.0,,serious,True,motorcycle,,124.0,2025-07-14 11:00:00,collision,Marsaxlokk,32.7,0.0,8.9,0.0,0.0,True,False,morning,7,11.0,14,2025
-231,220724,35.0,,none,False,,,124.0,2025-07-14 11:00:00,collision,Marsaxlokk,32.7,0.0,8.9,0.0,0.0,True,False,morning,7,11.0,14,2025
-232,167578,32.0,male,none,True,car,,125.0,2025-07-15 00:00:00,collision,St Paul's Bay,26.2,0.0,12.6,0.0,0.0,True,False,,7,,15,2025
-233,167578,,female,serious,False,pedestrian,,125.0,2025-07-15 00:00:00,collision,St Paul's Bay,26.2,0.0,12.6,0.0,0.0,True,False,,7,,15,2025
-235,141175,45.0,female,serious,True,motorcycle,,126.0,2025-07-17 13:15:00,collision,Gzira,29.2,0.0,21.2,0.0,0.0,True,False,afternoon,7,13.25,17,2025
-236,141175,24.0,female,none,True,car,,126.0,2025-07-17 13:15:00,collision,Gzira,29.2,0.0,21.2,0.0,0.0,True,False,afternoon,7,13.25,17,2025
-237,130030,70.0,female,serious,True,car,,127.0,2025-07-16 17:00:00,collision,L-Imqabba,28.7,0.0,12.2,1.0,0.0,True,False,evening,7,17.0,16,2025
-238,226588,17.0,male,serious,True,motorcycle,,128.0,2025-07-17 22:15:00,collision,Birkirkara,25.1,0.0,18.2,0.0,0.0,True,False,night,7,22.25,17,2025
-239,226588,41.0,,none,True,car,,128.0,2025-07-17 22:15:00,collision,Birkirkara,25.1,0.0,18.2,0.0,0.0,True,False,night,7,22.25,17,2025
-243,450477,16.0,male,serious,True,bicycle,,132.0,2025-07-19 00:00:00,collision,Buqana,24.2,0.0,2.3,0.0,0.0,False,False,,7,,19,2025
-244,297729,22.0,male,none,True,motorcycle,,133.0,2025-07-20 12:30:00,collision,Swieqi,30.3,0.0,10.7,0.0,0.0,False,False,afternoon,7,12.5,20,2025
-245,297729,,male,none,True,van,,133.0,2025-07-20 12:30:00,collision,Swieqi,30.3,0.0,10.7,0.0,0.0,False,False,afternoon,7,12.5,20,2025
-246,353524,,male,fatal,False,pedestrian,,134.0,2025-07-23 00:00:00,collision,Wied,27.9,0.0,19.1,0.0,0.0,True,False,,7,,23,2025
-247,353524,83.0,male,none,True,car,,134.0,2025-07-23 00:00:00,collision,Wied,27.9,0.0,19.1,0.0,0.0,True,False,,7,,23,2025
-249,353518,81.0,male,serious,True,car,,135.0,2025-07-23 10:30:00,collision,Mosta,33.7,0.0,3.6,0.0,0.0,True,False,morning,7,10.5,23,2025
-250,353518,79.0,female,fatal,False,,,135.0,2025-07-23 10:30:00,collision,Mosta,33.7,0.0,3.6,0.0,0.0,True,False,morning,7,10.5,23,2025
-251,353518,24.0,male,none,True,van,,135.0,2025-07-23 10:30:00,collision,Mosta,33.7,0.0,3.6,0.0,0.0,True,False,morning,7,10.5,23,2025
-252,353565,65.0,male,serious,True,motorcycle,,136.0,2025-07-24 10:15:00,collision,Naxxar,33.4,0.0,6.8,0.0,0.0,True,False,morning,7,10.25,24,2025
-253,353525,40.0,male,serious,True,motorcycle,,137.0,2025-07-24 04:30:00,rollover,Tarxien,24.6,0.0,3.3,2.0,0.0,True,False,night,7,4.5,24,2025
-254,353525,33.0,female,serious,False,,,137.0,2025-07-24 04:30:00,rollover,Tarxien,24.6,0.0,3.3,2.0,0.0,True,False,night,7,4.5,24,2025
-255,386207,27.0,male,fatal,True,motorcycle,,138.0,2025-07-26 01:00:00,collision,Pembroke,29.1,0.0,14.6,0.0,0.0,False,False,night,7,1.0,26,2025
-256,386207,22.0,male,none,True,car,,138.0,2025-07-26 01:00:00,collision,Pembroke,29.1,0.0,14.6,0.0,0.0,False,False,night,7,1.0,26,2025
-257,386270,71.0,female,fatal,True,car,,139.0,2025-07-27 18:35:00,collision,Fgura,26.1,0.0,26.8,0.0,0.0,False,False,evening,7,18.583333333333332,27,2025
-258,386270,23.0,female,serious,True,car,,139.0,2025-07-27 18:35:00,collision,Fgura,26.1,0.0,26.8,0.0,0.0,False,False,evening,7,18.583333333333332,27,2025
-259,450529,34.0,,,True,motorcycle,,140.0,2025-07-27 11:45:00,collision,Sliema,28.7,0.0,32.0,0.0,0.0,False,False,morning,7,11.75,27,2025
-260,450529,71.0,male,none,True,car,,140.0,2025-07-27 11:45:00,collision,Sliema,28.7,0.0,32.0,0.0,0.0,False,False,morning,7,11.75,27,2025
-261,386182,62.0,female,fatal,False,,,142.0,2025-07-27 19:30:00,collision,Pieta,26.0,0.0,28.9,0.0,0.0,False,False,evening,7,19.5,27,2025
-262,386182,58.0,male,fatal,True,motorcycle,,142.0,2025-07-27 19:30:00,collision,Pieta,26.0,0.0,28.9,0.0,0.0,False,False,evening,7,19.5,27,2025
-263,386182,23.0,male,none,True,car,,143.0,2025-07-28 22:00:00,collision,Valletta,25.4,0.0,29.5,0.0,0.0,True,False,night,7,22.0,28,2025
-264,386182,69.0,male,minor,True,car,,143.0,2025-07-28 22:00:00,collision,Valletta,25.4,0.0,29.5,0.0,0.0,True,False,night,7,22.0,28,2025
-265,386315,62.0,female,fatal,False,,,144.0,2025-07-27 22:00:00,collision,Hamrun,25.6,0.0,28.7,0.0,0.0,False,False,night,7,22.0,27,2025
-266,386315,23.0,male,none,True,car,,144.0,2025-07-27 22:00:00,collision,Hamrun,25.6,0.0,28.7,0.0,0.0,False,False,night,7,22.0,27,2025
-267,386315,23.0,female,serious,True,unknown,,146.0,2025-07-28 15:30:00,collision,Fgura,27.8,0.0,33.8,0.0,0.0,True,False,afternoon,7,15.5,28,2025
-268,451726,63.0,male,fatal,False,,,147.0,2025-07-29 13:45:00,collision,Naxxar,27.2,0.0,26.7,0.0,0.0,True,False,afternoon,7,13.75,29,2025
-269,451726,27.0,,fatal,True,motorcycle,,148.0,2025-07-26 08:00:00,collision,Pembroke,32.6,0.0,4.5,4.0,0.0,False,False,morning,7,8.0,26,2025
-270,451726,,female,fatal,False,,,148.0,2025-07-26 08:00:00,collision,Pembroke,32.6,0.0,4.5,4.0,0.0,False,False,morning,7,8.0,26,2025
-271,467167,23.0,male,none,True,car,drunk,149.0,2025-07-30 09:15:00,collision,Floriana,26.3,0.0,18.3,24.0,1.0,True,False,morning,7,9.25,30,2025
-272,467167,62.0,female,fatal,False,,,149.0,2025-07-30 09:15:00,collision,Floriana,26.3,0.0,18.3,24.0,1.0,True,False,morning,7,9.25,30,2025
-273,467167,69.0,male,none,False,car,,149.0,2025-07-30 09:15:00,collision,Floriana,26.3,0.0,18.3,24.0,1.0,True,False,morning,7,9.25,30,2025
-274,467110,29.0,male,serious,True,motorcycle,,150.0,2025-07-29 18:00:00,unknown,Hal Ghaxaq,25.3,0.0,26.6,0.0,0.0,True,False,evening,7,18.0,29,2025
-275,467110,42.0,male,none,True,car,,150.0,2025-07-29 18:00:00,unknown,Hal Ghaxaq,25.3,0.0,26.6,0.0,0.0,True,False,evening,7,18.0,29,2025
-282,489339,67.0,male,none,True,motorcycle,,152.0,2025-08-04 18:40:00,collision,Marsa,25.9,0.0,14.4,0.0,0.0,True,False,evening,8,18.666666666666668,4,2025
-283,489339,79.0,female,none,True,car,,152.0,2025-08-04 18:40:00,collision,Marsa,25.9,0.0,14.4,0.0,0.0,True,False,evening,8,18.666666666666668,4,2025
-284,489475,77.0,male,serious,False,,,153.0,2025-08-04 15:30:00,collision,Fgura,28.2,0.0,20.9,0.0,0.0,True,False,afternoon,8,15.5,4,2025
-285,489475,71.0,female,fatal,True,car,,153.0,2025-08-04 15:30:00,collision,Fgura,28.2,0.0,20.9,0.0,0.0,True,False,afternoon,8,15.5,4,2025
-286,489475,23.0,female,critical,False,car,,153.0,2025-08-04 15:30:00,collision,Fgura,28.2,0.0,20.9,0.0,0.0,True,False,afternoon,8,15.5,4,2025
-287,489475,42.0,female,none,True,car,,153.0,2025-08-04 15:30:00,collision,Fgura,28.2,0.0,20.9,0.0,0.0,True,False,afternoon,8,15.5,4,2025
-701,489475,14.0,male,,False,car,,153.0,2025-08-04 15:30:00,collision,Fgura,28.2,0.0,20.9,0.0,0.0,True,False,afternoon,8,15.5,4,2025
-702,489475,11.0,male,,False,car,,153.0,2025-08-04 15:30:00,collision,Fgura,28.2,0.0,20.9,0.0,0.0,True,False,afternoon,8,15.5,4,2025
-288,489370,67.0,male,serious,True,motorcycle,,154.0,2025-08-04 15:30:00,collision,Marsa,28.2,0.0,20.9,0.0,0.0,True,False,afternoon,8,15.5,4,2025
-289,489370,28.0,male,serious,True,car,,155.0,2025-08-05 17:00:00,collision,Mosta,25.9,0.0,16.1,1.0,0.0,True,False,evening,8,17.0,5,2025
-290,489370,79.0,female,none,True,car,,154.0,2025-08-04 15:30:00,collision,Marsa,28.2,0.0,20.9,0.0,0.0,True,False,afternoon,8,15.5,4,2025
-291,489370,36.0,female,none,True,car,,155.0,2025-08-05 17:00:00,collision,Mosta,25.9,0.0,16.1,1.0,0.0,True,False,evening,8,17.0,5,2025
-292,489720,8.0,,serious,False,motorcycle,,157.0,2025-08-07 00:00:00,collision,Kirkop,23.6,0.0,6.2,0.0,0.0,True,False,,8,,7,2025
-293,489720,48.0,,serious,True,motorcycle,,156.0,2025-08-06 00:00:00,collision,Naxxar,24.0,0.0,12.2,0.0,0.0,True,False,,8,,6,2025
-294,489720,60.0,,none,True,car,,156.0,2025-08-06 00:00:00,collision,Naxxar,24.0,0.0,12.2,0.0,0.0,True,False,,8,,6,2025
-295,489720,23.0,male,none,True,van,,157.0,2025-08-07 00:00:00,collision,Kirkop,23.6,0.0,6.2,0.0,0.0,True,False,,8,,7,2025
-296,489720,45.0,male,serious,True,motorcycle,,157.0,2025-08-07 00:00:00,collision,Kirkop,23.6,0.0,6.2,0.0,0.0,True,False,,8,,7,2025
-297,489728,8.0,,serious,False,motorcycle,,159.0,2025-08-07 00:00:00,collision,Bormla,23.9,0.0,6.2,0.0,0.0,True,False,,8,,7,2025
-298,489728,48.0,,serious,True,motorcycle,,158.0,2025-08-06 00:00:00,collision,Naxxar,24.0,0.0,12.2,0.0,0.0,True,False,,8,,6,2025
-299,489728,60.0,,none,True,car,,158.0,2025-08-06 00:00:00,collision,Naxxar,24.0,0.0,12.2,0.0,0.0,True,False,,8,,6,2025
-300,489728,23.0,male,none,True,van,,159.0,2025-08-07 00:00:00,collision,Bormla,23.9,0.0,6.2,0.0,0.0,True,False,,8,,7,2025
-301,489728,45.0,male,serious,True,motorcycle,,159.0,2025-08-07 00:00:00,collision,Bormla,23.9,0.0,6.2,0.0,0.0,True,False,,8,,7,2025
-302,489733,,,,True,car,,160.0,2025-08-07 09:56:00,collision,Santa Venera,28.7,0.0,8.5,0.0,0.0,True,False,morning,8,9.933333333333334,7,2025
-303,490010,25.0,female,minor,True,car,,161.0,2025-08-09 07:30:00,rollover,San Gwann,28.1,0.0,11.9,0.0,0.0,False,False,morning,8,7.5,9,2025
-304,489990,42.0,male,minor,True,car,,162.0,2025-08-07 08:00:00,collision,Santa Venera,26.4,0.0,10.2,3.0,0.0,True,False,morning,8,8.0,7,2025
-306,489878,42.0,male,fatal,True,motorcycle,,163.0,2025-08-10 17:42:00,collision,Birkirkara,28.8,0.0,7.1,0.0,0.0,False,False,evening,8,17.7,10,2025
-307,489878,17.0,,none,True,car,,163.0,2025-08-10 17:42:00,collision,Birkirkara,28.8,0.0,7.1,0.0,0.0,False,False,evening,8,17.7,10,2025
-309,489889,42.0,male,fatal,True,motorcycle,,164.0,2025-08-10 12:30:00,collision,Birkirkara,31.5,0.0,11.7,0.0,0.0,False,False,afternoon,8,12.5,10,2025
-310,489889,17.0,,none,True,car,,164.0,2025-08-10 12:30:00,collision,Birkirkara,31.5,0.0,11.7,0.0,0.0,False,False,afternoon,8,12.5,10,2025
-311,489889,18.0,female,serious,False,,,164.0,2025-08-10 12:30:00,collision,Birkirkara,31.5,0.0,11.7,0.0,0.0,False,False,afternoon,8,12.5,10,2025
-312,489884,72.0,male,serious,False,,,165.0,2025-08-10 09:00:00,collision,Floriana,31.0,0.0,5.8,0.0,0.0,False,False,morning,8,9.0,10,2025
-313,489884,78.0,male,none,True,van,,165.0,2025-08-10 09:00:00,collision,Floriana,31.0,0.0,5.8,0.0,0.0,False,False,morning,8,9.0,10,2025
-314,490008,42.0,male,minor,True,car,drunk,166.0,2025-08-10 08:00:00,collision,,25.4,0.0,7.0,0.0,0.0,False,False,morning,8,8.0,10,2025
-315,490101,42.0,male,fatal,True,motorcycle,,167.0,2025-08-10 05:25:00,collision,Birkirkara,24.4,0.0,8.1,0.0,0.0,False,False,morning,8,5.416666666666667,10,2025
-316,490101,17.0,male,none,True,car,,167.0,2025-08-10 05:25:00,collision,Birkirkara,24.4,0.0,8.1,0.0,0.0,False,False,morning,8,5.416666666666667,10,2025
-317,490073,,male,none,True,car,,168.0,2025-08-11 05:20:00,collision,,25.5,0.0,2.5,0.0,0.0,True,False,morning,8,5.333333333333333,11,2025
-318,490073,42.0,,fatal,True,motorcycle,,168.0,2025-08-11 05:20:00,collision,,25.5,0.0,2.5,0.0,0.0,True,False,morning,8,5.333333333333333,11,2025
-319,490073,18.0,female,none,False,,,168.0,2025-08-11 05:20:00,collision,,25.5,0.0,2.5,0.0,0.0,True,False,morning,8,5.333333333333333,11,2025
-320,489993,33.0,male,serious,False,,,169.0,2025-08-10 19:00:00,collision,Mosta,27.2,0.0,6.2,0.0,0.0,False,False,evening,8,19.0,10,2025
-321,490183,23.0,male,none,True,car,drunk,171.0,2025-08-12 08:00:00,collision,Valletta,28.5,0.0,5.7,0.0,0.0,True,False,morning,8,8.0,12,2025
-322,490183,62.0,female,serious,False,,,171.0,2025-08-12 08:00:00,collision,Valletta,28.5,0.0,5.7,0.0,0.0,True,False,morning,8,8.0,12,2025
-323,490165,,male,none,False,,,172.0,2025-08-12 07:00:00,collision,,25.6,0.0,4.3,0.0,0.0,True,False,morning,8,7.0,12,2025
-324,490165,,,none,True,car,,172.0,2025-08-12 07:00:00,collision,,25.6,0.0,4.3,0.0,0.0,True,False,morning,8,7.0,12,2025
-327,490160,42.0,male,fatal,True,motorcycle,,173.0,2025-08-10 05:25:00,collision,Birkirkara,24.4,0.0,8.1,0.0,0.0,False,False,morning,8,5.416666666666667,10,2025
-328,490160,17.0,,none,True,car,drunk,173.0,2025-08-10 05:25:00,collision,Birkirkara,24.4,0.0,8.1,0.0,0.0,False,False,morning,8,5.416666666666667,10,2025
-329,490329,17.0,,none,True,car,,174.0,2025-08-13 00:00:00,collision,Marsa,25.6,0.0,7.6,0.0,0.0,True,False,,8,,13,2025
-330,490329,42.0,male,fatal,True,motorcycle,,174.0,2025-08-13 00:00:00,collision,Marsa,25.6,0.0,7.6,0.0,0.0,True,False,,8,,13,2025
-331,490329,28.0,,fatal,True,,,174.0,2025-08-13 00:00:00,collision,Marsa,25.6,0.0,7.6,0.0,0.0,True,False,,8,,13,2025
-332,490371,21.0,male,serious,True,motorcycle,,175.0,2025-08-14 05:30:00,collision,Pembroke,24.7,0.0,1.9,0.0,0.0,True,False,morning,8,5.5,14,2025
-333,490568,21.0,male,fatal,True,motorcycle,,176.0,2025-08-14 05:30:00,collision,Pembroke,24.7,0.0,1.9,0.0,0.0,True,False,morning,8,5.5,14,2025
-336,490632,28.0,male,fatal,True,,,178.0,2025-08-17 00:00:00,rollover,Marsa,25.8,0.0,5.1,23.0,1.0,False,False,,8,,17,2025
-337,490684,53.0,male,none,True,motorcycle,,179.0,2025-08-17 16:00:00,collision,Naxxar,28.5,0.0,13.1,1.0,0.0,False,False,afternoon,8,16.0,17,2025
-338,490684,,,none,True,,,179.0,2025-08-17 16:00:00,collision,Naxxar,28.5,0.0,13.1,1.0,0.0,False,False,afternoon,8,16.0,17,2025
-339,490653,21.0,male,fatal,False,,,180.0,2025-08-14 08:00:00,collision,Pembroke,28.3,0.0,3.8,0.0,0.0,True,False,morning,8,8.0,14,2025
-340,490697,43.0,,none,True,motorcycle,substance intoxicated,181.0,2025-08-18 00:00:00,collision,Valletta,24.9,0.0,4.8,0.0,0.0,True,False,,8,,18,2025
-703,490697,,male,none,True,car,drunk,181.0,2025-08-18 00:00:00,collision,Valletta,24.9,0.0,4.8,0.0,0.0,True,False,,8,,18,2025
-341,490697,62.0,female,none,False,,,181.0,2025-08-18 00:00:00,collision,Valletta,24.9,0.0,4.8,0.0,0.0,True,False,,8,,18,2025
-342,490697,42.0,,fatal,True,motorcycle,,181.0,2025-08-18 00:00:00,collision,Valletta,24.9,0.0,4.8,0.0,0.0,True,False,,8,,18,2025
-343,490697,17.0,male,none,True,car,drunk,181.0,2025-08-18 00:00:00,collision,Valletta,24.9,0.0,4.8,0.0,0.0,True,False,,8,,18,2025
-344,490697,,,none,True,,drunk,181.0,2025-08-18 00:00:00,collision,Valletta,24.9,0.0,4.8,0.0,0.0,True,False,,8,,18,2025
-345,490746,42.0,male,none,True,car,drunk,182.0,2025-08-18 00:00:00,collision,Santa Venera,24.9,0.0,4.8,0.0,0.0,True,False,,8,,18,2025
-346,490815,75.0,male,serious,False,pedestrian,,183.0,2025-08-18 16:00:00,pedestrian,Zabbar,29.2,0.0,8.1,13.0,0.0,True,False,afternoon,8,16.0,18,2025
-347,490815,29.0,male,none,True,unknown,,183.0,2025-08-18 16:00:00,pedestrian,Zabbar,29.2,0.0,8.1,13.0,0.0,True,False,afternoon,8,16.0,18,2025
-704,491011,,,,True,bus,,184.0,2025-08-21 05:30:00,collision,Sliema,26.3,0.0,13.0,0.0,0.0,True,False,morning,8,5.5,21,2025
-705,491011,,,,True,car,,184.0,2025-08-21 05:30:00,collision,Sliema,26.3,0.0,13.0,0.0,0.0,True,False,morning,8,5.5,21,2025
-348,491118,,male,none,True,car,drunk,186.0,2025-08-21 06:00:00,collision,Sliema,26.3,0.0,13.0,0.0,0.0,True,False,morning,8,6.0,21,2025
-706,491118,,,,True,bus,,186.0,2025-08-21 06:00:00,collision,Sliema,26.3,0.0,13.0,0.0,0.0,True,False,morning,8,6.0,21,2025
-349,491226,57.0,male,serious,True,motorcycle,,187.0,2025-08-22 05:30:00,collision,Birkirkara,25.3,0.0,13.1,0.0,0.0,True,False,morning,8,5.5,22,2025
-350,491226,25.0,female,none,,car,,187.0,2025-08-22 05:30:00,collision,Birkirkara,25.3,0.0,13.1,0.0,0.0,True,False,morning,8,5.5,22,2025
-351,491226,,male,none,,car,,187.0,2025-08-22 05:30:00,collision,Birkirkara,25.3,0.0,13.1,0.0,0.0,True,False,morning,8,5.5,22,2025
-352,491307,57.0,male,serious,True,motorcycle,,188.0,2025-08-22 05:30:00,collision,Birkirkara,25.3,0.0,13.1,0.0,0.0,True,False,morning,8,5.5,22,2025
-353,491307,25.0,female,none,False,car,,188.0,2025-08-22 05:30:00,collision,Birkirkara,25.3,0.0,13.1,0.0,0.0,True,False,morning,8,5.5,22,2025
-354,491307,,male,none,True,car,,188.0,2025-08-22 05:30:00,collision,Birkirkara,25.3,0.0,13.1,0.0,0.0,True,False,morning,8,5.5,22,2025
-355,491334,27.0,male,none,True,motorcycle,,189.0,2025-08-24 00:00:00,collision,Pembroke,24.9,0.0,17.3,0.0,0.0,False,False,,8,,24,2025
-357,491334,22.0,,none,True,car,,189.0,2025-08-24 00:00:00,collision,Pembroke,24.9,0.0,17.3,0.0,0.0,False,False,,8,,24,2025
-358,491371,,male,fatal,True,motorcycle,,190.0,2025-08-24 00:00:00,collision,Sliema,25.0,0.0,17.3,0.0,0.0,False,False,,8,,24,2025
-359,491371,17.0,male,none,True,car,drunk,190.0,2025-08-24 00:00:00,collision,Sliema,25.0,0.0,17.3,0.0,0.0,False,False,,8,,24,2025
-360,491489,57.0,male,serious,True,motorcycle,,191.0,2025-08-22 05:30:00,collision,Birkirkara,25.3,0.0,13.1,0.0,0.0,True,False,morning,8,5.5,22,2025
-361,491489,25.0,female,none,False,,,191.0,2025-08-22 05:30:00,collision,Birkirkara,25.3,0.0,13.1,0.0,0.0,True,False,morning,8,5.5,22,2025
-362,491489,17.0,,none,True,,,191.0,2025-08-22 05:30:00,collision,Birkirkara,25.3,0.0,13.1,0.0,0.0,True,False,morning,8,5.5,22,2025
-363,491557,,,none,True,car,,192.0,2025-08-26 05:10:00,collision,Sliema,22.6,0.0,0.4,100.0,3.0,True,False,morning,8,5.166666666666667,26,2025
-364,491707,28.0,male,serious,True,motorcycle,,193.0,2025-08-26 18:30:00,collision,Zebbug,25.9,0.0,10.7,100.0,3.0,True,False,evening,8,18.5,26,2025
-365,491707,32.0,male,none,True,car,,193.0,2025-08-26 18:30:00,collision,Zebbug,25.9,0.0,10.7,100.0,3.0,True,False,evening,8,18.5,26,2025
-366,491720,44.0,female,none,True,car,drunk,194.0,2025-08-27 15:37:00,collision,Bahar,29.6,0.0,13.6,0.0,0.0,True,False,afternoon,8,15.616666666666667,27,2025
-367,491720,,,serious,True,motorcycle,,194.0,2025-08-27 15:37:00,collision,Bahar,29.6,0.0,13.6,0.0,0.0,True,False,afternoon,8,15.616666666666667,27,2025
-368,492026,44.0,female,none,True,car,drunk,195.0,2025-08-29 08:00:00,collision,Bahar,27.9,0.0,12.9,0.0,0.0,True,False,morning,8,8.0,29,2025
-369,492026,53.0,,serious,True,motorcycle,,195.0,2025-08-29 08:00:00,collision,Bahar,27.9,0.0,12.9,0.0,0.0,True,False,morning,8,8.0,29,2025
-372,492029,,,none,True,truck,,196.0,2025-08-27 21:00:00,collision,Rabat,25.0,0.0,15.1,0.0,0.0,True,False,night,8,21.0,27,2025
-373,492115,55.0,male,serious,True,motorcycle,,197.0,2025-08-29 15:15:00,collision,Marsa,28.5,0.0,25.0,100.0,3.0,True,False,afternoon,8,15.25,29,2025
-374,492115,33.0,female,none,True,car,,197.0,2025-08-29 15:15:00,collision,Marsa,28.5,0.0,25.0,100.0,3.0,True,False,afternoon,8,15.25,29,2025
-375,492115,74.0,male,none,False,car,,197.0,2025-08-29 15:15:00,collision,Marsa,28.5,0.0,25.0,100.0,3.0,True,False,afternoon,8,15.25,29,2025
-376,492291,87.0,female,serious,False,,,198.0,2025-08-31 07:30:00,collision,Qormi,26.8,0.0,14.5,0.0,0.0,False,False,morning,8,7.5,31,2025
-377,492291,68.0,male,none,True,unknown,,198.0,2025-08-31 07:30:00,collision,Qormi,26.8,0.0,14.5,0.0,0.0,False,False,morning,8,7.5,31,2025
-378,492646,69.0,female,fatal,True,car,,199.0,2025-09-03 15:00:00,collision,,26.3,0.0,22.9,96.0,3.0,True,False,afternoon,9,15.0,3,2025
-707,492646,73.0,male,fatal,False,car,,199.0,2025-09-03 15:00:00,collision,,26.3,0.0,22.9,96.0,3.0,True,False,afternoon,9,15.0,3,2025
-708,492654,73.0,male,fatal,True,car,,200.0,2025-09-03 18:00:00,collision,Zebbug,25.5,0.0,27.1,28.0,1.0,True,False,evening,9,18.0,3,2025
-379,492654,69.0,female,fatal,False,car,,200.0,2025-09-03 18:00:00,collision,Zebbug,25.5,0.0,27.1,28.0,1.0,True,False,evening,9,18.0,3,2025
-380,492806,35.0,male,serious,True,motorcycle,,201.0,2025-09-04 18:15:00,collision,Gzira,26.6,0.0,3.3,1.0,0.0,True,False,evening,9,18.25,4,2025
-381,492806,24.0,male,minor,True,motorcycle,,201.0,2025-09-04 18:15:00,collision,Gzira,26.6,0.0,3.3,1.0,0.0,True,False,evening,9,18.25,4,2025
-382,492962,62.0,female,fatal,False,,,202.0,2025-09-07 21:10:00,collision,,25.8,0.0,9.0,26.0,1.0,False,False,night,9,21.166666666666668,7,2025
-384,493044,62.0,male,serious,True,motorcycle,,203.0,2025-09-07 13:30:00,collision,Luqa,30.0,0.0,9.8,74.0,2.0,False,False,afternoon,9,13.5,7,2025
-385,493044,35.0,male,none,True,car,,203.0,2025-09-07 13:30:00,collision,Luqa,30.0,0.0,9.8,74.0,2.0,False,False,afternoon,9,13.5,7,2025
-386,493372,33.0,male,serious,True,motorcycle,,204.0,2025-09-11 07:30:00,motorcycle_fall,,26.9,0.0,10.0,52.0,2.0,True,False,morning,9,7.5,11,2025
-387,493542,,male,none,True,car,drunk,205.0,2025-09-12 15:00:00,collision,Marsa,28.8,0.0,10.7,2.0,0.0,True,False,afternoon,9,15.0,12,2025
-391,493598,,,none,True,car,,206.0,2025-09-12 15:00:00,collision,Marsa,28.8,0.0,10.7,2.0,0.0,True,False,afternoon,9,15.0,12,2025
-392,493702,52.0,male,,True,motorcycle,,207.0,2025-09-14 00:00:00,unknown,Zabbar,24.0,0.0,2.3,0.0,0.0,False,False,,9,,14,2025
-393,493702,14.0,,serious,True,bicycle,,207.0,2025-09-14 00:00:00,unknown,Zabbar,24.0,0.0,2.3,0.0,0.0,False,False,,9,,14,2025
-394,493664,54.0,male,serious,True,car,,208.0,2025-09-13 21:00:00,collision,Marsa,24.8,0.0,3.1,0.0,0.0,False,False,night,9,21.0,13,2025
-395,493670,69.0,male,serious,True,car,,210.0,2025-09-14 23:00:00,collision,,25.5,0.0,12.4,16.0,0.0,False,False,night,9,23.0,14,2025
-396,493670,34.0,male,serious,True,motorcycle,,211.0,2025-09-14 01:30:00,collision,Ta' Xbiex,23.5,0.0,2.7,0.0,0.0,False,False,night,9,1.5,14,2025
-397,493670,24.0,male,none,True,car,,211.0,2025-09-14 01:30:00,collision,Ta' Xbiex,23.5,0.0,2.7,0.0,0.0,False,False,night,9,1.5,14,2025
-398,493898,29.0,female,serious,False,pedestrian,,212.0,2025-09-16 12:15:00,collision,,25.5,0.0,6.9,0.0,0.0,True,False,afternoon,9,12.25,16,2025
-399,493898,69.0,female,none,True,car,,212.0,2025-09-16 12:15:00,collision,,25.5,0.0,6.9,0.0,0.0,True,False,afternoon,9,12.25,16,2025
-400,493983,52.0,male,serious,False,pedestrian,,213.0,2025-09-16 23:30:00,collision,Zabbar,24.6,0.0,5.3,0.0,0.0,True,False,night,9,23.5,16,2025
-401,493983,26.0,male,none,True,car,,213.0,2025-09-16 23:30:00,collision,Zabbar,24.6,0.0,5.3,0.0,0.0,True,False,night,9,23.5,16,2025
-404,494209,54.0,male,serious,True,motorcycle,,215.0,2025-09-18 20:45:00,collision,Bormla,25.9,0.0,11.9,11.0,0.0,True,False,evening,9,20.75,18,2025
-405,494209,34.0,male,none,True,car,,215.0,2025-09-18 20:45:00,collision,Bormla,25.9,0.0,11.9,11.0,0.0,True,False,evening,9,20.75,18,2025
-406,494363,30.0,male,none,True,motorcycle,,216.0,2025-09-20 13:30:00,collision,Gharb,25.2,0.0,25.2,2.0,0.0,False,False,afternoon,9,13.5,20,2025
-408,494363,34.0,male,serious,True,motorcycle,,216.0,2025-09-20 13:30:00,collision,Gharb,25.2,0.0,25.2,2.0,0.0,False,False,afternoon,9,13.5,20,2025
-409,494368,30.0,male,,True,motorcycle,,217.0,2025-09-20 13:30:00,collision,Gharb,25.2,0.0,25.2,2.0,0.0,False,False,afternoon,9,13.5,20,2025
-410,494368,34.0,,serious,True,motorcycle,,217.0,2025-09-20 13:30:00,collision,Gharb,25.2,0.0,25.2,2.0,0.0,False,False,afternoon,9,13.5,20,2025
-411,494438,77.0,female,serious,False,,,218.0,2025-09-21 08:30:00,collision,Pieta,26.1,0.0,8.3,3.0,0.0,False,True,morning,9,8.5,21,2025
-412,494438,75.0,male,none,True,car,,218.0,2025-09-21 08:30:00,collision,Pieta,26.1,0.0,8.3,3.0,0.0,False,True,morning,9,8.5,21,2025
-413,494571,42.0,,serious,True,motorcycle,,219.0,2025-09-22 19:00:00,collision,San Gwann,25.4,0.0,7.0,0.0,0.0,True,False,evening,9,19.0,22,2025
-414,494571,,,none,True,car,,219.0,2025-09-22 19:00:00,collision,San Gwann,25.4,0.0,7.0,0.0,0.0,True,False,evening,9,19.0,22,2025
-415,494727,81.0,female,serious,False,car,,220.0,2025-09-24 08:00:00,collision,Marsalforn,25.9,0.0,16.9,100.0,3.0,True,False,morning,9,8.0,24,2025
-416,494727,82.0,male,none,True,car,,220.0,2025-09-24 08:00:00,collision,Marsalforn,25.9,0.0,16.9,100.0,3.0,True,False,morning,9,8.0,24,2025
-417,494856,70.0,male,serious,False,,,221.0,2025-09-25 14:15:00,collision,St Julian's,27.0,0.0,11.0,0.0,0.0,True,False,afternoon,9,14.25,25,2025
-418,494856,58.0,male,none,True,motorcycle,,221.0,2025-09-25 14:15:00,collision,St Julian's,27.0,0.0,11.0,0.0,0.0,True,False,afternoon,9,14.25,25,2025
-419,494910,33.0,male,serious,True,motorcycle,,222.0,2025-09-25 18:00:00,collision,Tarxien,24.0,0.0,10.0,3.0,0.0,True,False,evening,9,18.0,25,2025
-420,494910,28.0,female,none,True,car,,222.0,2025-09-25 18:00:00,collision,Tarxien,24.0,0.0,10.0,3.0,0.0,True,False,evening,9,18.0,25,2025
-421,495320,,female,none,True,unknown,,223.0,2025-09-30 00:00:00,collision,Naxxar,22.5,0.0,11.3,97.0,3.0,True,False,,9,,30,2025
-709,495442,,,,True,car,,225.0,2025-10-02 00:00:00,collision,,25.5,0.0,37.2,9.0,0.0,True,False,,10,,2,2025
-423,495504,47.0,male,serious,True,motorcycle,,226.0,2025-10-02 05:30:00,collision,Qala,22.3,0.3,42.6,40.0,51.0,True,False,morning,10,5.5,2,2025
-424,495504,53.0,female,none,True,car,,226.0,2025-10-02 05:30:00,collision,Qala,22.3,0.3,42.6,40.0,51.0,True,False,morning,10,5.5,2,2025
-425,495595,,male,fatal,True,car,,227.0,2025-10-02 16:20:00,run-off-road,,23.2,0.0,42.6,30.0,1.0,True,False,afternoon,10,16.333333333333332,2,2025
-710,495595,,male,fatal,False,car,,227.0,2025-10-02 16:20:00,run-off-road,,23.2,0.0,42.6,30.0,1.0,True,False,afternoon,10,16.333333333333332,2,2025
-711,495595,,female,fatal,False,car,,227.0,2025-10-02 16:20:00,run-off-road,,23.2,0.0,42.6,30.0,1.0,True,False,afternoon,10,16.333333333333332,2,2025
-712,495595,,female,fatal,False,car,,227.0,2025-10-02 16:20:00,run-off-road,,23.2,0.0,42.6,30.0,1.0,True,False,afternoon,10,16.333333333333332,2,2025
-426,495731,68.0,male,fatal,True,car,,228.0,2025-10-04 16:20:00,collision,Swieqi,21.9,0.0,14.4,1.0,0.0,False,False,afternoon,10,16.333333333333332,4,2025
-427,495731,67.0,male,fatal,False,,,228.0,2025-10-04 16:20:00,collision,Swieqi,21.9,0.0,14.4,1.0,0.0,False,False,afternoon,10,16.333333333333332,4,2025
-428,495731,66.0,female,fatal,False,,,228.0,2025-10-04 16:20:00,collision,Swieqi,21.9,0.0,14.4,1.0,0.0,False,False,afternoon,10,16.333333333333332,4,2025
-429,495731,67.0,female,fatal,False,,,228.0,2025-10-04 16:20:00,collision,Swieqi,21.9,0.0,14.4,1.0,0.0,False,False,afternoon,10,16.333333333333332,4,2025
-430,495807,43.0,female,minor,False,car,,229.0,2025-10-04 23:00:00,collision,Gudja,19.7,0.0,8.0,7.0,0.0,False,False,night,10,23.0,4,2025
-431,495807,19.0,male,minor,True,car,,229.0,2025-10-04 23:00:00,collision,Gudja,19.7,0.0,8.0,7.0,0.0,False,False,night,10,23.0,4,2025
-432,495807,49.0,male,minor,True,car,,229.0,2025-10-04 23:00:00,collision,Gudja,19.7,0.0,8.0,7.0,0.0,False,False,night,10,23.0,4,2025
-433,495807,50.0,male,minor,True,car,,229.0,2025-10-04 23:00:00,collision,Gudja,19.7,0.0,8.0,7.0,0.0,False,False,night,10,23.0,4,2025
-713,495807,69.0,female,minor,False,car,,229.0,2025-10-04 23:00:00,collision,Gudja,19.7,0.0,8.0,7.0,0.0,False,False,night,10,23.0,4,2025
-714,495807,14.0,female,minor,False,car,,229.0,2025-10-04 23:00:00,collision,Gudja,19.7,0.0,8.0,7.0,0.0,False,False,night,10,23.0,4,2025
-434,495807,14.0,male,serious,False,car,,229.0,2025-10-04 23:00:00,collision,Gudja,19.7,0.0,8.0,7.0,0.0,False,False,night,10,23.0,4,2025
-435,495802,29.0,female,serious,False,,,230.0,2025-10-05 08:00:00,collision,Bugibba,23.3,0.0,13.7,77.0,2.0,False,False,morning,10,8.0,5,2025
-436,495896,68.0,male,fatal,False,car,,231.0,2025-10-02 00:00:00,collision,,25.5,0.0,37.2,9.0,0.0,True,False,,10,,2,2025
-437,495942,49.0,male,none,True,car,,232.0,2025-10-06 00:00:00,collision,St Paul's Bay,23.6,0.1,22.3,35.0,51.0,True,False,,10,,6,2025
-438,495942,,male,none,True,motorcycle,,232.0,2025-10-06 00:00:00,collision,St Paul's Bay,23.6,0.1,22.3,35.0,51.0,True,False,,10,,6,2025
-439,496006,34.0,male,none,True,car,drunk,233.0,2025-10-07 15:00:00,collision,Saqqajja,21.4,0.0,26.2,10.0,0.0,True,False,afternoon,10,15.0,7,2025
-440,496006,,male,,True,motorcycle,,233.0,2025-10-07 15:00:00,collision,Saqqajja,21.4,0.0,26.2,10.0,0.0,True,False,afternoon,10,15.0,7,2025
-441,495969,28.0,female,serious,False,pedestrian,,234.0,2025-10-07 08:00:00,collision,Bugibba,20.7,0.0,25.0,2.0,0.0,True,False,morning,10,8.0,7,2025
-443,496158,,,none,True,unknown,,235.0,2025-10-04 09:30:00,collision,Balluta,21.5,0.0,15.7,35.0,1.0,False,False,morning,10,9.5,4,2025
-444,496158,,,none,True,,,235.0,2025-10-04 09:30:00,collision,Balluta,21.5,0.0,15.7,35.0,1.0,False,False,morning,10,9.5,4,2025
-445,496202,61.0,male,serious,True,motorcycle,,236.0,2025-10-09 09:30:00,collision,Zurrieq,22.7,0.0,3.7,2.0,0.0,True,False,morning,10,9.5,9,2025
-446,496202,67.0,female,none,True,car,,236.0,2025-10-09 09:30:00,collision,Zurrieq,22.7,0.0,3.7,2.0,0.0,True,False,morning,10,9.5,9,2025
-447,496362,43.0,male,serious,True,motorcycle,,237.0,2025-10-10 09:00:00,collision,Ghajnsielem,21.2,0.0,9.3,0.0,0.0,True,False,morning,10,9.0,10,2025
-448,496362,19.0,male,minor,False,motorcycle,,237.0,2025-10-10 09:00:00,collision,Ghajnsielem,21.2,0.0,9.3,0.0,0.0,True,False,morning,10,9.0,10,2025
-450,496362,35.0,male,none,True,truck,,237.0,2025-10-10 09:00:00,collision,Ghajnsielem,21.2,0.0,9.3,0.0,0.0,True,False,morning,10,9.0,10,2025
-451,496362,67.0,male,none,True,unknown,,237.0,2025-10-10 09:00:00,collision,Ghajnsielem,21.2,0.0,9.3,0.0,0.0,True,False,morning,10,9.0,10,2025
-452,496362,55.0,male,none,True,car,,237.0,2025-10-10 09:00:00,collision,Ghajnsielem,21.2,0.0,9.3,0.0,0.0,True,False,morning,10,9.0,10,2025
-453,496773,61.0,male,serious,True,motorcycle,,239.0,2025-08-31 06:00:00,collision,Valletta,25.1,0.0,14.6,0.0,0.0,False,False,morning,8,6.0,31,2025
-454,496773,67.0,female,none,True,car,,239.0,2025-08-31 06:00:00,collision,Valletta,25.1,0.0,14.6,0.0,0.0,False,False,morning,8,6.0,31,2025
-455,496774,23.0,male,serious,True,motorcycle,,240.0,2025-04-03 18:00:00,collision,Gudja,15.5,0.0,5.4,0.0,0.0,True,True,evening,4,18.0,3,2025
-456,496774,64.0,male,none,True,car,,240.0,2025-04-03 18:00:00,collision,Gudja,15.5,0.0,5.4,0.0,0.0,True,True,evening,4,18.0,3,2025
-457,496775,29.0,male,serious,True,motorcycle,,241.0,2025-04-08 16:00:00,collision,Qormi,15.6,0.1,13.7,100.0,51.0,True,False,afternoon,4,16.0,8,2025
-458,496775,34.0,male,none,True,van,,241.0,2025-04-08 16:00:00,collision,Qormi,15.6,0.1,13.7,100.0,51.0,True,False,afternoon,4,16.0,8,2025
-459,496776,29.0,male,serious,True,motorcycle,,242.0,2025-05-15 00:00:00,collision,Hal Ghaxaq,18.5,0.0,24.6,100.0,3.0,True,False,,5,,15,2025
-460,496776,42.0,male,none,True,car,,242.0,2025-05-15 00:00:00,collision,Hal Ghaxaq,18.5,0.0,24.6,100.0,3.0,True,False,,5,,15,2025
-461,496777,41.0,male,serious,True,motorcycle,,243.0,2025-01-10 19:00:00,collision,Buqana,15.8,0.0,27.9,9.0,0.0,True,False,evening,1,19.0,10,2025
-462,496777,25.0,male,none,True,car,,243.0,2025-01-10 19:00:00,collision,Buqana,15.8,0.0,27.9,9.0,0.0,True,False,evening,1,19.0,10,2025
-463,496778,36.0,male,serious,True,motorcycle,,244.0,2025-04-15 08:50:00,collision,Marsa,21.2,0.0,25.6,96.0,3.0,True,False,morning,4,8.833333333333334,15,2025
-464,496778,52.0,male,none,True,van,,244.0,2025-04-15 08:50:00,collision,Marsa,21.2,0.0,25.6,96.0,3.0,True,False,morning,4,8.833333333333334,15,2025
-465,496778,53.0,male,none,True,car,,244.0,2025-04-15 08:50:00,collision,Marsa,21.2,0.0,25.6,96.0,3.0,True,False,morning,4,8.833333333333334,15,2025
-466,496779,81.0,male,none,True,car,,245.0,2025-06-10 02:00:00,collision,Mosta,21.8,0.0,7.4,0.0,0.0,True,False,night,6,2.0,10,2025
-467,496779,79.0,female,fatal,False,car,,245.0,2025-06-10 02:00:00,collision,Mosta,21.8,0.0,7.4,0.0,0.0,True,False,night,6,2.0,10,2025
-468,496779,24.0,male,minor,True,van,,245.0,2025-06-10 02:00:00,collision,Mosta,21.8,0.0,7.4,0.0,0.0,True,False,night,6,2.0,10,2025
-469,496780,66.0,male,none,True,motorcycle,,246.0,2025-08-03 08:15:00,collision,Barrani,24.7,0.0,21.7,3.0,0.0,False,False,morning,8,8.25,3,2025
-470,496780,30.0,female,serious,True,motorcycle,,246.0,2025-08-03 08:15:00,collision,Barrani,24.7,0.0,21.7,3.0,0.0,False,False,morning,8,8.25,3,2025
-471,496781,35.0,male,serious,True,motorcycle,,247.0,2025-06-11 15:45:00,collision,Naxxar,28.1,0.0,6.1,0.0,0.0,True,False,afternoon,6,15.75,11,2025
-472,496781,59.0,male,none,True,truck,,247.0,2025-06-11 15:45:00,collision,Naxxar,28.1,0.0,6.1,0.0,0.0,True,False,afternoon,6,15.75,11,2025
-473,496782,79.0,male,none,True,unknown,,248.0,2024-12-28 09:15:00,collision,Zabbar,14.9,0.0,13.2,9.0,0.0,False,False,morning,12,9.25,28,2024
-474,496782,84.0,female,serious,False,unknown,,248.0,2024-12-28 09:15:00,collision,Zabbar,14.9,0.0,13.2,9.0,0.0,False,False,morning,12,9.25,28,2024
-715,496782,39.0,female,minor,False,unknown,,248.0,2024-12-28 09:15:00,collision,Zabbar,14.9,0.0,13.2,9.0,0.0,False,False,morning,12,9.25,28,2024
-716,496782,66.0,female,minor,False,unknown,,248.0,2024-12-28 09:15:00,collision,Zabbar,14.9,0.0,13.2,9.0,0.0,False,False,morning,12,9.25,28,2024
-717,496782,77.0,female,minor,False,unknown,,248.0,2024-12-28 09:15:00,collision,Zabbar,14.9,0.0,13.2,9.0,0.0,False,False,morning,12,9.25,28,2024
-718,496782,36.0,male,minor,False,unknown,,248.0,2024-12-28 09:15:00,collision,Zabbar,14.9,0.0,13.2,9.0,0.0,False,False,morning,12,9.25,28,2024
-719,496782,81.0,male,minor,False,unknown,,248.0,2024-12-28 09:15:00,collision,Zabbar,14.9,0.0,13.2,9.0,0.0,False,False,morning,12,9.25,28,2024
-475,496783,40.0,male,serious,True,motorcycle,,249.0,2025-02-10 16:00:00,collision,Haz-Zabbar,13.6,0.0,25.0,95.0,3.0,True,True,afternoon,2,16.0,10,2025
-476,496784,48.0,female,serious,True,car,,250.0,2025-02-26 20:00:00,collision,Kalkara,13.9,0.2,21.6,93.0,51.0,True,False,evening,2,20.0,26,2025
-477,496785,32.0,female,serious,False,,,251.0,2025-03-26 17:00:00,collision,Ghajnsielem,15.3,0.0,35.9,0.0,0.0,True,False,evening,3,17.0,26,2025
-478,496785,78.0,male,none,True,car,,251.0,2025-03-26 17:00:00,collision,Ghajnsielem,15.3,0.0,35.9,0.0,0.0,True,False,evening,3,17.0,26,2025
-479,496786,64.0,male,serious,True,motorcycle,,252.0,2025-06-13 22:00:00,collision,Xewkija,23.7,0.0,6.8,0.0,0.0,True,False,night,6,22.0,13,2025
-480,496787,77.0,female,serious,False,,,253.0,2025-08-17 10:00:00,collision,Valletta,27.6,0.0,8.6,19.0,0.0,False,False,morning,8,10.0,17,2025
-481,496787,75.0,male,none,True,car,,253.0,2025-08-17 10:00:00,collision,Valletta,27.6,0.0,8.6,19.0,0.0,False,False,morning,8,10.0,17,2025
-482,496788,80.0,male,serious,False,,,254.0,2025-04-17 00:00:00,collision,Santa Lucija,16.4,0.0,24.5,100.0,3.0,True,False,,4,,17,2025
-483,496788,22.0,male,none,True,car,,254.0,2025-04-17 00:00:00,collision,Santa Lucija,16.4,0.0,24.5,100.0,3.0,True,False,,4,,17,2025
-484,496789,80.0,male,serious,True,car,,255.0,2025-01-21 14:00:00,collision,,16.1,0.0,29.6,20.0,1.0,True,False,afternoon,1,14.0,21,2025
-720,496789,80.0,male,serious,False,car,,255.0,2025-01-21 14:00:00,collision,,16.1,0.0,29.6,20.0,1.0,True,False,afternoon,1,14.0,21,2025
-485,496790,13.0,,serious,True,bicycle,,256.0,2024-11-09 17:00:00,collision,,20.7,0.0,15.2,87.0,3.0,False,False,evening,11,17.0,9,2024
-486,496790,25.0,male,none,True,car,,256.0,2024-11-09 17:00:00,collision,,20.7,0.0,15.2,87.0,3.0,False,False,evening,11,17.0,9,2024
-487,496791,61.0,male,serious,False,,,257.0,2025-02-21 13:30:00,collision,Floriana,14.8,0.4,16.1,60.0,51.0,True,False,afternoon,2,13.5,21,2025
-488,496791,31.0,male,none,True,car,,257.0,2025-02-21 13:30:00,collision,Floriana,14.8,0.4,16.1,60.0,51.0,True,False,afternoon,2,13.5,21,2025
-489,496792,54.0,male,serious,False,,,258.0,2025-09-13 21:00:00,collision,Marsa,24.8,0.0,3.1,0.0,0.0,False,False,night,9,21.0,13,2025
-490,496792,,,none,True,car,,258.0,2025-09-13 21:00:00,collision,Marsa,24.8,0.0,3.1,0.0,0.0,False,False,night,9,21.0,13,2025
-491,496793,33.0,female,none,True,car,,259.0,2025-08-29 15:15:00,collision,Marsa,28.5,0.0,25.0,100.0,3.0,True,False,afternoon,8,15.25,29,2025
-492,496793,55.0,male,serious,True,motorcycle,,259.0,2025-08-29 15:15:00,collision,Marsa,28.5,0.0,25.0,100.0,3.0,True,False,afternoon,8,15.25,29,2025
-493,496793,74.0,male,none,False,car,,259.0,2025-08-29 15:15:00,collision,Marsa,28.5,0.0,25.0,100.0,3.0,True,False,afternoon,8,15.25,29,2025
-494,496794,29.0,male,serious,False,,,260.0,2024-09-22 23:00:00,collision,Gudja,23.3,0.0,7.9,100.0,3.0,False,False,night,9,23.0,22,2024
-495,496794,50.0,male,none,True,car,,260.0,2024-09-22 23:00:00,collision,Gudja,23.3,0.0,7.9,100.0,3.0,False,False,night,9,23.0,22,2024
-496,496795,53.0,male,serious,False,,,261.0,2025-03-26 08:00:00,collision,,15.8,3.8,28.5,100.0,63.0,True,False,morning,3,8.0,26,2025
-497,496795,24.0,male,none,True,van,,261.0,2025-03-26 08:00:00,collision,,15.8,3.8,28.5,100.0,63.0,True,False,morning,3,8.0,26,2025
-498,496796,34.0,male,serious,True,motorcycle,,262.0,2025-05-07 13:15:00,collision,Ghar,24.5,0.0,11.2,100.0,3.0,True,False,afternoon,5,13.25,7,2025
-499,496796,23.0,,none,True,van,,262.0,2025-05-07 13:15:00,collision,Ghar,24.5,0.0,11.2,100.0,3.0,True,False,afternoon,5,13.25,7,2025
-500,496797,36.0,male,serious,True,car,,263.0,2024-11-25 23:00:00,collision,Marsa,15.3,0.0,2.0,25.0,1.0,True,False,night,11,23.0,25,2024
-501,496798,43.0,male,serious,True,motorcycle,,264.0,2025-03-05 10:00:00,collision,Marsa,15.3,0.0,20.4,12.0,0.0,True,False,morning,3,10.0,5,2025
-502,496799,25.0,male,fatal,True,car,,265.0,2024-10-10 16:00:00,collision,Attard,27.9,0.0,10.2,74.0,2.0,True,False,afternoon,10,16.0,10,2024
-503,496800,19.0,,none,True,car,,266.0,2025-06-30 04:00:00,collision,Gudja,24.6,0.0,6.7,0.0,0.0,True,False,night,6,4.0,30,2025
-504,496800,14.0,male,serious,False,car,,266.0,2025-06-30 04:00:00,collision,Gudja,24.6,0.0,6.7,0.0,0.0,True,False,night,6,4.0,30,2025
-505,496800,14.0,female,minor,False,car,,266.0,2025-06-30 04:00:00,collision,Gudja,24.6,0.0,6.7,0.0,0.0,True,False,night,6,4.0,30,2025
-506,496800,43.0,female,minor,False,car,,266.0,2025-06-30 04:00:00,collision,Gudja,24.6,0.0,6.7,0.0,0.0,True,False,night,6,4.0,30,2025
-507,496800,49.0,male,none,True,car,,266.0,2025-06-30 04:00:00,collision,Gudja,24.6,0.0,6.7,0.0,0.0,True,False,night,6,4.0,30,2025
-508,496800,50.0,male,none,True,car,,266.0,2025-06-30 04:00:00,collision,Gudja,24.6,0.0,6.7,0.0,0.0,True,False,night,6,4.0,30,2025
-721,496800,69.0,female,none,False,car,,266.0,2025-06-30 04:00:00,collision,Gudja,24.6,0.0,6.7,0.0,0.0,True,False,night,6,4.0,30,2025
-509,496801,35.0,female,serious,True,motorcycle,,267.0,2025-05-04 14:00:00,collision,Marsa,25.0,0.0,13.8,100.0,3.0,False,False,afternoon,5,14.0,4,2025
-510,496801,39.0,male,none,True,car,,267.0,2025-05-04 14:00:00,collision,Marsa,25.0,0.0,13.8,100.0,3.0,False,False,afternoon,5,14.0,4,2025
-511,496802,52.0,male,serious,False,,,268.0,2025-06-11 22:00:00,collision,Zurrieq,22.9,0.0,4.7,8.0,0.0,True,False,night,6,22.0,11,2025
-512,496802,26.0,male,none,True,car,,268.0,2025-06-11 22:00:00,collision,Zurrieq,22.9,0.0,4.7,8.0,0.0,True,False,night,6,22.0,11,2025
-513,496803,72.0,male,serious,True,motorcycle,,269.0,2025-02-21 14:00:00,collision,Burmarrad,15.2,0.2,14.3,63.0,51.0,True,False,afternoon,2,14.0,21,2025
-514,496803,31.0,female,none,True,car,,269.0,2025-02-21 14:00:00,collision,Burmarrad,15.2,0.2,14.3,63.0,51.0,True,False,afternoon,2,14.0,21,2025
-515,496804,30.0,male,serious,True,motorcycle,,270.0,2025-04-22 00:00:00,collision,Mosta,15.9,0.0,17.8,66.0,2.0,True,False,,4,,22,2025
-516,496804,34.0,female,none,True,car,,270.0,2025-04-22 00:00:00,collision,Mosta,15.9,0.0,17.8,66.0,2.0,True,False,,4,,22,2025
-517,496805,79.0,male,serious,True,motorcycle,,271.0,2025-03-09 06:00:00,collision,Tal-Barrani,12.9,0.0,2.6,9.0,0.0,False,False,morning,3,6.0,9,2025
-518,496805,46.0,male,none,True,car,,271.0,2025-03-09 06:00:00,collision,Tal-Barrani,12.9,0.0,2.6,9.0,0.0,False,False,morning,3,6.0,9,2025
-519,496806,22.0,female,serious,True,motorcycle,,272.0,2025-03-03 07:00:00,collision,Rabat,13.4,0.0,23.8,13.0,0.0,True,False,morning,3,7.0,3,2025
-520,496806,19.0,female,none,True,car,,272.0,2025-03-03 07:00:00,collision,Rabat,13.4,0.0,23.8,13.0,0.0,True,False,morning,3,7.0,3,2025
-521,496807,32.0,male,fatal,True,car,,273.0,2025-06-19 22:00:00,collision,L-Imdina,21.9,0.0,0.5,1.0,0.0,True,False,night,6,22.0,19,2025
-522,496807,57.0,male,serious,True,car,,273.0,2025-06-19 22:00:00,collision,L-Imdina,21.9,0.0,0.5,1.0,0.0,True,False,night,6,22.0,19,2025
-523,496807,28.0,female,serious,False,car,,273.0,2025-06-19 22:00:00,collision,L-Imdina,21.9,0.0,0.5,1.0,0.0,True,False,night,6,22.0,19,2025
-524,496808,44.0,female,serious,False,motorcycle,,274.0,2025-06-27 14:00:00,motorcycle_fall,Birkirkara,32.3,0.0,12.2,0.0,0.0,True,False,afternoon,6,14.0,27,2025
-525,496808,44.0,male,none,True,motorcycle,,274.0,2025-06-27 14:00:00,motorcycle_fall,Birkirkara,32.3,0.0,12.2,0.0,0.0,True,False,afternoon,6,14.0,27,2025
-526,496809,87.0,female,serious,False,,,275.0,2025-02-22 12:00:00,collision,Naxxar,15.6,0.0,13.0,4.0,0.0,False,False,afternoon,2,12.0,22,2025
-722,496809,30.0,male,,True,car,,275.0,2025-02-22 12:00:00,collision,Naxxar,15.6,0.0,13.0,4.0,0.0,False,False,afternoon,2,12.0,22,2025
-527,496810,75.0,male,serious,False,,,276.0,2025-06-12 08:00:00,collision,Zabbar,26.8,0.0,8.1,0.0,0.0,True,False,morning,6,8.0,12,2025
-528,496810,29.0,male,none,True,car,,276.0,2025-06-12 08:00:00,collision,Zabbar,26.8,0.0,8.1,0.0,0.0,True,False,morning,6,8.0,12,2025
-529,496811,82.0,male,none,True,car,,277.0,2025-09-24 08:00:00,collision,Marsalforn,25.9,0.0,16.9,100.0,3.0,True,False,morning,9,8.0,24,2025
-530,496811,81.0,female,serious,False,car,,277.0,2025-09-24 08:00:00,collision,Marsalforn,25.9,0.0,16.9,100.0,3.0,True,False,morning,9,8.0,24,2025
-531,496812,36.0,male,fatal,True,motorcycle,,278.0,2024-11-01 01:00:00,collision,Birkirkara,20.0,0.0,13.1,3.0,0.0,True,False,night,11,1.0,1,2024
-532,496813,39.0,male,serious,True,motorcycle,,279.0,2025-02-15 00:00:00,collision,Iklin,13.6,0.0,17.5,75.0,2.0,False,False,,2,,15,2025
-533,496813,42.0,female,none,True,car,,279.0,2025-02-15 00:00:00,collision,Iklin,13.6,0.0,17.5,75.0,2.0,False,False,,2,,15,2025
-534,496814,45.0,male,serious,True,motorcycle,,280.0,2024-12-06 00:00:00,collision,Fgura,14.6,0.1,24.8,100.0,51.0,True,False,,12,,6,2024
-535,496814,32.0,male,none,True,car,,280.0,2024-12-06 00:00:00,collision,Fgura,14.6,0.1,24.8,100.0,51.0,True,False,,12,,6,2024
-536,496815,75.0,female,serious,False,,,281.0,2024-12-31 15:00:00,collision,,16.5,0.0,8.0,22.0,1.0,True,False,afternoon,12,15.0,31,2024
-537,496815,54.0,female,none,True,car,,281.0,2024-12-31 15:00:00,collision,,16.5,0.0,8.0,22.0,1.0,True,False,afternoon,12,15.0,31,2024
-538,496816,27.0,male,fatal,True,motorcycle,,282.0,2025-07-21 20:00:00,collision,Pembroke,29.2,0.0,12.5,0.0,0.0,True,False,evening,7,20.0,21,2025
-539,496816,22.0,male,none,True,car,,282.0,2025-07-21 20:00:00,collision,Pembroke,29.2,0.0,12.5,0.0,0.0,True,False,evening,7,20.0,21,2025
-540,496817,22.0,male,serious,True,car,,283.0,2025-04-03 21:00:00,collision,Borg Gharib,15.5,0.0,11.0,0.0,0.0,True,True,night,4,21.0,3,2025
-541,496818,37.0,male,serious,True,bus,,284.0,2024-11-10 02:00:00,collision,Marsaskala,17.9,0.0,8.6,84.0,3.0,False,False,night,11,2.0,10,2024
-542,496818,39.0,female,none,True,van,,284.0,2024-11-10 02:00:00,collision,Marsaskala,17.9,0.0,8.6,84.0,3.0,False,False,night,11,2.0,10,2024
-543,496819,34.0,male,none,True,car,,285.0,2025-01-11 04:00:00,collision,Hal Farrug,15.9,0.0,28.9,48.0,1.0,False,False,night,1,4.0,11,2025
-544,496819,59.0,male,serious,True,motorcycle,,286.0,2024-12-11 03:00:00,collision,Gzira,12.6,0.0,4.3,8.0,0.0,True,False,night,12,3.0,11,2024
-545,496819,30.0,male,serious,True,car,,286.0,2024-12-11 03:00:00,collision,Gzira,12.6,0.0,4.3,8.0,0.0,True,False,night,12,3.0,11,2024
-546,496820,21.0,male,serious,True,car,,287.0,2024-12-27 03:00:00,collision,Qala,14.7,0.0,18.2,11.0,0.0,True,False,night,12,3.0,27,2024
-547,496821,80.0,female,serious,False,car,,288.0,2025-04-13 15:15:00,collision,Naxxar,18.8,0.0,22.0,100.0,3.0,False,False,afternoon,4,15.25,13,2025
-548,496821,81.0,male,,True,car,,288.0,2025-04-13 15:15:00,collision,Naxxar,18.8,0.0,22.0,100.0,3.0,False,False,afternoon,4,15.25,13,2025
-549,496821,39.0,,none,True,bus,,288.0,2025-04-13 15:15:00,collision,Naxxar,18.8,0.0,22.0,100.0,3.0,False,False,afternoon,4,15.25,13,2025
-550,496822,34.0,male,serious,True,motorcycle,,289.0,2024-12-04 17:00:00,collision,Mosta,17.8,0.0,10.8,100.0,3.0,True,False,evening,12,17.0,4,2024
-551,496822,45.0,female,none,True,car,,289.0,2024-12-04 17:00:00,collision,Mosta,17.8,0.0,10.8,100.0,3.0,True,False,evening,12,17.0,4,2024
-552,496823,21.0,male,serious,True,motorcycle,,290.0,2025-03-07 21:00:00,collision,St Paul's Bay,13.0,0.0,6.1,0.0,0.0,True,False,night,3,21.0,7,2025
-553,496824,84.0,female,serious,False,,,291.0,2025-10-06 09:30:00,collision,Naxxar,22.8,0.0,30.7,23.0,1.0,True,False,morning,10,9.5,6,2025
-554,496824,84.0,male,none,True,car,,291.0,2025-10-06 09:30:00,collision,Naxxar,22.8,0.0,30.7,23.0,1.0,True,False,morning,10,9.5,6,2025
-555,496825,33.0,male,serious,True,motorcycle,,292.0,2025-05-22 20:00:00,motorcycle_fall,San Gwann,20.2,0.0,6.8,70.0,2.0,True,False,evening,5,20.0,22,2025
-556,496826,46.0,male,serious,True,motorcycle,,293.0,2025-01-25 14:30:00,collision,Naxxar,16.9,0.0,11.1,100.0,3.0,False,False,afternoon,1,14.5,25,2025
-557,496826,30.0,male,none,True,car,,293.0,2025-01-25 14:30:00,collision,Naxxar,16.9,0.0,11.1,100.0,3.0,False,False,afternoon,1,14.5,25,2025
-558,496827,8.0,,serious,False,,,296.0,2025-08-07 12:30:00,collision,Zabbar,30.2,0.0,9.1,0.0,0.0,True,False,afternoon,8,12.5,7,2025
-559,496827,45.0,male,serious,True,motorcycle,,296.0,2025-08-07 12:30:00,collision,Zabbar,30.2,0.0,9.1,0.0,0.0,True,False,afternoon,8,12.5,7,2025
-560,496827,48.0,,serious,True,motorcycle,,295.0,2025-08-07 11:30:00,collision,Naxxar,28.5,0.0,12.5,0.0,0.0,True,False,morning,8,11.5,7,2025
-561,496827,60.0,,none,True,car,,295.0,2025-08-07 11:30:00,collision,Naxxar,28.5,0.0,12.5,0.0,0.0,True,False,morning,8,11.5,7,2025
-562,496827,23.0,male,none,True,van,,296.0,2025-08-07 12:30:00,collision,Zabbar,30.2,0.0,9.1,0.0,0.0,True,False,afternoon,8,12.5,7,2025
-563,496828,62.0,female,serious,True,motorcycle,,297.0,2024-12-27 12:00:00,collision,Hotba,14.7,0.4,19.3,81.0,51.0,True,False,afternoon,12,12.0,27,2024
-564,496828,25.0,male,none,True,truck,,297.0,2024-12-27 12:00:00,collision,Hotba,14.7,0.4,19.3,81.0,51.0,True,False,afternoon,12,12.0,27,2024
-565,496829,53.0,male,serious,True,motorcycle,,298.0,2025-08-17 16:00:00,collision,Naxxar,28.5,0.0,13.1,1.0,0.0,False,False,afternoon,8,16.0,17,2025
-566,496829,44.0,female,none,True,car,,298.0,2025-08-17 16:00:00,collision,Naxxar,28.5,0.0,13.1,1.0,0.0,False,False,afternoon,8,16.0,17,2025
-567,496830,29.0,female,serious,False,,,299.0,2025-07-27 09:00:00,collision,Rabat,25.9,0.0,32.5,1.0,0.0,False,False,morning,7,9.0,27,2025
-568,496830,,female,none,True,car,,299.0,2025-07-27 09:00:00,collision,Rabat,25.9,0.0,32.5,1.0,0.0,False,False,morning,7,9.0,27,2025
-569,496830,64.0,,none,False,,,299.0,2025-07-27 09:00:00,collision,Rabat,25.9,0.0,32.5,1.0,0.0,False,False,morning,7,9.0,27,2025
-570,496831,28.0,male,none,True,car,,300.0,2024-10-22 06:00:00,rollover,Zejtun,22.6,0.0,26.3,100.0,3.0,True,False,morning,10,6.0,22,2024
-571,496831,25.0,male,serious,False,car,,300.0,2024-10-22 06:00:00,rollover,Zejtun,22.6,0.0,26.3,100.0,3.0,True,False,morning,10,6.0,22,2024
-572,496832,35.0,male,fatal,True,motorcycle,,301.0,2025-04-05 18:00:00,collision,Qormi,15.9,0.0,4.3,30.0,1.0,False,False,evening,4,18.0,5,2025
-573,496833,46.0,,serious,True,motorcycle,,302.0,2025-04-09 16:00:00,collision,Rabat,15.5,0.0,12.7,93.0,3.0,True,False,afternoon,4,16.0,9,2025
-574,496833,54.0,male,none,True,unknown,,302.0,2025-04-09 16:00:00,collision,Rabat,15.5,0.0,12.7,93.0,3.0,True,False,afternoon,4,16.0,9,2025
-575,496834,37.0,male,serious,True,motorcycle,,303.0,2025-04-24 05:00:00,collision,Marsa,15.9,0.0,23.5,15.0,0.0,True,False,morning,4,5.0,24,2025
-576,496834,65.0,male,none,True,car,,303.0,2025-04-24 05:00:00,collision,Marsa,15.9,0.0,23.5,15.0,0.0,True,False,morning,4,5.0,24,2025
-577,496835,44.0,female,serious,False,,,304.0,2024-11-15 01:00:00,collision,Balzan,19.6,0.0,11.0,1.0,0.0,True,False,night,11,1.0,15,2024
-578,496835,23.0,female,none,True,car,,304.0,2024-11-15 01:00:00,collision,Balzan,19.6,0.0,11.0,1.0,0.0,True,False,night,11,1.0,15,2024
-579,496836,33.0,male,serious,True,motorcycle,,305.0,2025-02-12 11:00:00,unknown,Tal-Balal,15.8,0.0,7.7,99.0,3.0,True,False,morning,2,11.0,12,2025
-580,496836,32.0,male,none,True,truck,,305.0,2025-02-12 11:00:00,unknown,Tal-Balal,15.8,0.0,7.7,99.0,3.0,True,False,morning,2,11.0,12,2025
-581,496837,45.0,male,serious,True,motorcycle,,306.0,2025-07-09 18:30:00,collision,Mosta,26.2,0.0,21.9,0.0,0.0,True,False,evening,7,18.5,9,2025
-582,496837,40.0,,none,False,,,306.0,2025-07-09 18:30:00,collision,Mosta,26.2,0.0,21.9,0.0,0.0,True,False,evening,7,18.5,9,2025
-583,496838,70.0,male,serious,False,,,307.0,2025-07-28 01:00:00,collision,St Julian's,25.1,0.0,26.6,2.0,0.0,True,False,night,7,1.0,28,2025
-584,496838,58.0,male,none,True,motorcycle,,307.0,2025-07-28 01:00:00,collision,St Julian's,25.1,0.0,26.6,2.0,0.0,True,False,night,7,1.0,28,2025
-585,496839,28.0,male,serious,False,,,308.0,2025-07-03 23:00:00,collision,Gharghur,23.9,0.0,3.3,0.0,0.0,True,False,night,7,23.0,3,2025
-586,496839,52.0,male,none,True,car,,308.0,2025-07-03 23:00:00,collision,Gharghur,23.9,0.0,3.3,0.0,0.0,True,False,night,7,23.0,3,2025
-587,496840,40.0,male,serious,True,motorcycle,,309.0,2024-11-13 06:00:00,unknown,Naxxar,17.1,0.0,5.7,73.0,2.0,True,False,morning,11,6.0,13,2024
-588,496840,31.0,male,minor,True,motorcycle,,309.0,2024-11-13 06:00:00,unknown,Naxxar,17.1,0.0,5.7,73.0,2.0,True,False,morning,11,6.0,13,2024
-589,496840,29.0,male,none,True,motorcycle,,309.0,2024-11-13 06:00:00,unknown,Naxxar,17.1,0.0,5.7,73.0,2.0,True,False,morning,11,6.0,13,2024
-590,496840,27.0,female,none,True,car,,309.0,2024-11-13 06:00:00,unknown,Naxxar,17.1,0.0,5.7,73.0,2.0,True,False,morning,11,6.0,13,2024
-591,496841,74.0,female,serious,False,,,310.0,2025-06-14 06:00:00,collision,Gzira,23.4,0.0,1.8,0.0,0.0,False,False,morning,6,6.0,14,2025
-592,496841,76.0,male,none,True,car,,310.0,2025-06-14 06:00:00,collision,Gzira,23.4,0.0,1.8,0.0,0.0,False,False,morning,6,6.0,14,2025
-593,496842,40.0,male,serious,True,motorcycle,,311.0,2025-07-24 04:30:00,rollover,San Anard,26.2,0.0,10.2,0.0,0.0,True,False,night,7,4.5,24,2025
-594,496842,33.0,female,serious,True,motorcycle,,311.0,2025-07-24 04:30:00,rollover,San Anard,26.2,0.0,10.2,0.0,0.0,True,False,night,7,4.5,24,2025
-595,496843,63.0,male,serious,True,motorcycle,,312.0,2025-05-02 15:30:00,collision,L-Imgarr,22.1,0.0,9.3,0.0,0.0,True,False,afternoon,5,15.5,2,2025
-596,496843,54.0,male,none,True,car,,312.0,2025-05-02 15:30:00,collision,L-Imgarr,22.1,0.0,9.3,0.0,0.0,True,False,afternoon,5,15.5,2,2025
-597,496844,50.0,male,serious,True,motorcycle,,313.0,2025-01-01 04:00:00,collision,Siggiewi,10.7,0.0,6.1,0.0,0.0,True,True,night,1,4.0,1,2025
-598,496844,55.0,male,none,True,car,,313.0,2025-01-01 04:00:00,collision,Siggiewi,10.7,0.0,6.1,0.0,0.0,True,True,night,1,4.0,1,2025
-599,496845,66.0,male,serious,True,motorcycle,,314.0,2025-02-04 11:30:00,collision,Zejtun,16.3,0.2,4.4,47.0,51.0,True,False,morning,2,11.5,4,2025
-600,496845,56.0,female,serious,False,motorcycle,,314.0,2025-02-04 11:30:00,collision,Zejtun,16.3,0.2,4.4,47.0,51.0,True,False,morning,2,11.5,4,2025
-602,496845,58.0,female,none,True,car,,314.0,2025-02-04 11:30:00,collision,Zejtun,16.3,0.2,4.4,47.0,51.0,True,False,morning,2,11.5,4,2025
-603,496846,78.0,male,serious,False,,,315.0,2025-07-10 06:30:00,collision,Siggiewi,26.8,0.0,11.4,33.0,1.0,True,False,morning,7,6.5,10,2025
-604,496846,24.0,male,none,True,car,,315.0,2025-07-10 06:30:00,collision,Siggiewi,26.8,0.0,11.4,33.0,1.0,True,False,morning,7,6.5,10,2025
-605,496847,24.0,male,serious,True,motorcycle,,316.0,2025-06-20 09:00:00,collision,Gzira,26.3,0.0,2.4,14.0,0.0,True,False,morning,6,9.0,20,2025
-606,496847,35.0,male,minor,True,motorcycle,,316.0,2025-06-20 09:00:00,collision,Gzira,26.3,0.0,2.4,14.0,0.0,True,False,morning,6,9.0,20,2025
-607,496848,41.0,male,serious,True,car,,317.0,2025-01-30 07:00:00,collision,Birzebbuga,13.7,0.0,17.9,25.0,1.0,True,False,morning,1,7.0,30,2025
-608,496848,36.0,female,none,True,car,,317.0,2025-01-30 07:00:00,collision,Birzebbuga,13.7,0.0,17.9,25.0,1.0,True,False,morning,1,7.0,30,2025
-609,496849,65.0,male,serious,True,motorcycle,,318.0,2025-07-24 10:15:00,collision,Mellieha,33.2,0.0,6.8,0.0,0.0,True,False,morning,7,10.25,24,2025
-610,496850,62.0,male,serious,True,motorcycle,,319.0,2025-04-02 15:00:00,collision,Sliema,17.5,0.2,8.2,100.0,51.0,True,False,afternoon,4,15.0,2,2025
-611,496850,54.0,female,none,True,car,,319.0,2025-04-02 15:00:00,collision,Sliema,17.5,0.2,8.2,100.0,51.0,True,False,afternoon,4,15.0,2,2025
-612,496851,68.0,male,serious,False,,,320.0,2025-02-03 19:00:00,collision,Palma,13.2,0.0,11.5,3.0,0.0,True,False,evening,2,19.0,3,2025
-613,496851,44.0,male,none,True,car,,320.0,2025-02-03 19:00:00,collision,Palma,13.2,0.0,11.5,3.0,0.0,True,False,evening,2,19.0,3,2025
-614,496852,21.0,male,serious,True,motorcycle,,321.0,2024-12-14 23:00:00,collision,Marsa,16.9,0.0,18.2,97.0,3.0,False,False,night,12,23.0,14,2024
-615,496852,21.0,female,none,True,car,,321.0,2024-12-14 23:00:00,collision,Marsa,16.9,0.0,18.2,97.0,3.0,False,False,night,12,23.0,14,2024
-616,496852,30.0,male,serious,True,motorcycle,,322.0,2024-12-12 16:00:00,motorcycle_fall,Tal-Barrani,17.7,0.0,20.0,98.0,3.0,True,False,afternoon,12,16.0,12,2024
-617,496853,43.0,,none,True,car,,323.0,2025-05-01 08:00:00,collision,Marsa,20.0,0.0,10.5,0.0,0.0,True,True,morning,5,8.0,1,2025
-618,496853,67.0,,fatal,True,bicycle,,323.0,2025-05-01 08:00:00,collision,Marsa,20.0,0.0,10.5,0.0,0.0,True,True,morning,5,8.0,1,2025
-619,496853,38.0,male,none,True,van,,323.0,2025-05-01 08:00:00,collision,Marsa,20.0,0.0,10.5,0.0,0.0,True,True,morning,5,8.0,1,2025
-723,496853,38.0,,,False,car,,323.0,2025-05-01 08:00:00,collision,Marsa,20.0,0.0,10.5,0.0,0.0,True,True,morning,5,8.0,1,2025
-620,496854,30.0,male,none,True,motorcycle,,324.0,2025-09-20 13:30:00,collision,L-Gharb,25.2,0.0,25.2,2.0,0.0,False,False,afternoon,9,13.5,20,2025
-621,496854,34.0,male,serious,True,,,324.0,2025-09-20 13:30:00,collision,L-Gharb,25.2,0.0,25.2,2.0,0.0,False,False,afternoon,9,13.5,20,2025
-622,496855,60.0,female,serious,False,,,325.0,2024-10-25 13:00:00,collision,Swieqi,22.8,0.3,15.2,100.0,51.0,True,False,afternoon,10,13.0,25,2024
-623,496855,48.0,female,none,True,car,,325.0,2024-10-25 13:00:00,collision,Swieqi,22.8,0.3,15.2,100.0,51.0,True,False,afternoon,10,13.0,25,2024
-624,496856,24.0,female,fatal,False,,,326.0,2024-10-14 16:00:00,collision,Fgura,24.5,0.0,12.0,4.0,0.0,True,False,afternoon,10,16.0,14,2024
-724,496856,20.0,female,none,True,truck,,326.0,2024-10-14 16:00:00,collision,Fgura,24.5,0.0,12.0,4.0,0.0,True,False,afternoon,10,16.0,14,2024
-725,496856,34.0,female,serious,False,,,326.0,2024-10-14 16:00:00,collision,Fgura,24.5,0.0,12.0,4.0,0.0,True,False,afternoon,10,16.0,14,2024
-625,496857,23.0,female,none,True,car,,327.0,2025-05-24 06:00:00,collision,Fgura,19.0,0.0,9.8,8.0,0.0,False,False,morning,5,6.0,24,2025
-626,496857,77.0,male,serious,True,car,,327.0,2025-05-24 06:00:00,collision,Fgura,19.0,0.0,9.8,8.0,0.0,False,False,morning,5,6.0,24,2025
-627,496857,71.0,female,fatal,False,car,,327.0,2025-05-24 06:00:00,collision,Fgura,19.0,0.0,9.8,8.0,0.0,False,False,morning,5,6.0,24,2025
-628,496857,76.0,female,serious,False,car,,327.0,2025-05-24 06:00:00,collision,Fgura,19.0,0.0,9.8,8.0,0.0,False,False,morning,5,6.0,24,2025
-629,496858,5.0,male,serious,False,,,328.0,2025-05-26 15:00:00,collision,,19.9,0.0,18.3,0.0,0.0,True,False,afternoon,5,15.0,26,2025
-630,496858,22.0,male,none,True,car,,328.0,2025-05-26 15:00:00,collision,,19.9,0.0,18.3,0.0,0.0,True,False,afternoon,5,15.0,26,2025
-631,496859,47.0,male,serious,True,motorcycle,,329.0,2025-10-02 05:30:00,collision,L-Imgarr,21.8,0.0,27.7,52.0,2.0,True,False,morning,10,5.5,2,2025
-632,496859,53.0,female,none,True,car,,329.0,2025-10-02 05:30:00,collision,L-Imgarr,21.8,0.0,27.7,52.0,2.0,True,False,morning,10,5.5,2,2025
-633,496860,63.0,male,serious,False,,,330.0,2024-10-26 14:00:00,collision,Zurrieq,23.4,0.0,23.8,100.0,3.0,False,False,afternoon,10,14.0,26,2024
-634,496860,19.0,male,none,True,car,,330.0,2024-10-26 14:00:00,collision,Zurrieq,23.4,0.0,23.8,100.0,3.0,False,False,afternoon,10,14.0,26,2024
-635,496861,50.0,female,serious,True,car,,331.0,2024-12-27 01:00:00,collision,Mellieha,12.5,0.0,20.2,57.0,2.0,True,False,night,12,1.0,27,2024
-636,496861,23.0,male,serious,True,motorcycle,,332.0,2024-11-19 07:00:00,collision,Hamrun,19.0,0.0,13.7,7.0,0.0,True,False,morning,11,7.0,19,2024
-637,496861,29.0,male,minor,False,car,,331.0,2024-12-27 01:00:00,collision,Mellieha,12.5,0.0,20.2,57.0,2.0,True,False,night,12,1.0,27,2024
-638,496862,26.0,male,serious,True,motorcycle,,333.0,2025-01-24 08:00:00,motorcycle_fall,Floriana,15.1,0.0,13.5,0.0,0.0,True,False,morning,1,8.0,24,2025
-639,496863,17.0,female,serious,False,,,334.0,2024-10-01 22:00:00,collision,Qormi,21.4,0.0,8.9,2.0,0.0,True,False,night,10,22.0,1,2024
-640,496863,52.0,male,none,True,car,,334.0,2024-10-01 22:00:00,collision,Qormi,21.4,0.0,8.9,2.0,0.0,True,False,night,10,22.0,1,2024
-641,496864,59.0,male,none,True,van,,335.0,2025-09-28 10:00:00,collision,Ghar,24.3,0.0,14.8,10.0,0.0,False,False,morning,9,10.0,28,2025
-726,496864,36.0,male,serious,False,,,335.0,2025-09-28 10:00:00,collision,Ghar,24.3,0.0,14.8,10.0,0.0,False,False,morning,9,10.0,28,2025
-642,496865,34.0,female,none,True,car,,336.0,2025-08-05 10:00:00,collision,Ta' Lawrenti,26.2,0.0,10.7,97.0,3.0,True,False,morning,8,10.0,5,2025
-643,496865,38.0,male,none,True,car,,336.0,2025-08-05 10:00:00,collision,Ta' Lawrenti,26.2,0.0,10.7,97.0,3.0,True,False,morning,8,10.0,5,2025
-644,496866,36.0,female,none,True,motorcycle,,337.0,2025-10-04 00:00:00,collision,St Paul's Bay,19.3,0.0,26.1,100.0,3.0,False,False,,10,,4,2025
-645,496866,71.0,male,none,True,car,,337.0,2025-10-04 00:00:00,collision,St Paul's Bay,19.3,0.0,26.1,100.0,3.0,False,False,,10,,4,2025
-646,496867,57.0,male,serious,True,motorcycle,,338.0,2025-08-22 05:30:00,collision,Birkirkara,25.3,0.0,13.1,0.0,0.0,True,False,morning,8,5.5,22,2025
-647,496867,25.0,female,none,False,car,,338.0,2025-08-22 05:30:00,collision,Birkirkara,25.3,0.0,13.1,0.0,0.0,True,False,morning,8,5.5,22,2025
-648,496867,,male,none,True,car,,338.0,2025-08-22 05:30:00,collision,Birkirkara,25.3,0.0,13.1,0.0,0.0,True,False,morning,8,5.5,22,2025
-649,496868,31.0,male,serious,True,motorcycle,,339.0,2025-03-02 10:00:00,collision,Birkirkara,17.5,0.0,24.1,99.0,3.0,False,False,morning,3,10.0,2,2025
-650,496868,19.0,female,none,True,car,,339.0,2025-03-02 10:00:00,collision,Birkirkara,17.5,0.0,24.1,99.0,3.0,False,False,morning,3,10.0,2,2025
-651,496869,74.0,male,minor,True,car,,340.0,2025-05-02 17:00:00,collision,Xaghra,17.6,0.0,12.1,0.0,0.0,True,False,evening,5,17.0,2,2025
-652,496869,73.0,female,serious,False,car,,340.0,2025-05-02 17:00:00,collision,Xaghra,17.6,0.0,12.1,0.0,0.0,True,False,evening,5,17.0,2,2025
-727,496869,33.0,,minor,True,car,,340.0,2025-05-02 17:00:00,collision,Xaghra,17.6,0.0,12.1,0.0,0.0,True,False,evening,5,17.0,2,2025
-653,496870,35.0,male,serious,True,motorcycle,,341.0,2025-05-29 04:00:00,collision,Marsaxlokk,18.9,0.0,18.8,27.0,1.0,True,False,night,5,4.0,29,2025
-654,496870,30.0,male,none,True,van,,341.0,2025-05-29 04:00:00,collision,Marsaxlokk,18.9,0.0,18.8,27.0,1.0,True,False,night,5,4.0,29,2025
-655,496871,87.0,female,serious,False,,,342.0,2025-08-31 07:30:00,collision,Qormi,26.8,0.0,14.5,0.0,0.0,False,False,morning,8,7.5,31,2025
-656,496871,68.0,male,none,True,truck,,342.0,2025-08-31 07:30:00,collision,Qormi,26.8,0.0,14.5,0.0,0.0,False,False,morning,8,7.5,31,2025
-657,496872,25.0,male,none,True,van,,343.0,2024-11-12 12:00:00,motorcycle_fall,Rabat,17.4,0.2,24.0,98.0,51.0,True,False,afternoon,11,12.0,12,2024
-658,496872,36.0,,none,False,van,,343.0,2024-11-12 12:00:00,motorcycle_fall,Rabat,17.4,0.2,24.0,98.0,51.0,True,False,afternoon,11,12.0,12,2024
-659,496873,54.0,male,fatal,True,motorcycle,,344.0,2024-10-01 04:00:00,collision,Mellieha,19.6,0.0,6.4,0.0,0.0,True,False,night,10,4.0,1,2024
-660,496874,25.0,female,minor,True,van,,345.0,2025-02-03 14:00:00,collision,Zurrieq,14.4,0.1,13.8,13.0,51.0,True,False,afternoon,2,14.0,3,2025
-661,496874,,,serious,True,car,,345.0,2025-02-03 14:00:00,collision,Zurrieq,14.4,0.1,13.8,13.0,51.0,True,False,afternoon,2,14.0,3,2025
-728,496874,,,serious,False,car,,345.0,2025-02-03 14:00:00,collision,Zurrieq,14.4,0.1,13.8,13.0,51.0,True,False,afternoon,2,14.0,3,2025
-662,496875,35.0,male,none,True,car,,346.0,2025-03-10 16:00:00,collision,Marsaxlokk,19.4,0.0,21.5,0.0,0.0,True,False,afternoon,3,16.0,10,2025
-663,496875,28.0,male,serious,False,car,,346.0,2025-03-10 16:00:00,collision,Marsaxlokk,19.4,0.0,21.5,0.0,0.0,True,False,afternoon,3,16.0,10,2025
-664,496876,28.0,male,serious,True,motorcycle,,347.0,2025-06-10 18:00:00,collision,Attard,26.0,0.0,9.7,0.0,0.0,True,False,evening,6,18.0,10,2025
-665,496876,32.0,,none,True,car,,347.0,2025-06-10 18:00:00,collision,Attard,26.0,0.0,9.7,0.0,0.0,True,False,evening,6,18.0,10,2025
-666,496877,51.0,male,serious,True,motorcycle,,348.0,2025-01-22 18:00:00,collision,Sliema,14.8,0.0,8.0,73.0,2.0,True,False,evening,1,18.0,22,2025
-667,496877,47.0,male,none,True,car,,348.0,2025-01-22 18:00:00,collision,Sliema,14.8,0.0,8.0,73.0,2.0,True,False,evening,1,18.0,22,2025
-668,496878,57.0,female,serious,False,,,349.0,2025-06-19 13:15:00,collision,Floriana,28.5,0.0,6.1,33.0,1.0,True,False,afternoon,6,13.25,19,2025
-669,496878,52.0,male,none,True,car,,349.0,2025-06-19 13:15:00,collision,Floriana,28.5,0.0,6.1,33.0,1.0,True,False,afternoon,6,13.25,19,2025
-670,496879,52.0,male,serious,True,motorcycle,,350.0,2024-12-29 12:00:00,motorcycle_fall,Haz-Zebbug,15.4,0.1,9.0,49.0,51.0,False,False,afternoon,12,12.0,29,2024
-671,496880,78.0,female,serious,True,car,,351.0,2024-11-05 11:00:00,collision,Naxxar,22.9,0.0,2.7,13.0,0.0,True,False,morning,11,11.0,5,2024
-672,496881,64.0,female,serious,False,,,352.0,2025-02-10 16:00:00,collision,Zebbug,13.3,0.0,40.4,70.0,2.0,True,True,afternoon,2,16.0,10,2025
-673,496881,68.0,male,minor,False,,,352.0,2025-02-10 16:00:00,collision,Zebbug,13.3,0.0,40.4,70.0,2.0,True,True,afternoon,2,16.0,10,2025
-674,496881,59.0,male,none,True,car,,352.0,2025-02-10 16:00:00,collision,Zebbug,13.3,0.0,40.4,70.0,2.0,True,True,afternoon,2,16.0,10,2025
-675,496882,17.0,male,serious,True,motorcycle,,353.0,2025-07-17 22:15:00,collision,Wied,25.5,0.0,15.6,0.0,0.0,True,False,night,7,22.25,17,2025
-676,496882,41.0,male,none,True,car,,353.0,2025-07-17 22:15:00,collision,Wied,25.5,0.0,15.6,0.0,0.0,True,False,night,7,22.25,17,2025
-677,496883,62.0,male,serious,True,car,,354.0,2025-07-13 20:00:00,collision,Gwardamanga,26.1,0.0,10.1,0.0,0.0,False,False,evening,7,20.0,13,2025
-678,496883,41.0,female,serious,False,,,354.0,2025-07-13 20:00:00,collision,Gwardamanga,26.1,0.0,10.1,0.0,0.0,False,False,evening,7,20.0,13,2025
+person_id,article_id,age,gender,severity,is_driver,vehicle_type,person_state,accident_id,date_time,accident_type,location,temperature_2m,precipitation,windspeed_10m,cloud_cover,weather_code,is_weekday,is_public_holiday,time_of_day,hour,day,month,year
+0,4208,78.0,male,none,True,car,,0.0,2024-12-04 17:00:00,collision,St Julian's,17.6,0.0,9.8,100.0,3.0,True,False,evening,17.0,4,12,2024
+1,4093,54.0,male,serious,True,motorcycle,,1.0,2024-12-11 17:00:00,collision,St Paul's Bay,15.5,0.0,6.5,100.0,3.0,True,False,evening,17.0,11,12,2024
+2,4110,54.0,male,serious,True,motorcycle,,2.0,2024-12-11 13:00:00,collision,St Paul's Bay,18.3,0.0,5.0,97.0,3.0,True,False,afternoon,13.0,11,12,2024
+3,4066,17.0,female,serious,False,,,3.0,2024-12-13 17:30:00,collision,Mellieha,18.6,0.0,24.0,2.0,0.0,True,True,evening,17.5,13,12,2024
+4,4066,52.0,male,none,True,car,,3.0,2024-12-13 17:30:00,collision,Mellieha,18.6,0.0,24.0,2.0,0.0,True,True,evening,17.5,13,12,2024
+5,4066,29.0,male,serious,False,,,4.0,2024-12-14 19:45:00,collision,Gudja,17.1,0.0,22.3,84.0,3.0,False,False,evening,19.75,14,12,2024
+6,4066,50.0,,none,True,car,,4.0,2024-12-14 19:45:00,collision,Gudja,17.1,0.0,22.3,84.0,3.0,False,False,evening,19.75,14,12,2024
+7,4067,54.0,male,fatal,True,motorcycle,,5.0,2024-12-13 21:00:00,collision,Xemxija,18.8,0.0,23.4,0.0,0.0,True,True,night,21.0,13,12,2024
+8,4087,54.0,male,fatal,True,motorcycle,,6.0,2024-12-11 12:00:00,collision,St Paul's Bay,18.1,0.0,4.5,65.0,2.0,True,False,afternoon,12.0,11,12,2024
+9,4049,45.0,male,serious,True,motorcycle,,7.0,2024-12-15 20:30:00,collision,Imgarr,13.6,0.1,22.5,14.0,51.0,False,False,evening,20.5,15,12,2024
+10,4049,86.0,female,none,True,car,,7.0,2024-12-15 20:30:00,collision,Imgarr,13.6,0.1,22.5,14.0,51.0,False,False,evening,20.5,15,12,2024
+11,4034,,male,serious,False,,,8.0,2024-12-13 19:45:00,collision,Gudja,18.5,0.0,24.3,2.0,0.0,True,True,evening,19.75,13,12,2024
+12,4034,29.0,,none,False,,,8.0,2024-12-13 19:45:00,collision,Gudja,18.5,0.0,24.3,2.0,0.0,True,True,evening,19.75,13,12,2024
+13,4007,54.0,male,fatal,True,motorcycle,,9.0,2024-12-16 18:00:00,collision,St Paul's Bay,15.3,0.0,27.1,4.0,0.0,True,False,evening,18.0,16,12,2024
+15,4024,54.0,male,fatal,True,motorcycle,,10.0,2024-12-13 00:00:00,collision,St Paul's Bay,18.3,0.0,19.3,80.0,3.0,True,True,,,13,12,2024
+16,4014,52.0,male,none,True,van,,11.0,2024-12-17 18:00:00,collision,Siggiewi,14.2,0.0,7.5,0.0,0.0,True,False,evening,18.0,17,12,2024
+17,4014,43.0,female,none,False,,,11.0,2024-12-17 18:00:00,collision,Siggiewi,14.2,0.0,7.5,0.0,0.0,True,False,evening,18.0,17,12,2024
+18,4014,46.0,male,none,True,van,,11.0,2024-12-17 18:00:00,collision,Siggiewi,14.2,0.0,7.5,0.0,0.0,True,False,evening,18.0,17,12,2024
+679,3989,,,none,True,unknown,,12.0,2024-12-19 18:50:00,collision,Blata,16.2,0.0,17.4,43.0,1.0,True,False,evening,18.833333333333332,19,12,2024
+680,3989,,,none,True,bus,,12.0,2024-12-19 18:50:00,collision,Blata,16.2,0.0,17.4,43.0,1.0,True,False,evening,18.833333333333332,19,12,2024
+19,3991,30.0,female,serious,True,motorcycle,,13.0,2024-12-20 00:00:00,motorcycle_fall,Birkirkara,15.9,0.0,18.0,6.0,0.0,True,False,,,20,12,2024
+20,3976,72.0,female,none,False,,,14.0,2024-12-20 11:30:00,collision,Naxxar,18.0,0.0,32.8,43.0,1.0,True,False,morning,11.5,20,12,2024
+21,3976,2.0,,serious,False,,,14.0,2024-12-20 11:30:00,collision,Naxxar,18.0,0.0,32.8,43.0,1.0,True,False,morning,11.5,20,12,2024
+22,3976,43.0,male,none,True,car,,14.0,2024-12-20 11:30:00,collision,Naxxar,18.0,0.0,32.8,43.0,1.0,True,False,morning,11.5,20,12,2024
+23,3976,44.0,male,none,True,car,,15.0,2024-12-20 00:00:00,collision,San Gwann,15.6,0.0,15.1,6.0,0.0,True,False,,,20,12,2024
+24,3964,31.0,male,minor,True,motorcycle,,16.0,2024-12-22 14:25:00,collision,Kennedy Grove,15.9,0.0,20.5,98.0,3.0,False,False,afternoon,14.416666666666666,22,12,2024
+25,3964,40.0,male,serious,True,motorcycle,,16.0,2024-12-22 14:25:00,collision,Kennedy Grove,15.9,0.0,20.5,98.0,3.0,False,False,afternoon,14.416666666666666,22,12,2024
+26,3964,27.0,female,none,True,car,,16.0,2024-12-22 14:25:00,collision,Kennedy Grove,15.9,0.0,20.5,98.0,3.0,False,False,afternoon,14.416666666666666,22,12,2024
+28,3964,29.0,male,none,True,motorcycle,,16.0,2024-12-22 14:25:00,collision,Kennedy Grove,15.9,0.0,20.5,98.0,3.0,False,False,afternoon,14.416666666666666,22,12,2024
+29,3966,13.0,female,serious,False,,,17.0,2024-12-22 10:15:00,collision,,15.6,0.0,32.7,100.0,3.0,False,False,morning,10.25,22,12,2024
+30,3966,25.0,,none,True,car,,17.0,2024-12-22 10:15:00,collision,,15.6,0.0,32.7,100.0,3.0,False,False,morning,10.25,22,12,2024
+31,3938,37.0,male,serious,True,bus,,18.0,2024-12-23 10:30:00,collision,Naxxar,13.9,0.3,44.4,100.0,51.0,True,False,morning,10.5,23,12,2024
+32,3938,39.0,female,none,True,van,,18.0,2024-12-23 10:30:00,collision,Naxxar,13.9,0.3,44.4,100.0,51.0,True,False,morning,10.5,23,12,2024
+33,3910,37.0,male,fatal,True,bus,,19.0,2024-12-23 00:00:00,collision,Naxxar,14.6,0.3,28.5,69.0,51.0,True,False,,,23,12,2024
+34,3910,39.0,female,minor,True,van,,19.0,2024-12-23 00:00:00,collision,Naxxar,14.6,0.3,28.5,69.0,51.0,True,False,,,23,12,2024
+35,3885,36.0,male,serious,True,car,,20.0,2024-12-27 07:45:00,collision,Marsa,13.9,0.0,13.9,50.0,2.0,True,False,morning,7.75,27,12,2024
+36,3900,62.0,female,serious,True,motorcycle,,21.0,2024-12-27 12:00:00,collision,Hamrun,14.4,0.2,20.1,76.0,51.0,True,False,afternoon,12.0,27,12,2024
+37,3900,25.0,,none,True,truck,,21.0,2024-12-27 12:00:00,collision,Hamrun,14.4,0.2,20.1,76.0,51.0,True,False,afternoon,12.0,27,12,2024
+38,3861,21.0,female,fatal,False,,drunk,22.0,2024-12-29 00:00:00,collision,Madliena,12.7,0.0,6.9,16.0,0.0,False,False,,,29,12,2024
+39,3861,,male,,True,car,,22.0,2024-12-29 00:00:00,collision,Madliena,12.7,0.0,6.9,16.0,0.0,False,False,,,29,12,2024
+40,3861,17.0,female,none,False,,,22.0,2024-12-29 00:00:00,collision,Madliena,12.7,0.0,6.9,16.0,0.0,False,False,,,29,12,2024
+42,3834,,male,none,True,,drunk,23.0,2024-12-30 00:00:00,collision,Mithna,14.5,0.0,5.1,1.0,0.0,True,False,,,30,12,2024
+43,3834,,female,serious,True,car,,23.0,2024-12-30 00:00:00,collision,Mithna,14.5,0.0,5.1,1.0,0.0,True,False,,,30,12,2024
+44,3766,72.0,male,serious,True,car,,24.0,2025-01-05 12:30:00,collision,Birkirkara,16.8,0.0,13.4,43.0,1.0,False,False,afternoon,12.5,5,1,2025
+45,3766,66.0,female,serious,False,,,24.0,2025-01-05 12:30:00,collision,Birkirkara,16.8,0.0,13.4,43.0,1.0,False,False,afternoon,12.5,5,1,2025
+46,3766,28.0,male,minor,True,car,,24.0,2025-01-05 12:30:00,collision,Birkirkara,16.8,0.0,13.4,43.0,1.0,False,False,afternoon,12.5,5,1,2025
+47,3747,25.0,male,fatal,True,car,,25.0,2025-01-06 21:00:00,collision,Attard,16.2,0.0,15.9,100.0,3.0,True,False,night,21.0,6,1,2025
+48,3749,20.0,female,serious,True,truck,,26.0,2025-01-06 20:00:00,collision,Fgura,16.0,0.0,12.1,100.0,3.0,True,False,evening,20.0,6,1,2025
+49,3749,24.0,female,serious,False,,,26.0,2025-01-06 20:00:00,collision,Fgura,16.0,0.0,12.1,100.0,3.0,True,False,evening,20.0,6,1,2025
+50,3749,34.0,,serious,False,,,26.0,2025-01-06 20:00:00,collision,Fgura,16.0,0.0,12.1,100.0,3.0,True,False,evening,20.0,6,1,2025
+51,3749,25.0,,fatal,True,unknown,,27.0,2025-01-07 00:00:00,collision,Attard,16.4,0.0,17.4,100.0,3.0,True,False,,,7,1,2025
+52,3740,25.0,male,fatal,True,car,,28.0,2025-01-06 09:40:00,collision,Attard,17.5,0.0,21.8,100.0,3.0,True,False,morning,9.666666666666666,6,1,2025
+681,3740,,female,serious,False,,,29.0,2025-01-06 21:00:00,collision,Fgura,16.2,0.0,14.9,100.0,3.0,True,False,night,21.0,6,1,2025
+682,3740,,female,minor,False,,,29.0,2025-01-06 21:00:00,collision,Fgura,16.2,0.0,14.9,100.0,3.0,True,False,night,21.0,6,1,2025
+53,3740,20.0,,none,True,truck,,29.0,2025-01-06 21:00:00,collision,Fgura,16.2,0.0,14.9,100.0,3.0,True,False,night,21.0,6,1,2025
+54,3704,25.0,male,fatal,True,car,,30.0,2025-01-08 21:00:00,collision,,16.3,0.0,26.1,14.0,0.0,True,False,night,21.0,8,1,2025
+56,3704,13.0,female,serious,False,,,30.0,2025-01-08 21:00:00,collision,,16.3,0.0,26.1,14.0,0.0,True,False,night,21.0,8,1,2025
+57,3704,25.0,,none,True,car,,30.0,2025-01-08 21:00:00,collision,,16.3,0.0,26.1,14.0,0.0,True,False,night,21.0,8,1,2025
+58,3699,25.0,male,fatal,True,car,,31.0,2025-01-08 00:00:00,collision,Attard,15.6,0.0,20.3,8.0,0.0,True,False,,,8,1,2025
+59,3671,83.0,female,serious,False,car,,32.0,2025-01-09 11:00:00,collision,Rabat,15.8,0.0,11.8,0.0,0.0,True,False,morning,11.0,9,1,2025
+60,3671,56.0,female,minor,True,car,,32.0,2025-01-09 11:00:00,collision,Rabat,15.8,0.0,11.8,0.0,0.0,True,False,morning,11.0,9,1,2025
+61,3653,21.0,male,fatal,False,car,,33.0,2025-01-11 00:00:00,collision,Swieqi,15.8,0.0,29.5,90.0,3.0,False,False,,,11,1,2025
+62,3653,22.0,male,none,True,car,,33.0,2025-01-11 00:00:00,collision,Swieqi,15.8,0.0,29.5,90.0,3.0,False,False,,,11,1,2025
+66,3601,30.0,male,none,True,motorcycle,,35.0,2025-01-15 08:00:00,motorcycle_fall,Tal-Barrani,12.6,0.0,23.7,22.0,1.0,True,False,morning,8.0,15,1,2025
+683,3601,21.0,male,,True,motorcycle,,34.0,2025-01-15 07:45:00,collision,Marsa,12.6,0.0,23.7,22.0,1.0,True,False,morning,7.75,15,1,2025
+67,3601,21.0,female,none,True,car,,34.0,2025-01-15 07:45:00,collision,Marsa,12.6,0.0,23.7,22.0,1.0,True,False,morning,7.75,15,1,2025
+684,3586,36.0,,none,True,car,,36.0,2025-01-15 16:45:00,collision,Sliema,11.6,0.6,10.1,90.0,53.0,True,False,afternoon,16.75,15,1,2025
+68,3586,63.0,male,none,False,,,36.0,2025-01-15 16:45:00,collision,Sliema,11.6,0.6,10.1,90.0,53.0,True,False,afternoon,16.75,15,1,2025
+69,3551,34.0,male,serious,True,motorcycle,,37.0,2025-01-16 10:15:00,collision,Naxxar,13.9,0.0,5.2,6.0,0.0,True,False,morning,10.25,16,1,2025
+70,3551,45.0,female,none,False,,,37.0,2025-01-16 10:15:00,collision,Naxxar,13.9,0.0,5.2,6.0,0.0,True,False,morning,10.25,16,1,2025
+71,3558,44.0,male,none,True,car,,38.0,2025-01-16 00:00:00,collision,Valletta,9.8,0.0,1.8,20.0,1.0,True,False,,,16,1,2025
+72,3558,25.0,male,fatal,False,,,38.0,2025-01-16 00:00:00,collision,Valletta,9.8,0.0,1.8,20.0,1.0,True,False,,,16,1,2025
+73,3588,25.0,male,fatal,False,,,39.0,2025-01-16 21:00:00,collision,St Julian's,14.1,0.8,19.2,100.0,53.0,True,False,night,21.0,16,1,2025
+74,3588,44.0,male,none,True,car,,39.0,2025-01-16 21:00:00,collision,St Julian's,14.1,0.8,19.2,100.0,53.0,True,False,night,21.0,16,1,2025
+76,3456,51.0,male,serious,True,motorcycle,,40.0,2025-01-22 18:00:00,unknown,Sliema,14.8,0.0,8.0,73.0,2.0,True,False,evening,18.0,22,1,2025
+77,3456,47.0,,none,True,car,,40.0,2025-01-22 18:00:00,unknown,Sliema,14.8,0.0,8.0,73.0,2.0,True,False,evening,18.0,22,1,2025
+78,3442,36.0,male,fatal,True,motorcycle,,41.0,2025-01-23 00:00:00,collision,Tal-Qroqq,15.5,0.0,13.4,100.0,3.0,True,False,,,23,1,2025
+79,3423,36.0,male,fatal,False,,,42.0,2025-01-25 00:00:00,collision,,16.4,0.0,28.8,0.0,0.0,False,False,,,25,1,2025
+81,3408,46.0,male,fatal,True,motorcycle,,43.0,2025-01-25 17:00:00,collision,Fgura,15.6,0.0,5.5,100.0,3.0,False,False,evening,17.0,25,1,2025
+685,3408,,,none,True,car,,43.0,2025-01-25 17:00:00,collision,Fgura,15.6,0.0,5.5,100.0,3.0,False,False,evening,17.0,25,1,2025
+82,3255,34.0,male,serious,True,car,,44.0,2025-02-01 05:00:00,collision,Hal Farrug,14.6,0.0,20.4,25.0,1.0,False,False,morning,5.0,1,2,2025
+83,3255,30.0,male,none,True,car,,45.0,2025-02-01 12:45:00,collision,Fgura,17.1,0.4,28.0,52.0,51.0,False,False,afternoon,12.75,1,2,2025
+84,3255,59.0,male,serious,True,motorcycle,,45.0,2025-02-01 12:45:00,collision,Fgura,17.1,0.4,28.0,52.0,51.0,False,False,afternoon,12.75,1,2,2025
+85,3220,25.0,male,fatal,False,,,46.0,2025-01-31 00:00:00,collision,St Julian's,13.0,0.0,7.1,21.0,1.0,True,False,,,31,1,2025
+86,3220,44.0,male,none,True,car,,46.0,2025-01-31 00:00:00,collision,St Julian's,13.0,0.0,7.1,21.0,1.0,True,False,,,31,1,2025
+87,3197,56.0,female,serious,False,,,47.0,2025-02-04 11:30:00,collision,Zejtun,16.3,0.2,4.4,47.0,51.0,True,False,morning,11.5,4,2,2025
+88,3197,58.0,female,none,False,,,47.0,2025-02-04 11:30:00,collision,Zejtun,16.3,0.2,4.4,47.0,51.0,True,False,morning,11.5,4,2,2025
+89,3197,66.0,male,none,True,motorcycle,,47.0,2025-02-04 11:30:00,collision,Zejtun,16.3,0.2,4.4,47.0,51.0,True,False,morning,11.5,4,2,2025
+90,3206,52.0,male,serious,True,motorcycle,,48.0,2025-02-05 09:00:00,motorcycle_fall,Ta' Qali,14.6,0.0,9.3,80.0,3.0,True,False,morning,9.0,5,2,2025
+91,3169,35.0,male,none,True,motorcycle,,49.0,2025-02-06 08:00:00,collision,Naxxar,13.1,0.0,14.7,69.0,2.0,True,False,morning,8.0,6,2,2025
+92,3169,26.0,female,none,True,car,,49.0,2025-02-06 08:00:00,collision,Naxxar,13.1,0.0,14.7,69.0,2.0,True,False,morning,8.0,6,2,2025
+93,3100,25.0,male,none,True,van,,50.0,2025-02-08 21:00:00,collision,Rabat,12.5,0.0,23.3,61.0,2.0,False,False,night,21.0,8,2,2025
+94,3100,36.0,,none,False,,,50.0,2025-02-08 21:00:00,collision,Rabat,12.5,0.0,23.3,61.0,2.0,False,False,night,21.0,8,2,2025
+95,3095,24.0,male,fatal,True,,,51.0,2025-02-10 21:00:00,collision,Kirkop,13.1,0.0,22.3,82.0,3.0,True,True,night,21.0,10,2,2025
+96,3095,25.0,,minor,False,,,51.0,2025-02-10 21:00:00,collision,Kirkop,13.1,0.0,22.3,82.0,3.0,True,True,night,21.0,10,2,2025
+97,3090,24.0,male,fatal,True,car,,52.0,2025-02-11 21:00:00,collision,Kirkop,12.9,0.0,11.3,17.0,0.0,True,False,night,21.0,11,2,2025
+98,3090,,male,fatal,True,motorcycle,,52.0,2025-02-11 21:00:00,collision,Kirkop,12.9,0.0,11.3,17.0,0.0,True,False,night,21.0,11,2,2025
+99,3090,25.0,male,fatal,True,car,,52.0,2025-02-11 21:00:00,collision,Kirkop,12.9,0.0,11.3,17.0,0.0,True,False,night,21.0,11,2,2025
+100,3090,24.0,female,fatal,False,pedestrian,,52.0,2025-02-11 21:00:00,collision,Kirkop,12.9,0.0,11.3,17.0,0.0,True,False,night,21.0,11,2,2025
+686,3090,,,none,True,truck,,52.0,2025-02-11 21:00:00,collision,Kirkop,12.9,0.0,11.3,17.0,0.0,True,False,night,21.0,11,2,2025
+101,3001,39.0,male,serious,True,motorcycle,,53.0,2025-02-14 00:01:00,collision,Iklin,14.3,0.0,13.3,29.0,1.0,True,False,night,0.016666666666666666,14,2,2025
+102,3001,42.0,female,none,True,car,,53.0,2025-02-14 00:01:00,collision,Iklin,14.3,0.0,13.3,29.0,1.0,True,False,night,0.016666666666666666,14,2,2025
+104,2974,50.0,male,serious,False,,,55.0,2025-02-16 11:00:00,collision,Siggiewi,14.9,0.2,29.5,14.0,51.0,False,False,morning,11.0,16,2,2025
+105,2974,55.0,,none,True,car,,55.0,2025-02-16 11:00:00,collision,Siggiewi,14.9,0.2,29.5,14.0,51.0,False,False,morning,11.0,16,2,2025
+106,2940,3.0,female,none,False,car,,56.0,2025-02-17 13:00:00,collision,Hal Far,16.5,0.0,6.8,17.0,0.0,True,False,afternoon,13.0,17,2,2025
+107,2940,44.0,,none,True,trailer,,56.0,2025-02-17 13:00:00,collision,Hal Far,16.5,0.0,6.8,17.0,0.0,True,False,afternoon,13.0,17,2,2025
+687,2940,30.0,male,,,car,,56.0,2025-02-17 13:00:00,collision,Hal Far,16.5,0.0,6.8,17.0,0.0,True,False,afternoon,13.0,17,2,2025
+688,2940,27.0,female,,,car,,56.0,2025-02-17 13:00:00,collision,Hal Far,16.5,0.0,6.8,17.0,0.0,True,False,afternoon,13.0,17,2,2025
+108,2872,45.0,male,serious,True,motorcycle,,57.0,2025-02-19 18:00:00,collision,Fgura,13.9,0.0,8.8,99.0,3.0,True,False,evening,18.0,19,2,2025
+109,2872,32.0,female,none,True,car,,57.0,2025-02-19 18:00:00,collision,Fgura,13.9,0.0,8.8,99.0,3.0,True,False,evening,18.0,19,2,2025
+110,2873,17.0,female,fatal,False,car,,58.0,2025-02-20 00:00:00,collision,St Paul's Bay,12.9,0.0,10.0,99.0,3.0,True,False,,,20,2,2025
+111,2853,80.0,male,serious,True,car,,59.0,2025-02-21 07:30:00,collision,,14.2,0.0,19.8,50.0,2.0,True,False,morning,7.5,21,2,2025
+112,2853,80.0,male,serious,False,,,59.0,2025-02-21 07:30:00,collision,,14.2,0.0,19.8,50.0,2.0,True,False,morning,7.5,21,2,2025
+113,2849,61.0,male,serious,True,carriage,,60.0,2025-02-21 13:30:00,collision,Qormi,15.0,0.2,14.3,63.0,51.0,True,False,afternoon,13.5,21,2,2025
+114,2849,31.0,male,none,True,unknown,,60.0,2025-02-21 13:30:00,collision,Qormi,15.0,0.2,14.3,63.0,51.0,True,False,afternoon,13.5,21,2,2025
+115,2792,23.0,,,True,motorcycle,,61.0,2025-02-24 14:15:00,collision,Hamrun,16.0,0.2,5.2,59.0,51.0,True,False,afternoon,14.25,24,2,2025
+116,2792,29.0,male,serious,False,,,61.0,2025-02-24 14:15:00,collision,Hamrun,16.0,0.2,5.2,59.0,51.0,True,False,afternoon,14.25,24,2,2025
+117,2792,50.0,female,serious,True,car,,61.0,2025-02-24 14:15:00,collision,Hamrun,16.0,0.2,5.2,59.0,51.0,True,False,afternoon,14.25,24,2,2025
+118,2745,23.0,male,serious,True,motorcycle,,62.0,2025-02-24 23:00:00,collision,Hamrun,11.2,0.0,4.0,0.0,0.0,True,False,night,23.0,24,2,2025
+120,2666,,male,serious,True,motorcycle,,63.0,2025-03-03 07:00:00,motorcycle_fall,Marsa,14.5,0.0,23.8,15.0,0.0,True,False,morning,7.0,3,3,2025
+121,2658,75.0,male,serious,True,car,,64.0,2025-03-03 07:00:00,collision,Imgarr,14.0,0.0,23.8,13.0,0.0,True,False,morning,7.0,3,3,2025
+122,2557,56.0,female,none,True,car,,65.0,2025-03-08 19:30:00,collision,St Paul's Bay,14.8,0.0,11.3,21.0,1.0,False,False,evening,19.5,8,3,2025
+123,2492,45.0,male,none,True,bus,,66.0,2025-03-13 14:45:00,collision,Zebbug,15.5,0.0,16.6,0.0,0.0,True,False,afternoon,14.75,13,3,2025
+124,2492,35.0,male,serious,True,car,,66.0,2025-03-13 14:45:00,collision,Zebbug,15.5,0.0,16.6,0.0,0.0,True,False,afternoon,14.75,13,3,2025
+125,2452,35.0,male,serious,True,truck,,67.0,2025-03-14 15:30:00,collision,Buqana,21.4,0.0,25.3,95.0,3.0,True,False,afternoon,15.5,14,3,2025
+126,2461,34.0,male,none,True,car,,68.0,2025-03-14 22:30:00,collision,Ghajn,19.5,0.0,23.9,0.0,0.0,True,False,night,22.5,14,3,2025
+127,2461,39.0,male,minor,True,car,,68.0,2025-03-14 22:30:00,collision,Ghajn,19.5,0.0,23.9,0.0,0.0,True,False,night,22.5,14,3,2025
+128,2461,24.0,female,none,False,car,,68.0,2025-03-14 22:30:00,collision,Ghajn,19.5,0.0,23.9,0.0,0.0,True,False,night,22.5,14,3,2025
+129,2419,68.0,male,minor,False,,,69.0,2025-03-16 08:00:00,collision,Zebbug,14.8,0.0,34.2,0.0,0.0,False,False,morning,8.0,16,3,2025
+130,2419,59.0,male,none,True,car,,69.0,2025-03-16 08:00:00,collision,Zebbug,14.8,0.0,34.2,0.0,0.0,False,False,morning,8.0,16,3,2025
+131,2419,64.0,female,serious,False,,,69.0,2025-03-16 08:00:00,collision,Zebbug,14.8,0.0,34.2,0.0,0.0,False,False,morning,8.0,16,3,2025
+132,2409,40.0,male,serious,True,motorcycle,,70.0,2025-03-16 08:00:00,motorcycle_fall,Naxxar,15.8,0.0,23.3,0.0,0.0,False,False,morning,8.0,16,3,2025
+133,2301,32.0,male,serious,True,motorcycle,,71.0,2025-03-22 05:45:00,collision,Ghajnsielem,15.1,0.0,27.7,1.0,0.0,False,False,morning,5.75,22,3,2025
+134,2301,31.0,male,none,True,bus,,71.0,2025-03-22 05:45:00,collision,Ghajnsielem,15.1,0.0,27.7,1.0,0.0,False,False,morning,5.75,22,3,2025
+135,2259,43.0,female,serious,True,car,,72.0,2025-03-22 13:30:00,collision,Nadur,17.0,0.0,30.0,0.0,0.0,False,False,afternoon,13.5,22,3,2025
+136,2259,26.0,male,none,True,truck,,72.0,2025-03-22 13:30:00,collision,Nadur,17.0,0.0,30.0,0.0,0.0,False,False,afternoon,13.5,22,3,2025
+689,2201,,,none,True,motorcycle,,73.0,2025-03-26 00:00:00,unknown,Siggiewi,15.4,0.0,1.3,100.0,3.0,True,False,,,26,3,2025
+690,2201,,,none,False,,,73.0,2025-03-26 00:00:00,unknown,Siggiewi,15.4,0.0,1.3,100.0,3.0,True,False,,,26,3,2025
+137,2201,,,none,True,unknown,,73.0,2025-03-26 00:00:00,unknown,Siggiewi,15.4,0.0,1.3,100.0,3.0,True,False,,,26,3,2025
+138,2157,33.0,male,serious,True,bicycle,,74.0,2025-03-28 10:45:00,collision,San Gwann,15.7,0.1,32.1,19.0,51.0,True,False,morning,10.75,28,3,2025
+139,2157,32.0,male,none,True,truck,,74.0,2025-03-28 10:45:00,collision,San Gwann,15.7,0.1,32.1,19.0,51.0,True,False,morning,10.75,28,3,2025
+140,2080,87.0,female,serious,False,,,75.0,2025-04-01 09:00:00,collision,Naxxar,13.3,0.1,14.3,40.0,51.0,True,False,morning,9.0,1,4,2025
+142,2080,30.0,male,none,True,car,,75.0,2025-04-01 09:00:00,collision,Naxxar,13.3,0.1,14.3,40.0,51.0,True,False,morning,9.0,1,4,2025
+143,2101,48.0,male,none,True,car,,76.0,2025-04-01 00:00:00,collision,St Paul's Bay,13.8,0.8,15.9,66.0,53.0,True,False,,,1,4,2025
+144,2101,45.0,female,fatal,False,,,76.0,2025-04-01 00:00:00,collision,St Paul's Bay,13.8,0.8,15.9,66.0,53.0,True,False,,,1,4,2025
+146,1989,31.0,,serious,True,motorcycle,,77.0,2025-04-06 08:30:00,collision,Attard,16.6,0.1,13.9,100.0,51.0,False,False,morning,8.5,6,4,2025
+147,1989,19.0,female,none,True,car,,77.0,2025-04-06 08:30:00,collision,Attard,16.6,0.1,13.9,100.0,51.0,False,False,morning,8.5,6,4,2025
+148,1967,41.0,male,serious,True,motorcycle,,78.0,2025-04-06 20:45:00,collision,Buqana,15.3,0.0,16.0,92.0,3.0,False,False,evening,20.75,6,4,2025
+149,1967,25.0,male,none,True,car,,78.0,2025-04-06 20:45:00,collision,Buqana,15.3,0.0,16.0,92.0,3.0,False,False,evening,20.75,6,4,2025
+150,1856,39.0,male,minor,True,bus,,79.0,2025-04-07 08:55:00,collision,Zurrieq,15.0,0.1,23.7,93.0,51.0,True,False,morning,8.916666666666666,7,4,2025
+691,1856,79.0,,minor,False,bus,,79.0,2025-04-07 08:55:00,collision,Zurrieq,15.0,0.1,23.7,93.0,51.0,True,False,morning,8.916666666666666,7,4,2025
+692,1856,79.0,,minor,False,bus,,79.0,2025-04-07 08:55:00,collision,Zurrieq,15.0,0.1,23.7,93.0,51.0,True,False,morning,8.916666666666666,7,4,2025
+693,1856,79.0,,minor,False,bus,,79.0,2025-04-07 08:55:00,collision,Zurrieq,15.0,0.1,23.7,93.0,51.0,True,False,morning,8.916666666666666,7,4,2025
+151,1856,81.0,male,minor,True,car,,79.0,2025-04-07 08:55:00,collision,Zurrieq,15.0,0.1,23.7,93.0,51.0,True,False,morning,8.916666666666666,7,4,2025
+152,1856,80.0,female,serious,False,car,,79.0,2025-04-07 08:55:00,collision,Zurrieq,15.0,0.1,23.7,93.0,51.0,True,False,morning,8.916666666666666,7,4,2025
+153,1860,41.0,male,serious,True,car,,80.0,2025-04-13 17:45:00,collision,Gudja,16.8,0.0,22.5,100.0,3.0,False,False,evening,17.75,13,4,2025
+154,1860,36.0,female,none,True,car,,80.0,2025-04-13 17:45:00,collision,Gudja,16.8,0.0,22.5,100.0,3.0,False,False,evening,17.75,13,4,2025
+155,1808,36.0,male,serious,True,motorcycle,,81.0,2025-04-15 12:50:00,collision,Marsa,22.5,0.0,23.0,79.0,2.0,True,False,afternoon,12.833333333333334,15,4,2025
+156,1808,52.0,male,none,True,van,,81.0,2025-04-15 12:50:00,collision,Marsa,22.5,0.0,23.0,79.0,2.0,True,False,afternoon,12.833333333333334,15,4,2025
+157,1808,53.0,male,none,True,car,,81.0,2025-04-15 12:50:00,collision,Marsa,22.5,0.0,23.0,79.0,2.0,True,False,afternoon,12.833333333333334,15,4,2025
+158,1776,79.0,male,serious,True,motorcycle,,82.0,2025-04-17 09:30:00,collision,Zejtun,17.2,0.0,21.4,6.0,0.0,True,False,morning,9.5,17,4,2025
+159,1776,46.0,male,none,True,car,,82.0,2025-04-17 09:30:00,collision,Zejtun,17.2,0.0,21.4,6.0,0.0,True,False,morning,9.5,17,4,2025
+160,1769,80.0,male,serious,False,,,83.0,2025-04-17 13:00:00,collision,Luqa,17.5,0.0,21.9,90.0,3.0,True,False,afternoon,13.0,17,4,2025
+161,1769,22.0,male,none,True,car,,83.0,2025-04-17 13:00:00,collision,Luqa,17.5,0.0,21.9,90.0,3.0,True,False,afternoon,13.0,17,4,2025
+162,1745,46.0,,serious,False,,,84.0,2025-04-18 09:45:00,collision,Mosta,18.4,0.0,17.6,93.0,3.0,True,False,morning,9.75,18,4,2025
+163,1718,31.0,female,none,True,car,,85.0,2025-04-18 13:30:00,collision,St Paul's Bay,19.3,0.0,17.3,72.0,2.0,True,False,afternoon,13.5,18,4,2025
+164,1718,72.0,male,serious,True,motorcycle,,85.0,2025-04-18 13:30:00,collision,St Paul's Bay,19.3,0.0,17.3,72.0,2.0,True,False,afternoon,13.5,18,4,2025
+165,1490,63.0,male,serious,True,motorcycle,,86.0,2025-05-02 15:30:00,collision,Gharb,17.5,0.0,10.8,0.0,0.0,True,False,afternoon,15.5,2,5,2025
+166,1490,54.0,male,none,True,unknown,,86.0,2025-05-02 15:30:00,collision,Gharb,17.5,0.0,10.8,0.0,0.0,True,False,afternoon,15.5,2,5,2025
+167,1489,74.0,male,none,True,car,,87.0,2025-05-02 17:00:00,collision,Xaghra,17.6,0.0,12.1,0.0,0.0,True,False,evening,17.0,2,5,2025
+168,1489,73.0,female,serious,False,,,87.0,2025-05-02 17:00:00,collision,Xaghra,17.6,0.0,12.1,0.0,0.0,True,False,evening,17.0,2,5,2025
+169,1489,33.0,male,none,True,car,,87.0,2025-05-02 17:00:00,collision,Xaghra,17.6,0.0,12.1,0.0,0.0,True,False,evening,17.0,2,5,2025
+170,1467,43.0,male,none,True,motorcycle,,88.0,2025-05-04 14:30:00,collision,Marsa,24.5,0.0,14.4,100.0,3.0,False,False,afternoon,14.5,4,5,2025
+171,1380,34.0,,serious,True,motorcycle,,89.0,2025-05-07 13:15:00,collision,Ghar,24.5,0.0,11.2,100.0,3.0,True,False,afternoon,13.25,7,5,2025
+172,1380,23.0,,none,True,van,,89.0,2025-05-07 13:15:00,collision,Ghar,24.5,0.0,11.2,100.0,3.0,True,False,afternoon,13.25,7,5,2025
+173,1352,39.0,male,serious,True,motorcycle,,90.0,2025-05-09 00:00:00,collision,Siggiewi,19.5,0.0,19.6,6.0,0.0,True,False,,,9,5,2025
+174,1286,29.0,,serious,True,,,91.0,2025-05-12 08:00:00,collision,Wied,20.1,0.0,17.4,58.0,2.0,True,False,morning,8.0,12,5,2025
+175,1286,34.0,male,none,True,van,,91.0,2025-05-12 08:00:00,collision,Wied,20.1,0.0,17.4,58.0,2.0,True,False,morning,8.0,12,5,2025
+177,1275,54.0,female,none,True,car,,92.0,2025-05-12 09:45:00,unknown,Sliema,21.8,0.0,19.3,0.0,0.0,True,False,morning,9.75,12,5,2025
+178,1275,62.0,,none,True,motorcycle,,92.0,2025-05-12 09:45:00,unknown,Sliema,21.8,0.0,19.3,0.0,0.0,True,False,morning,9.75,12,5,2025
+179,1227,22.0,female,serious,True,motorcycle,,93.0,2025-05-14 17:45:00,collision,Santa Venera,20.0,0.0,19.6,100.0,3.0,True,False,evening,17.75,14,5,2025
+180,1227,19.0,female,none,True,car,,93.0,2025-05-14 17:45:00,collision,Santa Venera,20.0,0.0,19.6,100.0,3.0,True,False,evening,17.75,14,5,2025
+694,1165,,,serious,True,car,,94.0,2025-05-17 18:30:00,collision,Mellieha,18.3,0.0,16.2,0.0,0.0,False,False,evening,18.5,17,5,2025
+181,1165,,female,minor,True,car,,94.0,2025-05-17 18:30:00,collision,Mellieha,18.3,0.0,16.2,0.0,0.0,False,False,evening,18.5,17,5,2025
+182,1034,29.0,male,serious,True,car,,95.0,2025-05-22 08:00:00,collision,Ghajn,21.1,0.1,13.3,80.0,51.0,True,False,morning,8.0,22,5,2025
+183,1015,37.0,male,serious,True,motorcycle,,96.0,2025-05-24 07:15:00,collision,Marsa,20.3,0.0,8.6,0.0,0.0,False,False,morning,7.25,24,5,2025
+184,1015,65.0,male,none,True,car,,96.0,2025-05-24 07:15:00,collision,Marsa,20.3,0.0,8.6,0.0,0.0,False,False,morning,7.25,24,5,2025
+185,974,5.0,male,serious,False,,,97.0,2025-05-25 13:15:00,collision,Bugibba,22.3,0.0,23.8,4.0,0.0,False,False,afternoon,13.25,25,5,2025
+186,974,22.0,male,none,True,car,,97.0,2025-05-25 13:15:00,collision,Bugibba,22.3,0.0,23.8,4.0,0.0,False,False,afternoon,13.25,25,5,2025
+187,964,35.0,male,fatal,True,car,,98.0,2025-05-27 17:20:00,collision,Xemxija,21.7,0.0,18.6,0.0,0.0,True,False,evening,17.333333333333332,27,5,2025
+188,933,35.0,male,fatal,True,motorcycle,,99.0,2025-05-27 12:30:00,motorcycle_fall,Xemxija,22.8,0.0,19.6,0.0,0.0,True,False,afternoon,12.5,27,5,2025
+189,760,62.0,,serious,True,car,,100.0,2025-06-03 04:30:00,collision,Rabat,17.3,0.0,8.3,3.0,0.0,True,False,night,4.5,3,6,2025
+190,751,21.0,male,serious,True,motorcycle,,101.0,2025-06-04 21:00:00,collision,St Paul's Bay,22.0,0.0,15.5,0.0,0.0,True,False,night,21.0,4,6,2025
+191,751,,,none,True,unknown,,101.0,2025-06-04 21:00:00,collision,St Paul's Bay,22.0,0.0,15.5,0.0,0.0,True,False,night,21.0,4,6,2025
+192,685,22.0,female,serious,True,car,,102.0,2025-06-06 20:30:00,collision,St Paul's Bay,22.1,0.0,2.9,0.0,0.0,True,False,evening,20.5,6,6,2025
+193,685,21.0,male,minor,False,car,,102.0,2025-06-06 20:30:00,collision,St Paul's Bay,22.1,0.0,2.9,0.0,0.0,True,False,evening,20.5,6,6,2025
+194,685,2.0,,minor,False,car,,102.0,2025-06-06 20:30:00,collision,St Paul's Bay,22.1,0.0,2.9,0.0,0.0,True,False,evening,20.5,6,6,2025
+695,685,,male,none,True,car,,102.0,2025-06-06 20:30:00,collision,St Paul's Bay,22.1,0.0,2.9,0.0,0.0,True,False,evening,20.5,6,6,2025
+696,685,,male,serious,False,car,,102.0,2025-06-06 20:30:00,collision,St Paul's Bay,22.1,0.0,2.9,0.0,0.0,True,False,evening,20.5,6,6,2025
+195,679,39.0,male,serious,True,motorcycle,,103.0,2025-06-06 17:30:00,collision,Xewkija,21.4,0.0,13.6,0.0,0.0,True,False,evening,17.5,6,6,2025
+196,679,36.0,female,none,True,car,,103.0,2025-06-06 17:30:00,collision,Xewkija,21.4,0.0,13.6,0.0,0.0,True,False,evening,17.5,6,6,2025
+197,640,43.0,male,fatal,True,motorcycle,,104.0,2025-06-07 17:00:00,collision,,23.1,0.0,6.9,100.0,3.0,False,True,evening,17.0,7,6,2025
+198,654,67.0,male,fatal,True,motorcycle,,107.0,2025-06-08 00:00:00,collision,,23.1,0.0,9.8,100.0,3.0,False,False,,,8,6,2025
+199,607,67.0,,fatal,True,bicycle,,108.0,2025-06-12 15:10:00,collision,Zejtun,30.5,0.0,7.1,0.0,0.0,True,False,afternoon,15.166666666666666,12,6,2025
+697,607,,,none,True,van,,108.0,2025-06-12 15:10:00,collision,Zejtun,30.5,0.0,7.1,0.0,0.0,True,False,afternoon,15.166666666666666,12,6,2025
+698,607,,,none,True,car,,108.0,2025-06-12 15:10:00,collision,Zejtun,30.5,0.0,7.1,0.0,0.0,True,False,afternoon,15.166666666666666,12,6,2025
+200,522,64.0,male,serious,True,motorcycle,,109.0,2025-06-13 22:00:00,collision,Xaghra,23.5,0.0,6.8,0.0,0.0,True,False,night,22.0,13,6,2025
+201,404,39.0,male,none,True,car,,110.0,2025-06-19 18:13:00,collision,Luqa,26.2,0.0,3.2,14.0,0.0,True,False,evening,18.216666666666665,19,6,2025
+202,404,53.0,male,serious,True,motorcycle,,110.0,2025-06-19 18:13:00,collision,Luqa,26.2,0.0,3.2,14.0,0.0,True,False,evening,18.216666666666665,19,6,2025
+203,404,32.0,,fatal,True,,,110.0,2025-06-19 18:13:00,collision,Luqa,26.2,0.0,3.2,14.0,0.0,True,False,evening,18.216666666666665,19,6,2025
+204,404,53.0,,none,True,,,110.0,2025-06-19 18:13:00,collision,Luqa,26.2,0.0,3.2,14.0,0.0,True,False,evening,18.216666666666665,19,6,2025
+205,404,,female,serious,False,,,110.0,2025-06-19 18:13:00,collision,Luqa,26.2,0.0,3.2,14.0,0.0,True,False,evening,18.216666666666665,19,6,2025
+206,407,53.0,male,none,True,bus,,111.0,2025-06-19 06:30:00,collision,Zejtun,24.8,0.0,7.3,0.0,0.0,True,False,morning,6.5,19,6,2025
+207,408,28.0,female,serious,False,car,,112.0,2025-06-18 20:13:00,collision,Zebbug,23.9,0.0,12.4,1.0,0.0,True,False,evening,20.216666666666665,18,6,2025
+208,408,57.0,male,serious,True,car,,112.0,2025-06-18 20:13:00,collision,Zebbug,23.9,0.0,12.4,1.0,0.0,True,False,evening,20.216666666666665,18,6,2025
+209,408,32.0,male,fatal,True,car,,112.0,2025-06-18 20:13:00,collision,Zebbug,23.9,0.0,12.4,1.0,0.0,True,False,evening,20.216666666666665,18,6,2025
+210,416,57.0,female,serious,False,pedestrian,,113.0,2025-06-19 13:15:00,unknown,Floriana,28.5,0.0,6.1,33.0,1.0,True,False,afternoon,13.25,19,6,2025
+211,416,52.0,male,none,True,car,,113.0,2025-06-19 13:15:00,unknown,Floriana,28.5,0.0,6.1,33.0,1.0,True,False,afternoon,13.25,19,6,2025
+699,381,23.0,male,serious,True,motorcycle,,114.0,2025-06-19 18:30:00,collision,Gudja,25.3,0.0,5.0,54.0,2.0,True,False,evening,18.5,19,6,2025
+212,381,53.0,,serious,True,motorcycle,,115.0,2025-06-20 08:00:00,collision,Zejtun,25.1,0.0,4.3,15.0,0.0,True,False,morning,8.0,20,6,2025
+213,381,64.0,male,none,True,car,,114.0,2025-06-19 18:30:00,collision,Gudja,25.3,0.0,5.0,54.0,2.0,True,False,evening,18.5,19,6,2025
+214,381,57.0,female,none,False,,,115.0,2025-06-20 08:00:00,collision,Zejtun,25.1,0.0,4.3,15.0,0.0,True,False,morning,8.0,20,6,2025
+215,370,32.0,male,fatal,False,,,116.0,2025-06-18 21:00:00,unknown,Zebbug,23.9,0.0,9.6,1.0,0.0,True,False,night,21.0,18,6,2025
+216,361,57.0,female,fatal,False,,,117.0,2025-06-21 13:15:00,unknown,Floriana,29.0,0.0,11.8,1.0,0.0,False,False,afternoon,13.25,21,6,2025
+217,361,52.0,male,none,True,car,,117.0,2025-06-21 13:15:00,unknown,Floriana,29.0,0.0,11.8,1.0,0.0,False,False,afternoon,13.25,21,6,2025
+218,313,23.0,female,minor,True,car,,118.0,2025-06-23 08:45:00,collision,Tal-Qroqq,28.3,0.0,9.2,0.0,0.0,True,False,morning,8.75,23,6,2025
+219,287,,male,,True,motorcycle,,119.0,2025-06-25 07:00:00,collision,Sliema,26.5,0.0,13.0,0.0,0.0,True,False,morning,7.0,25,6,2025
+700,287,,female,,False,motorcycle,,119.0,2025-06-25 07:00:00,collision,Sliema,26.5,0.0,13.0,0.0,0.0,True,False,morning,7.0,25,6,2025
+220,287,34.0,female,none,True,car,,119.0,2025-06-25 07:00:00,collision,Sliema,26.5,0.0,13.0,0.0,0.0,True,False,morning,7.0,25,6,2025
+221,113265,46.0,male,serious,True,motorcycle,,120.0,2025-07-05 11:00:00,collision,Mellieha,31.3,0.0,10.1,8.0,0.0,False,False,morning,11.0,5,7,2025
+222,113265,23.0,male,none,True,car,,120.0,2025-07-05 11:00:00,collision,Mellieha,31.3,0.0,10.1,8.0,0.0,False,False,morning,11.0,5,7,2025
+223,190828,30.0,male,serious,True,motorcycle,,121.0,2025-07-06 00:00:00,collision,Mosta,25.1,0.0,0.2,0.0,0.0,False,False,,,6,7,2025
+224,190828,34.0,female,none,True,car,,121.0,2025-07-06 00:00:00,collision,Mosta,25.1,0.0,0.2,0.0,0.0,False,False,,,6,7,2025
+225,139548,45.0,male,serious,True,motorcycle,,122.0,2025-07-09 18:00:00,collision,Mosta,26.8,0.0,25.2,0.0,0.0,True,False,evening,18.0,9,7,2025
+226,139548,40.0,female,none,True,car,,122.0,2025-07-09 18:00:00,collision,Mosta,26.8,0.0,25.2,0.0,0.0,True,False,evening,18.0,9,7,2025
+228,102356,46.0,male,none,True,truck,,123.0,2025-07-14 00:00:00,collision,Bidnija,25.0,0.0,9.7,0.0,0.0,True,False,,,14,7,2025
+230,220724,30.0,,serious,True,motorcycle,,124.0,2025-07-14 11:00:00,collision,Marsaxlokk,32.7,0.0,8.9,0.0,0.0,True,False,morning,11.0,14,7,2025
+231,220724,35.0,,none,False,,,124.0,2025-07-14 11:00:00,collision,Marsaxlokk,32.7,0.0,8.9,0.0,0.0,True,False,morning,11.0,14,7,2025
+232,167578,32.0,male,none,True,car,,125.0,2025-07-15 00:00:00,collision,St Paul's Bay,26.2,0.0,12.6,0.0,0.0,True,False,,,15,7,2025
+233,167578,,female,serious,False,pedestrian,,125.0,2025-07-15 00:00:00,collision,St Paul's Bay,26.2,0.0,12.6,0.0,0.0,True,False,,,15,7,2025
+235,141175,45.0,female,serious,True,motorcycle,,126.0,2025-07-17 13:15:00,collision,Gzira,29.2,0.0,21.2,0.0,0.0,True,False,afternoon,13.25,17,7,2025
+236,141175,24.0,female,none,True,car,,126.0,2025-07-17 13:15:00,collision,Gzira,29.2,0.0,21.2,0.0,0.0,True,False,afternoon,13.25,17,7,2025
+237,130030,70.0,female,serious,True,car,,127.0,2025-07-16 17:00:00,collision,L-Imqabba,28.7,0.0,12.2,1.0,0.0,True,False,evening,17.0,16,7,2025
+238,226588,17.0,male,serious,True,motorcycle,,128.0,2025-07-17 22:15:00,collision,Birkirkara,25.1,0.0,18.2,0.0,0.0,True,False,night,22.25,17,7,2025
+239,226588,41.0,,none,True,car,,128.0,2025-07-17 22:15:00,collision,Birkirkara,25.1,0.0,18.2,0.0,0.0,True,False,night,22.25,17,7,2025
+243,450477,16.0,male,serious,True,bicycle,,132.0,2025-07-19 00:00:00,collision,Buqana,24.2,0.0,2.3,0.0,0.0,False,False,,,19,7,2025
+244,297729,22.0,male,none,True,motorcycle,,133.0,2025-07-20 12:30:00,collision,Swieqi,30.3,0.0,10.7,0.0,0.0,False,False,afternoon,12.5,20,7,2025
+245,297729,,male,none,True,van,,133.0,2025-07-20 12:30:00,collision,Swieqi,30.3,0.0,10.7,0.0,0.0,False,False,afternoon,12.5,20,7,2025
+246,353524,,male,fatal,False,pedestrian,,134.0,2025-07-23 00:00:00,collision,Wied,27.9,0.0,19.1,0.0,0.0,True,False,,,23,7,2025
+247,353524,83.0,male,none,True,car,,134.0,2025-07-23 00:00:00,collision,Wied,27.9,0.0,19.1,0.0,0.0,True,False,,,23,7,2025
+249,353518,81.0,male,serious,True,car,,135.0,2025-07-23 10:30:00,collision,Mosta,33.7,0.0,3.6,0.0,0.0,True,False,morning,10.5,23,7,2025
+250,353518,79.0,female,fatal,False,,,135.0,2025-07-23 10:30:00,collision,Mosta,33.7,0.0,3.6,0.0,0.0,True,False,morning,10.5,23,7,2025
+251,353518,24.0,male,none,True,van,,135.0,2025-07-23 10:30:00,collision,Mosta,33.7,0.0,3.6,0.0,0.0,True,False,morning,10.5,23,7,2025
+252,353565,65.0,male,serious,True,motorcycle,,136.0,2025-07-24 10:15:00,collision,Naxxar,33.4,0.0,6.8,0.0,0.0,True,False,morning,10.25,24,7,2025
+253,353525,40.0,male,serious,True,motorcycle,,137.0,2025-07-24 04:30:00,rollover,Tarxien,24.6,0.0,3.3,2.0,0.0,True,False,night,4.5,24,7,2025
+254,353525,33.0,female,serious,False,,,137.0,2025-07-24 04:30:00,rollover,Tarxien,24.6,0.0,3.3,2.0,0.0,True,False,night,4.5,24,7,2025
+255,386207,27.0,male,fatal,True,motorcycle,,138.0,2025-07-26 01:00:00,collision,Pembroke,29.1,0.0,14.6,0.0,0.0,False,False,night,1.0,26,7,2025
+256,386207,22.0,male,none,True,car,,138.0,2025-07-26 01:00:00,collision,Pembroke,29.1,0.0,14.6,0.0,0.0,False,False,night,1.0,26,7,2025
+257,386270,71.0,female,fatal,True,car,,139.0,2025-07-27 18:35:00,collision,Fgura,26.1,0.0,26.8,0.0,0.0,False,False,evening,18.583333333333332,27,7,2025
+258,386270,23.0,female,serious,True,car,,139.0,2025-07-27 18:35:00,collision,Fgura,26.1,0.0,26.8,0.0,0.0,False,False,evening,18.583333333333332,27,7,2025
+259,450529,34.0,,,True,motorcycle,,140.0,2025-07-27 11:45:00,collision,Sliema,28.7,0.0,32.0,0.0,0.0,False,False,morning,11.75,27,7,2025
+260,450529,71.0,male,none,True,car,,140.0,2025-07-27 11:45:00,collision,Sliema,28.7,0.0,32.0,0.0,0.0,False,False,morning,11.75,27,7,2025
+261,386182,62.0,female,fatal,False,,,142.0,2025-07-27 19:30:00,collision,Pieta,26.0,0.0,28.9,0.0,0.0,False,False,evening,19.5,27,7,2025
+262,386182,58.0,male,fatal,True,motorcycle,,142.0,2025-07-27 19:30:00,collision,Pieta,26.0,0.0,28.9,0.0,0.0,False,False,evening,19.5,27,7,2025
+263,386182,23.0,male,none,True,car,,143.0,2025-07-28 22:00:00,collision,Valletta,25.4,0.0,29.5,0.0,0.0,True,False,night,22.0,28,7,2025
+264,386182,69.0,male,minor,True,car,,143.0,2025-07-28 22:00:00,collision,Valletta,25.4,0.0,29.5,0.0,0.0,True,False,night,22.0,28,7,2025
+265,386315,62.0,female,fatal,False,,,144.0,2025-07-27 22:00:00,collision,Hamrun,25.6,0.0,28.7,0.0,0.0,False,False,night,22.0,27,7,2025
+266,386315,23.0,male,none,True,car,,144.0,2025-07-27 22:00:00,collision,Hamrun,25.6,0.0,28.7,0.0,0.0,False,False,night,22.0,27,7,2025
+267,386315,23.0,female,serious,True,unknown,,146.0,2025-07-28 15:30:00,collision,Fgura,27.8,0.0,33.8,0.0,0.0,True,False,afternoon,15.5,28,7,2025
+268,451726,63.0,male,fatal,False,,,147.0,2025-07-29 13:45:00,collision,Naxxar,27.2,0.0,26.7,0.0,0.0,True,False,afternoon,13.75,29,7,2025
+269,451726,27.0,,fatal,True,motorcycle,,148.0,2025-07-26 08:00:00,collision,Pembroke,32.6,0.0,4.5,4.0,0.0,False,False,morning,8.0,26,7,2025
+270,451726,,female,fatal,False,,,148.0,2025-07-26 08:00:00,collision,Pembroke,32.6,0.0,4.5,4.0,0.0,False,False,morning,8.0,26,7,2025
+271,467167,23.0,male,none,True,car,drunk,149.0,2025-07-30 09:15:00,collision,Floriana,26.3,0.0,18.3,24.0,1.0,True,False,morning,9.25,30,7,2025
+272,467167,62.0,female,fatal,False,,,149.0,2025-07-30 09:15:00,collision,Floriana,26.3,0.0,18.3,24.0,1.0,True,False,morning,9.25,30,7,2025
+273,467167,69.0,male,none,False,car,,149.0,2025-07-30 09:15:00,collision,Floriana,26.3,0.0,18.3,24.0,1.0,True,False,morning,9.25,30,7,2025
+274,467110,29.0,male,serious,True,motorcycle,,150.0,2025-07-29 18:00:00,unknown,Hal Ghaxaq,25.3,0.0,26.6,0.0,0.0,True,False,evening,18.0,29,7,2025
+275,467110,42.0,male,none,True,car,,150.0,2025-07-29 18:00:00,unknown,Hal Ghaxaq,25.3,0.0,26.6,0.0,0.0,True,False,evening,18.0,29,7,2025
+282,489339,67.0,male,none,True,motorcycle,,152.0,2025-08-04 18:40:00,collision,Marsa,25.9,0.0,14.4,0.0,0.0,True,False,evening,18.666666666666668,4,8,2025
+283,489339,79.0,female,none,True,car,,152.0,2025-08-04 18:40:00,collision,Marsa,25.9,0.0,14.4,0.0,0.0,True,False,evening,18.666666666666668,4,8,2025
+284,489475,77.0,male,serious,False,,,153.0,2025-08-04 15:30:00,collision,Fgura,28.2,0.0,20.9,0.0,0.0,True,False,afternoon,15.5,4,8,2025
+285,489475,71.0,female,fatal,True,car,,153.0,2025-08-04 15:30:00,collision,Fgura,28.2,0.0,20.9,0.0,0.0,True,False,afternoon,15.5,4,8,2025
+286,489475,23.0,female,serious,False,car,,153.0,2025-08-04 15:30:00,collision,Fgura,28.2,0.0,20.9,0.0,0.0,True,False,afternoon,15.5,4,8,2025
+287,489475,42.0,female,none,True,car,,153.0,2025-08-04 15:30:00,collision,Fgura,28.2,0.0,20.9,0.0,0.0,True,False,afternoon,15.5,4,8,2025
+701,489475,14.0,male,,False,car,,153.0,2025-08-04 15:30:00,collision,Fgura,28.2,0.0,20.9,0.0,0.0,True,False,afternoon,15.5,4,8,2025
+702,489475,11.0,male,,False,car,,153.0,2025-08-04 15:30:00,collision,Fgura,28.2,0.0,20.9,0.0,0.0,True,False,afternoon,15.5,4,8,2025
+288,489370,67.0,male,serious,True,motorcycle,,154.0,2025-08-04 15:30:00,collision,Marsa,28.2,0.0,20.9,0.0,0.0,True,False,afternoon,15.5,4,8,2025
+289,489370,28.0,male,serious,True,car,,155.0,2025-08-05 17:00:00,collision,Mosta,25.9,0.0,16.1,1.0,0.0,True,False,evening,17.0,5,8,2025
+290,489370,79.0,female,none,True,car,,154.0,2025-08-04 15:30:00,collision,Marsa,28.2,0.0,20.9,0.0,0.0,True,False,afternoon,15.5,4,8,2025
+291,489370,36.0,female,none,True,car,,155.0,2025-08-05 17:00:00,collision,Mosta,25.9,0.0,16.1,1.0,0.0,True,False,evening,17.0,5,8,2025
+292,489720,8.0,,serious,False,motorcycle,,157.0,2025-08-07 00:00:00,collision,Kirkop,23.6,0.0,6.2,0.0,0.0,True,False,,,7,8,2025
+293,489720,48.0,,serious,True,motorcycle,,156.0,2025-08-06 00:00:00,collision,Naxxar,24.0,0.0,12.2,0.0,0.0,True,False,,,6,8,2025
+294,489720,60.0,,none,True,car,,156.0,2025-08-06 00:00:00,collision,Naxxar,24.0,0.0,12.2,0.0,0.0,True,False,,,6,8,2025
+295,489720,23.0,male,none,True,van,,157.0,2025-08-07 00:00:00,collision,Kirkop,23.6,0.0,6.2,0.0,0.0,True,False,,,7,8,2025
+296,489720,45.0,male,serious,True,motorcycle,,157.0,2025-08-07 00:00:00,collision,Kirkop,23.6,0.0,6.2,0.0,0.0,True,False,,,7,8,2025
+297,489728,8.0,,serious,False,motorcycle,,159.0,2025-08-07 00:00:00,collision,Bormla,23.9,0.0,6.2,0.0,0.0,True,False,,,7,8,2025
+298,489728,48.0,,serious,True,motorcycle,,158.0,2025-08-06 00:00:00,collision,Naxxar,24.0,0.0,12.2,0.0,0.0,True,False,,,6,8,2025
+299,489728,60.0,,none,True,car,,158.0,2025-08-06 00:00:00,collision,Naxxar,24.0,0.0,12.2,0.0,0.0,True,False,,,6,8,2025
+300,489728,23.0,male,none,True,van,,159.0,2025-08-07 00:00:00,collision,Bormla,23.9,0.0,6.2,0.0,0.0,True,False,,,7,8,2025
+301,489728,45.0,male,serious,True,motorcycle,,159.0,2025-08-07 00:00:00,collision,Bormla,23.9,0.0,6.2,0.0,0.0,True,False,,,7,8,2025
+302,489733,,,,True,car,,160.0,2025-08-07 09:56:00,collision,Santa Venera,28.7,0.0,8.5,0.0,0.0,True,False,morning,9.933333333333334,7,8,2025
+303,490010,25.0,female,minor,True,car,,161.0,2025-08-09 07:30:00,rollover,San Gwann,28.1,0.0,11.9,0.0,0.0,False,False,morning,7.5,9,8,2025
+304,489990,42.0,male,minor,True,car,,162.0,2025-08-07 08:00:00,collision,Santa Venera,26.4,0.0,10.2,3.0,0.0,True,False,morning,8.0,7,8,2025
+306,489878,42.0,male,fatal,True,motorcycle,,163.0,2025-08-10 17:42:00,collision,Birkirkara,28.8,0.0,7.1,0.0,0.0,False,False,evening,17.7,10,8,2025
+307,489878,17.0,,none,True,car,,163.0,2025-08-10 17:42:00,collision,Birkirkara,28.8,0.0,7.1,0.0,0.0,False,False,evening,17.7,10,8,2025
+309,489889,42.0,male,fatal,True,motorcycle,,164.0,2025-08-10 12:30:00,collision,Birkirkara,31.5,0.0,11.7,0.0,0.0,False,False,afternoon,12.5,10,8,2025
+310,489889,17.0,,none,True,car,,164.0,2025-08-10 12:30:00,collision,Birkirkara,31.5,0.0,11.7,0.0,0.0,False,False,afternoon,12.5,10,8,2025
+311,489889,18.0,female,serious,False,,,164.0,2025-08-10 12:30:00,collision,Birkirkara,31.5,0.0,11.7,0.0,0.0,False,False,afternoon,12.5,10,8,2025
+312,489884,72.0,male,serious,False,,,165.0,2025-08-10 09:00:00,collision,Floriana,31.0,0.0,5.8,0.0,0.0,False,False,morning,9.0,10,8,2025
+313,489884,78.0,male,none,True,van,,165.0,2025-08-10 09:00:00,collision,Floriana,31.0,0.0,5.8,0.0,0.0,False,False,morning,9.0,10,8,2025
+314,490008,42.0,male,minor,True,car,drunk,166.0,2025-08-10 08:00:00,collision,,25.4,0.0,7.0,0.0,0.0,False,False,morning,8.0,10,8,2025
+315,490101,42.0,male,fatal,True,motorcycle,,167.0,2025-08-10 05:25:00,collision,Birkirkara,24.4,0.0,8.1,0.0,0.0,False,False,morning,5.416666666666667,10,8,2025
+316,490101,17.0,male,none,True,car,,167.0,2025-08-10 05:25:00,collision,Birkirkara,24.4,0.0,8.1,0.0,0.0,False,False,morning,5.416666666666667,10,8,2025
+317,490073,,male,none,True,car,,168.0,2025-08-11 05:20:00,collision,,25.5,0.0,2.5,0.0,0.0,True,False,morning,5.333333333333333,11,8,2025
+318,490073,42.0,,fatal,True,motorcycle,,168.0,2025-08-11 05:20:00,collision,,25.5,0.0,2.5,0.0,0.0,True,False,morning,5.333333333333333,11,8,2025
+319,490073,18.0,female,none,False,,,168.0,2025-08-11 05:20:00,collision,,25.5,0.0,2.5,0.0,0.0,True,False,morning,5.333333333333333,11,8,2025
+320,489993,33.0,male,serious,False,,,169.0,2025-08-10 19:00:00,collision,Mosta,27.2,0.0,6.2,0.0,0.0,False,False,evening,19.0,10,8,2025
+321,490183,23.0,male,none,True,car,drunk,171.0,2025-08-12 08:00:00,collision,Valletta,28.5,0.0,5.7,0.0,0.0,True,False,morning,8.0,12,8,2025
+322,490183,62.0,female,serious,False,,,171.0,2025-08-12 08:00:00,collision,Valletta,28.5,0.0,5.7,0.0,0.0,True,False,morning,8.0,12,8,2025
+323,490165,,male,none,False,,,172.0,2025-08-12 07:00:00,collision,,25.6,0.0,4.3,0.0,0.0,True,False,morning,7.0,12,8,2025
+324,490165,,,none,True,car,,172.0,2025-08-12 07:00:00,collision,,25.6,0.0,4.3,0.0,0.0,True,False,morning,7.0,12,8,2025
+327,490160,42.0,male,fatal,True,motorcycle,,173.0,2025-08-10 05:25:00,collision,Birkirkara,24.4,0.0,8.1,0.0,0.0,False,False,morning,5.416666666666667,10,8,2025
+328,490160,17.0,,none,True,car,drunk,173.0,2025-08-10 05:25:00,collision,Birkirkara,24.4,0.0,8.1,0.0,0.0,False,False,morning,5.416666666666667,10,8,2025
+329,490329,17.0,,none,True,car,,174.0,2025-08-13 00:00:00,collision,Marsa,25.6,0.0,7.6,0.0,0.0,True,False,,,13,8,2025
+330,490329,42.0,male,fatal,True,motorcycle,,174.0,2025-08-13 00:00:00,collision,Marsa,25.6,0.0,7.6,0.0,0.0,True,False,,,13,8,2025
+331,490329,28.0,,fatal,True,,,174.0,2025-08-13 00:00:00,collision,Marsa,25.6,0.0,7.6,0.0,0.0,True,False,,,13,8,2025
+332,490371,21.0,male,serious,True,motorcycle,,175.0,2025-08-14 05:30:00,collision,Pembroke,24.7,0.0,1.9,0.0,0.0,True,False,morning,5.5,14,8,2025
+333,490568,21.0,male,fatal,True,motorcycle,,176.0,2025-08-14 05:30:00,collision,Pembroke,24.7,0.0,1.9,0.0,0.0,True,False,morning,5.5,14,8,2025
+336,490632,28.0,male,fatal,True,,,178.0,2025-08-17 00:00:00,rollover,Marsa,25.8,0.0,5.1,23.0,1.0,False,False,,,17,8,2025
+337,490684,53.0,male,none,True,motorcycle,,179.0,2025-08-17 16:00:00,collision,Naxxar,28.5,0.0,13.1,1.0,0.0,False,False,afternoon,16.0,17,8,2025
+338,490684,,,none,True,,,179.0,2025-08-17 16:00:00,collision,Naxxar,28.5,0.0,13.1,1.0,0.0,False,False,afternoon,16.0,17,8,2025
+339,490653,21.0,male,fatal,False,,,180.0,2025-08-14 08:00:00,collision,Pembroke,28.3,0.0,3.8,0.0,0.0,True,False,morning,8.0,14,8,2025
+340,490697,43.0,,none,True,motorcycle,substance intoxicated,181.0,2025-08-18 00:00:00,collision,Valletta,24.9,0.0,4.8,0.0,0.0,True,False,,,18,8,2025
+703,490697,,male,none,True,car,drunk,181.0,2025-08-18 00:00:00,collision,Valletta,24.9,0.0,4.8,0.0,0.0,True,False,,,18,8,2025
+341,490697,62.0,female,none,False,,,181.0,2025-08-18 00:00:00,collision,Valletta,24.9,0.0,4.8,0.0,0.0,True,False,,,18,8,2025
+342,490697,42.0,,fatal,True,motorcycle,,181.0,2025-08-18 00:00:00,collision,Valletta,24.9,0.0,4.8,0.0,0.0,True,False,,,18,8,2025
+343,490697,17.0,male,none,True,car,drunk,181.0,2025-08-18 00:00:00,collision,Valletta,24.9,0.0,4.8,0.0,0.0,True,False,,,18,8,2025
+344,490697,,,none,True,,drunk,181.0,2025-08-18 00:00:00,collision,Valletta,24.9,0.0,4.8,0.0,0.0,True,False,,,18,8,2025
+345,490746,42.0,male,none,True,car,drunk,182.0,2025-08-18 00:00:00,collision,Santa Venera,24.9,0.0,4.8,0.0,0.0,True,False,,,18,8,2025
+346,490815,75.0,male,serious,False,pedestrian,,183.0,2025-08-18 16:00:00,pedestrian,Zabbar,29.2,0.0,8.1,13.0,0.0,True,False,afternoon,16.0,18,8,2025
+347,490815,29.0,male,none,True,unknown,,183.0,2025-08-18 16:00:00,pedestrian,Zabbar,29.2,0.0,8.1,13.0,0.0,True,False,afternoon,16.0,18,8,2025
+704,491011,,,,True,bus,,184.0,2025-08-21 05:30:00,collision,Sliema,26.3,0.0,13.0,0.0,0.0,True,False,morning,5.5,21,8,2025
+705,491011,,,,True,car,,184.0,2025-08-21 05:30:00,collision,Sliema,26.3,0.0,13.0,0.0,0.0,True,False,morning,5.5,21,8,2025
+348,491118,,male,none,True,car,drunk,186.0,2025-08-21 06:00:00,collision,Sliema,26.3,0.0,13.0,0.0,0.0,True,False,morning,6.0,21,8,2025
+706,491118,,,,True,bus,,186.0,2025-08-21 06:00:00,collision,Sliema,26.3,0.0,13.0,0.0,0.0,True,False,morning,6.0,21,8,2025
+349,491226,57.0,male,serious,True,motorcycle,,187.0,2025-08-22 05:30:00,collision,Birkirkara,25.3,0.0,13.1,0.0,0.0,True,False,morning,5.5,22,8,2025
+350,491226,25.0,female,none,,car,,187.0,2025-08-22 05:30:00,collision,Birkirkara,25.3,0.0,13.1,0.0,0.0,True,False,morning,5.5,22,8,2025
+351,491226,,male,none,,car,,187.0,2025-08-22 05:30:00,collision,Birkirkara,25.3,0.0,13.1,0.0,0.0,True,False,morning,5.5,22,8,2025
+352,491307,57.0,male,serious,True,motorcycle,,188.0,2025-08-22 05:30:00,collision,Birkirkara,25.3,0.0,13.1,0.0,0.0,True,False,morning,5.5,22,8,2025
+353,491307,25.0,female,none,False,car,,188.0,2025-08-22 05:30:00,collision,Birkirkara,25.3,0.0,13.1,0.0,0.0,True,False,morning,5.5,22,8,2025
+354,491307,,male,none,True,car,,188.0,2025-08-22 05:30:00,collision,Birkirkara,25.3,0.0,13.1,0.0,0.0,True,False,morning,5.5,22,8,2025
+355,491334,27.0,male,none,True,motorcycle,,189.0,2025-08-24 00:00:00,collision,Pembroke,24.9,0.0,17.3,0.0,0.0,False,False,,,24,8,2025
+357,491334,22.0,,none,True,car,,189.0,2025-08-24 00:00:00,collision,Pembroke,24.9,0.0,17.3,0.0,0.0,False,False,,,24,8,2025
+358,491371,,male,fatal,True,motorcycle,,190.0,2025-08-24 00:00:00,collision,Sliema,25.0,0.0,17.3,0.0,0.0,False,False,,,24,8,2025
+359,491371,17.0,male,none,True,car,drunk,190.0,2025-08-24 00:00:00,collision,Sliema,25.0,0.0,17.3,0.0,0.0,False,False,,,24,8,2025
+360,491489,57.0,male,serious,True,motorcycle,,191.0,2025-08-22 05:30:00,collision,Birkirkara,25.3,0.0,13.1,0.0,0.0,True,False,morning,5.5,22,8,2025
+361,491489,25.0,female,none,False,,,191.0,2025-08-22 05:30:00,collision,Birkirkara,25.3,0.0,13.1,0.0,0.0,True,False,morning,5.5,22,8,2025
+362,491489,17.0,,none,True,,,191.0,2025-08-22 05:30:00,collision,Birkirkara,25.3,0.0,13.1,0.0,0.0,True,False,morning,5.5,22,8,2025
+363,491557,,,none,True,car,,192.0,2025-08-26 05:10:00,collision,Sliema,22.6,0.0,0.4,100.0,3.0,True,False,morning,5.166666666666667,26,8,2025
+364,491707,28.0,male,serious,True,motorcycle,,193.0,2025-08-26 18:30:00,collision,Zebbug,25.9,0.0,10.7,100.0,3.0,True,False,evening,18.5,26,8,2025
+365,491707,32.0,male,none,True,car,,193.0,2025-08-26 18:30:00,collision,Zebbug,25.9,0.0,10.7,100.0,3.0,True,False,evening,18.5,26,8,2025
+366,491720,44.0,female,none,True,car,drunk,194.0,2025-08-27 15:37:00,collision,Bahar,29.6,0.0,13.6,0.0,0.0,True,False,afternoon,15.616666666666667,27,8,2025
+367,491720,,,serious,True,motorcycle,,194.0,2025-08-27 15:37:00,collision,Bahar,29.6,0.0,13.6,0.0,0.0,True,False,afternoon,15.616666666666667,27,8,2025
+368,492026,44.0,female,none,True,car,drunk,195.0,2025-08-29 08:00:00,collision,Bahar,27.9,0.0,12.9,0.0,0.0,True,False,morning,8.0,29,8,2025
+369,492026,53.0,,serious,True,motorcycle,,195.0,2025-08-29 08:00:00,collision,Bahar,27.9,0.0,12.9,0.0,0.0,True,False,morning,8.0,29,8,2025
+372,492029,,,none,True,truck,,196.0,2025-08-27 21:00:00,collision,Rabat,25.0,0.0,15.1,0.0,0.0,True,False,night,21.0,27,8,2025
+373,492115,55.0,male,serious,True,motorcycle,,197.0,2025-08-29 15:15:00,collision,Marsa,28.5,0.0,25.0,100.0,3.0,True,False,afternoon,15.25,29,8,2025
+374,492115,33.0,female,none,True,car,,197.0,2025-08-29 15:15:00,collision,Marsa,28.5,0.0,25.0,100.0,3.0,True,False,afternoon,15.25,29,8,2025
+375,492115,74.0,male,none,False,car,,197.0,2025-08-29 15:15:00,collision,Marsa,28.5,0.0,25.0,100.0,3.0,True,False,afternoon,15.25,29,8,2025
+376,492291,87.0,female,serious,False,,,198.0,2025-08-31 07:30:00,collision,Qormi,26.8,0.0,14.5,0.0,0.0,False,False,morning,7.5,31,8,2025
+377,492291,68.0,male,none,True,unknown,,198.0,2025-08-31 07:30:00,collision,Qormi,26.8,0.0,14.5,0.0,0.0,False,False,morning,7.5,31,8,2025
+378,492646,69.0,female,fatal,True,car,,199.0,2025-09-03 15:00:00,collision,,26.3,0.0,22.9,96.0,3.0,True,False,afternoon,15.0,3,9,2025
+707,492646,73.0,male,fatal,False,car,,199.0,2025-09-03 15:00:00,collision,,26.3,0.0,22.9,96.0,3.0,True,False,afternoon,15.0,3,9,2025
+708,492654,73.0,male,fatal,True,car,,200.0,2025-09-03 18:00:00,collision,Zebbug,25.5,0.0,27.1,28.0,1.0,True,False,evening,18.0,3,9,2025
+379,492654,69.0,female,fatal,False,car,,200.0,2025-09-03 18:00:00,collision,Zebbug,25.5,0.0,27.1,28.0,1.0,True,False,evening,18.0,3,9,2025
+380,492806,35.0,male,serious,True,motorcycle,,201.0,2025-09-04 18:15:00,collision,Gzira,26.6,0.0,3.3,1.0,0.0,True,False,evening,18.25,4,9,2025
+381,492806,24.0,male,minor,True,motorcycle,,201.0,2025-09-04 18:15:00,collision,Gzira,26.6,0.0,3.3,1.0,0.0,True,False,evening,18.25,4,9,2025
+382,492962,62.0,female,fatal,False,,,202.0,2025-09-07 21:10:00,collision,,25.8,0.0,9.0,26.0,1.0,False,False,night,21.166666666666668,7,9,2025
+384,493044,62.0,male,serious,True,motorcycle,,203.0,2025-09-07 13:30:00,collision,Luqa,30.0,0.0,9.8,74.0,2.0,False,False,afternoon,13.5,7,9,2025
+385,493044,35.0,male,none,True,car,,203.0,2025-09-07 13:30:00,collision,Luqa,30.0,0.0,9.8,74.0,2.0,False,False,afternoon,13.5,7,9,2025
+386,493372,33.0,male,serious,True,motorcycle,,204.0,2025-09-11 07:30:00,motorcycle_fall,,26.9,0.0,10.0,52.0,2.0,True,False,morning,7.5,11,9,2025
+387,493542,,male,none,True,car,drunk,205.0,2025-09-12 15:00:00,collision,Marsa,28.8,0.0,10.7,2.0,0.0,True,False,afternoon,15.0,12,9,2025
+391,493598,,,none,True,car,,206.0,2025-09-12 15:00:00,collision,Marsa,28.8,0.0,10.7,2.0,0.0,True,False,afternoon,15.0,12,9,2025
+392,493702,52.0,male,,True,motorcycle,,207.0,2025-09-14 00:00:00,unknown,Zabbar,24.0,0.0,2.3,0.0,0.0,False,False,,,14,9,2025
+393,493702,14.0,,serious,True,bicycle,,207.0,2025-09-14 00:00:00,unknown,Zabbar,24.0,0.0,2.3,0.0,0.0,False,False,,,14,9,2025
+394,493664,54.0,male,serious,True,car,,208.0,2025-09-13 21:00:00,collision,Marsa,24.8,0.0,3.1,0.0,0.0,False,False,night,21.0,13,9,2025
+395,493670,69.0,male,serious,True,car,,210.0,2025-09-14 23:00:00,collision,,25.5,0.0,12.4,16.0,0.0,False,False,night,23.0,14,9,2025
+396,493670,34.0,male,serious,True,motorcycle,,211.0,2025-09-14 01:30:00,collision,Ta' Xbiex,23.5,0.0,2.7,0.0,0.0,False,False,night,1.5,14,9,2025
+397,493670,24.0,male,none,True,car,,211.0,2025-09-14 01:30:00,collision,Ta' Xbiex,23.5,0.0,2.7,0.0,0.0,False,False,night,1.5,14,9,2025
+398,493898,29.0,female,serious,False,pedestrian,,212.0,2025-09-16 12:15:00,collision,,25.5,0.0,6.9,0.0,0.0,True,False,afternoon,12.25,16,9,2025
+399,493898,69.0,female,none,True,car,,212.0,2025-09-16 12:15:00,collision,,25.5,0.0,6.9,0.0,0.0,True,False,afternoon,12.25,16,9,2025
+400,493983,52.0,male,serious,False,pedestrian,,213.0,2025-09-16 23:30:00,collision,Zabbar,24.6,0.0,5.3,0.0,0.0,True,False,night,23.5,16,9,2025
+401,493983,26.0,male,none,True,car,,213.0,2025-09-16 23:30:00,collision,Zabbar,24.6,0.0,5.3,0.0,0.0,True,False,night,23.5,16,9,2025
+404,494209,54.0,male,serious,True,motorcycle,,215.0,2025-09-18 20:45:00,collision,Bormla,25.9,0.0,11.9,11.0,0.0,True,False,evening,20.75,18,9,2025
+405,494209,34.0,male,none,True,car,,215.0,2025-09-18 20:45:00,collision,Bormla,25.9,0.0,11.9,11.0,0.0,True,False,evening,20.75,18,9,2025
+406,494363,30.0,male,none,True,motorcycle,,216.0,2025-09-20 13:30:00,collision,Gharb,25.2,0.0,25.2,2.0,0.0,False,False,afternoon,13.5,20,9,2025
+408,494363,34.0,male,serious,True,motorcycle,,216.0,2025-09-20 13:30:00,collision,Gharb,25.2,0.0,25.2,2.0,0.0,False,False,afternoon,13.5,20,9,2025
+409,494368,30.0,male,,True,motorcycle,,217.0,2025-09-20 13:30:00,collision,Gharb,25.2,0.0,25.2,2.0,0.0,False,False,afternoon,13.5,20,9,2025
+410,494368,34.0,,serious,True,motorcycle,,217.0,2025-09-20 13:30:00,collision,Gharb,25.2,0.0,25.2,2.0,0.0,False,False,afternoon,13.5,20,9,2025
+411,494438,77.0,female,serious,False,,,218.0,2025-09-21 08:30:00,collision,Pieta,26.1,0.0,8.3,3.0,0.0,False,True,morning,8.5,21,9,2025
+412,494438,75.0,male,none,True,car,,218.0,2025-09-21 08:30:00,collision,Pieta,26.1,0.0,8.3,3.0,0.0,False,True,morning,8.5,21,9,2025
+413,494571,42.0,,serious,True,motorcycle,,219.0,2025-09-22 19:00:00,collision,San Gwann,25.4,0.0,7.0,0.0,0.0,True,False,evening,19.0,22,9,2025
+414,494571,,,none,True,car,,219.0,2025-09-22 19:00:00,collision,San Gwann,25.4,0.0,7.0,0.0,0.0,True,False,evening,19.0,22,9,2025
+415,494727,81.0,female,serious,False,car,,220.0,2025-09-24 08:00:00,collision,Marsalforn,25.9,0.0,16.9,100.0,3.0,True,False,morning,8.0,24,9,2025
+416,494727,82.0,male,none,True,car,,220.0,2025-09-24 08:00:00,collision,Marsalforn,25.9,0.0,16.9,100.0,3.0,True,False,morning,8.0,24,9,2025
+417,494856,70.0,male,serious,False,,,221.0,2025-09-25 14:15:00,collision,St Julian's,27.0,0.0,11.0,0.0,0.0,True,False,afternoon,14.25,25,9,2025
+418,494856,58.0,male,none,True,motorcycle,,221.0,2025-09-25 14:15:00,collision,St Julian's,27.0,0.0,11.0,0.0,0.0,True,False,afternoon,14.25,25,9,2025
+419,494910,33.0,male,serious,True,motorcycle,,222.0,2025-09-25 18:00:00,collision,Tarxien,24.0,0.0,10.0,3.0,0.0,True,False,evening,18.0,25,9,2025
+420,494910,28.0,female,none,True,car,,222.0,2025-09-25 18:00:00,collision,Tarxien,24.0,0.0,10.0,3.0,0.0,True,False,evening,18.0,25,9,2025
+421,495320,,female,none,True,unknown,,223.0,2025-09-30 00:00:00,collision,Naxxar,22.5,0.0,11.3,97.0,3.0,True,False,,,30,9,2025
+709,495442,,,,True,car,,225.0,2025-10-02 00:00:00,collision,,25.5,0.0,37.2,9.0,0.0,True,False,,,2,10,2025
+423,495504,47.0,male,serious,True,motorcycle,,226.0,2025-10-02 05:30:00,collision,Qala,22.3,0.3,42.6,40.0,51.0,True,False,morning,5.5,2,10,2025
+424,495504,53.0,female,none,True,car,,226.0,2025-10-02 05:30:00,collision,Qala,22.3,0.3,42.6,40.0,51.0,True,False,morning,5.5,2,10,2025
+425,495595,,male,fatal,True,car,,227.0,2025-10-02 16:20:00,run-off-road,,23.2,0.0,42.6,30.0,1.0,True,False,afternoon,16.333333333333332,2,10,2025
+710,495595,,male,fatal,False,car,,227.0,2025-10-02 16:20:00,run-off-road,,23.2,0.0,42.6,30.0,1.0,True,False,afternoon,16.333333333333332,2,10,2025
+711,495595,,female,fatal,False,car,,227.0,2025-10-02 16:20:00,run-off-road,,23.2,0.0,42.6,30.0,1.0,True,False,afternoon,16.333333333333332,2,10,2025
+712,495595,,female,fatal,False,car,,227.0,2025-10-02 16:20:00,run-off-road,,23.2,0.0,42.6,30.0,1.0,True,False,afternoon,16.333333333333332,2,10,2025
+426,495731,68.0,male,fatal,True,car,,228.0,2025-10-04 16:20:00,collision,Swieqi,21.9,0.0,14.4,1.0,0.0,False,False,afternoon,16.333333333333332,4,10,2025
+427,495731,67.0,male,fatal,False,,,228.0,2025-10-04 16:20:00,collision,Swieqi,21.9,0.0,14.4,1.0,0.0,False,False,afternoon,16.333333333333332,4,10,2025
+428,495731,66.0,female,fatal,False,,,228.0,2025-10-04 16:20:00,collision,Swieqi,21.9,0.0,14.4,1.0,0.0,False,False,afternoon,16.333333333333332,4,10,2025
+429,495731,67.0,female,fatal,False,,,228.0,2025-10-04 16:20:00,collision,Swieqi,21.9,0.0,14.4,1.0,0.0,False,False,afternoon,16.333333333333332,4,10,2025
+430,495807,43.0,female,minor,False,car,,229.0,2025-10-04 23:00:00,collision,Gudja,19.7,0.0,8.0,7.0,0.0,False,False,night,23.0,4,10,2025
+431,495807,19.0,male,minor,True,car,,229.0,2025-10-04 23:00:00,collision,Gudja,19.7,0.0,8.0,7.0,0.0,False,False,night,23.0,4,10,2025
+432,495807,49.0,male,minor,True,car,,229.0,2025-10-04 23:00:00,collision,Gudja,19.7,0.0,8.0,7.0,0.0,False,False,night,23.0,4,10,2025
+433,495807,50.0,male,minor,True,car,,229.0,2025-10-04 23:00:00,collision,Gudja,19.7,0.0,8.0,7.0,0.0,False,False,night,23.0,4,10,2025
+713,495807,69.0,female,minor,False,car,,229.0,2025-10-04 23:00:00,collision,Gudja,19.7,0.0,8.0,7.0,0.0,False,False,night,23.0,4,10,2025
+714,495807,14.0,female,minor,False,car,,229.0,2025-10-04 23:00:00,collision,Gudja,19.7,0.0,8.0,7.0,0.0,False,False,night,23.0,4,10,2025
+434,495807,14.0,male,serious,False,car,,229.0,2025-10-04 23:00:00,collision,Gudja,19.7,0.0,8.0,7.0,0.0,False,False,night,23.0,4,10,2025
+435,495802,29.0,female,serious,False,,,230.0,2025-10-05 08:00:00,collision,Bugibba,23.3,0.0,13.7,77.0,2.0,False,False,morning,8.0,5,10,2025
+436,495896,68.0,male,fatal,False,car,,231.0,2025-10-02 00:00:00,collision,,25.5,0.0,37.2,9.0,0.0,True,False,,,2,10,2025
+437,495942,49.0,male,none,True,car,,232.0,2025-10-06 00:00:00,collision,St Paul's Bay,23.6,0.1,22.3,35.0,51.0,True,False,,,6,10,2025
+438,495942,,male,none,True,motorcycle,,232.0,2025-10-06 00:00:00,collision,St Paul's Bay,23.6,0.1,22.3,35.0,51.0,True,False,,,6,10,2025
+439,496006,34.0,male,none,True,car,drunk,233.0,2025-10-07 15:00:00,collision,Saqqajja,21.4,0.0,26.2,10.0,0.0,True,False,afternoon,15.0,7,10,2025
+440,496006,,male,,True,motorcycle,,233.0,2025-10-07 15:00:00,collision,Saqqajja,21.4,0.0,26.2,10.0,0.0,True,False,afternoon,15.0,7,10,2025
+441,495969,28.0,female,serious,False,pedestrian,,234.0,2025-10-07 08:00:00,collision,Bugibba,20.7,0.0,25.0,2.0,0.0,True,False,morning,8.0,7,10,2025
+443,496158,,,none,True,unknown,,235.0,2025-10-04 09:30:00,collision,Balluta,21.5,0.0,15.7,35.0,1.0,False,False,morning,9.5,4,10,2025
+444,496158,,,none,True,,,235.0,2025-10-04 09:30:00,collision,Balluta,21.5,0.0,15.7,35.0,1.0,False,False,morning,9.5,4,10,2025
+445,496202,61.0,male,serious,True,motorcycle,,236.0,2025-10-09 09:30:00,collision,Zurrieq,22.7,0.0,3.7,2.0,0.0,True,False,morning,9.5,9,10,2025
+446,496202,67.0,female,none,True,car,,236.0,2025-10-09 09:30:00,collision,Zurrieq,22.7,0.0,3.7,2.0,0.0,True,False,morning,9.5,9,10,2025
+447,496362,43.0,male,serious,True,motorcycle,,237.0,2025-10-10 09:00:00,collision,Ghajnsielem,21.2,0.0,9.3,0.0,0.0,True,False,morning,9.0,10,10,2025
+448,496362,19.0,male,minor,False,motorcycle,,237.0,2025-10-10 09:00:00,collision,Ghajnsielem,21.2,0.0,9.3,0.0,0.0,True,False,morning,9.0,10,10,2025
+450,496362,35.0,male,none,True,truck,,237.0,2025-10-10 09:00:00,collision,Ghajnsielem,21.2,0.0,9.3,0.0,0.0,True,False,morning,9.0,10,10,2025
+451,496362,67.0,male,none,True,unknown,,237.0,2025-10-10 09:00:00,collision,Ghajnsielem,21.2,0.0,9.3,0.0,0.0,True,False,morning,9.0,10,10,2025
+452,496362,55.0,male,none,True,car,,237.0,2025-10-10 09:00:00,collision,Ghajnsielem,21.2,0.0,9.3,0.0,0.0,True,False,morning,9.0,10,10,2025
+453,496773,61.0,male,serious,True,motorcycle,,239.0,2025-08-31 06:00:00,collision,Valletta,25.1,0.0,14.6,0.0,0.0,False,False,morning,6.0,31,8,2025
+454,496773,67.0,female,none,True,car,,239.0,2025-08-31 06:00:00,collision,Valletta,25.1,0.0,14.6,0.0,0.0,False,False,morning,6.0,31,8,2025
+455,496774,23.0,male,serious,True,motorcycle,,240.0,2025-04-03 18:00:00,collision,Gudja,15.5,0.0,5.4,0.0,0.0,True,True,evening,18.0,3,4,2025
+456,496774,64.0,male,none,True,car,,240.0,2025-04-03 18:00:00,collision,Gudja,15.5,0.0,5.4,0.0,0.0,True,True,evening,18.0,3,4,2025
+457,496775,29.0,male,serious,True,motorcycle,,241.0,2025-04-08 16:00:00,collision,Qormi,15.6,0.1,13.7,100.0,51.0,True,False,afternoon,16.0,8,4,2025
+458,496775,34.0,male,none,True,van,,241.0,2025-04-08 16:00:00,collision,Qormi,15.6,0.1,13.7,100.0,51.0,True,False,afternoon,16.0,8,4,2025
+459,496776,29.0,male,serious,True,motorcycle,,242.0,2025-05-15 00:00:00,collision,Hal Ghaxaq,18.5,0.0,24.6,100.0,3.0,True,False,,,15,5,2025
+460,496776,42.0,male,none,True,car,,242.0,2025-05-15 00:00:00,collision,Hal Ghaxaq,18.5,0.0,24.6,100.0,3.0,True,False,,,15,5,2025
+461,496777,41.0,male,serious,True,motorcycle,,243.0,2025-01-10 19:00:00,collision,Buqana,15.8,0.0,27.9,9.0,0.0,True,False,evening,19.0,10,1,2025
+462,496777,25.0,male,none,True,car,,243.0,2025-01-10 19:00:00,collision,Buqana,15.8,0.0,27.9,9.0,0.0,True,False,evening,19.0,10,1,2025
+463,496778,36.0,male,serious,True,motorcycle,,244.0,2025-04-15 08:50:00,collision,Marsa,21.2,0.0,25.6,96.0,3.0,True,False,morning,8.833333333333334,15,4,2025
+464,496778,52.0,male,none,True,van,,244.0,2025-04-15 08:50:00,collision,Marsa,21.2,0.0,25.6,96.0,3.0,True,False,morning,8.833333333333334,15,4,2025
+465,496778,53.0,male,none,True,car,,244.0,2025-04-15 08:50:00,collision,Marsa,21.2,0.0,25.6,96.0,3.0,True,False,morning,8.833333333333334,15,4,2025
+466,496779,81.0,male,none,True,car,,245.0,2025-06-10 02:00:00,collision,Mosta,21.8,0.0,7.4,0.0,0.0,True,False,night,2.0,10,6,2025
+467,496779,79.0,female,fatal,False,car,,245.0,2025-06-10 02:00:00,collision,Mosta,21.8,0.0,7.4,0.0,0.0,True,False,night,2.0,10,6,2025
+468,496779,24.0,male,minor,True,van,,245.0,2025-06-10 02:00:00,collision,Mosta,21.8,0.0,7.4,0.0,0.0,True,False,night,2.0,10,6,2025
+469,496780,66.0,male,none,True,motorcycle,,246.0,2025-08-03 08:15:00,collision,Barrani,24.7,0.0,21.7,3.0,0.0,False,False,morning,8.25,3,8,2025
+470,496780,30.0,female,serious,True,motorcycle,,246.0,2025-08-03 08:15:00,collision,Barrani,24.7,0.0,21.7,3.0,0.0,False,False,morning,8.25,3,8,2025
+471,496781,35.0,male,serious,True,motorcycle,,247.0,2025-06-11 15:45:00,collision,Naxxar,28.1,0.0,6.1,0.0,0.0,True,False,afternoon,15.75,11,6,2025
+472,496781,59.0,male,none,True,truck,,247.0,2025-06-11 15:45:00,collision,Naxxar,28.1,0.0,6.1,0.0,0.0,True,False,afternoon,15.75,11,6,2025
+473,496782,79.0,male,none,True,unknown,,248.0,2024-12-28 09:15:00,collision,Zabbar,14.9,0.0,13.2,9.0,0.0,False,False,morning,9.25,28,12,2024
+474,496782,84.0,female,serious,False,unknown,,248.0,2024-12-28 09:15:00,collision,Zabbar,14.9,0.0,13.2,9.0,0.0,False,False,morning,9.25,28,12,2024
+715,496782,39.0,female,minor,False,unknown,,248.0,2024-12-28 09:15:00,collision,Zabbar,14.9,0.0,13.2,9.0,0.0,False,False,morning,9.25,28,12,2024
+716,496782,66.0,female,minor,False,unknown,,248.0,2024-12-28 09:15:00,collision,Zabbar,14.9,0.0,13.2,9.0,0.0,False,False,morning,9.25,28,12,2024
+717,496782,77.0,female,minor,False,unknown,,248.0,2024-12-28 09:15:00,collision,Zabbar,14.9,0.0,13.2,9.0,0.0,False,False,morning,9.25,28,12,2024
+718,496782,36.0,male,minor,False,unknown,,248.0,2024-12-28 09:15:00,collision,Zabbar,14.9,0.0,13.2,9.0,0.0,False,False,morning,9.25,28,12,2024
+719,496782,81.0,male,minor,False,unknown,,248.0,2024-12-28 09:15:00,collision,Zabbar,14.9,0.0,13.2,9.0,0.0,False,False,morning,9.25,28,12,2024
+475,496783,40.0,male,serious,True,motorcycle,,249.0,2025-02-10 16:00:00,collision,Haz-Zabbar,13.6,0.0,25.0,95.0,3.0,True,True,afternoon,16.0,10,2,2025
+476,496784,48.0,female,serious,True,car,,250.0,2025-02-26 20:00:00,collision,Kalkara,13.9,0.2,21.6,93.0,51.0,True,False,evening,20.0,26,2,2025
+477,496785,32.0,female,serious,False,,,251.0,2025-03-26 17:00:00,collision,Ghajnsielem,15.3,0.0,35.9,0.0,0.0,True,False,evening,17.0,26,3,2025
+478,496785,78.0,male,none,True,car,,251.0,2025-03-26 17:00:00,collision,Ghajnsielem,15.3,0.0,35.9,0.0,0.0,True,False,evening,17.0,26,3,2025
+479,496786,64.0,male,serious,True,motorcycle,,252.0,2025-06-13 22:00:00,collision,Xewkija,23.7,0.0,6.8,0.0,0.0,True,False,night,22.0,13,6,2025
+480,496787,77.0,female,serious,False,,,253.0,2025-08-17 10:00:00,collision,Valletta,27.6,0.0,8.6,19.0,0.0,False,False,morning,10.0,17,8,2025
+481,496787,75.0,male,none,True,car,,253.0,2025-08-17 10:00:00,collision,Valletta,27.6,0.0,8.6,19.0,0.0,False,False,morning,10.0,17,8,2025
+482,496788,80.0,male,serious,False,,,254.0,2025-04-17 00:00:00,collision,Santa Lucija,16.4,0.0,24.5,100.0,3.0,True,False,,,17,4,2025
+483,496788,22.0,male,none,True,car,,254.0,2025-04-17 00:00:00,collision,Santa Lucija,16.4,0.0,24.5,100.0,3.0,True,False,,,17,4,2025
+484,496789,80.0,male,serious,True,car,,255.0,2025-01-21 14:00:00,collision,,16.1,0.0,29.6,20.0,1.0,True,False,afternoon,14.0,21,1,2025
+720,496789,80.0,male,serious,False,car,,255.0,2025-01-21 14:00:00,collision,,16.1,0.0,29.6,20.0,1.0,True,False,afternoon,14.0,21,1,2025
+485,496790,13.0,,serious,True,bicycle,,256.0,2024-11-09 17:00:00,collision,,20.7,0.0,15.2,87.0,3.0,False,False,evening,17.0,9,11,2024
+486,496790,25.0,male,none,True,car,,256.0,2024-11-09 17:00:00,collision,,20.7,0.0,15.2,87.0,3.0,False,False,evening,17.0,9,11,2024
+487,496791,61.0,male,serious,False,,,257.0,2025-02-21 13:30:00,collision,Floriana,14.8,0.4,16.1,60.0,51.0,True,False,afternoon,13.5,21,2,2025
+488,496791,31.0,male,none,True,car,,257.0,2025-02-21 13:30:00,collision,Floriana,14.8,0.4,16.1,60.0,51.0,True,False,afternoon,13.5,21,2,2025
+489,496792,54.0,male,serious,False,,,258.0,2025-09-13 21:00:00,collision,Marsa,24.8,0.0,3.1,0.0,0.0,False,False,night,21.0,13,9,2025
+490,496792,,,none,True,car,,258.0,2025-09-13 21:00:00,collision,Marsa,24.8,0.0,3.1,0.0,0.0,False,False,night,21.0,13,9,2025
+491,496793,33.0,female,none,True,car,,259.0,2025-08-29 15:15:00,collision,Marsa,28.5,0.0,25.0,100.0,3.0,True,False,afternoon,15.25,29,8,2025
+492,496793,55.0,male,serious,True,motorcycle,,259.0,2025-08-29 15:15:00,collision,Marsa,28.5,0.0,25.0,100.0,3.0,True,False,afternoon,15.25,29,8,2025
+493,496793,74.0,male,none,False,car,,259.0,2025-08-29 15:15:00,collision,Marsa,28.5,0.0,25.0,100.0,3.0,True,False,afternoon,15.25,29,8,2025
+494,496794,29.0,male,serious,False,,,260.0,2024-09-22 23:00:00,collision,Gudja,23.3,0.0,7.9,100.0,3.0,False,False,night,23.0,22,9,2024
+495,496794,50.0,male,none,True,car,,260.0,2024-09-22 23:00:00,collision,Gudja,23.3,0.0,7.9,100.0,3.0,False,False,night,23.0,22,9,2024
+496,496795,53.0,male,serious,False,,,261.0,2025-03-26 08:00:00,collision,,15.8,3.8,28.5,100.0,63.0,True,False,morning,8.0,26,3,2025
+497,496795,24.0,male,none,True,van,,261.0,2025-03-26 08:00:00,collision,,15.8,3.8,28.5,100.0,63.0,True,False,morning,8.0,26,3,2025
+498,496796,34.0,male,serious,True,motorcycle,,262.0,2025-05-07 13:15:00,collision,Ghar,24.5,0.0,11.2,100.0,3.0,True,False,afternoon,13.25,7,5,2025
+499,496796,23.0,,none,True,van,,262.0,2025-05-07 13:15:00,collision,Ghar,24.5,0.0,11.2,100.0,3.0,True,False,afternoon,13.25,7,5,2025
+500,496797,36.0,male,serious,True,car,,263.0,2024-11-25 23:00:00,collision,Marsa,15.3,0.0,2.0,25.0,1.0,True,False,night,23.0,25,11,2024
+501,496798,43.0,male,serious,True,motorcycle,,264.0,2025-03-05 10:00:00,collision,Marsa,15.3,0.0,20.4,12.0,0.0,True,False,morning,10.0,5,3,2025
+502,496799,25.0,male,fatal,True,car,,265.0,2024-10-10 16:00:00,collision,Attard,27.9,0.0,10.2,74.0,2.0,True,False,afternoon,16.0,10,10,2024
+503,496800,19.0,,none,True,car,,266.0,2025-06-30 04:00:00,collision,Gudja,24.6,0.0,6.7,0.0,0.0,True,False,night,4.0,30,6,2025
+504,496800,14.0,male,serious,False,car,,266.0,2025-06-30 04:00:00,collision,Gudja,24.6,0.0,6.7,0.0,0.0,True,False,night,4.0,30,6,2025
+505,496800,14.0,female,minor,False,car,,266.0,2025-06-30 04:00:00,collision,Gudja,24.6,0.0,6.7,0.0,0.0,True,False,night,4.0,30,6,2025
+506,496800,43.0,female,minor,False,car,,266.0,2025-06-30 04:00:00,collision,Gudja,24.6,0.0,6.7,0.0,0.0,True,False,night,4.0,30,6,2025
+507,496800,49.0,male,none,True,car,,266.0,2025-06-30 04:00:00,collision,Gudja,24.6,0.0,6.7,0.0,0.0,True,False,night,4.0,30,6,2025
+508,496800,50.0,male,none,True,car,,266.0,2025-06-30 04:00:00,collision,Gudja,24.6,0.0,6.7,0.0,0.0,True,False,night,4.0,30,6,2025
+721,496800,69.0,female,none,False,car,,266.0,2025-06-30 04:00:00,collision,Gudja,24.6,0.0,6.7,0.0,0.0,True,False,night,4.0,30,6,2025
+509,496801,35.0,female,serious,True,motorcycle,,267.0,2025-05-04 14:00:00,collision,Marsa,25.0,0.0,13.8,100.0,3.0,False,False,afternoon,14.0,4,5,2025
+510,496801,39.0,male,none,True,car,,267.0,2025-05-04 14:00:00,collision,Marsa,25.0,0.0,13.8,100.0,3.0,False,False,afternoon,14.0,4,5,2025
+511,496802,52.0,male,serious,False,,,268.0,2025-06-11 22:00:00,collision,Zurrieq,22.9,0.0,4.7,8.0,0.0,True,False,night,22.0,11,6,2025
+512,496802,26.0,male,none,True,car,,268.0,2025-06-11 22:00:00,collision,Zurrieq,22.9,0.0,4.7,8.0,0.0,True,False,night,22.0,11,6,2025
+513,496803,72.0,male,serious,True,motorcycle,,269.0,2025-02-21 14:00:00,collision,Burmarrad,15.2,0.2,14.3,63.0,51.0,True,False,afternoon,14.0,21,2,2025
+514,496803,31.0,female,none,True,car,,269.0,2025-02-21 14:00:00,collision,Burmarrad,15.2,0.2,14.3,63.0,51.0,True,False,afternoon,14.0,21,2,2025
+515,496804,30.0,male,serious,True,motorcycle,,270.0,2025-04-22 00:00:00,collision,Mosta,15.9,0.0,17.8,66.0,2.0,True,False,,,22,4,2025
+516,496804,34.0,female,none,True,car,,270.0,2025-04-22 00:00:00,collision,Mosta,15.9,0.0,17.8,66.0,2.0,True,False,,,22,4,2025
+517,496805,79.0,male,serious,True,motorcycle,,271.0,2025-03-09 06:00:00,collision,Tal-Barrani,12.9,0.0,2.6,9.0,0.0,False,False,morning,6.0,9,3,2025
+518,496805,46.0,male,none,True,car,,271.0,2025-03-09 06:00:00,collision,Tal-Barrani,12.9,0.0,2.6,9.0,0.0,False,False,morning,6.0,9,3,2025
+519,496806,22.0,female,serious,True,motorcycle,,272.0,2025-03-03 07:00:00,collision,Rabat,13.4,0.0,23.8,13.0,0.0,True,False,morning,7.0,3,3,2025
+520,496806,19.0,female,none,True,car,,272.0,2025-03-03 07:00:00,collision,Rabat,13.4,0.0,23.8,13.0,0.0,True,False,morning,7.0,3,3,2025
+521,496807,32.0,male,fatal,True,car,,273.0,2025-06-19 22:00:00,collision,L-Imdina,21.9,0.0,0.5,1.0,0.0,True,False,night,22.0,19,6,2025
+522,496807,57.0,male,serious,True,car,,273.0,2025-06-19 22:00:00,collision,L-Imdina,21.9,0.0,0.5,1.0,0.0,True,False,night,22.0,19,6,2025
+523,496807,28.0,female,serious,False,car,,273.0,2025-06-19 22:00:00,collision,L-Imdina,21.9,0.0,0.5,1.0,0.0,True,False,night,22.0,19,6,2025
+524,496808,44.0,female,serious,False,motorcycle,,274.0,2025-06-27 14:00:00,motorcycle_fall,Birkirkara,32.3,0.0,12.2,0.0,0.0,True,False,afternoon,14.0,27,6,2025
+525,496808,44.0,male,none,True,motorcycle,,274.0,2025-06-27 14:00:00,motorcycle_fall,Birkirkara,32.3,0.0,12.2,0.0,0.0,True,False,afternoon,14.0,27,6,2025
+526,496809,87.0,female,serious,False,,,275.0,2025-02-22 12:00:00,collision,Naxxar,15.6,0.0,13.0,4.0,0.0,False,False,afternoon,12.0,22,2,2025
+722,496809,30.0,male,,True,car,,275.0,2025-02-22 12:00:00,collision,Naxxar,15.6,0.0,13.0,4.0,0.0,False,False,afternoon,12.0,22,2,2025
+527,496810,75.0,male,serious,False,,,276.0,2025-06-12 08:00:00,collision,Zabbar,26.8,0.0,8.1,0.0,0.0,True,False,morning,8.0,12,6,2025
+528,496810,29.0,male,none,True,car,,276.0,2025-06-12 08:00:00,collision,Zabbar,26.8,0.0,8.1,0.0,0.0,True,False,morning,8.0,12,6,2025
+529,496811,82.0,male,none,True,car,,277.0,2025-09-24 08:00:00,collision,Marsalforn,25.9,0.0,16.9,100.0,3.0,True,False,morning,8.0,24,9,2025
+530,496811,81.0,female,serious,False,car,,277.0,2025-09-24 08:00:00,collision,Marsalforn,25.9,0.0,16.9,100.0,3.0,True,False,morning,8.0,24,9,2025
+531,496812,36.0,male,fatal,True,motorcycle,,278.0,2024-11-01 01:00:00,collision,Birkirkara,20.0,0.0,13.1,3.0,0.0,True,False,night,1.0,1,11,2024
+532,496813,39.0,male,serious,True,motorcycle,,279.0,2025-02-15 00:00:00,collision,Iklin,13.6,0.0,17.5,75.0,2.0,False,False,,,15,2,2025
+533,496813,42.0,female,none,True,car,,279.0,2025-02-15 00:00:00,collision,Iklin,13.6,0.0,17.5,75.0,2.0,False,False,,,15,2,2025
+534,496814,45.0,male,serious,True,motorcycle,,280.0,2024-12-06 00:00:00,collision,Fgura,14.6,0.1,24.8,100.0,51.0,True,False,,,6,12,2024
+535,496814,32.0,male,none,True,car,,280.0,2024-12-06 00:00:00,collision,Fgura,14.6,0.1,24.8,100.0,51.0,True,False,,,6,12,2024
+536,496815,75.0,female,serious,False,,,281.0,2024-12-31 15:00:00,collision,,16.5,0.0,8.0,22.0,1.0,True,False,afternoon,15.0,31,12,2024
+537,496815,54.0,female,none,True,car,,281.0,2024-12-31 15:00:00,collision,,16.5,0.0,8.0,22.0,1.0,True,False,afternoon,15.0,31,12,2024
+538,496816,27.0,male,fatal,True,motorcycle,,282.0,2025-07-21 20:00:00,collision,Pembroke,29.2,0.0,12.5,0.0,0.0,True,False,evening,20.0,21,7,2025
+539,496816,22.0,male,none,True,car,,282.0,2025-07-21 20:00:00,collision,Pembroke,29.2,0.0,12.5,0.0,0.0,True,False,evening,20.0,21,7,2025
+540,496817,22.0,male,serious,True,car,,283.0,2025-04-03 21:00:00,collision,Borg Gharib,15.5,0.0,11.0,0.0,0.0,True,True,night,21.0,3,4,2025
+541,496818,37.0,male,serious,True,bus,,284.0,2024-11-10 02:00:00,collision,Marsaskala,17.9,0.0,8.6,84.0,3.0,False,False,night,2.0,10,11,2024
+542,496818,39.0,female,none,True,van,,284.0,2024-11-10 02:00:00,collision,Marsaskala,17.9,0.0,8.6,84.0,3.0,False,False,night,2.0,10,11,2024
+543,496819,34.0,male,none,True,car,,285.0,2025-01-11 04:00:00,collision,Hal Farrug,15.9,0.0,28.9,48.0,1.0,False,False,night,4.0,11,1,2025
+544,496819,59.0,male,serious,True,motorcycle,,286.0,2024-12-11 03:00:00,collision,Gzira,12.6,0.0,4.3,8.0,0.0,True,False,night,3.0,11,12,2024
+545,496819,30.0,male,serious,True,car,,286.0,2024-12-11 03:00:00,collision,Gzira,12.6,0.0,4.3,8.0,0.0,True,False,night,3.0,11,12,2024
+546,496820,21.0,male,serious,True,car,,287.0,2024-12-27 03:00:00,collision,Qala,14.7,0.0,18.2,11.0,0.0,True,False,night,3.0,27,12,2024
+547,496821,80.0,female,serious,False,car,,288.0,2025-04-13 15:15:00,collision,Naxxar,18.8,0.0,22.0,100.0,3.0,False,False,afternoon,15.25,13,4,2025
+548,496821,81.0,male,,True,car,,288.0,2025-04-13 15:15:00,collision,Naxxar,18.8,0.0,22.0,100.0,3.0,False,False,afternoon,15.25,13,4,2025
+549,496821,39.0,,none,True,bus,,288.0,2025-04-13 15:15:00,collision,Naxxar,18.8,0.0,22.0,100.0,3.0,False,False,afternoon,15.25,13,4,2025
+550,496822,34.0,male,serious,True,motorcycle,,289.0,2024-12-04 17:00:00,collision,Mosta,17.8,0.0,10.8,100.0,3.0,True,False,evening,17.0,4,12,2024
+551,496822,45.0,female,none,True,car,,289.0,2024-12-04 17:00:00,collision,Mosta,17.8,0.0,10.8,100.0,3.0,True,False,evening,17.0,4,12,2024
+552,496823,21.0,male,serious,True,motorcycle,,290.0,2025-03-07 21:00:00,collision,St Paul's Bay,13.0,0.0,6.1,0.0,0.0,True,False,night,21.0,7,3,2025
+553,496824,84.0,female,serious,False,,,291.0,2025-10-06 09:30:00,collision,Naxxar,22.8,0.0,30.7,23.0,1.0,True,False,morning,9.5,6,10,2025
+554,496824,84.0,male,none,True,car,,291.0,2025-10-06 09:30:00,collision,Naxxar,22.8,0.0,30.7,23.0,1.0,True,False,morning,9.5,6,10,2025
+555,496825,33.0,male,serious,True,motorcycle,,292.0,2025-05-22 20:00:00,motorcycle_fall,San Gwann,20.2,0.0,6.8,70.0,2.0,True,False,evening,20.0,22,5,2025
+556,496826,46.0,male,serious,True,motorcycle,,293.0,2025-01-25 14:30:00,collision,Naxxar,16.9,0.0,11.1,100.0,3.0,False,False,afternoon,14.5,25,1,2025
+557,496826,30.0,male,none,True,car,,293.0,2025-01-25 14:30:00,collision,Naxxar,16.9,0.0,11.1,100.0,3.0,False,False,afternoon,14.5,25,1,2025
+558,496827,8.0,,serious,False,,,296.0,2025-08-07 12:30:00,collision,Zabbar,30.2,0.0,9.1,0.0,0.0,True,False,afternoon,12.5,7,8,2025
+559,496827,45.0,male,serious,True,motorcycle,,296.0,2025-08-07 12:30:00,collision,Zabbar,30.2,0.0,9.1,0.0,0.0,True,False,afternoon,12.5,7,8,2025
+560,496827,48.0,,serious,True,motorcycle,,295.0,2025-08-07 11:30:00,collision,Naxxar,28.5,0.0,12.5,0.0,0.0,True,False,morning,11.5,7,8,2025
+561,496827,60.0,,none,True,car,,295.0,2025-08-07 11:30:00,collision,Naxxar,28.5,0.0,12.5,0.0,0.0,True,False,morning,11.5,7,8,2025
+562,496827,23.0,male,none,True,van,,296.0,2025-08-07 12:30:00,collision,Zabbar,30.2,0.0,9.1,0.0,0.0,True,False,afternoon,12.5,7,8,2025
+563,496828,62.0,female,serious,True,motorcycle,,297.0,2024-12-27 12:00:00,collision,Hotba,14.7,0.4,19.3,81.0,51.0,True,False,afternoon,12.0,27,12,2024
+564,496828,25.0,male,none,True,truck,,297.0,2024-12-27 12:00:00,collision,Hotba,14.7,0.4,19.3,81.0,51.0,True,False,afternoon,12.0,27,12,2024
+565,496829,53.0,male,serious,True,motorcycle,,298.0,2025-08-17 16:00:00,collision,Naxxar,28.5,0.0,13.1,1.0,0.0,False,False,afternoon,16.0,17,8,2025
+566,496829,44.0,female,none,True,car,,298.0,2025-08-17 16:00:00,collision,Naxxar,28.5,0.0,13.1,1.0,0.0,False,False,afternoon,16.0,17,8,2025
+567,496830,29.0,female,serious,False,,,299.0,2025-07-27 09:00:00,collision,Rabat,25.9,0.0,32.5,1.0,0.0,False,False,morning,9.0,27,7,2025
+568,496830,,female,none,True,car,,299.0,2025-07-27 09:00:00,collision,Rabat,25.9,0.0,32.5,1.0,0.0,False,False,morning,9.0,27,7,2025
+569,496830,64.0,,none,False,,,299.0,2025-07-27 09:00:00,collision,Rabat,25.9,0.0,32.5,1.0,0.0,False,False,morning,9.0,27,7,2025
+570,496831,28.0,male,none,True,car,,300.0,2024-10-22 06:00:00,rollover,Zejtun,22.6,0.0,26.3,100.0,3.0,True,False,morning,6.0,22,10,2024
+571,496831,25.0,male,serious,False,car,,300.0,2024-10-22 06:00:00,rollover,Zejtun,22.6,0.0,26.3,100.0,3.0,True,False,morning,6.0,22,10,2024
+572,496832,35.0,male,fatal,True,motorcycle,,301.0,2025-04-05 18:00:00,collision,Qormi,15.9,0.0,4.3,30.0,1.0,False,False,evening,18.0,5,4,2025
+573,496833,46.0,,serious,True,motorcycle,,302.0,2025-04-09 16:00:00,collision,Rabat,15.5,0.0,12.7,93.0,3.0,True,False,afternoon,16.0,9,4,2025
+574,496833,54.0,male,none,True,unknown,,302.0,2025-04-09 16:00:00,collision,Rabat,15.5,0.0,12.7,93.0,3.0,True,False,afternoon,16.0,9,4,2025
+575,496834,37.0,male,serious,True,motorcycle,,303.0,2025-04-24 05:00:00,collision,Marsa,15.9,0.0,23.5,15.0,0.0,True,False,morning,5.0,24,4,2025
+576,496834,65.0,male,none,True,car,,303.0,2025-04-24 05:00:00,collision,Marsa,15.9,0.0,23.5,15.0,0.0,True,False,morning,5.0,24,4,2025
+577,496835,44.0,female,serious,False,,,304.0,2024-11-15 01:00:00,collision,Balzan,19.6,0.0,11.0,1.0,0.0,True,False,night,1.0,15,11,2024
+578,496835,23.0,female,none,True,car,,304.0,2024-11-15 01:00:00,collision,Balzan,19.6,0.0,11.0,1.0,0.0,True,False,night,1.0,15,11,2024
+579,496836,33.0,male,serious,True,motorcycle,,305.0,2025-02-12 11:00:00,unknown,Tal-Balal,15.8,0.0,7.7,99.0,3.0,True,False,morning,11.0,12,2,2025
+580,496836,32.0,male,none,True,truck,,305.0,2025-02-12 11:00:00,unknown,Tal-Balal,15.8,0.0,7.7,99.0,3.0,True,False,morning,11.0,12,2,2025
+581,496837,45.0,male,serious,True,motorcycle,,306.0,2025-07-09 18:30:00,collision,Mosta,26.2,0.0,21.9,0.0,0.0,True,False,evening,18.5,9,7,2025
+582,496837,40.0,,none,False,,,306.0,2025-07-09 18:30:00,collision,Mosta,26.2,0.0,21.9,0.0,0.0,True,False,evening,18.5,9,7,2025
+583,496838,70.0,male,serious,False,,,307.0,2025-07-28 01:00:00,collision,St Julian's,25.1,0.0,26.6,2.0,0.0,True,False,night,1.0,28,7,2025
+584,496838,58.0,male,none,True,motorcycle,,307.0,2025-07-28 01:00:00,collision,St Julian's,25.1,0.0,26.6,2.0,0.0,True,False,night,1.0,28,7,2025
+585,496839,28.0,male,serious,False,,,308.0,2025-07-03 23:00:00,collision,Gharghur,23.9,0.0,3.3,0.0,0.0,True,False,night,23.0,3,7,2025
+586,496839,52.0,male,none,True,car,,308.0,2025-07-03 23:00:00,collision,Gharghur,23.9,0.0,3.3,0.0,0.0,True,False,night,23.0,3,7,2025
+587,496840,40.0,male,serious,True,motorcycle,,309.0,2024-11-13 06:00:00,unknown,Naxxar,17.1,0.0,5.7,73.0,2.0,True,False,morning,6.0,13,11,2024
+588,496840,31.0,male,minor,True,motorcycle,,309.0,2024-11-13 06:00:00,unknown,Naxxar,17.1,0.0,5.7,73.0,2.0,True,False,morning,6.0,13,11,2024
+589,496840,29.0,male,none,True,motorcycle,,309.0,2024-11-13 06:00:00,unknown,Naxxar,17.1,0.0,5.7,73.0,2.0,True,False,morning,6.0,13,11,2024
+590,496840,27.0,female,none,True,car,,309.0,2024-11-13 06:00:00,unknown,Naxxar,17.1,0.0,5.7,73.0,2.0,True,False,morning,6.0,13,11,2024
+591,496841,74.0,female,serious,False,,,310.0,2025-06-14 06:00:00,collision,Gzira,23.4,0.0,1.8,0.0,0.0,False,False,morning,6.0,14,6,2025
+592,496841,76.0,male,none,True,car,,310.0,2025-06-14 06:00:00,collision,Gzira,23.4,0.0,1.8,0.0,0.0,False,False,morning,6.0,14,6,2025
+593,496842,40.0,male,serious,True,motorcycle,,311.0,2025-07-24 04:30:00,rollover,San Anard,26.2,0.0,10.2,0.0,0.0,True,False,night,4.5,24,7,2025
+594,496842,33.0,female,serious,True,motorcycle,,311.0,2025-07-24 04:30:00,rollover,San Anard,26.2,0.0,10.2,0.0,0.0,True,False,night,4.5,24,7,2025
+595,496843,63.0,male,serious,True,motorcycle,,312.0,2025-05-02 15:30:00,collision,L-Imgarr,22.1,0.0,9.3,0.0,0.0,True,False,afternoon,15.5,2,5,2025
+596,496843,54.0,male,none,True,car,,312.0,2025-05-02 15:30:00,collision,L-Imgarr,22.1,0.0,9.3,0.0,0.0,True,False,afternoon,15.5,2,5,2025
+597,496844,50.0,male,serious,True,motorcycle,,313.0,2025-01-01 04:00:00,collision,Siggiewi,10.7,0.0,6.1,0.0,0.0,True,True,night,4.0,1,1,2025
+598,496844,55.0,male,none,True,car,,313.0,2025-01-01 04:00:00,collision,Siggiewi,10.7,0.0,6.1,0.0,0.0,True,True,night,4.0,1,1,2025
+599,496845,66.0,male,serious,True,motorcycle,,314.0,2025-02-04 11:30:00,collision,Zejtun,16.3,0.2,4.4,47.0,51.0,True,False,morning,11.5,4,2,2025
+600,496845,56.0,female,serious,False,motorcycle,,314.0,2025-02-04 11:30:00,collision,Zejtun,16.3,0.2,4.4,47.0,51.0,True,False,morning,11.5,4,2,2025
+602,496845,58.0,female,none,True,car,,314.0,2025-02-04 11:30:00,collision,Zejtun,16.3,0.2,4.4,47.0,51.0,True,False,morning,11.5,4,2,2025
+603,496846,78.0,male,serious,False,,,315.0,2025-07-10 06:30:00,collision,Siggiewi,26.8,0.0,11.4,33.0,1.0,True,False,morning,6.5,10,7,2025
+604,496846,24.0,male,none,True,car,,315.0,2025-07-10 06:30:00,collision,Siggiewi,26.8,0.0,11.4,33.0,1.0,True,False,morning,6.5,10,7,2025
+605,496847,24.0,male,serious,True,motorcycle,,316.0,2025-06-20 09:00:00,collision,Gzira,26.3,0.0,2.4,14.0,0.0,True,False,morning,9.0,20,6,2025
+606,496847,35.0,male,minor,True,motorcycle,,316.0,2025-06-20 09:00:00,collision,Gzira,26.3,0.0,2.4,14.0,0.0,True,False,morning,9.0,20,6,2025
+607,496848,41.0,male,serious,True,car,,317.0,2025-01-30 07:00:00,collision,Birzebbuga,13.7,0.0,17.9,25.0,1.0,True,False,morning,7.0,30,1,2025
+608,496848,36.0,female,none,True,car,,317.0,2025-01-30 07:00:00,collision,Birzebbuga,13.7,0.0,17.9,25.0,1.0,True,False,morning,7.0,30,1,2025
+609,496849,65.0,male,serious,True,motorcycle,,318.0,2025-07-24 10:15:00,collision,Mellieha,33.2,0.0,6.8,0.0,0.0,True,False,morning,10.25,24,7,2025
+610,496850,62.0,male,serious,True,motorcycle,,319.0,2025-04-02 15:00:00,collision,Sliema,17.5,0.2,8.2,100.0,51.0,True,False,afternoon,15.0,2,4,2025
+611,496850,54.0,female,none,True,car,,319.0,2025-04-02 15:00:00,collision,Sliema,17.5,0.2,8.2,100.0,51.0,True,False,afternoon,15.0,2,4,2025
+612,496851,68.0,male,serious,False,,,320.0,2025-02-03 19:00:00,collision,Palma,13.2,0.0,11.5,3.0,0.0,True,False,evening,19.0,3,2,2025
+613,496851,44.0,male,none,True,car,,320.0,2025-02-03 19:00:00,collision,Palma,13.2,0.0,11.5,3.0,0.0,True,False,evening,19.0,3,2,2025
+614,496852,21.0,male,serious,True,motorcycle,,321.0,2024-12-14 23:00:00,collision,Marsa,16.9,0.0,18.2,97.0,3.0,False,False,night,23.0,14,12,2024
+615,496852,21.0,female,none,True,car,,321.0,2024-12-14 23:00:00,collision,Marsa,16.9,0.0,18.2,97.0,3.0,False,False,night,23.0,14,12,2024
+616,496852,30.0,male,serious,True,motorcycle,,322.0,2024-12-12 16:00:00,motorcycle_fall,Tal-Barrani,17.7,0.0,20.0,98.0,3.0,True,False,afternoon,16.0,12,12,2024
+617,496853,43.0,,none,True,car,,323.0,2025-05-01 08:00:00,collision,Marsa,20.0,0.0,10.5,0.0,0.0,True,True,morning,8.0,1,5,2025
+618,496853,67.0,,fatal,True,bicycle,,323.0,2025-05-01 08:00:00,collision,Marsa,20.0,0.0,10.5,0.0,0.0,True,True,morning,8.0,1,5,2025
+619,496853,38.0,male,none,True,van,,323.0,2025-05-01 08:00:00,collision,Marsa,20.0,0.0,10.5,0.0,0.0,True,True,morning,8.0,1,5,2025
+723,496853,38.0,,,False,car,,323.0,2025-05-01 08:00:00,collision,Marsa,20.0,0.0,10.5,0.0,0.0,True,True,morning,8.0,1,5,2025
+620,496854,30.0,male,none,True,motorcycle,,324.0,2025-09-20 13:30:00,collision,L-Gharb,25.2,0.0,25.2,2.0,0.0,False,False,afternoon,13.5,20,9,2025
+621,496854,34.0,male,serious,True,,,324.0,2025-09-20 13:30:00,collision,L-Gharb,25.2,0.0,25.2,2.0,0.0,False,False,afternoon,13.5,20,9,2025
+622,496855,60.0,female,serious,False,,,325.0,2024-10-25 13:00:00,collision,Swieqi,22.8,0.3,15.2,100.0,51.0,True,False,afternoon,13.0,25,10,2024
+623,496855,48.0,female,none,True,car,,325.0,2024-10-25 13:00:00,collision,Swieqi,22.8,0.3,15.2,100.0,51.0,True,False,afternoon,13.0,25,10,2024
+624,496856,24.0,female,fatal,False,,,326.0,2024-10-14 16:00:00,collision,Fgura,24.5,0.0,12.0,4.0,0.0,True,False,afternoon,16.0,14,10,2024
+724,496856,20.0,female,none,True,truck,,326.0,2024-10-14 16:00:00,collision,Fgura,24.5,0.0,12.0,4.0,0.0,True,False,afternoon,16.0,14,10,2024
+725,496856,34.0,female,serious,False,,,326.0,2024-10-14 16:00:00,collision,Fgura,24.5,0.0,12.0,4.0,0.0,True,False,afternoon,16.0,14,10,2024
+625,496857,23.0,female,none,True,car,,327.0,2025-05-24 06:00:00,collision,Fgura,19.0,0.0,9.8,8.0,0.0,False,False,morning,6.0,24,5,2025
+626,496857,77.0,male,serious,True,car,,327.0,2025-05-24 06:00:00,collision,Fgura,19.0,0.0,9.8,8.0,0.0,False,False,morning,6.0,24,5,2025
+627,496857,71.0,female,fatal,False,car,,327.0,2025-05-24 06:00:00,collision,Fgura,19.0,0.0,9.8,8.0,0.0,False,False,morning,6.0,24,5,2025
+628,496857,76.0,female,serious,False,car,,327.0,2025-05-24 06:00:00,collision,Fgura,19.0,0.0,9.8,8.0,0.0,False,False,morning,6.0,24,5,2025
+629,496858,5.0,male,serious,False,,,328.0,2025-05-26 15:00:00,collision,,19.9,0.0,18.3,0.0,0.0,True,False,afternoon,15.0,26,5,2025
+630,496858,22.0,male,none,True,car,,328.0,2025-05-26 15:00:00,collision,,19.9,0.0,18.3,0.0,0.0,True,False,afternoon,15.0,26,5,2025
+631,496859,47.0,male,serious,True,motorcycle,,329.0,2025-10-02 05:30:00,collision,L-Imgarr,21.8,0.0,27.7,52.0,2.0,True,False,morning,5.5,2,10,2025
+632,496859,53.0,female,none,True,car,,329.0,2025-10-02 05:30:00,collision,L-Imgarr,21.8,0.0,27.7,52.0,2.0,True,False,morning,5.5,2,10,2025
+633,496860,63.0,male,serious,False,,,330.0,2024-10-26 14:00:00,collision,Zurrieq,23.4,0.0,23.8,100.0,3.0,False,False,afternoon,14.0,26,10,2024
+634,496860,19.0,male,none,True,car,,330.0,2024-10-26 14:00:00,collision,Zurrieq,23.4,0.0,23.8,100.0,3.0,False,False,afternoon,14.0,26,10,2024
+635,496861,50.0,female,serious,True,car,,331.0,2024-12-27 01:00:00,collision,Mellieha,12.5,0.0,20.2,57.0,2.0,True,False,night,1.0,27,12,2024
+636,496861,23.0,male,serious,True,motorcycle,,332.0,2024-11-19 07:00:00,collision,Hamrun,19.0,0.0,13.7,7.0,0.0,True,False,morning,7.0,19,11,2024
+637,496861,29.0,male,minor,False,car,,331.0,2024-12-27 01:00:00,collision,Mellieha,12.5,0.0,20.2,57.0,2.0,True,False,night,1.0,27,12,2024
+638,496862,26.0,male,serious,True,motorcycle,,333.0,2025-01-24 08:00:00,motorcycle_fall,Floriana,15.1,0.0,13.5,0.0,0.0,True,False,morning,8.0,24,1,2025
+639,496863,17.0,female,serious,False,,,334.0,2024-10-01 22:00:00,collision,Qormi,21.4,0.0,8.9,2.0,0.0,True,False,night,22.0,1,10,2024
+640,496863,52.0,male,none,True,car,,334.0,2024-10-01 22:00:00,collision,Qormi,21.4,0.0,8.9,2.0,0.0,True,False,night,22.0,1,10,2024
+641,496864,59.0,male,none,True,van,,335.0,2025-09-28 10:00:00,collision,Ghar,24.3,0.0,14.8,10.0,0.0,False,False,morning,10.0,28,9,2025
+726,496864,36.0,male,serious,False,,,335.0,2025-09-28 10:00:00,collision,Ghar,24.3,0.0,14.8,10.0,0.0,False,False,morning,10.0,28,9,2025
+642,496865,34.0,female,none,True,car,,336.0,2025-08-05 10:00:00,collision,Ta' Lawrenti,26.2,0.0,10.7,97.0,3.0,True,False,morning,10.0,5,8,2025
+643,496865,38.0,male,none,True,car,,336.0,2025-08-05 10:00:00,collision,Ta' Lawrenti,26.2,0.0,10.7,97.0,3.0,True,False,morning,10.0,5,8,2025
+644,496866,36.0,female,none,True,motorcycle,,337.0,2025-10-04 00:00:00,collision,St Paul's Bay,19.3,0.0,26.1,100.0,3.0,False,False,,,4,10,2025
+645,496866,71.0,male,none,True,car,,337.0,2025-10-04 00:00:00,collision,St Paul's Bay,19.3,0.0,26.1,100.0,3.0,False,False,,,4,10,2025
+646,496867,57.0,male,serious,True,motorcycle,,338.0,2025-08-22 05:30:00,collision,Birkirkara,25.3,0.0,13.1,0.0,0.0,True,False,morning,5.5,22,8,2025
+647,496867,25.0,female,none,False,car,,338.0,2025-08-22 05:30:00,collision,Birkirkara,25.3,0.0,13.1,0.0,0.0,True,False,morning,5.5,22,8,2025
+648,496867,,male,none,True,car,,338.0,2025-08-22 05:30:00,collision,Birkirkara,25.3,0.0,13.1,0.0,0.0,True,False,morning,5.5,22,8,2025
+649,496868,31.0,male,serious,True,motorcycle,,339.0,2025-03-02 10:00:00,collision,Birkirkara,17.5,0.0,24.1,99.0,3.0,False,False,morning,10.0,2,3,2025
+650,496868,19.0,female,none,True,car,,339.0,2025-03-02 10:00:00,collision,Birkirkara,17.5,0.0,24.1,99.0,3.0,False,False,morning,10.0,2,3,2025
+651,496869,74.0,male,minor,True,car,,340.0,2025-05-02 17:00:00,collision,Xaghra,17.6,0.0,12.1,0.0,0.0,True,False,evening,17.0,2,5,2025
+652,496869,73.0,female,serious,False,car,,340.0,2025-05-02 17:00:00,collision,Xaghra,17.6,0.0,12.1,0.0,0.0,True,False,evening,17.0,2,5,2025
+727,496869,33.0,,minor,True,car,,340.0,2025-05-02 17:00:00,collision,Xaghra,17.6,0.0,12.1,0.0,0.0,True,False,evening,17.0,2,5,2025
+653,496870,35.0,male,serious,True,motorcycle,,341.0,2025-05-29 04:00:00,collision,Marsaxlokk,18.9,0.0,18.8,27.0,1.0,True,False,night,4.0,29,5,2025
+654,496870,30.0,male,none,True,van,,341.0,2025-05-29 04:00:00,collision,Marsaxlokk,18.9,0.0,18.8,27.0,1.0,True,False,night,4.0,29,5,2025
+655,496871,87.0,female,serious,False,,,342.0,2025-08-31 07:30:00,collision,Qormi,26.8,0.0,14.5,0.0,0.0,False,False,morning,7.5,31,8,2025
+656,496871,68.0,male,none,True,truck,,342.0,2025-08-31 07:30:00,collision,Qormi,26.8,0.0,14.5,0.0,0.0,False,False,morning,7.5,31,8,2025
+657,496872,25.0,male,none,True,van,,343.0,2024-11-12 12:00:00,motorcycle_fall,Rabat,17.4,0.2,24.0,98.0,51.0,True,False,afternoon,12.0,12,11,2024
+658,496872,36.0,,none,False,van,,343.0,2024-11-12 12:00:00,motorcycle_fall,Rabat,17.4,0.2,24.0,98.0,51.0,True,False,afternoon,12.0,12,11,2024
+659,496873,54.0,male,fatal,True,motorcycle,,344.0,2024-10-01 04:00:00,collision,Mellieha,19.6,0.0,6.4,0.0,0.0,True,False,night,4.0,1,10,2024
+660,496874,25.0,female,minor,True,van,,345.0,2025-02-03 14:00:00,collision,Zurrieq,14.4,0.1,13.8,13.0,51.0,True,False,afternoon,14.0,3,2,2025
+661,496874,,,serious,True,car,,345.0,2025-02-03 14:00:00,collision,Zurrieq,14.4,0.1,13.8,13.0,51.0,True,False,afternoon,14.0,3,2,2025
+728,496874,,,serious,False,car,,345.0,2025-02-03 14:00:00,collision,Zurrieq,14.4,0.1,13.8,13.0,51.0,True,False,afternoon,14.0,3,2,2025
+662,496875,35.0,male,none,True,car,,346.0,2025-03-10 16:00:00,collision,Marsaxlokk,19.4,0.0,21.5,0.0,0.0,True,False,afternoon,16.0,10,3,2025
+663,496875,28.0,male,serious,False,car,,346.0,2025-03-10 16:00:00,collision,Marsaxlokk,19.4,0.0,21.5,0.0,0.0,True,False,afternoon,16.0,10,3,2025
+664,496876,28.0,male,serious,True,motorcycle,,347.0,2025-06-10 18:00:00,collision,Attard,26.0,0.0,9.7,0.0,0.0,True,False,evening,18.0,10,6,2025
+665,496876,32.0,,none,True,car,,347.0,2025-06-10 18:00:00,collision,Attard,26.0,0.0,9.7,0.0,0.0,True,False,evening,18.0,10,6,2025
+666,496877,51.0,male,serious,True,motorcycle,,348.0,2025-01-22 18:00:00,collision,Sliema,14.8,0.0,8.0,73.0,2.0,True,False,evening,18.0,22,1,2025
+667,496877,47.0,male,none,True,car,,348.0,2025-01-22 18:00:00,collision,Sliema,14.8,0.0,8.0,73.0,2.0,True,False,evening,18.0,22,1,2025
+668,496878,57.0,female,serious,False,,,349.0,2025-06-19 13:15:00,collision,Floriana,28.5,0.0,6.1,33.0,1.0,True,False,afternoon,13.25,19,6,2025
+669,496878,52.0,male,none,True,car,,349.0,2025-06-19 13:15:00,collision,Floriana,28.5,0.0,6.1,33.0,1.0,True,False,afternoon,13.25,19,6,2025
+670,496879,52.0,male,serious,True,motorcycle,,350.0,2024-12-29 12:00:00,motorcycle_fall,Haz-Zebbug,15.4,0.1,9.0,49.0,51.0,False,False,afternoon,12.0,29,12,2024
+671,496880,78.0,female,serious,True,car,,351.0,2024-11-05 11:00:00,collision,Naxxar,22.9,0.0,2.7,13.0,0.0,True,False,morning,11.0,5,11,2024
+672,496881,64.0,female,serious,False,,,352.0,2025-02-10 16:00:00,collision,Zebbug,13.3,0.0,40.4,70.0,2.0,True,True,afternoon,16.0,10,2,2025
+673,496881,68.0,male,minor,False,,,352.0,2025-02-10 16:00:00,collision,Zebbug,13.3,0.0,40.4,70.0,2.0,True,True,afternoon,16.0,10,2,2025
+674,496881,59.0,male,none,True,car,,352.0,2025-02-10 16:00:00,collision,Zebbug,13.3,0.0,40.4,70.0,2.0,True,True,afternoon,16.0,10,2,2025
+675,496882,17.0,male,serious,True,motorcycle,,353.0,2025-07-17 22:15:00,collision,Wied,25.5,0.0,15.6,0.0,0.0,True,False,night,22.25,17,7,2025
+676,496882,41.0,male,none,True,car,,353.0,2025-07-17 22:15:00,collision,Wied,25.5,0.0,15.6,0.0,0.0,True,False,night,22.25,17,7,2025
+677,496883,62.0,male,serious,True,car,,354.0,2025-07-13 20:00:00,collision,Gwardamanga,26.1,0.0,10.1,0.0,0.0,False,False,evening,20.0,13,7,2025
+678,496883,41.0,female,serious,False,,,354.0,2025-07-13 20:00:00,collision,Gwardamanga,26.1,0.0,10.1,0.0,0.0,False,False,evening,20.0,13,7,2025
