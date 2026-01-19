@@ -142,7 +142,7 @@ person_id,article_id,age,age_span,gender,gender_span,severity,severity_span,is_d
 139,2157,32,"(45, 50)",male,"(50, 51)",none,,TRUE,"(40, 50)",truck,"(40, 50)",,
 140,2080,87,"(1, 6)",female,"(54, 55)",serious,"(56, 57)",FALSE,,,,,
 142,2080,30,"(38, 43)",male,"(43, 44)",none,,TRUE,"(35, 36)",car,"(16,17)",,
-143,2101,48,"(1, 6)",male,"(284, 285)",none,,TRUE,"(291, 292)","11,600 and his driving licence was suspended for","(291, 292)",,
+143,2101,48,"(1, 6)",male,"(284, 285)",none,,TRUE,"(291, 292)",car,"(140, 141)",,
 144,2101,45,"(47, 50)",female,"(257, 258)",fatal,"(16, 17)",FALSE,,,,,
 146,1989,31,"(31, 36)",,,serious,"(3, 4)",TRUE,"(1, 2)",motorcycle,"(1, 2)",,
 147,1989,19,"(65, 70)",female,"(70, 71)",none,,TRUE,"(54, 70)",car,"(54, 70)",,
@@ -154,7 +154,7 @@ person_id,article_id,age,age_span,gender,gender_span,severity,severity_span,is_d
 693,1856,79,"(92,93)",,,minor,"(99, 100)",FALSE,,bus,"(57, 68)",,
 151,1856,81,"(104, 109)",male,"(157, 158)",minor,"(160, 161)",TRUE,"(113, 115)",car,"(113, 115)",,
 152,1856,80,"(126, 131)",female,"(146, 147)",serious,"(153, 154)",FALSE,,car,"(113, 115)",,
-153,1860,41,"(1, 6)",male,"(46, 47)",serious,"(10, 11)",TRUE,"(42, 46)",cars - a Smart driven by the man and,"(42, 46)",,
+153,1860,41,"(1, 6)",male,"(46, 47)",serious,"(10, 11)",TRUE,"(42, 46)",car,"(42, 46)",,
 154,1860,36,"(54, 59)",female,"(59, 60)",none,,TRUE,"(49, 59)",car,"(49, 59)",,
 155,1808,36,"(51, 56)",male,"(108, 109)",serious,"(115, 116)",TRUE,"(56, 60)",motorcycle,"(56, 60)",,
 156,1808,52,"(90, 95)",male,"(95, 96)",none,,TRUE,"(85, 95)",van,"(85, 95)",,
@@ -315,7 +315,7 @@ person_id,article_id,age,age_span,gender,gender_span,severity,severity_span,is_d
 318,490073,42,"(45, 50)",,,fatal,"(42, 43)",TRUE,"(50, 51)",motorcycle,"(50, 51)",,
 319,490073,18,"(109, 114)",female,"(114, 115)",none,,FALSE,,,,,
 320,489993,33,"(29, 34)",male,"(51, 52)",serious,"(4, 5)",FALSE,,,,,
-321,490183,23,"(147, 152)",male,"(531, 532)",none,,TRUE,"(226, 231)","CCTV cameras, explaining that the accused drove around Fort St Elmo","(226, 231)",drunk,"(93, 96)"
+321,490183,23,"(147, 152)",male,"(531, 532)",none,,TRUE,"(226, 231)",car,"(242, 244)",drunk,"(93, 96)"
 322,490183,62,"(112, 115)",female,"(362, 363)",serious,"(366, 367)",FALSE,,,,,
 323,490165,,,male,"(58, 59)",none,,FALSE,,,,,
 324,490165,,,,,none,,TRUE,"(61, 62)",car,"(37,38)",,
